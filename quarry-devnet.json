@@ -2,25 +2,57 @@
   "name": "Quarry Token List (devnet)",
   "logoURI": "https://raw.githubusercontent.com/QuarryProtocol/rewarder-list/master/icon.png",
   "tags": {
-    "saber-stableswap-lp": {
-      "name": "saber-stableswap-lp",
-      "description": "Saber StableSwap LP token."
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     },
-    "saber-mkt-btc": {
-      "name": "saber-mkt-btc",
-      "description": "Token which trades against other representations of BTC."
+    "security-token": {
+      "name": "security-token",
+      "description": "Tokens that are used to gain access to an electronically restricted resource"
     },
-    "saber-dec-wrapped": {
-      "name": "saber-dec-wrapped",
-      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
+    "saber-mkt-sol": {
+      "name": "saber-mkt-sol",
+      "description": "Token which trades against other representations of SOL."
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "saber-mkt-ftt": {
+      "name": "saber-mkt-ftt",
+      "description": "Token which trades against other representations of FTT."
+    },
+    "saber-mkt-luna": {
+      "name": "saber-mkt-luna",
+      "description": "Token which trades against other representations of LUNA."
+    },
+    "saber-mkt-eur": {
+      "name": "saber-mkt-eur",
+      "description": "Token which trades against other representations of EUR."
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "saber-mkt-srm": {
+      "name": "saber-mkt-srm",
+      "description": "Token which trades against other representations of SRM."
     },
     "saber-mkt-usd": {
       "name": "saber-mkt-usd",
       "description": "Token which trades against other representations of USD."
     },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
+    "tokenized-stock": {
+      "name": "tokenized-stock",
+      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
     },
     "wrapped-sollet": {
       "name": "wrapped-sollet",
@@ -30,53 +62,17 @@
       "name": "saber-mkt-try",
       "description": "Token which trades against other representations of TRY."
     },
-    "security-token": {
-      "name": "security-token",
-      "description": "Tokens that are used to gain access to an electronically restricted resource"
-    },
-    "saber-mkt-srm": {
-      "name": "saber-mkt-srm",
-      "description": "Token which trades against other representations of SRM."
-    },
-    "saber-mkt-sol": {
-      "name": "saber-mkt-sol",
-      "description": "Token which trades against other representations of SOL."
-    },
-    "saber-mkt-eth": {
-      "name": "saber-mkt-eth",
-      "description": "Token which trades against other representations of ETH."
-    },
-    "saber-mkt-luna": {
-      "name": "saber-mkt-luna",
-      "description": "Token which trades against other representations of LUNA."
-    },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
-    "saber-mkt-eur": {
-      "name": "saber-mkt-eur",
-      "description": "Token which trades against other representations of EUR."
-    },
-    "saber-mkt-ftt": {
-      "name": "saber-mkt-ftt",
-      "description": "Token which trades against other representations of FTT."
-    },
     "saber-hidden": {
       "name": "saber-hidden",
       "description": "Hidden from main Saber UI."
     },
-    "stablecoin": {
-      "name": "stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "nft": {
+      "name": "nft",
+      "description": "Non-fungible token"
     },
-    "ethereum": {
-      "name": "ethereum",
-      "description": "Asset bridged from ethereum"
-    },
-    "tokenized-stock": {
-      "name": "tokenized-stock",
-      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    "saber-stableswap-lp": {
+      "name": "saber-stableswap-lp",
+      "description": "Saber StableSwap LP token."
     },
     "wormhole-v1": {
       "name": "wormhole-v1",
@@ -86,25 +82,29 @@
       "name": "wormhole-v2",
       "description": "Wormhole V2 asset."
     },
-    "bull": {
-      "name": "bull",
-      "description": "Leveraged Bull asset"
-    },
-    "nft": {
-      "name": "nft",
-      "description": "Non-fungible token"
-    },
     "bear": {
       "name": "bear",
       "description": "Leveraged Bear asset"
     },
-    "utility-token": {
-      "name": "utility-token",
-      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
     },
-    "wrapped": {
-      "name": "wrapped",
-      "description": "Asset wrapped using wormhole bridge"
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "saber-dec-wrapped": {
+      "name": "saber-dec-wrapped",
+      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
+    },
+    "saber-mkt-btc": {
+      "name": "saber-mkt-btc",
+      "description": "Token which trades against other representations of BTC."
+    },
+    "saber-mkt-eth": {
+      "name": "saber-mkt-eth",
+      "description": "Token which trades against other representations of ETH."
     }
   },
   "timestamp": "2022-02-05T08:12:19.303Z",
@@ -16430,8 +16430,8 @@
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "coingeckoId": "usd-coin",
         "source": "cashio",
-        "currency": "USD",
-        "sourceUrl": "https://cashio.app/#/print"
+        "sourceUrl": "https://cashio.app/#/print",
+        "currency": "USD"
       }
     },
     {
