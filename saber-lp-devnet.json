@@ -1,0 +1,206 @@
+{
+  "name": "Saber LP Token List (devnet)",
+  "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
+  "tags": {},
+  "timestamp": "2022-02-05T00:06:50.991Z",
+  "tokens": [
+    {
+      "name": "Saber USDC-CASH LP",
+      "symbol": "USDC-CASH",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ/icon.png",
+      "decimals": 6,
+      "address": "DALfPHRc2eKmnsEDs8fkHKNA37FwVSD6AbrLZXn1oTtJ",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_cash",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "source": "saber",
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ]
+      }
+    },
+    {
+      "name": "Saber TEST-USDC LP",
+      "symbol": "TEST-USDC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo/icon.png",
+      "decimals": 6,
+      "address": "E2XcZ3WR9Qt19JLNjCEWkbtfJiYhWbpTbw3wZbmj2AQo",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_test",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "source": "saber",
+        "underlyingTokens": [
+          "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
+        ]
+      }
+    },
+    {
+      "name": "Saber USDC-PAI LP",
+      "symbol": "USDC-PAI",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J/icon.png",
+      "decimals": 6,
+      "address": "J8fDLz5bfef14jDNC32nJLbVzpS9Rj1LBHwaSGfYn83J",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_pai",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber USDT-CASH LP",
+      "symbol": "USDT-CASH",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4/icon.png",
+      "decimals": 6,
+      "address": "JEETZ6QBjvtu8UYYwGWrfLiLj6hjaW4YyErxZ1NC3Fk4",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdt_cash",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "underlyingTokens": [
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber USDC-USDT LP",
+      "symbol": "USDC-USDT",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57/icon.png",
+      "decimals": 6,
+      "address": "YakofBo4X3zMxa823THQJwZ8QeoU8pxPdFdxJs7JW57",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/usdc_usdt",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "underlyingTokens": [
+          "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
+          "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber renBTC-WBTC LP",
+      "symbol": "renBTC-WBTC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm/icon.png",
+      "decimals": 8,
+      "address": "bLpASoWNdsz5DsjCaxpbM2FrkMowTJCydpwiDP4Vdzm",
+      "chainId": 103,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/btc",
+        "bridgeContract": null,
+        "assetContract": null,
+        "explorer": null,
+        "twitter": null,
+        "github": null,
+        "medium": null,
+        "tgann": null,
+        "tggroup": null,
+        "discord": null,
+        "serumV3Usdt": null,
+        "serumV3Usdc": null,
+        "coingeckoId": null,
+        "imageUrl": null,
+        "description": null,
+        "underlyingTokens": [
+          "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
+          "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
+        ],
+        "source": "saber"
+      }
+    }
+  ]
+}
