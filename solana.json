@@ -6,37 +6,41 @@
       "name": "tokenized-stock",
       "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
     },
-    "bull": {
-      "name": "bull",
-      "description": "Leveraged Bull asset"
-    },
-    "security-token": {
-      "name": "security-token",
-      "description": "Tokens that are used to gain access to an electronically restricted resource"
-    },
-    "nft": {
-      "name": "nft",
-      "description": "Non-fungible token"
-    },
-    "bear": {
-      "name": "bear",
-      "description": "Leveraged Bear asset"
-    },
-    "ethereum": {
-      "name": "ethereum",
-      "description": "Asset bridged from ethereum"
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
     },
     "utility-token": {
       "name": "utility-token",
       "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
+    "security-token": {
+      "name": "security-token",
+      "description": "Tokens that are used to gain access to an electronically restricted resource"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
     },
     "wrapped-sollet": {
       "name": "wrapped-sollet",
       "description": "Asset wrapped using sollet bridge"
+    },
+    "nft": {
+      "name": "nft",
+      "description": "Non-fungible token"
     },
     "wrapped": {
       "name": "wrapped",
@@ -45,10 +49,6 @@
     "stablecoin": {
       "name": "stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
     }
   },
   "timestamp": "2021-03-03T19:57:21Z",
@@ -136,10 +136,10 @@
         "discord": "https://discord.gg/monkeyball",
         "coingeckoId": "monkeyball",
         "description": "MonkeyBall is the next-gen esports metaverse empowering players to create, play, compete, and earn.",
-        "facebook": "https://facebook.com/monkeyballgames",
-        "instagram": "https://www.instagram.com/monkeyball_game",
         "reddit": "https://www.reddit.com/r/MonkeyBallGame",
-        "telegram": "https://t.me/monkeyball_official"
+        "telegram": "https://t.me/monkeyball_official",
+        "facebook": "https://facebook.com/monkeyballgames",
+        "instagram": "https://www.instagram.com/monkeyball_game"
       }
     },
     {
@@ -934,9 +934,9 @@
         "medium": "https://komondorok.medium.com/",
         "discord": "https://discord.gg/yMVPDuZKeq",
         "description": "KOMO is a community token, Dex, and Dapps on Solana.",
-        "instagram": "https://instagram.com/komondor.so",
+        "facebook": "https://web.facebook.com/komondor.so",
         "telegram": "https://t.me/komondor_ann",
-        "facebook": "https://web.facebook.com/komondor.so"
+        "instagram": "https://instagram.com/komondor.so"
       }
     },
     {
@@ -2070,10 +2070,10 @@
         "twitter": "https://twitter.com/CoinVersus",
         "github": "https://github.com/CoinVs",
         "discord": "https://discord.gg/F84VmCtByV",
-        "facebook": "https://www.facebook.com/coinversusofficial",
-        "reddit": "https://www.reddit.com/r/coinversus/",
         "instagram": "https://www.instagram.com/coinversus/",
-        "telegram": "https://t.me/coinvs"
+        "telegram": "https://t.me/coinvs",
+        "facebook": "https://www.facebook.com/coinversusofficial",
+        "reddit": "https://www.reddit.com/r/coinversus/"
       }
     },
     {
@@ -7348,8 +7348,8 @@
         "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
         "assetContract": "https://bscscan.com/address/0x71845240485c5339b3192a820f5fa152c093d93a",
         "twitter": "https://twitter.com/tumicommunity",
-        "address": "0x71845240485c5339b3192a820f5fa152c093d93a",
-        "telegram": "https://t.me/cointumi"
+        "telegram": "https://t.me/cointumi",
+        "address": "0x71845240485c5339b3192a820f5fa152c093d93a"
       }
     },
     {
@@ -9837,8 +9837,8 @@
         "website": "https://sollock.org/",
         "twitter": "https://twitter.com/SOLLockOfficial",
         "github": "https://github.com/SOLLock",
-        "telegramAnnouncements": "https://t.me/SOLLockAnn",
-        "telegram": "https://t.me/SOLLock"
+        "telegram": "https://t.me/SOLLock",
+        "telegramAnnouncements": "https://t.me/SOLLockAnn"
       }
     },
     {
@@ -11059,8 +11059,8 @@
         "assetContract": "https://etherscan.io/address/0xb0dfd28d3cf7a5897c694904ace292539242f858",
         "serumV3Usdc": "9MZKfgZzPgeidAukYpHtsLYm4eAdJFnR7nhPosWT8jiv",
         "coingeckoId": "lotto",
-        "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858",
-        "telegram": "https://t.me/lottofinance"
+        "telegram": "https://t.me/lottofinance",
+        "address": "0xb0dfd28d3cf7a5897c694904ace292539242f858"
       }
     },
     {
@@ -14393,8 +14393,8 @@
         "twitter": "https://twitter.com/sol_hamster",
         "coingeckoId": "space-hamster",
         "coinmarketcap": "https://coinmarketcap.com/currencies/space-hamster/",
-        "telegram": "https://t.me/SolHamster",
-        "dexWebsite": "https://dex-solhamster.space/"
+        "dexWebsite": "https://dex-solhamster.space/",
+        "telegram": "https://t.me/SolHamster"
       }
     },
     {
@@ -14480,9 +14480,9 @@
         "twitter": "https://twitter.com/provaexistencia",
         "github": "https://github.com/provadeexistencia",
         "telegram": "https://t.me/provadeexistenciagrupo",
+        "facebook": "https://facebook.com/provadeexistencia",
         "instagram": "https://instagram.com/provadeexistencia",
-        "telegramAnnouncements": "https://t.me/provadeexistencia",
-        "facebook": "https://facebook.com/provadeexistencia"
+        "telegramAnnouncements": "https://t.me/provadeexistencia"
       }
     },
     {
@@ -14898,8 +14898,8 @@
         "twitter": "https://twitter.com/coinmeca",
         "medium": "https://coinmeca.medium.com/",
         "discord": "https://discord.gg/coinmeca",
-        "telegram": "https://t.me/coinmeca",
-        "reddit": "https://reddit.com/r/coinmeca"
+        "reddit": "https://reddit.com/r/coinmeca",
+        "telegram": "https://t.me/coinmeca"
       }
     },
     {
@@ -15314,8 +15314,8 @@
       "extensions": {
         "website": "https://www.iotworlds.com",
         "twitter": "https://twitter.com/iotworlds",
-        "linkedin": "https://www.linkedin.com/company/iotworlds",
         "facebook": "https://facebook.com/iotworlds",
+        "linkedin": "https://www.linkedin.com/company/iotworlds",
         "instagram": "https://instagram.com/iotworlds"
       }
     },
@@ -15451,8 +15451,8 @@
         "website": "https://myopa.io/",
         "twitter": "https://twitter.com/myopanft",
         "discord": "https://discord.gg/myopa",
-        "telegram": "https://t.me/myopanft",
-        "facebook": "https://www.facebook.com/MyopaNFT/"
+        "facebook": "https://www.facebook.com/MyopaNFT/",
+        "telegram": "https://t.me/myopanft"
       }
     },
     {
@@ -16252,8 +16252,8 @@
         "medium": "https://upfinetwork.medium.com",
         "discord": "https://discord.gg/nHMDdyAggx",
         "serumV3Usdc": "DByPstQRx18RU2A8DH6S9mT7bpT6xuLgD2TTFiZJTKZP",
-        "telegram": "https://t.me/upfinetworkchannel",
-        "facebook": "https://www.facebook.com/UPFInetwork"
+        "facebook": "https://www.facebook.com/UPFInetwork",
+        "telegram": "https://t.me/upfinetworkchannel"
       }
     },
     {
@@ -16427,8 +16427,8 @@
         "medium": "https://upfinetwork.medium.com",
         "discord": "https://discord.gg/nHMDdyAggx",
         "serumV3Usdc": "SyQ4KyF5Y1MPPkkf9LGNA6JpkVmis53HrpPvJ1ZUFwK",
-        "telegram": "https://t.me/upfinetworkchannel",
-        "facebook": "https://www.facebook.com/UPFInetwork"
+        "facebook": "https://www.facebook.com/UPFInetwork",
+        "telegram": "https://t.me/upfinetworkchannel"
       }
     },
     {
@@ -16531,11 +16531,11 @@
         "twitter": "https://twitter.com/Million__Token",
         "discord": "http://app.milliontoken.org/discord",
         "coingeckoId": "million",
-        "facebook": "https://facebook.com/groups/milliontoken",
+        "instagram": "https://instagram.com/milliontokenofficial",
         "reddit": "https://www.reddit.com/r/milliontoken/",
+        "facebook": "https://facebook.com/groups/milliontoken",
         "telegram": "https://t.me/millionjacuzzibar",
-        "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
-        "instagram": "https://instagram.com/milliontokenofficial"
+        "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611"
       }
     },
     {
@@ -16621,9 +16621,9 @@
         "twitter": "https://twitter.com/Scallop_io",
         "medium": "https://scallopio.medium.com/",
         "discord": "https://discord.gg/Scallop",
-        "instagram": "https://www.instagram.com/scallop.io",
+        "facebook": "https://www.facebook.com/Scallop.io",
         "telegram": "https://t.me/scallop_io",
-        "facebook": "https://www.facebook.com/Scallop.io"
+        "instagram": "https://www.instagram.com/scallop.io"
       }
     },
     {
@@ -16818,8 +16818,8 @@
         "discord": "https://discord.gg/6ndxB4vS56",
         "serumV3Usdc": "Hq2tZzrdNrMtDsdXeCf9CrN3aS3geJTEqtLRPyiYRZc",
         "coingeckoId": "balisari",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/balisari/",
-        "telegram": "https://t.me/balisaritrans"
+        "telegram": "https://t.me/balisaritrans",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/balisari/"
       }
     },
     {
@@ -17476,8 +17476,8 @@
         "website": "https://www.museinc.studio",
         "twitter": "https://twitter.com/_museinc",
         "discord": "https://discord.gg/jeN7dhes9V",
-        "telegram": "https://t.me/kauritoken",
-        "instagram": "https://www.instagram.com/_museinc/"
+        "instagram": "https://www.instagram.com/_museinc/",
+        "telegram": "https://t.me/kauritoken"
       }
     },
     {
@@ -18881,8 +18881,8 @@
       "chainId": 101,
       "extensions": {
         "website": "https://www.elpalito.de/",
-        "facebook": "https://www.facebook.com/elpalitostuttgart",
-        "instagram": "https://www.instagram.com/elpalito.de"
+        "instagram": "https://www.instagram.com/elpalito.de",
+        "facebook": "https://www.facebook.com/elpalitostuttgart"
       }
     },
     {
@@ -18938,13 +18938,13 @@
         "twitter": "https://twitter.com/realdogelana",
         "discord": "https://discord.gg/UNjbTguY5x",
         "coingeckoId": "dogelana",
-        "blog": "https://dogelana.com/blog",
         "coinmarketcap": "https://coinmarketcap.com/currencies/dogelana/",
-        "reddit": "https://www.reddit.com/r/dogelana",
-        "telegram": "https://t.me/realdogelana",
+        "facebook": "https://facebook.com/dogelana",
         "instagram": "https://www.instagram.com/realdogelana/",
+        "telegram": "https://t.me/realdogelana",
         "youtube": "https://www.youtube.com/channel/UCkUS4exbXFaEVx5wBypMKaQ",
-        "facebook": "https://facebook.com/dogelana"
+        "reddit": "https://www.reddit.com/r/dogelana",
+        "blog": "https://dogelana.com/blog"
       }
     },
     {
@@ -19427,8 +19427,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vault": "https://fraktion.art/vault/5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT",
-        "vaultPubkey": "5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT"
+        "vaultPubkey": "5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT",
+        "vault": "https://fraktion.art/vault/5oDXsghEWBitmjGuy8w3MPnkGjZkNc5pjFv3wf9pg1QT"
       }
     },
     {
@@ -19442,8 +19442,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vault": "https://fraktion.art/vault/7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY",
-        "vaultPubkey": "7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY"
+        "vaultPubkey": "7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY",
+        "vault": "https://fraktion.art/vault/7D66e5MgEGN2BzYzogwtFNq6QNPqiFvKwD7Zx3fUytiY"
       }
     },
     {
@@ -19457,8 +19457,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vault": "https://fraktion.art/vault/6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH",
-        "vaultPubkey": "6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH"
+        "vaultPubkey": "6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH",
+        "vault": "https://fraktion.art/vault/6aVbY5fLCg5SqfLzZjp3Jo5BdTWBzS1ZuWfEiSuMTTFH"
       }
     },
     {
@@ -19472,8 +19472,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vaultPubkey": "7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo",
-        "vault": "https://fraktion.art/vault/7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo"
+        "vault": "https://fraktion.art/vault/7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo",
+        "vaultPubkey": "7uXCgfBQzL43hehzFhh8tBFTEggrcZJDfQRoRpgXNAeo"
       }
     },
     {
@@ -20013,8 +20013,8 @@
         "twitter": "https://twitter.com/farmcarbonmore",
         "github": "https://github.com/CarbonFarm",
         "medium": "https://carbonfarm.medium.com/",
-        "reddit": "https://www.reddit.com/user/CarbonFarm",
-        "telegram": "https://t.me/carbonfarm"
+        "telegram": "https://t.me/carbonfarm",
+        "reddit": "https://www.reddit.com/user/CarbonFarm"
       }
     },
     {
@@ -20033,8 +20033,8 @@
         "twitter": "https://twitter.com/farmcarbonmore",
         "github": "https://github.com/CarbonFarm",
         "medium": "https://medium.com/@CarbonFarm",
-        "telegram": "https://t.me/carbonfarm",
-        "reddit": "https://www.reddit.com/user/CarbonFarm"
+        "reddit": "https://www.reddit.com/user/CarbonFarm",
+        "telegram": "https://t.me/carbonfarm"
       }
     },
     {
@@ -20053,8 +20053,8 @@
         "twitter": "https://twitter.com/farmcarbonmore",
         "github": "https://github.com/CarbonFarm",
         "medium": "https://medium.com/@CarbonFarm",
-        "telegram": "https://t.me/carbonfarm",
-        "reddit": "https://www.reddit.com/user/CarbonFarm"
+        "reddit": "https://www.reddit.com/user/CarbonFarm",
+        "telegram": "https://t.me/carbonfarm"
       }
     },
     {
@@ -20073,8 +20073,8 @@
         "twitter": "https://twitter.com/farmcarbonmore",
         "github": "https://github.com/CarbonFarm",
         "medium": "https://medium.com/@CarbonFarm",
-        "telegram": "https://t.me/carbonfarm",
-        "reddit": "https://www.reddit.com/user/CarbonFarm"
+        "reddit": "https://www.reddit.com/user/CarbonFarm",
+        "telegram": "https://t.me/carbonfarm"
       }
     },
     {
@@ -20299,9 +20299,9 @@
       "extensions": {
         "website": "https://holona.net",
         "twitter": "https://twitter.com/HolonaNetwork",
-        "youtube": "https://youtube.com/channel/UCSTEasbK8OSsvOk2NR6RmCQ",
         "reddit": "https://www.reddit.com/u/HolonaNetwork",
-        "telegram": "https://t.me/joinchat/UFpWIQwYE-kwYzA0"
+        "telegram": "https://t.me/joinchat/UFpWIQwYE-kwYzA0",
+        "youtube": "https://youtube.com/channel/UCSTEasbK8OSsvOk2NR6RmCQ"
       }
     },
     {
@@ -20357,8 +20357,8 @@
       "extensions": {
         "website": "https://novisium.com",
         "twitter": "https://twitter.com/novisium_",
-        "telegram": "https://t.me/novisiumofficial",
-        "instagram": "https://www.instagram.com/novisium_"
+        "instagram": "https://www.instagram.com/novisium_",
+        "telegram": "https://t.me/novisiumofficial"
       }
     },
     {
@@ -20461,11 +20461,11 @@
       "extensions": {
         "website": "https://www.greengoldcoin.com",
         "twitter": "https://twitter.com/GreenGoldCoins",
-        "youtube": "https://www.youtube.com/channel/UCtUgroJeJEWx6VUuV_2ooPQ",
         "linkedin": "https://www.linkedin.com/company/40953073",
+        "facebook": "https://www.facebook.com/GreenGoldCoin/",
         "instagram": "https://www.instagram.com/explore/tags/greengoldcoin",
         "telegram": "https://t.me/greengoldcoinICO",
-        "facebook": "https://www.facebook.com/GreenGoldCoin/"
+        "youtube": "https://www.youtube.com/channel/UCtUgroJeJEWx6VUuV_2ooPQ"
       }
     },
     {
@@ -20481,9 +20481,9 @@
       "extensions": {
         "website": "http://www.avocadocoin.com",
         "twitter": "https://twitter.com/avocadocoin",
+        "youtube": "https://www.youtube.com/channel/UCnMds055w0M3-_4GDjJsUKw",
         "instagram": "https://www.instagram.com/avocadocoin",
-        "facebook": "https://www.facebook.com/avocadocoins/",
-        "youtube": "https://www.youtube.com/channel/UCnMds055w0M3-_4GDjJsUKw"
+        "facebook": "https://www.facebook.com/avocadocoins/"
       }
     },
     {
@@ -21721,8 +21721,8 @@
       "extensions": {
         "website": "https://bitexcer.com",
         "twitter": "https://twitter.com/bitexcer",
-        "instagram": "https://www.instagram.com/bitexcer/",
         "telegram": "https://t.me/bitexcer_info",
+        "instagram": "https://www.instagram.com/bitexcer/",
         "youtube": "https://www.youtube.com/channel/UCmRkuXFFDYe5ISENoCkO6AA"
       }
     },
@@ -22484,11 +22484,11 @@
         "twitter": "https://twitter.com/LunaChoww",
         "discord": "https://discord.gg/FBz7dGkxgv",
         "coingeckoId": "lunachow",
-        "instagram": "https://www.instagram.com/lunachow.io/",
+        "telegram": "https://t.me/LuChow",
         "reddit": "https://www.reddit.com/r/lunachow/",
         "facebook": "https://www.facebook.com/LunaChowOfficial",
         "address": "0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57",
-        "telegram": "https://t.me/LuChow"
+        "instagram": "https://www.instagram.com/lunachow.io/"
       }
     },
     {
@@ -26462,9 +26462,9 @@
         "serumV3Usdt": "2sedHoXJosRteBjP4FEV4U9TJ6JhHaNDgmkzm2dNtSHe",
         "serumV3Usdc": "3zyMD67tUqSfuF8XTZjzBjqT6daEUfx2nk6YSVtmzDnD",
         "coingeckoId": "safe-coin-2",
+        "telegram": "https://t.me/SafeCoinEN",
         "facebook": "https://www.facebook.com/safecoins/",
-        "instagram": "https://www.instagram.com/safecoinproject/",
-        "telegram": "https://t.me/SafeCoinEN"
+        "instagram": "https://www.instagram.com/safecoinproject/"
       }
     },
     {
@@ -26597,11 +26597,11 @@
         "twitter": "https://twitter.com/talentmicroital",
         "medium": "https://medium.com/@TalentMicro_ITAL",
         "discord": "https://discord.gg/jRz63Dsa3p",
-        "reddit": "https://www.reddit.com/user/ITAL_TalentMicro",
-        "telegram": "https://t.me/TalentMicro_ITAL_bot",
         "linkedin": "https://www.linkedin.com/company/ital-crypto",
+        "instagram": "https://www.instagram.com/TalentMicro_ITAL",
         "facebook": "https://www.facebook.com/ital.talentmicro",
-        "instagram": "https://www.instagram.com/TalentMicro_ITAL"
+        "reddit": "https://www.reddit.com/user/ITAL_TalentMicro",
+        "telegram": "https://t.me/TalentMicro_ITAL_bot"
       }
     },
     {
@@ -26816,8 +26816,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vaultPubkey": "D6ErHk23Df2E1c1LqSqvzYhLzPBzKyh3xKrRDva2gxTj",
-        "vault": "https://fraktion.art/vault/D6ErHk23Df2E1c1LqSqvzYhLzPBzKyh3xKrRDva2gxTj"
+        "vault": "https://fraktion.art/vault/D6ErHk23Df2E1c1LqSqvzYhLzPBzKyh3xKrRDva2gxTj",
+        "vaultPubkey": "D6ErHk23Df2E1c1LqSqvzYhLzPBzKyh3xKrRDva2gxTj"
       }
     },
     {
@@ -26831,8 +26831,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vaultPubkey": "6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U",
-        "vault": "https://fraktion.art/vault/6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U"
+        "vault": "https://fraktion.art/vault/6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U",
+        "vaultPubkey": "6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U"
       }
     },
     {
@@ -26846,8 +26846,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vaultPubkey": "3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR",
-        "vault": "https://fraktion.art/vault/3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR"
+        "vault": "https://fraktion.art/vault/3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR",
+        "vaultPubkey": "3ovaiNKdfyDhq7yTjQ94LS1qvmmKJv4DQPXmWooFKUjR"
       }
     },
     {
@@ -26921,8 +26921,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vaultPubkey": "C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm",
-        "vault": "https://fraktion.art/vault/C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm"
+        "vault": "https://fraktion.art/vault/C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm",
+        "vaultPubkey": "C3VwkKSuL8KqxCmz4JV1Lx798isHjxcoNTwkVRGyV8Sm"
       }
     },
     {
@@ -27190,8 +27190,8 @@
       "extensions": {
         "website": "https://www.condorcoin.co/",
         "twitter": "https://twitter.com/condor_coin",
-        "instagram": "https://www.instagram.com/condorcoin/",
         "facebook": "https://www.facebook.com/Condor-Coin-108233578306800",
+        "instagram": "https://www.instagram.com/condorcoin/",
         "reddit": "https://www.reddit.com/user/condorcoin"
       }
     },
@@ -27387,8 +27387,8 @@
       "extensions": {
         "website": "https://berscoin.com/",
         "discord": "https://discord.gg/2eACjdq9",
-        "youtube": "https://www.youtube.com/c/BersCoinBersTube",
-        "facebook": "https://www.facebook.com/berscoin"
+        "facebook": "https://www.facebook.com/berscoin",
+        "youtube": "https://www.youtube.com/c/BersCoinBersTube"
       }
     },
     {
@@ -27423,9 +27423,9 @@
       "extensions": {
         "website": "https://kittycoinsol.com/",
         "twitter": "https://twitter.com/KittycoinSOL",
-        "facebook": "https://facebook.com/KittycoinSOL",
+        "telegram": "https://t.me/KittycoinSOL",
         "youtube": "https://www.youtube.com/channel/UCRn6xC1Gmr6enUia-mg2rIA",
-        "telegram": "https://t.me/KittycoinSOL"
+        "facebook": "https://facebook.com/KittycoinSOL"
       }
     },
     {
@@ -27477,9 +27477,9 @@
         "twitter": "https://twitter.com/NXDF16",
         "medium": "https://medium.com/@NXDF",
         "discord": "https://discord.gg/KH2YywfrgS",
-        "youtube": "https://www.youtube.com/channel/UCMdPUPpCTVf-OHvMLCdzxOQ",
         "reddit": "https://www.reddit.com/r/next_defi_protocol/",
-        "telegram": "https://t.me/nxdfarmy"
+        "telegram": "https://t.me/nxdfarmy",
+        "youtube": "https://www.youtube.com/channel/UCMdPUPpCTVf-OHvMLCdzxOQ"
       }
     },
     {
@@ -28265,8 +28265,8 @@
         "twitter": "https://twitter.com/solar_dex",
         "serumV3Usdc": "BHfFJM36MirbBtLCcnZokwRvxUPxk7Ez6EAT6k44q6Go",
         "coingeckoId": "solar",
-        "telegram": "https://t.me/solardexofficialchat",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/solardex/"
+        "coinmarketcap": "https://coinmarketcap.com/currencies/solardex/",
+        "telegram": "https://t.me/solardexofficialchat"
       }
     },
     {
@@ -28323,9 +28323,9 @@
         "website": "https://quiztok.com/",
         "twitter": "https://twitter.com/quiztokkr",
         "github": "https://github.com/quiztok",
+        "instagram": "https://www.instagram.com/quiztok_kr/",
         "facebook": "https://www.facebook.com/quiztok.kr",
         "telegram": "https://t.me/QuiztokCS",
-        "instagram": "https://www.instagram.com/quiztok_kr/",
         "youtube": "https://www.youtube.com/channel/UCtl9jTbXMa43F17zrnr1AeQ"
       }
     },
@@ -28373,9 +28373,9 @@
         "twitter": "https://twitter.com/NXDF16",
         "medium": "https://medium.com/@NXDF",
         "discord": "https://discord.gg/KH2YywfrgS",
-        "telegram": "https://t.me/nxdfarmy",
+        "reddit": "https://www.reddit.com/r/next_defi_protocol/",
         "youtube": "https://www.youtube.com/channel/UCMdPUPpCTVf-OHvMLCdzxOQ",
-        "reddit": "https://www.reddit.com/r/next_defi_protocol/"
+        "telegram": "https://t.me/nxdfarmy"
       }
     },
     {
@@ -28618,9 +28618,9 @@
         "serumV3Usdc": "6uH2rvVUySwnVFw7CMNV4HTzuxHTUNC7pK22pXcqgSey",
         "coingeckoId": "theca",
         "description": "Theca has the mission to protect, spread and promote knowledge through blockchain technology, making the works of authors accessible to anyone. Theca: the first blockchain library",
-        "instagram": "https://www.instagram.com/theca_org",
         "address": "D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/theca/"
+        "coinmarketcap": "https://coinmarketcap.com/currencies/theca/",
+        "instagram": "https://www.instagram.com/theca_org"
       }
     },
     {
@@ -29077,9 +29077,9 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/crypto_banter",
+        "facebook": "https://www.facebook.com/cryptobanter",
         "youtube": "https://www.youtube.com/channel/UCN9Nj4tjXbVTLYWN0EKly_Q",
-        "instagram": "https://www.instagram.com/crypto_banter",
-        "facebook": "https://www.facebook.com/cryptobanter"
+        "instagram": "https://www.instagram.com/crypto_banter"
       }
     },
     {
@@ -29554,8 +29554,8 @@
       "extensions": {
         "website": "https://esculap.uk",
         "twitter": "https://twitter.com/EsculapESA",
-        "facebook": "https://www.facebook.com/Esculap-110660738044410",
         "instagram": "https://www.instagram.com/esculapesa/",
+        "facebook": "https://www.facebook.com/Esculap-110660738044410",
         "linkedin": "https://www.linkedin.com/company/esculapesa",
         "telegram": "https://t.me/esculapesa",
         "youtube": "https://youtube.com/channel/UCBlLNzv4H6EgL_th2sNmtWQ"
@@ -30596,9 +30596,9 @@
         "medium": "https://tudabirds.medium.com",
         "discord": "https://discord.gg/tudabirds",
         "description": "tudabirds metaNest",
-        "instagram": "https://www.instagram.com/tudabirds",
+        "telegram": "https://t.me/tudabirdsgroup",
         "facebook": "https://business.facebook.com/tudabirds",
-        "telegram": "https://t.me/tudabirdsgroup"
+        "instagram": "https://www.instagram.com/tudabirds"
       }
     },
     {
@@ -31284,8 +31284,8 @@
         "discord": "https://discord.gg/Mwx3zqH",
         "serumV3Usdc": "DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE",
         "description": "Stake your RLB on rollbit.com to participate in a profit share distribution every 100 Bitcoin blocks",
-        "facebook": "https://facebook.com/Rollbit",
-        "instagram": "https://instagram.com/rollbitcom"
+        "instagram": "https://instagram.com/rollbitcom",
+        "facebook": "https://facebook.com/Rollbit"
       }
     },
     {
@@ -32019,8 +32019,8 @@
         "website": "https://solearna.com/",
         "twitter": "https://twitter.com/solearna",
         "discord": "https://discord.gg/z3AZSHfcQ4",
-        "telegram": "https://t.me/joinchat/3U4rp853CFMyNGY0",
-        "reddit": "https://www.reddit.com/r/solearna"
+        "reddit": "https://www.reddit.com/r/solearna",
+        "telegram": "https://t.me/joinchat/3U4rp853CFMyNGY0"
       }
     },
     {
@@ -32419,8 +32419,8 @@
       "extensions": {
         "website": "https://viewplatform.net/index_en.html",
         "description": "The VIEW platform is a digital advertising platform that connects advertisers and advertising consumers based on the blockchain technology. ",
-        "whitepaper": "https://viewplatform.net/wp/VIEW_WP_V1.0_EN.pdf",
-        "telegram": "https://t.me/VIEW_Official"
+        "telegram": "https://t.me/VIEW_Official",
+        "whitepaper": "https://viewplatform.net/wp/VIEW_WP_V1.0_EN.pdf"
       }
     },
     {
@@ -33045,8 +33045,8 @@
       ],
       "extensions": {
         "website": "http://Republicworld.io",
-        "facebook": "https://Facebook.com/republicworldss",
-        "telegram": "https://t.me/Republicworldgame"
+        "telegram": "https://t.me/Republicworldgame",
+        "facebook": "https://Facebook.com/republicworldss"
       }
     },
     {
@@ -34156,10 +34156,10 @@
         "twitter": "https://twitter.com/getpipcom",
         "medium": "https://medium.com/@getpip",
         "discord": "https://discord.gg/P2AU78UB3e",
-        "linkedin": "https://www.linkedin.com/company/getpip",
-        "reddit": "https://www.reddit.com/r/getpip",
         "youtube": "https://www.youtube.com/channel/UCB0bXqJZTq9li7_3ZOkEwdQ",
-        "telegram": "https://t.me/getpip"
+        "telegram": "https://t.me/getpip",
+        "linkedin": "https://www.linkedin.com/company/getpip",
+        "reddit": "https://www.reddit.com/r/getpip"
       }
     },
     {
@@ -34281,8 +34281,8 @@
       "extensions": {
         "website": "http://gumarabic.io",
         "twitter": "https://twitter.com/gum_token",
-        "facebook": "https://facebook.com/gumarabictoken",
-        "telegram": "https://t.me/gumarabictoken"
+        "telegram": "https://t.me/gumarabictoken",
+        "facebook": "https://facebook.com/gumarabictoken"
       }
     },
     {
@@ -35083,8 +35083,8 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/Kaamelott_tweet",
-        "instagram": "https://www.instagram.com/kaamelott.officiel",
-        "facebook": "https://facebook.com/KaamelottOff/"
+        "facebook": "https://facebook.com/KaamelottOff/",
+        "instagram": "https://www.instagram.com/kaamelott.officiel"
       }
     },
     {
@@ -35101,9 +35101,9 @@
       "extensions": {
         "website": "https://hacklab.az/",
         "github": "https://github.com/HacklabAzerbaijan",
+        "facebook": "https://www.facebook.com/hacklabaz",
         "linkedin": "https://www.linkedin.com/company/hacklabaz/about/",
-        "instagram": "https://www.instagram.com/hacklabaz/",
-        "facebook": "https://www.facebook.com/hacklabaz"
+        "instagram": "https://www.instagram.com/hacklabaz/"
       }
     },
     {
@@ -35132,8 +35132,8 @@
         "twitter": "https://twitter.com/Wepop_store",
         "description": "The official Wepop.store token",
         "facebook": "https://www.facebook.com/Wepopdotstore",
-        "instagram": "https://instagram.com/wepop.store",
-        "youtube": "https://www.youtube.com/channel/UCofafCOwPRLDuShEfnRswnA"
+        "youtube": "https://www.youtube.com/channel/UCofafCOwPRLDuShEfnRswnA",
+        "instagram": "https://instagram.com/wepop.store"
       }
     },
     {
@@ -37108,9 +37108,9 @@
         "github": "https://github.com/thebigdeals",
         "medium": "https://medium.com/@thebigdealofficial",
         "description": "The BIG Deal is a blockchain based auction house for physical goods, digital assets, NFT's and more.",
+        "telegram": "https://t.me/+sWdEDZzdkSVlY2I1",
         "instagram": "https://www.instagram.com/thebigdeal_official",
-        "linkedin": "https://www.linkedin.com/company/the-big-deals",
-        "telegram": "https://t.me/+sWdEDZzdkSVlY2I1"
+        "linkedin": "https://www.linkedin.com/company/the-big-deals"
       }
     },
     {
@@ -37257,8 +37257,8 @@
         "website": "http://plusnft.io",
         "twitter": "https://twitter.com/PlussNft",
         "facebook": "https://www.facebook.com/Plussnft",
-        "instagram": "https://www.instagram.com/plussnft",
-        "youtube": "https://www.youtube.com/channel/UCB25WKjPogsjtctYWZw93jw"
+        "youtube": "https://www.youtube.com/channel/UCB25WKjPogsjtctYWZw93jw",
+        "instagram": "https://www.instagram.com/plussnft"
       }
     },
     {
@@ -38434,9 +38434,9 @@
         "website": "http://zyondefenders.com/",
         "discord": "https://discord.gg/f5GCcnZ7",
         "instagram": "https://www.instagram.com/zyondefenders/",
-        "reddit": "https://www.reddit.com/user/ZyonDefenders",
+        "telegram": "https://t.me/joinchat/k4Rxha6DSzA2ODYx",
         "linkedin": "https://www.linkedin.com/company/duna-games",
-        "telegram": "https://t.me/joinchat/k4Rxha6DSzA2ODYx"
+        "reddit": "https://www.reddit.com/user/ZyonDefenders"
       }
     },
     {
@@ -38496,8 +38496,8 @@
       "extensions": {
         "website": "http://cllubb.com/cclub",
         "twitter": "https://twitter.com/cllubbltd",
-        "facebook": "https://www.facebook.com/Cllubbltd-103882295479000",
-        "instagram": "https://www.instagram.com/cllubbltd"
+        "instagram": "https://www.instagram.com/cllubbltd",
+        "facebook": "https://www.facebook.com/Cllubbltd-103882295479000"
       }
     },
     {
@@ -40304,11 +40304,11 @@
         "website": "https://uranusx.io",
         "twitter": "https://twitter.com/uranusx_global",
         "discord": "https://discord.gg/NqmHKDZp8d",
-        "facebook": "https://www.facebook.com/uranusx.official",
-        "twitch": "https://www.twitch.tv/uranusx_official",
         "telegram": "https://t.me/uranusx_global",
-        "reddit": "https://www.reddit.com/r/uranusx_official",
-        "youtube": "https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg"
+        "twitch": "https://www.twitch.tv/uranusx_official",
+        "youtube": "https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg",
+        "facebook": "https://www.facebook.com/uranusx.official",
+        "reddit": "https://www.reddit.com/r/uranusx_official"
       }
     },
     {
@@ -40329,10 +40329,10 @@
         "twitter": "https://twitter.com/uranusx_rbw",
         "discord": "https://discord.gg/zpYNxg7NUy",
         "facebook": "https://www.facebook.com/roboworld.official",
-        "reddit": "https://www.reddit.com/r/roboworld_global",
-        "telegram": "https://t.me/Roboworldglobal",
         "twitch": "https://www.twitch.tv/uranusx_official",
-        "youtube": "https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg"
+        "reddit": "https://www.reddit.com/r/roboworld_global",
+        "youtube": "https://www.youtube.com/channel/UCclA3Nu86rRSrzzcVWIUQdg",
+        "telegram": "https://t.me/Roboworldglobal"
       }
     },
     {
@@ -42827,8 +42827,8 @@
         "discord": "https://discord.gg/XzkVEKDg",
         "description": "A virtual economic system for my community.",
         "instagram": "https://www.instagram.com/melcosoftsu",
-        "telegram": "https://t.me/melcosoft_official",
-        "facebook": "https://www.facebook.com/melcosoftsu"
+        "facebook": "https://www.facebook.com/melcosoftsu",
+        "telegram": "https://t.me/melcosoft_official"
       }
     },
     {
@@ -44596,9 +44596,9 @@
       ],
       "extensions": {
         "website": "https://ziggymoens.github.io",
-        "instagram": "https://www.instagram.com/ziggymoens",
+        "facebook": "https://www.facebook.com/ziggymoens",
         "linkedin": "https://www.linkedin.com/in/ziggymoens",
-        "facebook": "https://www.facebook.com/ziggymoens"
+        "instagram": "https://www.instagram.com/ziggymoens"
       }
     },
     {
@@ -44702,10 +44702,10 @@
         "website": "https://dingocoin.org",
         "twitter": "https://twitter.com/dingocoincrypto",
         "discord": "https://discord.gg/y3J946HFQM",
-        "instagram": "https://www.instagram.com/dingocoin",
-        "telegram": "https://t.me/DingoCoinTalk",
+        "reddit": "https://www.reddit.com/r/dingocoin",
         "facebook": "https://www.facebook.com/Dingocoin.org",
-        "reddit": "https://www.reddit.com/r/dingocoin"
+        "instagram": "https://www.instagram.com/dingocoin",
+        "telegram": "https://t.me/DingoCoinTalk"
       }
     },
     {
@@ -45220,8 +45220,8 @@
         "website": "https://ll3mamc.com.au",
         "discord": "https://discord.gg/ntAgpWSbuc",
         "description": "SheeshCoin is quite poggers",
-        "reddit": "https://www.reddit.com/u/Ll3macorn",
-        "instagram": "https://www.instagram.com/baileyboylson"
+        "instagram": "https://www.instagram.com/baileyboylson",
+        "reddit": "https://www.reddit.com/u/Ll3macorn"
       }
     },
     {
@@ -45280,8 +45280,8 @@
       "extensions": {
         "website": "https://kuncicoin.com/",
         "twitter": "https://twitter.com/Kuncicoin_id",
-        "instagram": "https://instagram.com/kuncicoin_id",
-        "telegram": "https://t.me/kunciofficial"
+        "telegram": "https://t.me/kunciofficial",
+        "instagram": "https://instagram.com/kuncicoin_id"
       }
     },
     {
@@ -45461,8 +45461,8 @@
       ],
       "extensions": {
         "website": "https://www.cambrianalumni93.org",
-        "facebook": "https://m.facebook.com/PWCCA93/",
-        "youtube": "https://www.youtube.com/channel/UCPgDNcJSX2Ix629azkojIUA"
+        "youtube": "https://www.youtube.com/channel/UCPgDNcJSX2Ix629azkojIUA",
+        "facebook": "https://m.facebook.com/PWCCA93/"
       }
     },
     {
@@ -46555,8 +46555,8 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/ProblemToken",
-        "youtube": "https://www.youtube.com/channel/UC24s-Cdqu-xBKiaxSnhmNnA",
-        "instagram": "https://www.instagram.com/problem_token/"
+        "instagram": "https://www.instagram.com/problem_token/",
+        "youtube": "https://www.youtube.com/channel/UC24s-Cdqu-xBKiaxSnhmNnA"
       }
     },
     {
@@ -48368,9 +48368,9 @@
         "medium": "https://medium.com/@dragonwar",
         "discord": "https://discord.gg/kFUmzU6nCH",
         "description": "Dragon War Token",
-        "telegram": "https://t.me/dragonwarglobal",
         "facebook": "https://fb.com/dragonwar.io",
-        "youtube": "https://youtube.com/channel/UCzl9Gsl58YR9MyL2650tg8w"
+        "youtube": "https://youtube.com/channel/UCzl9Gsl58YR9MyL2650tg8w",
+        "telegram": "https://t.me/dragonwarglobal"
       }
     },
     {
@@ -51616,8 +51616,8 @@
         "website": "https://truesight.me",
         "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TaUdunJo5TcdJzt9kyB4cd6HTYUdFXJHCSL2yc3sbg4/logo.png",
         "description": "TrueSight.Me is a decentralized oracle for world sentiments. We believe making decisions under ignorance is to the root cause of human suffering. Our purpose is to build a better world based on fundamental truth. Our mission is to provide individuals with crowd-sourced actionable insights to make critical decisions in their daily lives. This has became imperative in our increasingly chaotic world.",
-        "reddit": "https://www.reddit.com/r/truesightme/",
-        "facebook": "https://www.facebook.com/TrueSightMe"
+        "facebook": "https://www.facebook.com/TrueSightMe",
+        "reddit": "https://www.reddit.com/r/truesightme/"
       }
     },
     {
@@ -51892,8 +51892,8 @@
         "twitter": "https://twitter.com/AftershockNFTs",
         "discord": "https://discord.gg/S5kBZbCC2c",
         "description": "In community purchases and bets within 'Aftershock NFT Collection' VR Racing Game",
-        "facebook": "https://fb.me/AftershockNFTs",
-        "telegram": "https://t.me/AftershockNFTs"
+        "telegram": "https://t.me/AftershockNFTs",
+        "facebook": "https://fb.me/AftershockNFTs"
       }
     },
     {
@@ -52295,8 +52295,8 @@
       "extensions": {
         "website": "https://oursocialcoin.org/",
         "twitter": "https://twitter.com/SocialCoin3",
-        "reddit": "https://www.reddit.com/user/Social_Coin",
-        "telegram": "https://t.me/SocialCoinNews"
+        "telegram": "https://t.me/SocialCoinNews",
+        "reddit": "https://www.reddit.com/user/Social_Coin"
       }
     },
     {
@@ -52626,9 +52626,9 @@
       ],
       "extensions": {
         "website": "https://arknet.pro",
-        "instagram": "https://www.instagram.com/arknetcyber/",
+        "facebook": "https://www.facebook.com/profile.php?id=100076065577875",
         "telegram": "https://t.me/+_HDz93MEOptkMGI0",
-        "facebook": "https://www.facebook.com/profile.php?id=100076065577875"
+        "instagram": "https://www.instagram.com/arknetcyber/"
       }
     },
     {
@@ -52690,8 +52690,8 @@
         "twitter": "https://twitter.com/bulbappio",
         "medium": "https://bulbappio.medium.com/",
         "discord": "https://discord.gg/9NMDkGdetE",
-        "reddit": "https://www.reddit.com/r/bulbappio/",
-        "instagram": "https://www.instagram.com/bulbappio/"
+        "instagram": "https://www.instagram.com/bulbappio/",
+        "reddit": "https://www.reddit.com/r/bulbappio/"
       }
     },
     {
@@ -52962,13 +52962,13 @@
         "medium": "https://fluxofficial.medium.com",
         "discord": "https://discord.io/runonflux",
         "description": "Flux is the cryptocurrency powering the Flux Ecosystem, including decentralized computational network. Flux gives users both institutional and private control over their cloud infrastructure in a decentralized manner.",
-        "linkedin": "https://www.linkedin.com/company/flux-official/mycompany",
         "facebook": "https://www.facebook.com/groups/runonflux",
-        "twitch": "https://www.twitch.tv/runonflux",
-        "youtube": "https://www.youtube.com/channel/UCphbdfb1MXYgUPsdhQPcnGw",
+        "linkedin": "https://www.linkedin.com/company/flux-official/mycompany",
         "reddit": "https://www.reddit.com/r/RunOnFlux",
         "instagram": "https://www.instagram.com/flux_runonflux",
-        "telegram": "https://t.me/zelhub"
+        "telegram": "https://t.me/zelhub",
+        "twitch": "https://www.twitch.tv/runonflux",
+        "youtube": "https://www.youtube.com/channel/UCphbdfb1MXYgUPsdhQPcnGw"
       }
     },
     {
@@ -54337,9 +54337,9 @@
         "github": "https://github.com/nanoX-finance",
         "medium": "https://medium.com/@nano.x",
         "discord": "https://discord.gg/3TwxDEZ2Ss",
-        "reddit": "https://www.reddit.com/r/nanox_finance",
+        "telegram": "https://t.me/nanoXspace",
         "youtube": "https://www.youtube.com/channel/UCSJrIzML8sTE3LsdIGKKuxg",
-        "telegram": "https://t.me/nanoXspace"
+        "reddit": "https://www.reddit.com/r/nanox_finance"
       }
     },
     {
@@ -55472,10 +55472,10 @@
         "twitter": "https://twitter.com/goekdln",
         "medium": "https://medium.com/@goekdln",
         "description": "We are based on a Decentralized community token which aims to make peer-to-peer exchanges thanks to blockchain technology.",
-        "reddit": "https://www.reddit.com/user/goekdln",
         "telegram": "https://t.me/goekdln",
         "facebook": "https://facebook.com/goekdln",
-        "instagram": "https://www.instagram.com/goekdln"
+        "instagram": "https://www.instagram.com/goekdln",
+        "reddit": "https://www.reddit.com/user/goekdln"
       }
     },
     {
@@ -56430,9 +56430,9 @@
         "website": "https://www.solprize.io",
         "twitter": "https://twitter.com/solprize",
         "description": "Let's get be rich and happy together!",
+        "telegram": "https://t.me/solprize",
         "instagram": "https://www.instagram.com/solprize",
-        "reddit": "https://www.reddit.com/r/solprize",
-        "telegram": "https://t.me/solprize"
+        "reddit": "https://www.reddit.com/r/solprize"
       }
     },
     {
@@ -58721,8 +58721,8 @@
         "website": "https://probably.legal",
         "twitter": "https://twitter.com/probablylegal",
         "discord": "https://discord.gg/TkJxyyee",
-        "instagram": "https://www.instagram.com/probablylegaltoken/",
-        "facebook": "https://www.facebook.com/ProbablyLegalToken/"
+        "facebook": "https://www.facebook.com/ProbablyLegalToken/",
+        "instagram": "https://www.instagram.com/probablylegaltoken/"
       }
     },
     {
@@ -61995,8 +61995,8 @@
       "extensions": {
         "website": "https://aether7.io/",
         "description": "Aether7.io is a cloud platform with applications that utilize blockchain technology to store B2B records and transactions",
-        "facebook": "https://www.facebook.com/Aether7io",
-        "address": "FuGpEMivuKnTU5KwhCuq9rjfEVX2WekNeSNNqJdThpHk"
+        "address": "FuGpEMivuKnTU5KwhCuq9rjfEVX2WekNeSNNqJdThpHk",
+        "facebook": "https://www.facebook.com/Aether7io"
       }
     },
     {
@@ -62509,8 +62509,8 @@
       "extensions": {
         "website": "https://solanashibainu.com/",
         "twitter": "https://twitter.com/solana_shibainu",
-        "instagram": "https://instagram.com/solana_shibainu",
-        "telegram": "https://t.me/solana_shibainu"
+        "telegram": "https://t.me/solana_shibainu",
+        "instagram": "https://instagram.com/solana_shibainu"
       }
     },
     {
@@ -62568,8 +62568,8 @@
       "extensions": {
         "website": "https://papalexiou.me",
         "twitter": "https://twitter.com/PapalexiouP",
-        "facebook": "https://www.facebook.com/PapalexiouPavlos",
-        "instagram": "https://www.instagram.com/pavlospapalexiou/"
+        "instagram": "https://www.instagram.com/pavlospapalexiou/",
+        "facebook": "https://www.facebook.com/PapalexiouPavlos"
       }
     },
     {
@@ -65041,8 +65041,8 @@
         "twitter": "https://twitter.com/solanyxnft",
         "discord": "https://discord.gg/solanyx",
         "coingeckoId": "solanyx",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/solanyx/",
-        "telegram": "https://t.me/solanyxofficial"
+        "telegram": "https://t.me/solanyxofficial",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/solanyx/"
       }
     },
     {
@@ -65362,8 +65362,8 @@
         "fractionalized-nft"
       ],
       "extensions": {
-        "vault": "https://fraktion.art/vault/3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum",
-        "vaultPubkey": "3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum"
+        "vaultPubkey": "3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum",
+        "vault": "https://fraktion.art/vault/3oVLfsh7NdRKMEuX51whGgF594Pc4Tg2ZcWnMoAwZJum"
       }
     },
     {
@@ -65437,10 +65437,10 @@
         "website": "https://fundraiselaunchpad.com/",
         "twitter": "https://twitter.com/fundraiseLP",
         "discord": "https://discord.com/invite/C3jrUAzm",
+        "instagram": "https://www.instagram.com/fundraise_launchpad/",
         "reddit": "https://www.reddit.com/r/fundraise_launchpad/",
-        "telegram": "https://t.me/fundraiselaunchpad",
         "facebook": "https://www.facebook.com/Fundraise-Launchpad-106074095265419",
-        "instagram": "https://www.instagram.com/fundraise_launchpad/"
+        "telegram": "https://t.me/fundraiselaunchpad"
       }
     },
     {
@@ -66059,8 +66059,8 @@
         "website": "https://singularityonline.app",
         "twitter": "https://twitter.com/SingularityMeta",
         "description": "Singularity Online DAO Token",
-        "blog": "https://blog.singularityonline.app",
-        "whitepaper": "https://whitepaper.singularityonline.app"
+        "whitepaper": "https://whitepaper.singularityonline.app",
+        "blog": "https://blog.singularityonline.app"
       }
     },
     {
@@ -66344,9 +66344,9 @@
       "extensions": {
         "twitter": "https://twitter.com/ANGOLApartner",
         "github": "https://github.com/Partner-Angola",
-        "instagram": "https://www.instagram.com/angola_partner",
+        "facebook": "https://www.facebook.com/profile.php?id=100076475235846",
         "telegram": "https://t.me/AngolaCS",
-        "facebook": "https://www.facebook.com/profile.php?id=100076475235846"
+        "instagram": "https://www.instagram.com/angola_partner"
       }
     },
     {
@@ -68027,8 +68027,8 @@
         "website": "https://imreal.life",
         "twitter": "https://twitter.com/IMREALLIFE3",
         "description": "IMREAL.LIFE the nexus to the Metaverse, where real life meets Virtual Reality.",
-        "youtube": "https://www.youtube.com/channel/UChQy6AwkeyPQurNXD9Vfw_w",
-        "instagram": "https://www.instagram.com/danny.imreal.life/"
+        "instagram": "https://www.instagram.com/danny.imreal.life/",
+        "youtube": "https://www.youtube.com/channel/UChQy6AwkeyPQurNXD9Vfw_w"
       }
     },
     {
@@ -69878,8 +69878,8 @@
         "twitter": "https://twitter.com/SwimProtocol",
         "medium": "https://medium.com/@swimprotocol",
         "discord": "https://discord.gg/wGrxQ7GAgP",
-        "whitepaper": "https://swim.io/whitepaper.pdf",
-        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1"
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
       }
     },
     {
@@ -70011,8 +70011,8 @@
         "website": "https://www.sign.net/",
         "twitter": "https://twitter.com/SignDotNet",
         "linkedin": "https://www.linkedin.com/company/signdotnet",
-        "facebook": "https://www.facebook.com/signdotnet/",
-        "youtube": "https://www.youtube.com/channel/UCnJ076pE1Cd2kdneAtveKkQ"
+        "youtube": "https://www.youtube.com/channel/UCnJ076pE1Cd2kdneAtveKkQ",
+        "facebook": "https://www.facebook.com/signdotnet/"
       }
     },
     {
@@ -72667,8 +72667,8 @@
       "extensions": {
         "website": "https://go-it.top/",
         "facebook": "https://www.facebook.com/goitschool",
-        "instagram": "https://www.instagram.com/goitschool/",
-        "youtube": "https://www.youtube.com/channel/UCCtmmzdaQq56zRt2BjJIlpA"
+        "youtube": "https://www.youtube.com/channel/UCCtmmzdaQq56zRt2BjJIlpA",
+        "instagram": "https://www.instagram.com/goitschool/"
       }
     },
     {
@@ -74564,8 +74564,8 @@
         "medium": "https://medium.com/@CryptoLionsCan",
         "discord": "https://discord.gg/aUYVJjVzdj",
         "description": "CryptoLions Metaverse Coin",
-        "facebook": "https://facebook.com/CryptoLIONsCanada",
-        "address": "8U4GvLbQqVbgAQMpkEQKNtF2B37KuxCXiuG6g2mxo6oC"
+        "address": "8U4GvLbQqVbgAQMpkEQKNtF2B37KuxCXiuG6g2mxo6oC",
+        "facebook": "https://facebook.com/CryptoLIONsCanada"
       }
     },
     {
@@ -75959,8 +75959,8 @@
         "medium": "https://wurklo.medium.com/",
         "discord": "https://discord.gg/ZeYjq7m7vN",
         "description": "Wurklo is improving the service industry by providing wurkers with equal power. We're putting the power of a large business in the palm of your hand, so you can wurk how you want!",
-        "instagram": "https://www.instagram.com/wurklo/",
         "reddit": "https://www.reddit.com/user/Wurklo",
+        "instagram": "https://www.instagram.com/wurklo/",
         "telegram": "https://t.me/wurklo",
         "facebook": "https://www.facebook.com/Wurklo"
       }
@@ -78026,11 +78026,11 @@
       "extensions": {
         "website": "https://linktr.ee/TattedFaceJoey",
         "twitter": "https://twitter.com/TattedFaceJoey",
+        "linkedin": "https://linkedin.com/in/JoeyTatu",
         "reddit": "https://www.reddit.com/user/TattedFaceJoey",
         "telegram": "https://t.me/TattedFaceJoey",
-        "instagram": "https://www.instagram.com/TattedFaceJoey",
-        "linkedin": "https://linkedin.com/in/JoeyTatu",
-        "facebook": "https://facebook.com/TattedFaceJoey"
+        "facebook": "https://facebook.com/TattedFaceJoey",
+        "instagram": "https://www.instagram.com/TattedFaceJoey"
       }
     },
     {
@@ -78863,10 +78863,10 @@
       ],
       "extensions": {
         "website": "https://www.ezsmarts.io",
-        "telegram": "https://t.me/ezsmarts",
+        "instagram": "https://www.instagram.com/ezsmarts",
         "facebook": "https://www.facebook.com/groups/ezsmarts",
-        "linkedin": "https://linkedin.com/company/ezsmarts",
-        "instagram": "https://www.instagram.com/ezsmarts"
+        "telegram": "https://t.me/ezsmarts",
+        "linkedin": "https://linkedin.com/company/ezsmarts"
       }
     },
     {
@@ -79034,9 +79034,9 @@
         "medium": "https://medium.com/@dragonwar",
         "discord": "https://discord.gg/kFUmzU6nCH",
         "description": "Eragard Token",
+        "telegram": "https://t.me/dragonwarglobal",
         "youtube": "https://youtube.com/channel/UCzl9Gsl58YR9MyL2650tg8w",
-        "facebook": "https://fb.com/dragonwar.io",
-        "telegram": "https://t.me/dragonwarglobal"
+        "facebook": "https://fb.com/dragonwar.io"
       }
     },
     {
@@ -79354,8 +79354,8 @@
         "personal-token"
       ],
       "extensions": {
-        "linkedin": "https://www.linkedin.com/in/fady-hanna/",
-        "facebook": "https://www.facebook.com/hanna.fady"
+        "facebook": "https://www.facebook.com/hanna.fady",
+        "linkedin": "https://www.linkedin.com/in/fady-hanna/"
       }
     },
     {
@@ -79670,8 +79670,8 @@
         "twitter": "https://twitter.com/totag_io",
         "medium": "https://totag.medium.com",
         "description": "TAG Token are used by the world's first digireal Platform, totag.io TAP it, get it!",
-        "telegram": "https://t.me/totag_io",
-        "instagram": "https://www.instagram.com/totag.io"
+        "instagram": "https://www.instagram.com/totag.io",
+        "telegram": "https://t.me/totag_io"
       }
     },
     {
@@ -82346,8 +82346,8 @@
         "website": "https://singularityonline.app",
         "twitter": "https://twitter.com/SingularityMeta",
         "description": "Singularity Online in-game currency Token",
-        "whitepaper": "https://whitepaper.singularityonline.app",
-        "blog": "https://blog.singularityonline.app"
+        "blog": "https://blog.singularityonline.app",
+        "whitepaper": "https://whitepaper.singularityonline.app"
       }
     },
     {
@@ -82364,8 +82364,8 @@
         "website": "https://singularityonline.app",
         "twitter": "https://twitter.com/SingularityMeta",
         "description": "Singularity Online DAO Token",
-        "blog": "https://blog.singularityonline.app",
-        "whitepaper": "https://whitepaper.singularityonline.app"
+        "whitepaper": "https://whitepaper.singularityonline.app",
+        "blog": "https://blog.singularityonline.app"
       }
     },
     {
@@ -82435,8 +82435,8 @@
         "website": "https://www.crazycoin.co.uk",
         "twitter": "https://twitter.com/crazybabynft",
         "description": "CrazyCOin is a Solana Token that can be used to pay for CrazyBabyNFT sales and Tech Sales on the CrazyCoin Website",
-        "instagram": "https://instagram.com/crazybabynft",
-        "facebook": "https://www.facebook.com/The-Crazy-Baby-NFT-111999381365589/"
+        "facebook": "https://www.facebook.com/The-Crazy-Baby-NFT-111999381365589/",
+        "instagram": "https://instagram.com/crazybabynft"
       }
     },
     {
@@ -82857,8 +82857,8 @@
         "twitter": "https://twitter.com/nftgalleryshop",
         "imageUrl": "https://raw.githubusercontent.com/hjuhyiu/pi/f2c534f82e33e614a2befc9e70cae093b1ca86c6/peacecirt.png",
         "description": "Human beings are members of a whole, in creation of one essence and soul",
-        "animationUrl": "https://arweave.net/v9E2asrABVKbj7c7iHvuycU9uNRCEeOn3oA4rGI6VuU",
-        "instagram": "https://www.instagram.com/nftsolanagallery"
+        "instagram": "https://www.instagram.com/nftsolanagallery",
+        "animationUrl": "https://arweave.net/v9E2asrABVKbj7c7iHvuycU9uNRCEeOn3oA4rGI6VuU"
       }
     },
     {
@@ -82919,8 +82919,8 @@
         "twitter": "https://twitter.com/nftgalleryshop",
         "imageUrl": "https://arweave.net/d9XqIxPGi_cTvMihuSYGjABXe54gzvsTkeQHkrTB5Yg",
         "description": "Recite in the name of your Lord who created man from a clinging substance",
-        "instagram": "https://www.instagram.com/nftsolanagallery",
-        "animationUrl": "https://github.com/xerterbt/quran/raw/5c2f0b7456c62b53149a10c2746d68069a7f4ece/Holy_Quran_Full.pdf"
+        "animationUrl": "https://github.com/xerterbt/quran/raw/5c2f0b7456c62b53149a10c2746d68069a7f4ece/Holy_Quran_Full.pdf",
+        "instagram": "https://www.instagram.com/nftsolanagallery"
       }
     },
     {
@@ -83190,9 +83190,9 @@
         "github": "https://github.com/fyfylabs",
         "medium": "https://fyfy-io.medium.com",
         "discord": "https://discord.gg/6jEMcEVU",
-        "linkedin": "https://www.linkedin.com/company/fyfy",
         "facebook": "https://www.facebook.com/fyfy.io",
         "instagram": "https://www.instagram.com/fyfy.official",
+        "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       }
     },
@@ -83250,8 +83250,8 @@
         "website": "https://www.letmespeak.org",
         "twitter": "https://twitter.com/Letmespeak_org",
         "discord": "https://discord.gg/letmespeak",
-        "telegram": "https://t.me/letmespeak_org",
-        "instagram": "https://www.instagram.com/letmespeak_org"
+        "instagram": "https://www.instagram.com/letmespeak_org",
+        "telegram": "https://t.me/letmespeak_org"
       }
     },
     {
@@ -83863,8 +83863,8 @@
       "extensions": {
         "twitter": "https://twitter.com/OffsetSynt4x",
         "discord": "https://discord.gg/9dvJQxpRv8",
-        "facebook": "https://www.facebook.com/STR8KILAFOREALA",
-        "youtube": "https://www.youtube.com/c/OFFSETSYNT4X"
+        "youtube": "https://www.youtube.com/c/OFFSETSYNT4X",
+        "facebook": "https://www.facebook.com/STR8KILAFOREALA"
       }
     },
     {
@@ -84288,9 +84288,9 @@
         "github": "https://github.com/thebigdeals",
         "medium": "https://medium.com/@thebigdealofficial",
         "description": "The BiG Deal - is a decentralized blockchain-based platform that churns out amazing deals (BiG Deals) to its community members via auctioning and other engagement models. Each engagement has elements of luck, skill, gamification and is amazing fun.",
+        "instagram": "https://www.instagram.com/thebigdeal_official",
         "telegram": "https://t.me/+sWdEDZzdkSVlY2I1",
-        "linkedin": "https://www.linkedin.com/company/the-big-deals",
-        "instagram": "https://www.instagram.com/thebigdeal_official"
+        "linkedin": "https://www.linkedin.com/company/the-big-deals"
       }
     },
     {
@@ -85798,8 +85798,8 @@
         "twitter": "https://twitter.com/WATwalrus",
         "discord": "https://discord.gg/wearethewalrus",
         "description": "Utility token for use by the We Are The Walrus community",
-        "instagram": "https://instagram.com/watwalrus",
-        "youtube": "https://www.youtube.com/channel/UCT3g3uBSCnqnT3KfJ85221w"
+        "youtube": "https://www.youtube.com/channel/UCT3g3uBSCnqnT3KfJ85221w",
+        "instagram": "https://instagram.com/watwalrus"
       }
     },
     {
@@ -87202,8 +87202,8 @@
       "extensions": {
         "website": "https://faconx.com",
         "twitter": "https://twitter.com/faconxofficial",
-        "linkedin": "https://linkedin.com/company/faconx",
-        "instagram": "https://instagram.com/faconx_"
+        "instagram": "https://instagram.com/faconx_",
+        "linkedin": "https://linkedin.com/company/faconx"
       }
     },
     {
@@ -87723,9 +87723,9 @@
         "website": "https://impi-nft.traderstoolbox.uk",
         "twitter": "https://twitter.com/impitoken",
         "discord": "https://discord.gg/YDY3brHm",
-        "instagram": "https://www.instagram.com/impi_token",
         "telegram": "https://t.me/traderstoolboxtm",
-        "facebook": "https://www.facebook.com/impikisogloo"
+        "facebook": "https://www.facebook.com/impikisogloo",
+        "instagram": "https://www.instagram.com/impi_token"
       }
     },
     {
@@ -87770,8 +87770,8 @@
         "website": "https://www.xplosivedanceinc.com/",
         "twitter": "https://twitter.com/xplosivedance",
         "discord": "https://discord.gg/FEQTy75U",
-        "facebook": "https://www.facebook.com/xplosivedanceincpage",
-        "instagram": "https://www.instagram.com/xplosivedanceinc"
+        "instagram": "https://www.instagram.com/xplosivedanceinc",
+        "facebook": "https://www.facebook.com/xplosivedanceincpage"
       }
     },
     {
@@ -87836,8 +87836,8 @@
       "extensions": {
         "website": "https://www.splashof.life/",
         "twitter": "https://twitter.com/splashoflifetm",
-        "instagram": "https://www.instagram.com/splashof.life",
-        "facebook": "https://www.facebook.com/splashoflifetm"
+        "facebook": "https://www.facebook.com/splashoflifetm",
+        "instagram": "https://www.instagram.com/splashof.life"
       }
     },
     {
@@ -89491,9 +89491,9 @@
       "extensions": {
         "website": "https://cherry.charity/",
         "description": "Cherry is a donation token that is used to beautify the world through donations.",
+        "instagram": "https://www.instagram.com/cherry.e4net/",
         "blog": "https://blog.naver.com/prologue/PrologueList.nhn?blogId=cherry_official",
-        "facebook": "https://www.facebook.com/cherry.e4net/",
-        "instagram": "https://www.instagram.com/cherry.e4net/"
+        "facebook": "https://www.facebook.com/cherry.e4net/"
       }
     },
     {
@@ -89511,9 +89511,9 @@
       "extensions": {
         "website": "https://cherry.charity/",
         "description": "Cherry is a donation token that is used to beautify the world through donations.",
-        "facebook": "https://www.facebook.com/cherry.e4net/",
         "instagram": "https://www.instagram.com/cherry.e4net/",
-        "blog": "https://blog.naver.com/prologue/PrologueList.nhn?blogId=cherry_official"
+        "blog": "https://blog.naver.com/prologue/PrologueList.nhn?blogId=cherry_official",
+        "facebook": "https://www.facebook.com/cherry.e4net/"
       }
     },
     {
@@ -89985,9 +89985,9 @@
         "medium": "https://konstellation.medium.com/",
         "imageUrl": "https://raw.githubusercontent.com/Konstellation/DARC_token/main/256darctoken.png",
         "description": "Konstellation is a decentralized cross-chain capital markets protocol built on Cosmos. It is aimed to efficiently connect funds and the various components of the asset management industry with investors. Konstellation intends to be the financial services industry hub for Cosmos and other blockchain ecosystems through strategic inter-blockchain communications. The network is powered by DARC tokens, which are required for the Konstellation network’s governance and transactions.",
+        "facebook": "https://www.facebook.com/Konstellation.tech/",
         "linkedin": "https://www.linkedin.com/company/konstellation-tech/",
-        "telegram": "https://t.me/Konstellation",
-        "facebook": "https://www.facebook.com/Konstellation.tech/"
+        "telegram": "https://t.me/Konstellation"
       }
     },
     {
@@ -90360,8 +90360,8 @@
         "twitter": "https://twitter.com/flatlinerp",
         "discord": "https://www.discord.io/flatlinerp",
         "description": "FlatlineRP is a Stylized GTA V roleplay server where players can play in a community based city with their own virtual characters.",
-        "instagram": "https://www.instagram.com/flatlinerp/",
         "facebook": "https://www.facebook.com/Flatline-RP-102075495648442",
+        "instagram": "https://www.instagram.com/flatlinerp/",
         "reddit": "https://www.reddit.com/r/flatline_rp/"
       }
     },
@@ -90474,8 +90474,8 @@
         "discord": "https://discord.gg/nagakingdom",
         "description": "The most entertaining .io game on Solana",
         "facebook": "https://www.facebook.com/NagaKingdomGame",
-        "reddit": "https://www.reddit.com/r/nagakingdom",
-        "telegram": "https://t.me/nagakingdom"
+        "telegram": "https://t.me/nagakingdom",
+        "reddit": "https://www.reddit.com/r/nagakingdom"
       }
     },
     {
@@ -90498,9 +90498,9 @@
         "medium": "https://medium.com/@NagaKingdom",
         "discord": "https://discord.gg/nagakingdom",
         "description": "The most entertaining .io game on Solana",
+        "reddit": "https://www.reddit.com/r/nagakingdom",
         "telegram": "https://t.me/nagakingdom",
-        "facebook": "https://www.facebook.com/NagaKingdomGame",
-        "reddit": "https://www.reddit.com/r/nagakingdom"
+        "facebook": "https://www.facebook.com/NagaKingdomGame"
       }
     },
     {
@@ -90757,10 +90757,10 @@
         "twitter": "https://twitter.com/PartumNFT",
         "github": "https://github.com/PartumNFT/",
         "discord": "https://discord.gg/ynCfkSMfwK",
-        "instagram": "https://www.instagram.com/partumnft/",
-        "telegramAnnouncements": "https://t.me/PartumRiseOfAGladiator",
         "facebook": "https://www.facebook.com/PartumNFT/",
-        "whitepaper": "https://whitepaper.riseofagladiator.com/"
+        "whitepaper": "https://whitepaper.riseofagladiator.com/",
+        "instagram": "https://www.instagram.com/partumnft/",
+        "telegramAnnouncements": "https://t.me/PartumRiseOfAGladiator"
       }
     },
     {
@@ -91761,9 +91761,9 @@
       ],
       "extensions": {
         "website": "https://www.adsl2ef.com/",
-        "facebook": "https://www.facebook.com/adsl.formation.tg",
         "instagram": "https://www.instagram.com/adsl2ef",
-        "youtube": "https://www.youtube.com/channel/UCJnZdPgPwI2rd8_-dfGWOng"
+        "youtube": "https://www.youtube.com/channel/UCJnZdPgPwI2rd8_-dfGWOng",
+        "facebook": "https://www.facebook.com/adsl.formation.tg"
       }
     },
     {
@@ -92269,8 +92269,8 @@
         "twitter": "https://twitter.com/MechaFightClub",
         "discord": "https://discord.gg/mechafightclub",
         "description": "Mechabots live to fight, and they fight to earn BokBoks in MechaFightClub, the biggest fight club in the metaverse! BokBok!",
-        "linkedin": "https://www.linkedin.com/company/irreverentlabs/",
-        "instagram": "https://www.instagram.com/mechafightclub/"
+        "instagram": "https://www.instagram.com/mechafightclub/",
+        "linkedin": "https://www.linkedin.com/company/irreverentlabs/"
       }
     },
     {
@@ -92536,9 +92536,9 @@
       "extensions": {
         "twitter": "https://twitter.com/sipa_social",
         "description": "Integrated foreign exchange payment system.",
+        "instagram": "https://www.instagram.com/sipa_social/",
         "facebook": "https://facebook.com/sipa_social",
-        "telegram": "https://t.me/sipa_social",
-        "instagram": "https://www.instagram.com/sipa_social/"
+        "telegram": "https://t.me/sipa_social"
       }
     },
     {
@@ -92703,9 +92703,9 @@
       ],
       "extensions": {
         "website": "https://www.adsl2ef.com/",
-        "facebook": "https://www.facebook.com/adsl.formation.tg",
+        "instagram": "https://www.instagram.com/adsl2ef",
         "youtube": "https://www.youtube.com/channel/UCJnZdPgPwI2rd8_-dfGWOng",
-        "instagram": "https://www.instagram.com/adsl2ef"
+        "facebook": "https://www.facebook.com/adsl.formation.tg"
       }
     },
     {
@@ -92907,8 +92907,8 @@
       ],
       "extensions": {
         "website": "https://orelcrypto.ru/",
-        "facebook": "https://www.facebook.com/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD-108073031603453/about",
-        "telegram": "https://t.me/otelcrypto"
+        "telegram": "https://t.me/otelcrypto",
+        "facebook": "https://www.facebook.com/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%83%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD-108073031603453/about"
       }
     },
     {
@@ -93647,9 +93647,9 @@
         "website": "https://myquantex.com",
         "twitter": "https://twitter.com/cryptiswap",
         "description": "QTX is the native exchange token on the Quantex (formerly Cryptiswap), which is a global crypto exchange featuring an instant swap platform & an advanced trading platform. Customers choose between taking custody of their own funds on the non-custodial swap platform, or allow us to take custody on the trading platform.",
+        "reddit": "https://www.reddit.com/user/CryptiSwap",
         "blog": "https://blog.myquantex.com",
-        "whitepaper": "https://1drv.ms/w/s!Al2HWrZhIdn3hL0AW2D-LkLo4X9-eA?e=NKN7CT",
-        "reddit": "https://www.reddit.com/user/CryptiSwap"
+        "whitepaper": "https://1drv.ms/w/s!Al2HWrZhIdn3hL0AW2D-LkLo4X9-eA?e=NKN7CT"
       }
     },
     {
@@ -95699,9 +95699,9 @@
       "extensions": {
         "twitter": "https://twitter.com/chiseltoken",
         "discord": "https://discord.gg/STU3w2XtYN",
+        "facebook": "https://www.facebook.com/chiseltoken",
         "instagram": "https://www.instagram.com/chiseltoken/",
-        "reddit": "https://www.reddit.com/r/chiseltoken/",
-        "facebook": "https://www.facebook.com/chiseltoken"
+        "reddit": "https://www.reddit.com/r/chiseltoken/"
       }
     },
     {
@@ -96271,10 +96271,10 @@
         "github": "https://github.com/fyfylabs",
         "medium": "https://fyfy-io.medium.com",
         "discord": "https://discord.gg/6jEMcEVU",
-        "instagram": "https://www.instagram.com/fyfy.official",
+        "facebook": "https://www.facebook.com/fyfy.io",
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/",
-        "facebook": "https://www.facebook.com/fyfy.io"
+        "instagram": "https://www.instagram.com/fyfy.official"
       }
     },
     {
@@ -96295,10 +96295,10 @@
         "github": "https://github.com/fyfylabs",
         "medium": "https://fyfy-io.medium.com",
         "discord": "https://discord.gg/6jEMcEVU",
+        "facebook": "https://www.facebook.com/fyfy.io",
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "instagram": "https://www.instagram.com/fyfy.official",
-        "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/",
-        "facebook": "https://www.facebook.com/fyfy.io"
+        "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       }
     },
     {
@@ -96337,9 +96337,9 @@
         "github": "https://github.com/fyfylabs",
         "medium": "https://fyfy-io.medium.com",
         "discord": "https://discord.gg/6jEMcEVU",
-        "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/",
-        "linkedin": "https://www.linkedin.com/company/fyfy",
         "facebook": "https://www.facebook.com/fyfy.io",
+        "linkedin": "https://www.linkedin.com/company/fyfy",
+        "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/",
         "instagram": "https://www.instagram.com/fyfy.official"
       }
     },
@@ -97176,10 +97176,10 @@
       "extensions": {
         "website": "https://www.finup24.com",
         "description": "Finup is online investment platform",
-        "instagram": "https://www.instagram.com/finup24/",
-        "linkedin": "https://www.linkedin.com/company/finup24/",
         "facebook": "https://www.facebook.com/24finup/",
-        "telegram": "https://t.me/finup_24"
+        "telegram": "https://t.me/finup_24",
+        "instagram": "https://www.instagram.com/finup24/",
+        "linkedin": "https://www.linkedin.com/company/finup24/"
       }
     },
     {
@@ -98019,9 +98019,9 @@
         "website": "https://winerz.com/",
         "twitter": "https://twitter.com/Winerz_official",
         "medium": "https://medium.com/@winerz",
+        "instagram": "https://www.instagram.com/winerz.official/",
         "whitepaper": "https://ico.winerz.com/assets/docs/Winerz-Token-Economics.pdf",
-        "facebook": "https://www.facebook.com/winerz.official",
-        "instagram": "https://www.instagram.com/winerz.official/"
+        "facebook": "https://www.facebook.com/winerz.official"
       }
     },
     {
@@ -98487,8 +98487,8 @@
         "twitter": "https://twitter.com/MTNoutlaws",
         "discord": "https://discord.gg/mnuca9F6",
         "description": "The official currency of the MTN Outlaws.",
-        "facebook": "https://www.facebook.com/mtnoutlaw",
-        "instagram": "https://www.instagram.com/mtnoutlaw"
+        "instagram": "https://www.instagram.com/mtnoutlaw",
+        "facebook": "https://www.facebook.com/mtnoutlaw"
       }
     },
     {
@@ -98881,10 +98881,10 @@
         "twitter": "https://twitter.com/quiztokkr",
         "github": "https://github.com/quiztok",
         "coingeckoId": "quiztok",
-        "instagram": "https://www.instagram.com/quiztok_kr/",
+        "telegram": "https://t.me/QuiztokCS",
         "facebook": "https://www.facebook.com/quiztok.kr",
         "youtube": "https://www.youtube.com/channel/UCtl9jTbXMa43F17zrnr1AeQ",
-        "telegram": "https://t.me/QuiztokCS"
+        "instagram": "https://www.instagram.com/quiztok_kr/"
       }
     },
     {
@@ -99366,13 +99366,13 @@
         "twitter": "https://twitter.com/SteaddC",
         "discord": "https://discord.com/channels/@steaddproject",
         "description": "A project for people that want a reliable Invesimet alternative",
+        "youtube": "https://www.youtube.com/channel/UCKhU0YnQHs2-Hovjs2cLWmw",
         "facebook": "https://www.facebook.com/Steadd-Project-101204732361826",
         "linkedin": "https://www.linkedin.com/in/steadd-coin-692b0a228/",
-        "instagram": "https://www.instagram.com/steaddcoin/",
-        "telegram": "https://t.me/monkeyball_official",
-        "whitepaper": "https://steadd.com/assets/pdfs/whitepaperWeb.pdf",
         "reddit": "https://www.reddit.com/user/steaddcoin",
-        "youtube": "https://www.youtube.com/channel/UCKhU0YnQHs2-Hovjs2cLWmw"
+        "telegram": "https://t.me/monkeyball_official",
+        "instagram": "https://www.instagram.com/steaddcoin/",
+        "whitepaper": "https://steadd.com/assets/pdfs/whitepaperWeb.pdf"
       }
     },
     {
@@ -99440,8 +99440,8 @@
       "extensions": {
         "website": "https://coopcrowd.com",
         "twitter": "https://twitter.com/Coopbitss",
-        "facebook": "https://facebook.com/Coopbit",
-        "instagram": "https://www.instagram.com/CoopBits"
+        "instagram": "https://www.instagram.com/CoopBits",
+        "facebook": "https://facebook.com/Coopbit"
       }
     },
     {
@@ -101016,6 +101016,53 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Souls Token",
+      "symbol": "Souls",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SouN3GpzerkB9tkmybjktAm17Pt4ynrdgU64B4mv8Ye/logo.png",
+      "decimals": 6,
+      "address": "SouN3GpzerkB9tkmybjktAm17Pt4ynrdgU64B4mv8Ye",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.hornsvshalosnft.com/"
+      }
+    },
+    {
+      "name": "NeftWorld",
+      "symbol": "NEWTON",
+      "logoURI": "https://github.com/neftworld/assets/blob/main/neftworld-logo.png",
+      "decimals": 0,
+      "address": "426zJLfE2sV6UkQsYJXQrLkJTZo995ZVZodq1LTMfo7Y",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "YagyaCoin",
+      "symbol": "YC",
+      "logoURI": "https://raw.githubusercontent.com/YagyaMittal-CDC/MySolToken-YagyaCoin/main/logo.png",
+      "decimals": 0,
+      "address": "E2XR53KDCGffnvsEADiRvTshh6SQCokepX3CKnffV2LL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Cloud Coin",
+      "symbol": "CC",
+      "logoURI": "https://raw.githubusercontent.com/cloud-corp/cloucroin-resources/main/CloudCoin.png",
+      "decimals": 0,
+      "address": "4C833zd4QW62PSEAooeaeEeKQg3hbocUJ9wimxLSXUcU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     }
   ]
