@@ -67,12 +67,12 @@
         "coingeckoId": "bitcoin",
         "imageUrl": null,
         "description": null,
-        "source": "sollet",
         "sourceUrl": "https://www.sollet.io/",
-        "currency": "BTC",
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
-        ]
+        ],
+        "currency": "BTC",
+        "source": "sollet"
       }
     },
     {
@@ -136,9 +136,9 @@
         "coingeckoId": "renbtc",
         "imageUrl": null,
         "description": null,
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "source": "renbridge",
         "currency": "BTC",
+        "source": "renbridge",
+        "sourceUrl": "https://bridge.renproject.io/mint",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ]
@@ -173,11 +173,11 @@
         "imageUrl": null,
         "description": null,
         "source": "Cashio",
+        "currency": "USD",
+        "sourceUrl": "https://cashio.app/",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "sourceUrl": "https://cashio.app/",
-        "currency": "USD"
+        ]
       }
     },
     {
@@ -208,10 +208,10 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
+        "source": "Cashio",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "Cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
@@ -247,13 +247,13 @@
         "coingeckoId": "ageur",
         "imageUrl": null,
         "description": "Angle is the first decentralized, capital efficient and over-collateralized stablecoin protocol",
-        "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "EUR",
         "underlyingTokens": [
           "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
-        ]
+        ],
+        "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+        "source": "wormhole-v2",
+        "currency": "EUR"
       }
     },
     {
@@ -283,12 +283,12 @@
         "coingeckoId": "renbtc",
         "imageUrl": null,
         "description": null,
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "source": "renbridge",
+        "currency": "BTC",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "currency": "BTC"
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "source": "renbridge"
       }
     },
     {
@@ -320,13 +320,13 @@
         "coingeckoId": "ftx-token",
         "imageUrl": null,
         "description": null,
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "sourceUrl": "https://www.sollet.io/",
-        "currency": "FTT",
-        "source": "sollet",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
-        ]
+        ],
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
+        "source": "sollet",
+        "currency": "FTT"
       }
     },
     {
@@ -362,10 +362,10 @@
         "underlyingTokens": [
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "currency": "FTT",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "source": "wormhole-v2"
       }
     },
     {
@@ -397,13 +397,13 @@
         "coingeckoId": "ftx-token",
         "imageUrl": null,
         "description": null,
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "sourceUrl": "https://www.sollet.io/",
-        "source": "sollet",
+        "currency": "FTT",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
-        "currency": "FTT"
+        "sourceUrl": "https://www.sollet.io/",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
+        "source": "sollet"
       }
     },
     {
@@ -470,13 +470,13 @@
         "coingeckoId": "ethereum",
         "imageUrl": null,
         "description": null,
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "underlyingTokens": [
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
         ],
-        "source": "wormhole-v2",
-        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-        "currency": "ETH"
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "ETH",
+        "source": "wormhole-v2"
       }
     },
     {
@@ -506,8 +506,8 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
-        "currency": "LUNA",
         "source": "renbridge",
+        "currency": "LUNA",
         "sourceUrl": "https://bridge.renproject.io/mint",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
@@ -544,13 +544,13 @@
         "coingeckoId": "terra-luna",
         "imageUrl": null,
         "description": null,
+        "address": "uluna",
+        "currency": "LUNA",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "currency": "LUNA",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "source": "wormhole-v2",
-        "address": "uluna"
+        "source": "wormhole-v2"
       }
     },
     {
@@ -583,8 +583,8 @@
         "imageUrl": null,
         "description": null,
         "source": "sollet",
-        "sourceUrl": "https://www.sollet.io/",
         "currency": "BTC",
+        "sourceUrl": "https://www.sollet.io/",
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ]
@@ -619,12 +619,12 @@
         "coingeckoId": "ethereum",
         "imageUrl": null,
         "description": null,
-        "source": "sollet",
         "underlyingTokens": [
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
         ],
+        "sourceUrl": "https://www.sollet.io/",
         "currency": "ETH",
-        "sourceUrl": "https://www.sollet.io/"
+        "source": "sollet"
       }
     },
     {
@@ -692,8 +692,8 @@
         "imageUrl": null,
         "description": null,
         "address": "uusd",
-        "source": "wormhole-v2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "source": "wormhole-v2",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
@@ -730,13 +730,13 @@
         "coingeckoId": "terrausd",
         "imageUrl": null,
         "description": null,
-        "currency": "USD",
-        "address": "uusd",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "source": "wormhole-v2",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "source": "wormhole-v2"
+        "address": "uusd",
+        "currency": "USD"
       }
     }
   ]
