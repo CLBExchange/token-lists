@@ -49,8 +49,8 @@
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
         "source": "sollet",
-        "currency": "BTC",
-        "sourceUrl": "https://www.sollet.io/"
+        "sourceUrl": "https://www.sollet.io/",
+        "currency": "BTC"
       }
     },
     {
@@ -225,9 +225,9 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
-        "currency": "FTT",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "sourceUrl": "https://www.sollet.io/",
-        "waterfallbot": "https://bit.ly/FTTwaterfall"
+        "currency": "FTT"
       }
     },
     {
@@ -254,9 +254,9 @@
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
         "source": "wormhole-v2",
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
         "currency": "FTT",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -282,9 +282,9 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "sourceUrl": "https://www.sollet.io/",
-        "currency": "FTT",
-        "waterfallbot": "https://bit.ly/FTTwaterfall"
+        "currency": "FTT"
       }
     },
     {
@@ -487,9 +487,9 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "uusd",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -515,9 +515,9 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "USD",
         "address": "uusd",
-        "currency": "USD"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     }
   ]
