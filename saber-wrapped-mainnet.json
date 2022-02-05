@@ -18,20 +18,8 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "serumV3Usdc": null,
         "coingeckoId": "usd-coin",
-        "imageUrl": null,
-        "description": null,
         "currency": "USD",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -54,24 +42,14 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
         "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
         "coingeckoId": "bitcoin",
-        "imageUrl": null,
-        "description": null,
-        "sourceUrl": "https://www.sollet.io/",
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
         "currency": "BTC",
+        "sourceUrl": "https://www.sollet.io/",
         "source": "sollet"
       }
     },
@@ -89,20 +67,8 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
         "coingeckoId": "tether",
-        "imageUrl": null,
-        "description": null,
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
@@ -122,20 +88,8 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
         "coingeckoId": "renbtc",
-        "imageUrl": null,
-        "description": null,
         "currency": "BTC",
         "source": "renbridge",
         "sourceUrl": "https://bridge.renproject.io/mint",
@@ -158,26 +112,15 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/CashioApp",
-        "github": null,
         "medium": "https://medium.com/@cashioapp",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.com/invite/GmkRRKJkuh",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
-        "source": "Cashio",
         "currency": "USD",
-        "sourceUrl": "https://cashio.app/",
+        "source": "Cashio",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "sourceUrl": "https://cashio.app/"
       }
     },
     {
@@ -194,25 +137,14 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/CashioApp",
-        "github": null,
         "medium": "https://medium.com/@cashioapp",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.com/invite/GmkRRKJkuh",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
         "source": "Cashio",
+        "currency": "USD",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
     },
@@ -234,25 +166,16 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/AngleProtocol",
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/z3kCpTaKMh",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
         "coingeckoId": "ageur",
-        "imageUrl": null,
         "description": "Angle is the first decentralized, capital efficient and over-collateralized stablecoin protocol",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "source": "wormhole-v2",
         "underlyingTokens": [
           "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
         ],
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "source": "wormhole-v2",
         "currency": "EUR"
       }
     },
@@ -269,25 +192,13 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
         "coingeckoId": "renbtc",
-        "imageUrl": null,
-        "description": null,
+        "sourceUrl": "https://bridge.renproject.io/mint",
         "currency": "BTC",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
-        "sourceUrl": "https://bridge.renproject.io/mint",
         "source": "renbridge"
       }
     },
@@ -307,26 +218,16 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
         "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
         "coingeckoId": "ftx-token",
-        "imageUrl": null,
-        "description": null,
+        "currency": "FTT",
+        "source": "sollet",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "sourceUrl": "https://www.sollet.io/",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
-        ],
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "source": "sollet",
-        "currency": "FTT"
+        ]
       }
     },
     {
@@ -346,25 +247,15 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "BoHojHESAv4McZx9gXd1bWTZMq25JYyGz4qL1m5C3nvk",
         "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
         "coingeckoId": "ftx-token",
-        "imageUrl": null,
-        "description": null,
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "currency": "FTT",
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
         "source": "wormhole-v2"
       }
     },
@@ -384,25 +275,15 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "Hr3wzG8mZXNHV7TuL6YqtgfVUesCqMxGYCEyP3otywZE",
         "serumV3Usdc": "2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc",
         "coingeckoId": "ftx-token",
-        "imageUrl": null,
-        "description": null,
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "currency": "FTT",
+        "sourceUrl": "https://www.sollet.io/",
         "underlyingTokens": [
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
-        "sourceUrl": "https://www.sollet.io/",
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "source": "sollet"
       }
     },
@@ -420,24 +301,12 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-        "serumV3Usdc": null,
         "coingeckoId": "usd-coin",
-        "imageUrl": null,
-        "description": null,
-        "currency": "USD",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "currency": "USD"
       }
     },
     {
@@ -457,26 +326,16 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "ch7kmPrtoQUSEPBggcNAvLGiMQkJagVwd3gDYfd8m7Q",
         "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
         "coingeckoId": "ethereum",
-        "imageUrl": null,
-        "description": null,
-        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
         ],
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "ETH",
-        "source": "wormhole-v2"
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "currency": "ETH"
       }
     },
     {
@@ -492,26 +351,13 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
-        "source": "renbridge",
-        "currency": "LUNA",
-        "sourceUrl": "https://bridge.renproject.io/mint",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
-        ]
+        ],
+        "currency": "LUNA",
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "source": "renbridge"
       }
     },
     {
@@ -531,26 +377,15 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
         "coingeckoId": "terra-luna",
-        "imageUrl": null,
-        "description": null,
-        "address": "uluna",
-        "currency": "LUNA",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "underlyingTokens": [
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "source": "wormhole-v2"
+        "source": "wormhole-v2",
+        "currency": "LUNA",
+        "address": "uluna",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -569,22 +404,12 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "C1EuT9VokAKLiW7i2ASnZUvxDoKuKkCpDDeNxAptuNe4",
         "serumV3Usdc": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw",
         "coingeckoId": "bitcoin",
-        "imageUrl": null,
-        "description": null,
-        "source": "sollet",
         "currency": "BTC",
         "sourceUrl": "https://www.sollet.io/",
+        "source": "sollet",
         "underlyingTokens": [
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ]
@@ -606,25 +431,15 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
         "serumV3Usdt": "7dLVkUfBVfCGkFhSXDCq1ukM9usathSgS716t643iFGF",
         "serumV3Usdc": "4tSvZvnbyzHXLMTiFonMyxZoHmFqau1XArcRCVHLZ5gX",
         "coingeckoId": "ethereum",
-        "imageUrl": null,
-        "description": null,
+        "currency": "ETH",
+        "sourceUrl": "https://www.sollet.io/",
+        "source": "sollet",
         "underlyingTokens": [
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
-        ],
-        "sourceUrl": "https://www.sollet.io/",
-        "currency": "ETH",
-        "source": "sollet"
+        ]
       }
     },
     {
@@ -641,20 +456,8 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
         "coingeckoId": "tether",
-        "imageUrl": null,
-        "description": null,
         "currency": "USD",
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -678,25 +481,14 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "coingeckoId": "terrausd",
-        "imageUrl": null,
-        "description": null,
-        "address": "uusd",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "source": "wormhole-v2",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
+        "source": "wormhole-v2",
+        "address": "uusd",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "currency": "USD"
       }
     },
@@ -717,25 +509,14 @@
       "extensions": {
         "website": "https://app.saber.so",
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
         "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK",
         "coingeckoId": "terrausd",
-        "imageUrl": null,
-        "description": null,
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "address": "uusd",
         "source": "wormhole-v2",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
-        "address": "uusd",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "currency": "USD"
       }
     }

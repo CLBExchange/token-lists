@@ -16,20 +16,6 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_cash",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
         "source": "saber",
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
@@ -49,20 +35,6 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_test",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
         "underlyingTokens": [
           "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
@@ -82,20 +54,6 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_pai",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "4ry1pMstKzMJvMZSms62HduTyCbbqkUyrz17x1dajBmL"
@@ -115,20 +73,6 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdt_cash",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
         "underlyingTokens": [
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -148,25 +92,11 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_usdt",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
-        "source": "saber",
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
-        ]
+        ],
+        "source": "saber"
       }
     },
     {
@@ -181,25 +111,11 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/btc",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
-        "twitter": null,
-        "github": null,
-        "medium": null,
-        "tgann": null,
-        "tggroup": null,
-        "discord": null,
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
-        "description": null,
+        "source": "saber",
         "underlyingTokens": [
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
-        ],
-        "source": "saber"
+        ]
       }
     }
   ]

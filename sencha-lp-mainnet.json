@@ -11,28 +11,17 @@
       "decimals": 6,
       "address": "266m5i4PvyqBYooXc1C28xMZ4qPUQzJ9z89Zse8Kg7K1",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Raydium and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -42,28 +31,17 @@
       "decimals": 6,
       "address": "2jupxWKyecRrpBzB3kXoMSNB6mDiYp5nSy61fkrvmDBE",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Port Finance Token and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -73,22 +51,11 @@
       "decimals": 6,
       "address": "2pZmWHGkrgPVUPZSguZquHzQnBrj2rB9ydhV5Re4xMKt",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between LIQ Protocol and Cashio Dollar",
         "source": "sencha",
         "underlyingTokens": [
@@ -104,22 +71,11 @@
       "decimals": 6,
       "address": "31U6DouqY4y924DgyQcg1CFvQhzbKLGx6UMdExEoxwRb",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and PAI (Parrot USD)",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -135,28 +91,17 @@
       "decimals": 9,
       "address": "326kJGVYXqdsdkQmZaKqUeW3ghDkFaG5nguT3nmFM27H",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between SolChicks and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -166,28 +111,17 @@
       "decimals": 6,
       "address": "32DyyM1nXeLQz5Mh5HRBRgLR8R9Ypx1RnQN3N77WhLGh",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cash Cow and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -197,28 +131,17 @@
       "decimals": 6,
       "address": "3Lu7jF24e9YQzQeFZdK9R1iCHTgJCeUDEQ3PjtWm2Db5",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Apricot and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -228,28 +151,17 @@
       "decimals": 9,
       "address": "3sCiVcvTUYNfL5eTi3948DAoZt8hYwRZSdLPZS9CrLoG",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between WipeMyAss and SOLLAMA",
+        "source": "sencha",
         "underlyingTokens": [
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
           "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -259,22 +171,11 @@
       "decimals": 9,
       "address": "45BX3xr8WMtgiJDy8Dam6REDFKgxxSmJLLk3pqkHfToF",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Aogv6j1wWiBAZcqRNN1Y89eozda2ke6rkc4CYy7c4iCi/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Jungle and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -290,28 +191,17 @@
       "decimals": 9,
       "address": "46XybN9eqWxBuCGfHcY2tAo3Bpk8nEdKZmFbDqWDE7YL",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRT (Parrot Protocol) and Marinade staked SOL (mSOL)",
+        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -321,28 +211,17 @@
       "decimals": 6,
       "address": "47sYLBP7ZXdVx1SFtfBYqxnF17VwpTeszmPEQKfs6pNy",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between MIX and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -352,28 +231,17 @@
       "decimals": 6,
       "address": "4CsomP6td9X9rQM3RiXa2E8vwinpRU7hVGhTToWjj6fe",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and LUNA (Wormhole)",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -383,22 +251,11 @@
       "decimals": 9,
       "address": "4QsBCLjEYK3ZKkv7e2m2XZmbWYSwDFwEWcoTfEj9w1Q7",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between BITXBIT and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -414,28 +271,17 @@
       "decimals": 6,
       "address": "4Us9bKkEDqBkyULP6MaTFsdRArVvwBvDYfQv1UoBuFWD",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between KIN and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -445,28 +291,17 @@
       "decimals": 6,
       "address": "4VJE3xV4ns51d59FyESur3x8tKcXJ37F9wBcJhziz3Ay",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between MIX and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -476,22 +311,11 @@
       "decimals": 9,
       "address": "4iq5xuk6aFhsD9xiQCgzcCFYVGH9g6f9do2brD3mz2mA",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between USD Coin and FUMoney",
         "source": "sencha",
         "underlyingTokens": [
@@ -507,22 +331,11 @@
       "decimals": 6,
       "address": "4jUWmpFtk6LTekCWgqjWNCUPSMXC4pbbfbAL2evNMUZZ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Pole Aggregator Governance Token and Cashio Dollar",
         "source": "sencha",
         "underlyingTokens": [
@@ -538,28 +351,17 @@
       "decimals": 9,
       "address": "4mh3QMN1PedXQHBeem8YsFxbuomSmkpyKQV9sCh7ZGVX",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Socean staked SOL and aSOL Aggregate Solana Stake Pool",
-        "source": "sencha",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -569,28 +371,17 @@
       "decimals": 9,
       "address": "4ouWhLaau5CCHabeN1QUDgot3BCKGhv94hnuhcxpPELa",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Aldrin and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -600,22 +391,11 @@
       "decimals": 6,
       "address": "4rnis1P7gAgqjuS6B952LdvgZoZyq4PJgboMHCAreFPp",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Almond and USDT",
         "underlyingTokens": [
           "ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw",
@@ -631,28 +411,17 @@
       "decimals": 8,
       "address": "53WXyJ255MeQWumdF8bQ73AYKf4L71bNidzi7juux3oa",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Star Atlas DAO and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -662,28 +431,17 @@
       "decimals": 6,
       "address": "5Am6XVtZoG7YkUuPBtYeY1MfWFc7tQz6k7UxB5tsWfxz",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Cashio Dollar",
+        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -693,28 +451,17 @@
       "decimals": 6,
       "address": "5H2rPdGbwCf5ipQvGwqdcfrCqBaD2ourWKvN9sdxybmE",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and LUNA (Wormhole)",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -724,28 +471,17 @@
       "decimals": 6,
       "address": "5P1cZx1aynGSk2F4q2BiAxceKRNA8Usb3u25GLnMtrM1",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Serum and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -755,28 +491,17 @@
       "decimals": 8,
       "address": "5siSmvBcp8FUSJixcSWSWqBhZqbXhCpcMdrhdPpQoYX9",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Star Atlas and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -786,28 +511,17 @@
       "decimals": 6,
       "address": "68qg4dYU5Q1DpCTjDec4tq1ZSMzRUBpmXrZwTgUNPvDJ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8/CXVZgdAGahKyZaTegfJLq5TwjbJkJdSjM3xJHgnSfH26",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between FROG and Frog Fork",
+        "source": "sencha",
         "underlyingTokens": [
           "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
           "CXVZgdAGahKyZaTegfJLq5TwjbJkJdSjM3xJHgnSfH26"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -817,22 +531,11 @@
       "decimals": 6,
       "address": "6EnmjputUoatY19fpXCi7RXpJk3NweqdXJ7mLY4aYgfS",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between UST (Wormhole) and Cashio Dollar",
         "source": "sencha",
         "underlyingTokens": [
@@ -848,22 +551,11 @@
       "decimals": 9,
       "address": "6LiTdPQuNLP5G9V2GL8iddgdWJVaXFeD4yWT2H4GjR7u",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cash Cow and CropperFinance",
         "source": "sencha",
         "underlyingTokens": [
@@ -879,28 +571,17 @@
       "decimals": 9,
       "address": "6QUUMy9CxjyhHbfh1YWP4iR9WwqYUMbwkB4aoLJahWp9",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/So11111111111111111111111111111111111111112/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Wrapped SOL and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -910,22 +591,11 @@
       "decimals": 9,
       "address": "713vrx2zaAH29Y7ufVYkW7fFzFPWzAnWa14aree2ghtr",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/So11111111111111111111111111111111111111112/3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Wrapped SOL and 3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW",
         "source": "sencha",
         "underlyingTokens": [
@@ -941,28 +611,17 @@
       "decimals": 9,
       "address": "7SmU6wSz7GUnuguk2yYAegx7NHdXc6rc7WoZHCo3m9VS",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/So11111111111111111111111111111111111111112/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Wrapped SOL and aSOL Aggregate Solana Stake Pool",
+        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -972,22 +631,11 @@
       "decimals": 9,
       "address": "7WQvnVb4ifd1v76Rjb3vFsjJb6JXy9BSUzh9Wx1UgDsZ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH/CBPfSGeSf76o3r4628k7BcZ5YBNxHh7hkCzu4AmVgk2Q",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Baby Samo Coin and KITTYCOIN SOL",
         "underlyingTokens": [
           "Uuc6hiKT9Y6ASoqs2phonGGw2LAtecfJu9yEohppzWH",
@@ -1003,22 +651,11 @@
       "decimals": 9,
       "address": "7cSjQTVMJtKmuzFthCPuDm9wPVQxoKcZhZjhgcFY8Pqz",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Marinade staked SOL (mSOL) and Lido Staked SOL",
         "source": "sencha",
         "underlyingTokens": [
@@ -1034,28 +671,17 @@
       "decimals": 6,
       "address": "7cVqq6REon7S9mf9PAn9Qq4iQ3kGfguwfnFsCW4bZ7pR",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between 3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "3F4VrEeCPVqs9SPzBDRs8u9A53LZ3ZAwvuy3DeyEv28J",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1065,28 +691,17 @@
       "decimals": 9,
       "address": "7n8y46aW9ytsQ7yYygMJXv5d9uZNUTAp9z7t5uYoTUxe",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and aSOL Aggregate Solana Stake Pool",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1096,22 +711,11 @@
       "decimals": 9,
       "address": "7rUHCLGt3w3DQUs5BTQ6yh2aT4AbwxvY8dxMoz6VWSij",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Marinade staked SOL (mSOL) and USD Coin",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
@@ -1127,22 +731,11 @@
       "decimals": 6,
       "address": "838n9DR68cFk8tkSyqSjBU8Jp3LgQxoPZqiDkCG98ouZ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Apricot and Cashio Dollar",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
@@ -1158,28 +751,17 @@
       "decimals": 6,
       "address": "88MismC8Nzz1dzBF8EPGEYABEiTRA3mZXB8QijGETKVQ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Pole Aggregator Governance Token and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1189,22 +771,11 @@
       "decimals": 9,
       "address": "8D8GYvPNBQHva8m12cSSyAiTtTGhPX92TmBEwcVvZyE2",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Waggle Network and CropperFinance",
         "source": "sencha",
         "underlyingTokens": [
@@ -1220,22 +791,11 @@
       "decimals": 6,
       "address": "8epzoncYWczJojAeQg4c4pgeygtWvYpcCVaRSZMR8oJ4",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and USDT",
         "source": "sencha",
         "underlyingTokens": [
@@ -1251,22 +811,11 @@
       "decimals": 6,
       "address": "8ha5VgJBqGzpTemrwdmzxpd3Xjx4TDAWkziPtnJngn1L",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/3RTGL7gPF4V1ns1AeGFApT7cBEGVDfmJ77DqQi9AC6uG",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Orca and Orca Aquafarm Token (mSOL/SOL)",
         "underlyingTokens": [
           "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
@@ -1282,22 +831,11 @@
       "decimals": 6,
       "address": "8pYpdVL6UegmdXpnaE1sa6XPmkvsxcELei2Bdg57niq8",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between MatrixETF DAO Finance and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1313,22 +851,11 @@
       "decimals": 6,
       "address": "939g8z5TvbePCKBFrXtPCWAkUrZfunKuHnxCsfUb2wdB",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRISM and Cashio Dollar",
         "underlyingTokens": [
           "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
@@ -1344,22 +871,11 @@
       "decimals": 6,
       "address": "9bXeK5G4x3xVRgki8Jq5t46xaHgsGCMbgafKY6ZLB7hd",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between SolDoge and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1375,22 +891,11 @@
       "decimals": 6,
       "address": "9mVNZD6woXAbDHiSQEaU51FqjePiyVjhPMgUudq2vLu6",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Wrapped Ethereum (Sollet) and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1406,28 +911,17 @@
       "decimals": 9,
       "address": "9qCyVjDUq5Jh76a5KAVtz8BXxj8fNcXjnDf4yLe5zdAa",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and OOGI",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1437,28 +931,17 @@
       "decimals": 6,
       "address": "9wMWJ5vBb8SZqvGo2xK436v48PiYC7UUPBLy4n5Rwo9d",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh/9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between COPE and GOD",
+        "source": "sencha",
         "underlyingTokens": [
           "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
           "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1468,22 +951,11 @@
       "decimals": 9,
       "address": "9wo49LU3oVwA3mgKPi5La4enNN61rVVxqtsiwHSk8BFq",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between UST (Wormhole) and FUMoney",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
@@ -1499,22 +971,11 @@
       "decimals": 6,
       "address": "A647RiwwztA283q5XmTb5iqodbdmHRYJe9QmpFbrmfxq",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between USD Coin and Bonfida",
         "source": "sencha",
         "underlyingTokens": [
@@ -1530,22 +991,11 @@
       "decimals": 9,
       "address": "A9HECM7Yjj8YvR22SfcZcknNRZamk7ZaW9FMEcNNc8Ki",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and daoSOL Token",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -1561,22 +1011,11 @@
       "decimals": 6,
       "address": "ANiQnDGWvzFm8V9gRLY8DJ3g1BStDvawGfUmSSxeL4XB",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and USDT",
         "source": "sencha",
         "underlyingTokens": [
@@ -1592,22 +1031,11 @@
       "decimals": 6,
       "address": "ATZhKnCURxLM56VosM54rKS4NVKgW8g311gf1ymPdA25",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between LIQ Protocol and USD Coin",
         "underlyingTokens": [
           "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
@@ -1623,22 +1051,11 @@
       "decimals": 9,
       "address": "ATfPtoJnRtzrRq6ax5xHubMH4opzYuxjzwwihsWvy1To",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between WipeMyAss and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1654,22 +1071,11 @@
       "decimals": 6,
       "address": "AcndU7j1As7HKBEfdgHtiL2nELAdECp46QwPfT8fzLJV",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRT (Parrot Protocol) and yPRT (Parrot Yield Token)",
         "source": "sencha",
         "underlyingTokens": [
@@ -1685,22 +1091,11 @@
       "decimals": 6,
       "address": "AkXTCuqBDdxHuN1jGrYW7pQTQX9RsGNGmN2FcaMjY3M6",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between USD Coin and Dexlab",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -1716,22 +1111,11 @@
       "decimals": 6,
       "address": "BEfn7GEjr9Vh8mBHVPkntj2tW39zNGFS32fgCDneyXui",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Almond and USD Coin",
         "underlyingTokens": [
           "ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw",
@@ -1747,22 +1131,11 @@
       "decimals": 9,
       "address": "BKg8KJQChMagaooNr26h3yWJDQJxJrhtcDx4juGswdzU",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Step and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1778,28 +1151,17 @@
       "decimals": 6,
       "address": "BMghsJp5CiBLg16o2paBuPVJ2xZZndLCf3WhUTxoABwx",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and Cash Cow",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1809,28 +1171,17 @@
       "decimals": 6,
       "address": "BU168umhuC2Vp82uS1rxw3oS96FqqoKoa1xMi1Wz7H4Q",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and Saber Protocol Token",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1840,28 +1191,17 @@
       "decimals": 8,
       "address": "BbEM8ck2r54sZghJ8Za2hcx1Vs2NZ32oTuUc7AUxqpjB",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Grape and Star Atlas",
+        "source": "sencha",
         "underlyingTokens": [
           "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1871,28 +1211,17 @@
       "decimals": 6,
       "address": "BccZvKS5TNZMKswJ9DmFQuqLSZkNH5wmbANm2rnBirjZ",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Grape and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1902,22 +1231,11 @@
       "decimals": 6,
       "address": "BzZRM9HciRcgWNCjF1UdiYnHiNx6YAjuzcinVFL9CKYw",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and Cashio Dollar",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
@@ -1933,28 +1251,17 @@
       "decimals": 9,
       "address": "CKMV6z8yEkGdKeap6GhkjUHH3K2oEDaWBgJsAcq6TXqs",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between FUMoney and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1964,22 +1271,11 @@
       "decimals": 6,
       "address": "Cfe2sKKsN8UGRJdXLtzVNodEyQnAGQTB4zZMKyw8o1eN",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cheems and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -1995,28 +1291,17 @@
       "decimals": 6,
       "address": "CiCUp9C9jwvjDjtTeshp5Jq7koosuf5HPrsJgPzTPaDY",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Apricot and PAI (Parrot USD)",
-        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2026,28 +1311,17 @@
       "decimals": 9,
       "address": "D3ZFHTU3AkXNTjXuAWCqzf1W8BrHEAkHSnCKQohkPngB",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between SolYard Finance and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2057,22 +1331,11 @@
       "decimals": 6,
       "address": "DFwa5hqvx8onwfctB1rm4VjybvVghMSU5SDQp84GLtRU",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -2088,22 +1351,11 @@
       "decimals": 6,
       "address": "DLrma6LaanMZScsQM4EwbBqF2p1NE1Sg9sANZeWey48n",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Raydium and USDT",
         "underlyingTokens": [
           "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
@@ -2119,28 +1371,17 @@
       "decimals": 6,
       "address": "DNffg3BPM2QkyQ22fWcF2L69y299juWxacTcr7nzUqRg",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Raydium LP Token V4 (RAY-SOL)",
+        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2150,22 +1391,11 @@
       "decimals": 9,
       "address": "DUmoJAz7pMvam4j24eZo37b47PkrQ3Rh2i8fJ6fT7T6w",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Saber Wrapped CASH (9 decimals) and Saber Wrapped USD Coin (9 decimals)",
         "underlyingTokens": [
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
@@ -2181,22 +1411,11 @@
       "decimals": 9,
       "address": "DrTWeLYqowqCFJFWP3obj3GNdoyG9u32Tejx4esDfntB",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Socean staked SOL and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -2212,22 +1431,11 @@
       "decimals": 9,
       "address": "E5xBDxWuVE5jkLuHX83NGAFny5wHHc1N4iYVfY3R6woD",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Super Mario and aSOL Aggregate Solana Stake Pool",
         "underlyingTokens": [
           "7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E",
@@ -2243,28 +1451,17 @@
       "decimals": 6,
       "address": "Ec3R2YQnbQ7T4NHiTGsHYG7FB3pCivmiBwGv7ggJUPda",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Solanium and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2274,28 +1471,17 @@
       "decimals": 6,
       "address": "EoDfqm3vYXGic9UUFEoxLZcAqJDfw533iUMc68SnXkfY",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x/Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRISM and MonkeyBucks",
+        "source": "sencha",
         "underlyingTokens": [
           "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
           "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2305,22 +1491,11 @@
       "decimals": 6,
       "address": "FKZZ9yHwgHSXgwhq1AcWSFiHKGegzoeLeJqDtNSFjAUd",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between USD Coin and USDT",
         "source": "sencha",
         "underlyingTokens": [
@@ -2336,28 +1511,17 @@
       "decimals": 9,
       "address": "FKrNnnwe4yGL8jhw45gDEvgZuksw8LHFDZqBr11Yrtby",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and Aldrin",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2367,28 +1531,17 @@
       "decimals": 9,
       "address": "FYQ3tQJBX8bGRPjBKEKeNuwwxxSWqpZFiX7kLggdU5QR",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRT (Parrot Protocol) and Solana INU",
+        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2398,28 +1551,17 @@
       "decimals": 6,
       "address": "FiPZ56Kfsy5RLFwa9qKUbmaBM1yReEELYgrjkB8zfBay",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Wrapped USDC (Allbridge from Polygon) and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2429,28 +1571,17 @@
       "decimals": 6,
       "address": "FsKmofcv7bjhUSG7jTsWc8TJq2vs4jUwkXLt5vr31UXD",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Cash Cow",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2460,22 +1591,11 @@
       "decimals": 6,
       "address": "Fucjn648JkLme1SWqRwwrMxW6WLv8jYzqa72PrcxCAAe",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Mercurial and USD Coin",
         "underlyingTokens": [
           "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
@@ -2491,22 +1611,11 @@
       "decimals": 9,
       "address": "Fyq4FUcR4GZ1T96mHk8XEdpghRjhP8pm8eZUubEkWsAg",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and Aldrin",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
@@ -2522,22 +1631,11 @@
       "decimals": 6,
       "address": "GJy3LapgQ42Pm35PZxrQkZxKtXh64G6FbnvgQVM8P3dP",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between PRT (Parrot Protocol) and Cash Cow",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
@@ -2553,28 +1651,17 @@
       "decimals": 6,
       "address": "H3Vw4Dio5eVjGsdLkTeJNyawqj6yb6XQLmGU7jKmP97U",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Larix and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2584,28 +1671,17 @@
       "decimals": 6,
       "address": "H7Y9bcGK95c8tnFc2k6jnLJESkkCTukshrDTJMvHjpTp",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between yPRT (Parrot Yield Token) and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2615,28 +1691,17 @@
       "decimals": 6,
       "address": "HLoQKubkZhiX85CxFzQQpc9CseAgnzrijsGqmhG73Rs8",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2646,28 +1711,17 @@
       "decimals": 6,
       "address": "HP5kA7SMzDjrjrtn37q9XgGYmqjRN4YhmjykRLU57hTa",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Orca and Apricot",
-        "source": "sencha",
         "underlyingTokens": [
           "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2677,28 +1731,17 @@
       "decimals": 9,
       "address": "HTok7GKwERfuLDgSf4aDr5efW5EmoDjrJusFL9cW6QEM",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between USDT and Genopets",
+        "source": "sencha",
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
           "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2708,22 +1751,11 @@
       "decimals": 9,
       "address": "HWfBfY3Nb5VxmBfJG5po4nD2iMHdRnjxeDhYds4LRQUM",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh/DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between DeFi Land and BITXBIT",
         "underlyingTokens": [
           "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
@@ -2739,22 +1771,11 @@
       "decimals": 6,
       "address": "HeD4bbYwrsb5g5ieS2QhXGSFAUDWrrVX5cjm29PAqLic",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Serum and USDT",
         "underlyingTokens": [
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
@@ -2770,22 +1791,11 @@
       "decimals": 6,
       "address": "HiCxJLxn5h4XemBPW8gDfMhTTj8kMd1BBjLUqMDaKNFS",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cyclos and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -2801,22 +1811,11 @@
       "decimals": 8,
       "address": "HpvNhPVbRHVFQQFYEMnnBvoLBpGchPiqDjVmyv98Ua19",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Wormhole)",
         "source": "sencha",
         "underlyingTokens": [
@@ -2832,28 +1831,17 @@
       "decimals": 9,
       "address": "J31cZNCCAvZHTK6JaGv5MqPs6HYK96UHhTjkxQhuADHt",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Degen and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2863,28 +1851,17 @@
       "decimals": 6,
       "address": "J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and Cash Cow",
+        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2894,28 +1871,17 @@
       "decimals": 8,
       "address": "NS9AvcE9zDDUjS7xWpeyNM5YKLaE4vPEgxxjXdP4HnE",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Star Atlas and Cashio Dollar",
+        "source": "sencha",
         "underlyingTokens": [
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2925,28 +1891,17 @@
       "decimals": 9,
       "address": "SUkx5CnneB2jd7YHqYvdiKqbu2rsZscSwLuKnn16GmU",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between aSOL Aggregate Solana Stake Pool and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2956,28 +1911,17 @@
       "decimals": 9,
       "address": "TKSTkhdU3ABrXqJAMwFscYCdZs9pC3ozzaVY4BsQuPV",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Samoyed Coin and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2987,22 +1931,11 @@
       "decimals": 6,
       "address": "TjyU3baVpheseW8WC17sCFXsJUZRNCh1nGhku9h5mUn",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Apricot and USD Coin",
         "source": "sencha",
         "underlyingTokens": [
@@ -3018,28 +1951,17 @@
       "decimals": 9,
       "address": "Xb6ViPcvMVM4QaU96sk9BtwKRP8f6o9moJUkVYe8auL",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko/9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between Solana INU and WipeMyAss",
-        "source": "sencha",
         "underlyingTokens": [
           "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -3049,28 +1971,17 @@
       "decimals": 9,
       "address": "jXWR3mBofnAU1Gv4URvYTu3Yedkv7JZA8zHJzxXdzeA",
       "chainId": 101,
-      "tags": null,
       "extensions": {
         "website": "https://sencha.so/#/pool/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
-        "bridgeContract": null,
-        "assetContract": null,
-        "explorer": null,
         "twitter": "https://twitter.com/SenchaDEX",
-        "github": null,
         "medium": "https://medium.com/senchadex",
-        "tgann": null,
-        "tggroup": null,
         "discord": "https://discord.gg/aF9USSwG33",
-        "serumV3Usdt": null,
-        "serumV3Usdc": null,
-        "coingeckoId": null,
-        "imageUrl": null,
         "description": "Sencha LP token between aSOL Aggregate Solana Stake Pool and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     }
   ]
