@@ -2,69 +2,45 @@
   "name": "Quarry Token List (devnet)",
   "logoURI": "https://raw.githubusercontent.com/QuarryProtocol/rewarder-list/master/icon.png",
   "tags": {
-    "ethereum": {
-      "name": "ethereum",
-      "description": "Asset bridged from ethereum"
-    },
-    "saber-mkt-luna": {
-      "name": "saber-mkt-luna",
-      "description": "Token which trades against other representations of LUNA."
-    },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
-    },
     "nft": {
       "name": "nft",
       "description": "Non-fungible token"
     },
-    "saber-mkt-usd": {
-      "name": "saber-mkt-usd",
-      "description": "Token which trades against other representations of USD."
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
-    "saber-mkt-eur": {
-      "name": "saber-mkt-eur",
-      "description": "Token which trades against other representations of EUR."
+    "wormhole-v2": {
+      "name": "wormhole-v2",
+      "description": "Wormhole V2 asset."
     },
     "saber-mkt-ftt": {
       "name": "saber-mkt-ftt",
       "description": "Token which trades against other representations of FTT."
     },
-    "saber-mkt-sol": {
-      "name": "saber-mkt-sol",
-      "description": "Token which trades against other representations of SOL."
-    },
     "bull": {
       "name": "bull",
       "description": "Leveraged Bull asset"
+    },
+    "wormhole-v1": {
+      "name": "wormhole-v1",
+      "description": "Wormhole V1 asset."
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
     },
     "saber-mkt-eth": {
       "name": "saber-mkt-eth",
       "description": "Token which trades against other representations of ETH."
     },
-    "tokenized-stock": {
-      "name": "tokenized-stock",
-      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
     },
     "wrapped-sollet": {
       "name": "wrapped-sollet",
       "description": "Asset wrapped using sollet bridge"
-    },
-    "saber-dec-wrapped": {
-      "name": "saber-dec-wrapped",
-      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
-    },
-    "saber-mkt-btc": {
-      "name": "saber-mkt-btc",
-      "description": "Token which trades against other representations of BTC."
-    },
-    "bear": {
-      "name": "bear",
-      "description": "Leveraged Bear asset"
     },
     "security-token": {
       "name": "security-token",
@@ -74,37 +50,61 @@
       "name": "saber-mkt-srm",
       "description": "Token which trades against other representations of SRM."
     },
-    "saber-hidden": {
-      "name": "saber-hidden",
-      "description": "Hidden from main Saber UI."
+    "saber-mkt-usd": {
+      "name": "saber-mkt-usd",
+      "description": "Token which trades against other representations of USD."
     },
-    "saber-stableswap-lp": {
-      "name": "saber-stableswap-lp",
-      "description": "Saber StableSwap LP token."
-    },
-    "stablecoin": {
-      "name": "stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "saber-mkt-eur": {
+      "name": "saber-mkt-eur",
+      "description": "Token which trades against other representations of EUR."
     },
     "saber-mkt-try": {
       "name": "saber-mkt-try",
       "description": "Token which trades against other representations of TRY."
     },
-    "utility-token": {
-      "name": "utility-token",
-      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
+    "saber-stableswap-lp": {
+      "name": "saber-stableswap-lp",
+      "description": "Saber StableSwap LP token."
     },
-    "wormhole-v1": {
-      "name": "wormhole-v1",
-      "description": "Wormhole V1 asset."
+    "saber-mkt-luna": {
+      "name": "saber-mkt-luna",
+      "description": "Token which trades against other representations of LUNA."
     },
-    "wormhole-v2": {
-      "name": "wormhole-v2",
-      "description": "Wormhole V2 asset."
+    "saber-mkt-btc": {
+      "name": "saber-mkt-btc",
+      "description": "Token which trades against other representations of BTC."
     },
-    "wrapped": {
-      "name": "wrapped",
-      "description": "Asset wrapped using wormhole bridge"
+    "saber-mkt-sol": {
+      "name": "saber-mkt-sol",
+      "description": "Token which trades against other representations of SOL."
+    },
+    "saber-dec-wrapped": {
+      "name": "saber-dec-wrapped",
+      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "tokenized-stock": {
+      "name": "tokenized-stock",
+      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "saber-hidden": {
+      "name": "saber-hidden",
+      "description": "Hidden from main Saber UI."
     }
   },
   "timestamp": "2022-02-05T08:12:19.303Z",
