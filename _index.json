@@ -7,5 +7,7 @@
   "saber-wrapped-devnet",
   "sunny-pool-mainnet",
   "sunny-pool-devnet",
+  "quarry-mainnet",
+  "quarry-devnet",
   "solana"
 ]
