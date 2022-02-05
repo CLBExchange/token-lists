@@ -16,11 +16,11 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/usdc_cash",
-        "source": "saber",
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "saber"
       }
     },
     {
@@ -111,11 +111,11 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/btc",
-        "source": "saber",
         "underlyingTokens": [
           "Ren3RLPCG6hpKay86d2fQccQLuGG331UNxwn2VTw3GJ",
           "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs"
-        ]
+        ],
+        "source": "saber"
       }
     }
   ]

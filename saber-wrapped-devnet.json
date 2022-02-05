@@ -17,10 +17,10 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "currency": "BTC",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
-        ]
+        ],
+        "currency": "BTC"
       }
     }
   ]

@@ -17,11 +17,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Raydium and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -57,11 +57,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between LIQ Protocol and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -157,11 +157,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between WipeMyAss and SOLLAMA",
-        "source": "sencha",
         "underlyingTokens": [
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
           "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -177,11 +177,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Jungle and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "Aogv6j1wWiBAZcqRNN1Y89eozda2ke6rkc4CYy7c4iCi",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -197,11 +197,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between PRT (Parrot Protocol) and Marinade staked SOL (mSOL)",
-        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -257,11 +257,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between BITXBIT and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -317,11 +317,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between USD Coin and FUMoney",
-        "source": "sencha",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -337,11 +337,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Pole Aggregator Governance Token and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -377,11 +377,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Aldrin and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -437,11 +437,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Saber Protocol Token and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -477,11 +477,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Serum and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -517,11 +517,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between FROG and Frog Fork",
-        "source": "sencha",
         "underlyingTokens": [
           "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
           "CXVZgdAGahKyZaTegfJLq5TwjbJkJdSjM3xJHgnSfH26"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -537,11 +537,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between UST (Wormhole) and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -557,11 +557,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cash Cow and CropperFinance",
-        "source": "sencha",
         "underlyingTokens": [
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -577,11 +577,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Wrapped SOL and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -597,11 +597,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Wrapped SOL and 3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW",
-        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -617,11 +617,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Wrapped SOL and aSOL Aggregate Solana Stake Pool",
-        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -657,11 +657,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Marinade staked SOL (mSOL) and Lido Staked SOL",
-        "source": "sencha",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -777,11 +777,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Waggle Network and CropperFinance",
-        "source": "sencha",
         "underlyingTokens": [
           "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -797,11 +797,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cashio Dollar and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -837,11 +837,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between MatrixETF DAO Finance and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "ALQ9KMWjFmxVbew3vMkJj3ypbAKuorSgGst6svCHEe2z",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -877,11 +877,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between SolDoge and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -897,11 +897,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Wrapped Ethereum (Sollet) and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -937,11 +937,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between COPE and GOD",
-        "source": "sencha",
         "underlyingTokens": [
           "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
           "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -977,11 +977,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between USD Coin and Bonfida",
-        "source": "sencha",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1017,11 +1017,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Saber Protocol Token and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1057,11 +1057,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between WipeMyAss and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1077,11 +1077,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between PRT (Parrot Protocol) and yPRT (Parrot Yield Token)",
-        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1137,11 +1137,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Step and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1197,11 +1197,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Grape and Star Atlas",
-        "source": "sencha",
         "underlyingTokens": [
           "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1217,11 +1217,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Grape and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1277,11 +1277,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cheems and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1337,11 +1337,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Sunny Governance Token and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1377,11 +1377,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Saber Protocol Token and Raydium LP Token V4 (RAY-SOL)",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1417,11 +1417,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Socean staked SOL and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1457,11 +1457,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Solanium and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1477,11 +1477,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between PRISM and MonkeyBucks",
-        "source": "sencha",
         "underlyingTokens": [
           "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
           "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1497,11 +1497,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between USD Coin and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1537,11 +1537,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between PRT (Parrot Protocol) and Solana INU",
-        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1657,11 +1657,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Larix and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1677,11 +1677,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between yPRT (Parrot Yield Token) and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1697,11 +1697,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cashio Dollar and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1737,11 +1737,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between USDT and Genopets",
-        "source": "sencha",
         "underlyingTokens": [
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
           "GENEtH5amGSi8kHAtQoezp1XEXwZJ8vcuePYnXdKrMYz"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1797,11 +1797,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cyclos and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1817,11 +1817,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cashio Dollar and Lido DAO Token (Wormhole)",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1837,11 +1837,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Degen and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1857,11 +1857,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Cashio Dollar and Cash Cow",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1877,11 +1877,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Star Atlas and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1897,11 +1897,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between aSOL Aggregate Solana Stake Pool and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1937,11 +1937,11 @@
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
         "description": "Sencha LP token between Apricot and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
