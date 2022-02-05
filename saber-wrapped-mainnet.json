@@ -174,9 +174,9 @@
           "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
         ],
         "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "currency": "EUR",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "currency": "EUR"
       }
     },
     {
@@ -255,8 +255,8 @@
         ],
         "source": "wormhole-v2",
         "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "FTT"
+        "currency": "FTT",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -282,8 +282,8 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
-        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "currency": "FTT",
+        "waterfallbot": "https://bit.ly/FTTwaterfall",
         "sourceUrl": "https://www.sollet.io/"
       }
     },
@@ -334,8 +334,8 @@
         ],
         "source": "wormhole-v2",
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "ETH"
+        "currency": "ETH",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -356,8 +356,8 @@
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ],
         "source": "renbridge",
-        "currency": "LUNA",
-        "sourceUrl": "https://bridge.renproject.io/mint"
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "currency": "LUNA"
       }
     },
     {
@@ -383,8 +383,8 @@
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
         "source": "wormhole-v2",
-        "address": "uluna",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "address": "uluna",
         "currency": "LUNA"
       }
     },
@@ -411,8 +411,8 @@
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
         "source": "sollet",
-        "sourceUrl": "https://www.sollet.io/",
-        "currency": "BTC"
+        "currency": "BTC",
+        "sourceUrl": "https://www.sollet.io/"
       }
     },
     {
@@ -438,8 +438,8 @@
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
         ],
         "source": "sollet",
-        "currency": "ETH",
-        "sourceUrl": "https://www.sollet.io/"
+        "sourceUrl": "https://www.sollet.io/",
+        "currency": "ETH"
       }
     },
     {
@@ -487,9 +487,9 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
+        "currency": "USD",
         "address": "uusd",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "USD"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -516,8 +516,8 @@
         ],
         "source": "wormhole-v2",
         "address": "uusd",
-        "currency": "USD",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "USD"
       }
     }
   ]
