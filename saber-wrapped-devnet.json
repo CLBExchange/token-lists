@@ -31,10 +31,10 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
-        "currency": "BTC",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
-        ]
+        ],
+        "currency": "BTC"
       }
     }
   ]

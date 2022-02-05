@@ -30,11 +30,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
-        "source": "saber",
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "saber"
       }
     },
     {
@@ -63,11 +63,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
-        "source": "saber",
         "underlyingTokens": [
           "4QgnWUPQmfGB5dTDCcc4ZFeZDK7xNVhCUFoNmmYFwAme",
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8"
-        ]
+        ],
+        "source": "saber"
       }
     },
     {
@@ -129,11 +129,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
+        "source": "saber",
         "underlyingTokens": [
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "saber"
+        ]
       }
     },
     {
@@ -162,11 +162,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": null,
+        "source": "saber",
         "underlyingTokens": [
           "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
           "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS"
-        ],
-        "source": "saber"
+        ]
       }
     },
     {

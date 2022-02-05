@@ -28,11 +28,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Raydium and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -90,11 +90,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between LIQ Protocol and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -214,11 +214,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Apricot and USDT",
+        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -307,11 +307,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between PRT (Parrot Protocol) and Marinade staked SOL (mSOL)",
-        "source": "sencha",
         "underlyingTokens": [
           "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -338,11 +338,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between MIX and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -400,11 +400,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between BITXBIT and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -462,11 +462,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between MIX and Cashio Dollar",
+        "source": "sencha",
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -555,11 +555,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Socean staked SOL and aSOL Aggregate Solana Stake Pool",
-        "source": "sencha",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -679,11 +679,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -772,11 +772,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Star Atlas and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -834,11 +834,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between UST (Wormhole) and Cashio Dollar",
+        "source": "sencha",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -927,11 +927,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Wrapped SOL and 3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW",
+        "source": "sencha",
         "underlyingTokens": [
           "So11111111111111111111111111111111111111112",
           "3LaNcGD5kH8zNKmuteE6Wq4S76jadEiNrVNjncNvTXpW"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1020,11 +1020,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Marinade staked SOL (mSOL) and Lido Staked SOL",
+        "source": "sencha",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1144,11 +1144,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Apricot and Cashio Dollar",
+        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1392,11 +1392,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Wrapped Ethereum (Sollet) and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1454,11 +1454,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between COPE and GOD",
+        "source": "sencha",
         "underlyingTokens": [
           "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
           "9kt93AW5QMjFL6ZxomnSq3FbWiU5ibNeTSgBz9UDFSB6"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1578,11 +1578,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1640,11 +1640,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between WipeMyAss and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -1702,11 +1702,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between USD Coin and Dexlab",
-        "source": "sencha",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1764,11 +1764,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Step and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -1950,11 +1950,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between FUMoney and USDT",
+        "source": "sencha",
         "underlyingTokens": [
           "EZF2sPJRe26e8iyXaCrmEefrGVBkqqNGv9UPGG9EnTQz",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2012,11 +2012,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Apricot and PAI (Parrot USD)",
+        "source": "sencha",
         "underlyingTokens": [
           "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt",
           "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2105,11 +2105,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Raydium and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2136,11 +2136,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Raydium LP Token V4 (RAY-SOL)",
-        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "89ZKE4aoyfLBe2RuV6jM3JGNhaV18Nxh8eNtjRcndBip"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2167,11 +2167,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Saber Wrapped CASH (9 decimals) and Saber Wrapped USD Coin (9 decimals)",
-        "source": "sencha",
         "underlyingTokens": [
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2229,11 +2229,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Super Mario and aSOL Aggregate Solana Stake Pool",
-        "source": "sencha",
         "underlyingTokens": [
           "7rmV64vLfbrbS5rTFvojYWzCVEn8dnJ9RfSRx3nD6C5E",
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2291,11 +2291,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between PRISM and MonkeyBucks",
+        "source": "sencha",
         "underlyingTokens": [
           "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
           "Fm9rHUTF5v3hwMLbStjZXqNBBoZyGriQaFM6sTFz3K8A"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2353,11 +2353,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Sunny Governance Token and Aldrin",
+        "source": "sencha",
         "underlyingTokens": [
           "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2446,11 +2446,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Saber Protocol Token and Cash Cow",
+        "source": "sencha",
         "underlyingTokens": [
           "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2508,11 +2508,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and Aldrin",
-        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2570,11 +2570,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Larix and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "Lrxqnh6ZHKbGy3dcrCED43nsoLkM1LTzU2jRfWe8qUC",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2601,11 +2601,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between yPRT (Parrot Yield Token) and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "yPRTUpLDftNej7p6QofNYgRArRXsm6Mvkzohj4bh4WM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2632,11 +2632,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and USD Coin",
+        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2725,11 +2725,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between DeFi Land and BITXBIT",
+        "source": "sencha",
         "underlyingTokens": [
           "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh",
           "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2756,11 +2756,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Serum and USDT",
-        "source": "sencha",
         "underlyingTokens": [
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2849,11 +2849,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Degen and USD Coin",
-        "source": "sencha",
         "underlyingTokens": [
           "A9UhP1xfQHWUhSd54NgKPub2XB3ZuQMdPEvf9aMTHxGT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -2880,11 +2880,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Cashio Dollar and Cash Cow",
+        "source": "sencha",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
@@ -2911,11 +2911,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Star Atlas and Cashio Dollar",
-        "source": "sencha",
         "underlyingTokens": [
           "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
-        ]
+        ],
+        "source": "sencha"
       }
     },
     {
@@ -3035,11 +3035,11 @@
         "coingeckoId": null,
         "imageUrl": null,
         "description": "Sencha LP token between Solana INU and WipeMyAss",
+        "source": "sencha",
         "underlyingTokens": [
           "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
           "9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6"
-        ],
-        "source": "sencha"
+        ]
       }
     },
     {
