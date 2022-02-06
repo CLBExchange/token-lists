@@ -2,37 +2,61 @@
   "name": "Quarry Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/QuarryProtocol/rewarder-list/master/icon.png",
   "tags": {
-    "bear": {
-      "name": "bear",
-      "description": "Leveraged Bear asset"
-    },
-    "saber-mkt-eth": {
-      "name": "saber-mkt-eth",
-      "description": "Token which trades against other representations of ETH."
+    "saber-stableswap-lp": {
+      "name": "saber-stableswap-lp",
+      "description": "Saber StableSwap LP token."
     },
     "nft": {
       "name": "nft",
       "description": "Non-fungible token"
     },
-    "saber-mkt-eur": {
-      "name": "saber-mkt-eur",
-      "description": "Token which trades against other representations of EUR."
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
     },
-    "saber-stableswap-lp": {
-      "name": "saber-stableswap-lp",
-      "description": "Saber StableSwap LP token."
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "saber-hidden": {
+      "name": "saber-hidden",
+      "description": "Hidden from main Saber UI."
+    },
+    "saber-mkt-luna": {
+      "name": "saber-mkt-luna",
+      "description": "Token which trades against other representations of LUNA."
+    },
+    "saber-mkt-sol": {
+      "name": "saber-mkt-sol",
+      "description": "Token which trades against other representations of SOL."
+    },
+    "saber-mkt-eth": {
+      "name": "saber-mkt-eth",
+      "description": "Token which trades against other representations of ETH."
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
     },
     "saber-mkt-btc": {
       "name": "saber-mkt-btc",
       "description": "Token which trades against other representations of BTC."
     },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
+    "saber-mkt-ftt": {
+      "name": "saber-mkt-ftt",
+      "description": "Token which trades against other representations of FTT."
     },
-    "saber-hidden": {
-      "name": "saber-hidden",
-      "description": "Hidden from main Saber UI."
+    "saber-mkt-eur": {
+      "name": "saber-mkt-eur",
+      "description": "Token which trades against other representations of EUR."
+    },
+    "saber-mkt-try": {
+      "name": "saber-mkt-try",
+      "description": "Token which trades against other representations of TRY."
+    },
+    "saber-mkt-usd": {
+      "name": "saber-mkt-usd",
+      "description": "Token which trades against other representations of USD."
     },
     "security-token": {
       "name": "security-token",
@@ -42,9 +66,21 @@
       "name": "saber-dec-wrapped",
       "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
     },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
     "tokenized-stock": {
       "name": "tokenized-stock",
       "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     },
     "wormhole-v1": {
       "name": "wormhole-v1",
@@ -58,6 +94,10 @@
       "name": "wrapped",
       "description": "Asset wrapped using wormhole bridge"
     },
+    "saber-mkt-srm": {
+      "name": "saber-mkt-srm",
+      "description": "Token which trades against other representations of SRM."
+    },
     "wrapped-sollet": {
       "name": "wrapped-sollet",
       "description": "Asset wrapped using sollet bridge"
@@ -65,46 +105,6 @@
     "bull": {
       "name": "bull",
       "description": "Leveraged Bull asset"
-    },
-    "saber-mkt-srm": {
-      "name": "saber-mkt-srm",
-      "description": "Token which trades against other representations of SRM."
-    },
-    "saber-mkt-try": {
-      "name": "saber-mkt-try",
-      "description": "Token which trades against other representations of TRY."
-    },
-    "lp-token": {
-      "name": "lp-token",
-      "description": "Asset representing liquidity provider token"
-    },
-    "saber-mkt-sol": {
-      "name": "saber-mkt-sol",
-      "description": "Token which trades against other representations of SOL."
-    },
-    "ethereum": {
-      "name": "ethereum",
-      "description": "Asset bridged from ethereum"
-    },
-    "saber-mkt-luna": {
-      "name": "saber-mkt-luna",
-      "description": "Token which trades against other representations of LUNA."
-    },
-    "saber-mkt-usd": {
-      "name": "saber-mkt-usd",
-      "description": "Token which trades against other representations of USD."
-    },
-    "saber-mkt-ftt": {
-      "name": "saber-mkt-ftt",
-      "description": "Token which trades against other representations of FTT."
-    },
-    "stablecoin": {
-      "name": "stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "utility-token": {
-      "name": "utility-token",
-      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     }
   },
   "timestamp": "2022-02-06T00:56:06.187Z",
@@ -161,8 +161,8 @@
       "extensions": {
         "coingeckoId": "serum",
         "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move",
-        "currency": "SRM"
+        "currency": "SRM",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move"
       }
     },
     {
@@ -181,9 +181,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
+        "token0Img": "https://coin98.s3.amazonaws.com/qs05XBhDAux1UIQH",
         "pool": "D3dwgDwMPek7SdtWkRcC56K3Kyfk3zhzH9Bwu1ZTDtFr",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-        "token0Img": "https://coin98.s3.amazonaws.com/qs05XBhDAux1UIQH"
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
       }
     },
     {
@@ -262,9 +262,9 @@
         "assetContract": "https://etherscan.io/address/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
         "coingeckoId": "wrapped-terra",
         "source": "wormhole-v1",
-        "currency": "LUNA",
         "sourceUrl": "https://v1.wormholebridge.com/#/move",
-        "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9"
+        "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+        "currency": "LUNA"
       }
     },
     {
@@ -286,8 +286,8 @@
         "coingeckoId": "binance-usd",
         "source": "wormhole-v2",
         "currency": "USD",
-        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
       }
     },
     {
@@ -361,8 +361,8 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge",
-        "currency": "BTC"
+        "currency": "BTC",
+        "sourceUrl": "https://app.allbridge.io/bridge"
       }
     },
     {
@@ -494,8 +494,8 @@
         ],
         "source": "saros",
         "pool": "BXuLQsUovSpJRY7iHCsFDYTTGJpy38WKLSzkLvAWeAm1",
-        "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg"
       }
     },
     {
@@ -559,8 +559,8 @@
         "medium": "https://medium.com/@1solProtocol",
         "discord": "https://discord.gg/juvVBKnvkj",
         "description": "1Sol aggregates DEX(s), lending, yield-farming, and cross-chain trading.",
-        "telegram": "https://t.me/onesolcommunity",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/1sol/"
+        "coinmarketcap": "https://coinmarketcap.com/currencies/1sol/",
+        "telegram": "https://t.me/onesolcommunity"
       }
     },
     {
@@ -600,9 +600,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
-        "pool": "UwajxALhC5razPkgWkwMuMC6C6J8C3c8TNAztX6egkL",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
         "token0Img": "https://coin98.s3.amazonaws.com/07tzb1XQdCE9ztjc",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+        "pool": "UwajxALhC5razPkgWkwMuMC6C6J8C3c8TNAztX6egkL"
       }
     },
     {
@@ -629,9 +629,9 @@
         "assetContract": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "coingeckoId": "tether",
         "source": "wormhole-v2",
-        "currency": "USD",
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "USD"
       }
     },
     {
@@ -660,8 +660,8 @@
         "serumV3Usdc": "D52sefGCWho2nd5UGxWd7wCftAzeNEMNYZkdEPGEdQTb",
         "coingeckoId": "socean-staked-sol",
         "source": "socean",
-        "currency": "SOL",
-        "sourceUrl": "https://www.socean.fi/app"
+        "sourceUrl": "https://www.socean.fi/app",
+        "currency": "SOL"
       }
     },
     {
@@ -682,9 +682,9 @@
         "assetContract": "https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "coingeckoId": "binance-usd",
         "source": "wormhole-v2",
-        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "currency": "USD"
       }
     },
     {
@@ -869,8 +869,8 @@
         "assetContract": "https://etherscan.io/address/0x0316eb71485b0ab14103307bf65a021042c6d380",
         "coingeckoId": "huobi-btc",
         "source": "wormhole-v2",
-        "currency": "BTC",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "BTC",
         "address": "0x0316eb71485b0ab14103307bf65a021042c6d380"
       }
     },
@@ -957,9 +957,9 @@
         "twitter": "https://twitter.com/JPoolSolana",
         "discord": "https://discord.gg/qR4BA9QXVR",
         "source": "jpool",
+        "telegram": "https://t.me/jpoolsolana",
         "sourceUrl": "https://jpool.one/",
-        "currency": "SOL",
-        "telegram": "https://t.me/jpoolsolana"
+        "currency": "SOL"
       }
     },
     {
@@ -982,9 +982,9 @@
         "serumV3Usdc": "8Gmi2HhZmwQPVdCwzS7CM66MGstMXPcTVHA7jF19cLZz",
         "coingeckoId": "ethereum",
         "source": "wormhole-v2",
-        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "ETH"
+        "currency": "ETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
       }
     },
     {
@@ -1005,9 +1005,9 @@
         "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
         "coingeckoId": "husd",
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "currency": "USD",
         "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
-        "currency": "USD"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -1053,8 +1053,8 @@
         "twitter": "https://twitter.com/synthetify",
         "coingeckoId": "usd-coin",
         "source": "synthetify",
-        "currency": "USD",
-        "sourceUrl": "https://app.synthetify.io/staking"
+        "sourceUrl": "https://app.synthetify.io/staking",
+        "currency": "USD"
       }
     },
     {
@@ -1163,9 +1163,9 @@
         "assetContract": "https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e",
         "coingeckoId": "frax",
         "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move",
         "currency": "USD",
-        "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+        "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move"
       }
     },
     {
@@ -1216,9 +1216,9 @@
         "assetContract": "https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955",
         "coingeckoId": "tether",
         "source": "wormhole-v2",
-        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x55d398326f99059ff775485246999027b3197955"
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "currency": "USD"
       }
     },
     {
@@ -1321,8 +1321,8 @@
         "discord": "https://discord.gg/gopartyparrot",
         "source": "parrot",
         "sourceUrl": "https://parrot.fi/mint/",
-        "telegram": "https://t.me/gopartyparrot",
-        "currency": "SOL"
+        "currency": "SOL",
+        "telegram": "https://t.me/gopartyparrot"
       }
     },
     {
@@ -1369,8 +1369,8 @@
         "discord": "https://discord.com/invite/mQq55j65xJ",
         "coingeckoId": "mimatic",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -1401,10 +1401,10 @@
         "github": "https://github.com/bilira-org",
         "source": "wormhole-v2",
         "telegram": "https://t.me/BiLira_Official",
-        "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
-        "instagram": "https://instagram.com/bilira_official",
         "currency": "TRY",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
+        "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+        "instagram": "https://instagram.com/bilira_official"
       }
     },
     {
@@ -1555,10 +1555,10 @@
         "github": "https://github.com/bilira-org",
         "coingeckoId": "bilira",
         "source": "BiLira",
-        "currency": "TRY",
         "telegram": "https://t.me/BiLira_Official",
-        "instagram": "https://instagram.com/bilira_official",
-        "sourceUrl": "https://www.bilira.co/"
+        "sourceUrl": "https://www.bilira.co/",
+        "currency": "TRY",
+        "instagram": "https://instagram.com/bilira_official"
       }
     },
     {
@@ -1596,9 +1596,9 @@
         "assetContract": "https://etherscan.io/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "coingeckoId": "usd-coin",
         "source": "wormhole-v2",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "currency": "USD",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -2313,8 +2313,8 @@
         "twitter": "https://twitter.com/synthetify",
         "coingeckoId": "solana",
         "source": "synthetify",
-        "sourceUrl": "https://app.synthetify.io/staking",
-        "currency": "SOL"
+        "currency": "SOL",
+        "sourceUrl": "https://app.synthetify.io/staking"
       }
     },
     {
@@ -2347,8 +2347,8 @@
       "extensions": {
         "coingeckoId": "ftx-token",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge",
-        "currency": "FTT"
+        "currency": "FTT",
+        "sourceUrl": "https://app.allbridge.io/bridge"
       }
     },
     {
@@ -2364,8 +2364,8 @@
       "extensions": {
         "coingeckoId": "weth",
         "source": "allbridge",
-        "currency": "ETH",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "ETH"
       }
     },
     {
@@ -2382,8 +2382,8 @@
       "extensions": {
         "coingeckoId": "tether",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://app.allbridge.io/bridge"
       }
     },
     {
@@ -2495,9 +2495,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
-        "pool": "Bd7tRnMNWDrdgpYYAoKWvx4PXdkuqCfAFrYnYZ48PBuv",
+        "token0Img": "https://coin98.s3.amazonaws.com/3rElW7wvmXPR6jLh",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-        "token0Img": "https://coin98.s3.amazonaws.com/3rElW7wvmXPR6jLh"
+        "pool": "Bd7tRnMNWDrdgpYYAoKWvx4PXdkuqCfAFrYnYZ48PBuv"
       }
     },
     {
@@ -2520,8 +2520,8 @@
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
         "source": "renbridge",
-        "currency": "BTC",
-        "sourceUrl": "https://bridge.renproject.io/mint"
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "currency": "BTC"
       }
     },
     {
@@ -2590,9 +2590,9 @@
         "assetContract": "https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1",
         "coingeckoId": "husd",
         "source": "wormhole-v1",
-        "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "currency": "USD",
         "sourceUrl": "https://v1.wormholebridge.com/#/move",
-        "currency": "USD"
+        "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1"
       }
     },
     {
@@ -2722,8 +2722,8 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "Cashio",
-        "currency": "USD",
-        "sourceUrl": "https://cashio.app/"
+        "sourceUrl": "https://cashio.app/",
+        "currency": "USD"
       }
     },
     {
@@ -2765,8 +2765,8 @@
         "serumV3Usdc": "74Ciu5yRzhe8TFTHvQuEVbFZJrbnCMRoohBK33NNiPtv",
         "coingeckoId": "renbtc",
         "source": "renbridge",
-        "currency": "BTC",
-        "sourceUrl": "https://bridge.renproject.io/mint"
+        "sourceUrl": "https://bridge.renproject.io/mint",
+        "currency": "BTC"
       }
     },
     {
@@ -2903,8 +2903,8 @@
         ],
         "source": "saros",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-        "token0Img": "https://coin98.s3.amazonaws.com/h27cWw3XhBBOQQUD",
-        "pool": "ADRgq6ALH3po3sT4QVPyihdWsdQZCCZ6htzKzMzFc7kA"
+        "pool": "ADRgq6ALH3po3sT4QVPyihdWsdQZCCZ6htzKzMzFc7kA",
+        "token0Img": "https://coin98.s3.amazonaws.com/h27cWw3XhBBOQQUD"
       }
     },
     {
@@ -2953,9 +2953,9 @@
         "assetContract": "https://etherscan.io/address/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
         "coingeckoId": "terrausd",
         "source": "wormhole-v1",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move",
         "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-        "currency": "USD",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move"
+        "currency": "USD"
       }
     },
     {
@@ -3082,8 +3082,8 @@
         "discord": "https://discord.com/invite/defiland",
         "serumV3Usdc": "9UBuWgKN8ZYXcZWN67Spfp3Yp67DKBq1t31WLrVrPjTR",
         "coingeckoId": "defi-land",
-        "telegram": "https://t.me/defiland_official",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/defi-land"
+        "coinmarketcap": "https://coinmarketcap.com/currencies/defi-land",
+        "telegram": "https://t.me/defiland_official"
       }
     },
     {
@@ -3114,8 +3114,8 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -3134,9 +3134,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
-        "pool": "nFroVdbLbVC65KwYTdNGjf5K7tsESxBdsrVMPhXHzeB",
         "token0Img": "https://coin98.s3.amazonaws.com/N3largR9o62uf7ul",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "pool": "nFroVdbLbVC65KwYTdNGjf5K7tsESxBdsrVMPhXHzeB"
       }
     },
     {
@@ -3238,9 +3238,9 @@
         "medium": "https://gopartyparrot.medium.com/",
         "discord": "https://discord.gg/gopartyparrot",
         "source": "parrot",
-        "telegram": "https://t.me/gopartyparrot",
+        "currency": "BTC",
         "sourceUrl": "https://parrot.fi/mint/",
-        "currency": "BTC"
+        "telegram": "https://t.me/gopartyparrot"
       }
     },
     {
@@ -3260,9 +3260,9 @@
         "assetContract": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "coingeckoId": "usd-coin",
         "source": "wormhole-v2",
+        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-        "currency": "USD"
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
       }
     },
     {
@@ -3343,8 +3343,8 @@
         "discord": "https://discord.gg/gopartyparrot",
         "coingeckoId": "parrot-usd",
         "source": "parrot",
-        "currency": "USD",
         "sourceUrl": "https://parrot.fi/mint/",
+        "currency": "USD",
         "telegram": "https://t.me/gopartyparrot"
       }
     },
@@ -3369,8 +3369,8 @@
       "extensions": {
         "coingeckoId": "multi-collateral-dai",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -3390,9 +3390,9 @@
         "assetContract": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f",
         "coingeckoId": "dai",
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -3426,8 +3426,8 @@
         ],
         "source": "saros",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-        "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7",
-        "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW"
+        "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
+        "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7"
       }
     },
     {
@@ -3462,8 +3462,8 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -3537,9 +3537,9 @@
           "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
         ],
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
-        "currency": "EUR"
+        "currency": "EUR",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -3556,8 +3556,8 @@
       "extensions": {
         "coingeckoId": "celo-dollar",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -3577,8 +3577,8 @@
         ],
         "source": "saros",
         "token0Img": "https://coin98.s3.amazonaws.com/KzXGHg0Qcujq8fiR",
-        "pool": "ARYg2ZRHstDLYibjVDV4fnMVVG1jtJAaUVNfJce4pn1A",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "pool": "ARYg2ZRHstDLYibjVDV4fnMVVG1jtJAaUVNfJce4pn1A"
       }
     },
     {
@@ -3618,9 +3618,9 @@
         "serumV3Usdc": "2wteg25ch227n4Rh1CN4WNrDZXBpRBpWJ48mEC2K7f4r",
         "coingeckoId": "ftx-token",
         "source": "wormhole-v2",
+        "currency": "FTT",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "currency": "FTT"
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
       }
     },
     {
@@ -3641,9 +3641,9 @@
         "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
         "coingeckoId": "terra-luna",
         "source": "wormhole-v2",
+        "address": "uluna",
         "currency": "LUNA",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "uluna"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -3702,9 +3702,9 @@
         "assetContract": "https://bscscan.com/address/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
         "coingeckoId": "usd-coin",
         "source": "wormhole-v2",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "currency": "USD",
-        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -3727,8 +3727,8 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "source": "allbridge",
-        "currency": "BTC",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "BTC"
       }
     },
     {
@@ -3866,9 +3866,9 @@
         "assetContract": "https://etherscan.io/address/0x853d955acef822db058eb8505911ed77f175b99e",
         "coingeckoId": "frax",
         "source": "wormhole-v2",
-        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x853d955acef822db058eb8505911ed77f175b99e"
+        "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "currency": "USD"
       }
     },
     {
@@ -3942,9 +3942,9 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
-        "currency": "FTT",
         "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "sourceUrl": "https://www.sollet.io/"
+        "sourceUrl": "https://www.sollet.io/",
+        "currency": "FTT"
       }
     },
     {
@@ -3972,9 +3972,9 @@
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
         "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-        "currency": "FTT",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "currency": "FTT"
       }
     },
     {
@@ -4001,9 +4001,9 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
         "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "currency": "FTT",
-        "sourceUrl": "https://www.sollet.io/"
+        "currency": "FTT"
       }
     },
     {
@@ -4089,9 +4089,9 @@
         "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "coingeckoId": "dai",
         "source": "wormhole-v1",
-        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "currency": "USD",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move"
+        "sourceUrl": "https://v1.wormholebridge.com/#/move",
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
       }
     },
     {
@@ -4112,8 +4112,8 @@
         "assetContract": "https://etherscan.io/address/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
         "coingeckoId": "ftx-token",
         "source": "wormhole-v1",
-        "sourceUrl": "https://v1.wormholebridge.com/#/move",
         "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+        "sourceUrl": "https://v1.wormholebridge.com/#/move",
         "currency": "FTT"
       }
     },
@@ -4153,8 +4153,8 @@
         "twitter": "https://twitter.com/MonkeDAO",
         "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
         "source": "monkedao",
-        "currency": "SOL",
-        "sourceUrl": "https://daopool.monkedao.io/"
+        "sourceUrl": "https://daopool.monkedao.io/",
+        "currency": "SOL"
       }
     },
     {
@@ -4178,8 +4178,8 @@
       "extensions": {
         "coingeckoId": "tether",
         "source": "allbridge",
-        "currency": "USD",
-        "sourceUrl": "https://app.allbridge.io/bridge"
+        "sourceUrl": "https://app.allbridge.io/bridge",
+        "currency": "USD"
       }
     },
     {
@@ -4203,8 +4203,8 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "source": "allbridge",
-        "sourceUrl": "https://app.allbridge.io/bridge",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://app.allbridge.io/bridge"
       }
     },
     {
@@ -4230,8 +4230,8 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
-        "pool": "8hEGaKMWJQWzhd5B6romUFCShwFzQKTg1hM2bSwrE37T",
         "token0Img": "https://coin98.s3.amazonaws.com/flRUyvyVt8Xbinut",
+        "pool": "8hEGaKMWJQWzhd5B6romUFCShwFzQKTg1hM2bSwrE37T",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
       }
     },
@@ -4251,9 +4251,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
+        "token0Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
-        "pool": "HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx",
-        "token0Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di"
+        "pool": "HpT4jCwY5W4jAzNDfzFa21ggwZjXFtAfxAKdMexXw6Cx"
       }
     },
     {
@@ -4368,8 +4368,8 @@
         "twitter": "https://twitter.com/everstake_pool",
         "medium": "https://medium.com/everstake",
         "source": "Everstake",
-        "sourceUrl": "https://eversol.one/app",
-        "currency": "SOL"
+        "currency": "SOL",
+        "sourceUrl": "https://eversol.one/app"
       }
     },
     {
@@ -4610,9 +4610,9 @@
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
         "source": "saros",
-        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
+        "pool": "HWsg2Kuqjo6Ve44yrTSCyvyFY5T5qhs7jwMkkpEsh441",
         "token0Img": "https://coin98.s3.amazonaws.com/7MTt7khSZXHf7nAP",
-        "pool": "HWsg2Kuqjo6Ve44yrTSCyvyFY5T5qhs7jwMkkpEsh441"
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
       }
     },
     {
@@ -4803,9 +4803,9 @@
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
         ],
         "source": "wormhole-v2",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "currency": "ETH",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -4969,8 +4969,8 @@
         ],
         "source": "wormhole-v2",
         "address": "uluna",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "LUNA"
+        "currency": "LUNA",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -5089,8 +5089,8 @@
         "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
         "coingeckoId": "msol",
         "source": "marinade",
-        "sourceUrl": "https://marinade.finance/app/staking",
-        "currency": "SOL"
+        "currency": "SOL",
+        "sourceUrl": "https://marinade.finance/app/staking"
       }
     },
     {
@@ -5486,8 +5486,8 @@
         "serumV3Usdt": "AtNnsY1AyRERWJ8xCskfz38YdvruWVJQUVXgScC1iPb",
         "serumV3Usdc": "ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
         "coingeckoId": "serum",
-        "waterfallbot": "https://bit.ly/SRMwaterfall",
-        "currency": "SRM"
+        "currency": "SRM",
+        "waterfallbot": "https://bit.ly/SRMwaterfall"
       }
     },
     {
@@ -5635,8 +5635,8 @@
         "twitter": "https://twitter.com/hubbleprotocol",
         "discord": "https://discord.gg/d44A8WvK",
         "source": "Hubble",
-        "sourceUrl": "https://app.hubbleprotocol.io/",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://app.hubbleprotocol.io/"
       }
     },
     {
@@ -5743,9 +5743,9 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
-        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "uusd"
+        "address": "uusd",
+        "currency": "USD"
       }
     },
     {
@@ -5772,8 +5772,8 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
-        "currency": "USD",
         "address": "uusd",
+        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
@@ -6182,9 +6182,9 @@
         "assetContract": "https://etherscan.io/address/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
         "coingeckoId": "serum",
         "source": "wormhole-v2",
+        "sourceUrl": "https://wormholebridge.com/#/transfer",
         "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
-        "currency": "SRM",
-        "sourceUrl": "https://wormholebridge.com/#/transfer"
+        "currency": "SRM"
       }
     },
     {
