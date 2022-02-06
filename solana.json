@@ -93739,6 +93739,14 @@
       ]
     },
     {
+      "name": "Kurama Foxes",
+      "symbol": "KF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TosnWGnUeRM7D6TfVarLNAkFYsKoCUHKnjjd6Bim4jn/logo.png",
+      "decimals": 0,
+      "address": "TosnWGnUeRM7D6TfVarLNAkFYsKoCUHKnjjd6Bim4jn",
+      "chainId": 101
+    },
+    {
       "name": "SolTricks token",
       "symbol": "Trick",
       "logoURI": "http://static.soltricks.io/icon.png",
