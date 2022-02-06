@@ -17406,6 +17406,17 @@
       ]
     },
     {
+      "name": "Metajuana",
+      "symbol": "WATR",
+      "logoURI": "https://raw.githubusercontent.com/XAGBack/MCSTOKEN/main/WATR.png",
+      "decimals": 6,
+      "address": "5Emw7mifMM86nfHhyMC12p8pAW5DvWTFJeFtsP7DBHn2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "We're Just Friends",
       "symbol": "WJF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Eth7YxeKCKEke37RQvXwBukr1HS6LpJV5Tu99m8Xq7M/logo.png",
@@ -25365,6 +25376,17 @@
       "logoURI": "https://raw.githubusercontent.com/RicheCorp/CryptoToken/main/Logo22.png",
       "decimals": 0,
       "address": "6pT6udhxrj3WbwZNVcV88r49eAQDzGB2KvGqxLVdi6U8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Doodle Loot",
+      "symbol": "DOODLE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6pyFwtq8wZPumC2owaACuo4XS8qSWnKbWaw5rW4omuLh/logo.png",
+      "decimals": 0,
+      "address": "6pyFwtq8wZPumC2owaACuo4XS8qSWnKbWaw5rW4omuLh",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -61676,6 +61698,17 @@
       }
     },
     {
+      "name": "Shinigami Coin",
+      "symbol": "SHINI",
+      "logoURI": "https://raw.githubusercontent.com/hackvice/Crypto/main/logo.jpg",
+      "decimals": 0,
+      "address": "CwLtCWJn5ppiTn9iheykBVTVD92JouBCjjL4bHt1xP7w",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "CUTE COIN",
       "symbol": "CUTE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CwP7ggJPVvRGRjvkV4Q5bnFNTECd9GAhoGdjtsvhEHaC/logo.png",
@@ -83667,6 +83700,24 @@
       ]
     },
     {
+      "name": "Kotaru",
+      "symbol": "KTR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gq5xdBxA39rRN5GsnJtodAnkqvFDQ4YxkEG3N7rS8XHw/logo.png",
+      "decimals": 0,
+      "address": "Gq5xdBxA39rRN5GsnJtodAnkqvFDQ4YxkEG3N7rS8XHw",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "GAMEFI",
+        "Staking"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KotaroSharks",
+        "discord": "http://discord.gg/kotarosharks",
+        "description": "Kotaru is an SPL token of Kotaru Sharks, an NFT collection of sharks living on the Solana blockchain that love to play poker and vibe with friends."
+      }
+    },
+    {
       "name": "Aave Interest bearing UniDAI (Wormhole v1)",
       "symbol": "waUniDAI_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GqHK99sW4ym6zy6Kdoh8f7sb2c3qhtB3WRqeyPbAYfmy/logo.png",
@@ -89729,6 +89780,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "CBDB WL Token",
+      "symbol": "CBDB",
+      "logoURI": "https://arweave.net/DGcHG6Cqx6pm58JIlUsERiSbAXyobwnML3d5DZfF1ig",
+      "decimals": 0,
+      "address": "J2qkpFsE1P8E12hyqEBcGrMumLQEnzkfTaADW49PXZy1",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.chibidbs.com/",
+        "twitter": "https://twitter.com/ChibiDBs"
+      }
     },
     {
       "name": "Hronos",
