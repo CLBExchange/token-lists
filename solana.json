@@ -60580,6 +60580,17 @@
       ]
     },
     {
+      "name": "Speve Coin",
+      "symbol": "SPEVE",
+      "logoURI": "https://raw.githubusercontent.com/SpeveCoin/crypto/main/Logo2.png",
+      "decimals": 0,
+      "address": "CrDKsTDUursFNeTu5neSg4x8MGM6UkDbmmXYfe7xk4Qa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Orca Aquafarm Token (MER/SOL)",
       "symbol": "MER/SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg",
@@ -67923,6 +67934,21 @@
       }
     },
     {
+      "name": "Golden Banana",
+      "symbol": "GNANA",
+      "logoURI": "https://github.com/2beyondWRLD/token-list/blob/main/assets/mainnet/E6HdfEAvaY8Fz9avWHvP9iJLWhVrdvmRjvXNc2v3vzb7/logo.png?raw=true",
+      "decimals": 9,
+      "address": "E6HdfEAvaY8Fz9avWHvP9iJLWhVrdvmRjvXNc2v3vzb7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/riseofsolapes",
+        "discord": "https://discord.gg/awFhms4VYx"
+      }
+    },
+    {
       "name": "Dickcoin",
       "symbol": "DICK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E6Hkw5o48QfNo6iUi1aepjEBzVq4ZjQLxh7xVtdTqoyB/logo.png",
@@ -69388,6 +69414,20 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Open Practica",
+      "symbol": "OpenP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EP628RFby7V2Cx4MYbQthQeP4PaW4rVV6kRAxAj6f6C1/Logo.jpg",
+      "decimals": 0,
+      "address": "EP628RFby7V2Cx4MYbQthQeP4PaW4rVV6kRAxAj6f6C1",
+      "chainId": 101,
+      "tags": [
+        "learning-token",
+        "training-token",
+        "meet-to-earn",
+        "study-to-earn"
       ]
     },
     {
