@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-02-05T00:06:55.950Z",
+  "timestamp": "2022-02-06T00:10:26.245Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -49,8 +49,8 @@
           "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
         ],
         "source": "sollet",
-        "sourceUrl": "https://www.sollet.io/",
-        "currency": "BTC"
+        "currency": "BTC",
+        "sourceUrl": "https://www.sollet.io/"
       }
     },
     {
@@ -94,8 +94,8 @@
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
         ],
         "source": "renbridge",
-        "sourceUrl": "https://bridge.renproject.io/mint",
-        "currency": "BTC"
+        "currency": "BTC",
+        "sourceUrl": "https://bridge.renproject.io/mint"
       }
     },
     {
@@ -225,9 +225,9 @@
           "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3"
         ],
         "source": "sollet",
+        "sourceUrl": "https://www.sollet.io/",
         "waterfallbot": "https://bit.ly/FTTwaterfall",
-        "currency": "FTT",
-        "sourceUrl": "https://www.sollet.io/"
+        "currency": "FTT"
       }
     },
     {
@@ -254,9 +254,9 @@
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
         ],
         "source": "wormhole-v2",
+        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
         "currency": "FTT",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -384,8 +384,8 @@
         ],
         "source": "wormhole-v2",
         "currency": "LUNA",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "uluna"
+        "address": "uluna",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -488,8 +488,8 @@
         ],
         "source": "wormhole-v2",
         "address": "uusd",
-        "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
     },
     {
@@ -515,9 +515,9 @@
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "wormhole-v2",
+        "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
-        "address": "uusd",
-        "currency": "USD"
+        "address": "uusd"
       }
     }
   ]
