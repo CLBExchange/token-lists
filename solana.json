@@ -33083,6 +33083,14 @@
       ]
     },
     {
+      "name": "Refined Land Metaverse Homes",
+      "symbol": "RHLM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Dv7BrugUUSXbcVRJr39fJV31m5AmbxunLADFWS26Suk/logo.jpg",
+      "decimals": 0,
+      "address": "8Dv7BrugUUSXbcVRJr39fJV31m5AmbxunLADFWS26Suk",
+      "chainId": 101
+    },
+    {
       "name": "Mickk Savioz",
       "symbol": "MickSavioz",
       "logoURI": "https://raw.githubusercontent.com/micksavioz/crypto2/main/smick.png",
@@ -37673,6 +37681,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Campetta Token",
+      "symbol": "CMPT",
+      "logoURI": "https://raw.githubusercontent.com/mcampetta/Campetta/main/Campetta_Logo.png",
+      "decimals": 0,
+      "address": "8zKYrMbJJVCSypbmxmtknjtf1GtmmYdmJSoBmpz6aH4z",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "learning-token",
+        "training-token",
+        "family-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/mcampetta",
+        "description": "Token for the Campetta family, to be dispensed as a reward for successful completion of games and tasks."
+      }
     },
     {
       "name": "FLATAM COIN",
@@ -45138,6 +45164,24 @@
       ]
     },
     {
+      "name": "USDCav (Wormhole from Avalanche)",
+      "symbol": "USDCav",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV/logo.png",
+      "decimals": 8,
+      "address": "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "bridgeContract": "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052",
+        "assetContract": "https://snowtrace.io/address/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "coingeckoId": "usd-coin",
+        "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+      }
+    },
+    {
       "name": "Geometry Governance token",
       "symbol": "GXG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGrCEkCgXeTuD8GzHJmw2PEx4DKqmrnNiV6BYCsZK2Vg/logo.png",
@@ -50242,6 +50286,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "USDTav (Wormhole from Avalanche)",
+      "symbol": "USDTav",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR/logo.png",
+      "decimals": 8,
+      "address": "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "bridgeContract": "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052",
+        "assetContract": "https://snowtrace.io/address/0xc7198437980c041c805a1edcba50c1ce5db95118",
+        "coingeckoId": "tether",
+        "address": "0xc7198437980c041c805a1edcba50c1ce5db95118"
+      }
     },
     {
       "name": "PARTI",
