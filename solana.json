@@ -63897,6 +63897,19 @@
       }
     },
     {
+      "name": "Pre-Sale Mercanti NFT",
+      "symbol": "P-MERC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DN1NuymJZwZWTrLQy4nvS3SC41tJLuPxFy1wNMPemztE/logo.png",
+      "decimals": 0,
+      "address": "DN1NuymJZwZWTrLQy4nvS3SC41tJLuPxFy1wNMPemztE",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "mercanti",
+        "pre-sale"
+      ]
+    },
+    {
       "name": "Aave interest bearing REN (Wormhole v1)",
       "symbol": "waREN_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DN8jPo8YZTXhLMyDMKcnwFuKqY8wfn2UrpX8ct4rc8Bc/logo.svg",
