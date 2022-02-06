@@ -2,69 +2,41 @@
   "name": "Quarry Token List (devnet)",
   "logoURI": "https://raw.githubusercontent.com/QuarryProtocol/rewarder-list/master/icon.png",
   "tags": {
+    "saber-hidden": {
+      "name": "saber-hidden",
+      "description": "Hidden from main Saber UI."
+    },
+    "saber-mkt-try": {
+      "name": "saber-mkt-try",
+      "description": "Token which trades against other representations of TRY."
+    },
     "saber-mkt-eur": {
       "name": "saber-mkt-eur",
       "description": "Token which trades against other representations of EUR."
-    },
-    "utility-token": {
-      "name": "utility-token",
-      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
-    },
-    "saber-stableswap-lp": {
-      "name": "saber-stableswap-lp",
-      "description": "Saber StableSwap LP token."
-    },
-    "wormhole-v2": {
-      "name": "wormhole-v2",
-      "description": "Wormhole V2 asset."
-    },
-    "leveraged": {
-      "name": "leveraged",
-      "description": "Leveraged asset"
-    },
-    "wrapped": {
-      "name": "wrapped",
-      "description": "Asset wrapped using wormhole bridge"
-    },
-    "wrapped-sollet": {
-      "name": "wrapped-sollet",
-      "description": "Asset wrapped using sollet bridge"
-    },
-    "wormhole-v1": {
-      "name": "wormhole-v1",
-      "description": "Wormhole V1 asset."
-    },
-    "saber-mkt-sol": {
-      "name": "saber-mkt-sol",
-      "description": "Token which trades against other representations of SOL."
     },
     "ethereum": {
       "name": "ethereum",
       "description": "Asset bridged from ethereum"
     },
-    "saber-hidden": {
-      "name": "saber-hidden",
-      "description": "Hidden from main Saber UI."
-    },
     "saber-mkt-eth": {
       "name": "saber-mkt-eth",
       "description": "Token which trades against other representations of ETH."
     },
-    "saber-mkt-ftt": {
-      "name": "saber-mkt-ftt",
-      "description": "Token which trades against other representations of FTT."
+    "saber-mkt-srm": {
+      "name": "saber-mkt-srm",
+      "description": "Token which trades against other representations of SRM."
     },
-    "stablecoin": {
-      "name": "stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "saber-mkt-btc": {
+      "name": "saber-mkt-btc",
+      "description": "Token which trades against other representations of BTC."
     },
-    "tokenized-stock": {
-      "name": "tokenized-stock",
-      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    "saber-stableswap-lp": {
+      "name": "saber-stableswap-lp",
+      "description": "Saber StableSwap LP token."
     },
-    "saber-dec-wrapped": {
-      "name": "saber-dec-wrapped",
-      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
+    "saber-mkt-sol": {
+      "name": "saber-mkt-sol",
+      "description": "Token which trades against other representations of SOL."
     },
     "nft": {
       "name": "nft",
@@ -74,33 +46,61 @@
       "name": "security-token",
       "description": "Tokens that are used to gain access to an electronically restricted resource"
     },
+    "wormhole-v1": {
+      "name": "wormhole-v1",
+      "description": "Wormhole V1 asset."
+    },
+    "wormhole-v2": {
+      "name": "wormhole-v2",
+      "description": "Wormhole V2 asset."
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "wrapped-sollet": {
+      "name": "wrapped-sollet",
+      "description": "Asset wrapped using sollet bridge"
+    },
     "bull": {
       "name": "bull",
       "description": "Leveraged Bull asset"
+    },
+    "saber-mkt-ftt": {
+      "name": "saber-mkt-ftt",
+      "description": "Token which trades against other representations of FTT."
+    },
+    "saber-dec-wrapped": {
+      "name": "saber-dec-wrapped",
+      "description": "Decimal wrapper for a different token. See `assetContract` for the mint of the underlying."
+    },
+    "saber-mkt-usd": {
+      "name": "saber-mkt-usd",
+      "description": "Token which trades against other representations of USD."
     },
     "lp-token": {
       "name": "lp-token",
       "description": "Asset representing liquidity provider token"
     },
-    "saber-mkt-srm": {
-      "name": "saber-mkt-srm",
-      "description": "Token which trades against other representations of SRM."
+    "tokenized-stock": {
+      "name": "tokenized-stock",
+      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
     },
-    "saber-mkt-try": {
-      "name": "saber-mkt-try",
-      "description": "Token which trades against other representations of TRY."
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
     },
     "saber-mkt-luna": {
       "name": "saber-mkt-luna",
       "description": "Token which trades against other representations of LUNA."
-    },
-    "saber-mkt-btc": {
-      "name": "saber-mkt-btc",
-      "description": "Token which trades against other representations of BTC."
-    },
-    "saber-mkt-usd": {
-      "name": "saber-mkt-usd",
-      "description": "Token which trades against other representations of USD."
     },
     "bear": {
       "name": "bear",
@@ -16430,8 +16430,8 @@
         "discord": "https://discord.com/invite/GmkRRKJkuh",
         "coingeckoId": "usd-coin",
         "source": "cashio",
-        "sourceUrl": "https://cashio.app/#/print",
-        "currency": "USD"
+        "currency": "USD",
+        "sourceUrl": "https://cashio.app/#/print"
       }
     },
     {
