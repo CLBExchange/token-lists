@@ -2704,6 +2704,19 @@
       }
     },
     {
+      "name": "Kotlet Koin",
+      "symbol": "KOT",
+      "logoURI": "https://raw.githubusercontent.com/teohz/crypto/master/kotlet.png",
+      "decimals": 0,
+      "address": "2TsiN3BxBYUqGfckjRdXLC47FEtihddcLub45kc5sEVK",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Creative Coinz",
       "symbol": "CCNZ",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ccnz-logo.png",
@@ -30231,6 +30244,23 @@
       }
     },
     {
+      "name": "RANGER",
+      "symbol": "4x4NFC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7k5WRFxyHveTDVJiNj69r8pboregzRSTdoRvmBaETe3w/logo.png",
+      "decimals": 0,
+      "address": "7k5WRFxyHveTDVJiNj69r8pboregzRSTdoRvmBaETe3w",
+      "chainId": 101,
+      "tags": [
+        "4x4-Fan-Club",
+        "4x4FC",
+        "utility-token",
+        "virtual-currency"
+      ],
+      "extensions": {
+        "website": "https://gateway.pinata.cloud/ipfs/Qmb8pC2899CwCT4bywgP2Tjs61aP5csa9nHcmLfQzhHJWH"
+      }
+    },
+    {
       "name": "DodoCoin",
       "symbol": "DODO",
       "logoURI": "https://raw.githubusercontent.com/doryalo/dodocoin/main/Logo.png",
@@ -35290,6 +35320,19 @@
       "extensions": {
         "github": "https://github.com/SIMCrypto"
       }
+    },
+    {
+      "name": "Exchg",
+      "symbol": "Exg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8aAgMxie1DizqcYhxoSz2CMPMaDCpfe7ty3kLK9nWigN/logo.png",
+      "decimals": 6,
+      "address": "8aAgMxie1DizqcYhxoSz2CMPMaDCpfe7ty3kLK9nWigN",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
     },
     {
       "name": "Vice City Coin",
@@ -86630,6 +86673,17 @@
       }
     },
     {
+      "name": "Ribbit",
+      "symbol": "RBIT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HTFSPU2KwKh7nhBPUraTjd8jbhU2VA6Vm5XcdTSrHmfu/logo.jpg",
+      "decimals": 9,
+      "address": "HTFSPU2KwKh7nhBPUraTjd8jbhU2VA6Vm5XcdTSrHmfu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Invictus",
       "symbol": "IVCT",
       "logoURI": "https://raw.githubusercontent.com/Kindja501/CoinIVCT/main/hallows.png",
@@ -97216,6 +97270,17 @@
         "coingeckoId": "aave-zrx-v1",
         "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f"
       }
+    },
+    {
+      "name": "Kersh Koin",
+      "symbol": "KRKO",
+      "logoURI": "https://raw.githubusercontent.com/nkorte1/crypto/5541c8935777e71eefb60fa53000a5452c302fb3/logo.png",
+      "decimals": 0,
+      "address": "qs37APvkooUwjD2R6kKjdULUERFDp3hvJqykUq6g3b9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "POWER COIN",
