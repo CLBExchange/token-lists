@@ -6041,6 +6041,17 @@
       }
     },
     {
+      "name": "Coin",
+      "symbol": "COINAGE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/coinage-logo.png",
+      "decimals": 9,
+      "address": "37FZ5LNTdMTD7Sy3HVHsbbmPnauUmKPdsxuJyx4wQVzd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Roller",
       "symbol": "ROLR",
       "logoURI": "https://raw.githubusercontent.com/beltramin/crypto/main/roller-skate.png",
@@ -10718,6 +10729,17 @@
         "coingeckoId": "aave-enj-v1",
         "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40"
       }
+    },
+    {
+      "name": "Treat",
+      "symbol": "YUMMY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/yummy-logo.png",
+      "decimals": 9,
+      "address": "3rUgGMf8xBiJ9mcd3rS772iuU96nuE7JwGcxZGkeGDti",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Bread",
@@ -20385,6 +20407,17 @@
       }
     },
     {
+      "name": "D",
+      "symbol": "D",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/d-logo.png",
+      "decimals": 9,
+      "address": "5pWwUABvbh7v6ofwxJLanexojbgPP9YEo2fS1haJQF8M",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Crayon",
       "symbol": "CRYN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5pXLmRJyfrTDYMCp1xyiqRDcbb7vYjYiMYzhBza2ht62/crayon.png",
@@ -27948,6 +27981,17 @@
       ]
     },
     {
+      "name": "F",
+      "symbol": "EFF",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/eff-logo.png",
+      "decimals": 9,
+      "address": "7LFXbvJbWBEBXzW4TqBd2jRSvyXx7q8W8ZTqnfQ6bmRa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Aave Interest bearing UniSETHETH (Wormhole v1)",
       "symbol": "waUniSETHETH_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7LUdsedi7qpTJGnFpZo6mWqVtKKpccr9XrQGxJ2xUDPT/logo.svg",
@@ -28592,6 +28636,17 @@
       "logoURI": "https://raw.githubusercontent.com/TollieBonker/Logo/main/Logo.png",
       "decimals": 0,
       "address": "7TmmhvjfYzPt16xkNe6KK3u3CRqyRCbcEpiy4KaPD1UN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "HVAC",
+      "symbol": "HVAC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/hvac-logo.png",
+      "decimals": 9,
+      "address": "7TzPNjubR4JjmEskAj7HuRETqJkiYbbbFHuZAoo42Sx3",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -33832,6 +33887,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SDP_Token"
       }
+    },
+    {
+      "name": "Cat",
+      "symbol": "PRRR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/prrr-logo.png",
+      "decimals": 9,
+      "address": "8Kb1iFskhn2qUtBXjtq2kyDd1MWZXjRSDhQW5haw6uJu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "MorganMillionsRYAN",
@@ -57146,6 +57212,17 @@
       }
     },
     {
+      "name": "Wagon",
+      "symbol": "WAGON",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wagon-logo.png",
+      "decimals": 9,
+      "address": "CF9uE7Z4FfJz71zkVpJMeCSME2D5mBgbSy2gtWeaWyTH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Area 51",
       "symbol": "A51C",
       "logoURI": "https://raw.githubusercontent.com/AvenashKumar/crypto/main/logo.png",
@@ -59533,6 +59610,17 @@
       "logoURI": "https://raw.githubusercontent.com/GorloGitHub/crypto/main/logo.png",
       "decimals": 0,
       "address": "CcQoer5zWDxz1DpT1KQyqSEtpZKqCWFhwjJDXW9ULrDN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Sandman",
+      "symbol": "SNDMN",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/sndmn-logo.png",
+      "decimals": 9,
+      "address": "CcVSZpJQcViLSA6q7oVnFeLpvTwznhhKKfkNFw7TF2Ew",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -88491,6 +88579,17 @@
       }
     },
     {
+      "name": "Trick",
+      "symbol": "HAHA",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/haha-logo.png",
+      "decimals": 9,
+      "address": "HnU8xRe94VeRo2gGSKvo8PeFfzEioDXhK9mb7N6YGTXD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Visibility",
       "symbol": "VIS",
       "logoURI": "https://raw.githubusercontent.com/fracchiomon/visibility/main/logo.png",
@@ -93884,6 +93983,17 @@
       ]
     },
     {
+      "name": "Cool TokenNFT",
+      "symbol": "CNFT",
+      "logoURI": "https://raw.githubusercontent.com/Yash094/Testing-App/main/logo512.png",
+      "decimals": 0,
+      "address": "ToqN59DwBwzxfXD6v7EFUAbNLXpZHdzRfAJc1hqpP5V",
+      "chainId": 101,
+      "tags": [
+        "cools"
+      ]
+    },
+    {
       "name": "Kurama Foxes",
       "symbol": "KF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TosnWGnUeRM7D6TfVarLNAkFYsKoCUHKnjjd6Bim4jn/logo.png",
@@ -94357,6 +94467,23 @@
       ],
       "extensions": {
         "website": "https://we-tokenize.com"
+      }
+    },
+    {
+      "name": "Merces Token",
+      "symbol": "MRCS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WEbtb1LUhR8h44nvze1fLNeWXXSM4M9dtWxXT3r61ft/logo.png",
+      "decimals": 9,
+      "address": "WEbtb1LUhR8h44nvze1fLNeWXXSM4M9dtWxXT3r61ft",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "story-token"
+      ],
+      "extensions": {
+        "website": "https://mercestoken.com",
+        "twitter": "https://twitter.com/mercestoken",
+        "instagram": "https://www.instagram.com/mercestoken"
       }
     },
     {
