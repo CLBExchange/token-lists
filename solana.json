@@ -23362,6 +23362,17 @@
       ]
     },
     {
+      "name": "Huma Coin",
+      "symbol": "HUMA",
+      "logoURI": "https://raw.githubusercontent.com/HumaCoin/icon/main/logo.png",
+      "decimals": 9,
+      "address": "6U9zAUz4gGANpwMuXKFYzfWZp6VVd3BWromTKabMLFL5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Friktion mSOL (Volt 01 Call)",
       "symbol": "fcmSOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt/logo.png",
@@ -39832,8 +39843,7 @@
       "chainId": 101,
       "extensions": {
         "website": "https://metamounts.io/",
-        "twitter": "https://twitter.com/MetaMounts",
-        "coingeckoId": "metamounts"
+        "twitter": "https://twitter.com/MetaMounts"
       }
     },
     {
@@ -67422,7 +67432,11 @@
       "tags": [
         "utility-token",
         "metaverse"
-      ]
+      ],
+      "extensions": {
+        "website": "https://meta4labs.org",
+        "twitter": "https://twitter.com/Meta4labs1"
+      }
     },
     {
       "name": "MahaDAO (Wormhole v1)",
@@ -79390,7 +79404,7 @@
     {
       "name": "Wealthy",
       "symbol": "WLTH",
-      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/WLTH/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/WLTH/logo-larger.png",
       "decimals": 9,
       "address": "G9cPkaqupvJu4qm4JEcTVnTnChyhEuLNNBJbEdqe6h7R",
       "chainId": 101,
@@ -83343,7 +83357,7 @@
     {
       "name": "Dexlab",
       "symbol": "DXL",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/dexlab-project/assets/master/dexlab/dexlab_symbol_logo.svg",
       "decimals": 6,
       "address": "GsNzxJfFn6zQdJGeYsupJWzUAm57Ba7335mfhWvFiE9Z",
       "chainId": 101,
@@ -84523,6 +84537,17 @@
       "logoURI": "https://raw.githubusercontent.com/c2devlopement/c2crypto/main/c2-coin.png",
       "decimals": 0,
       "address": "H6vyVg538NbdvcY25UtnTG2L7fHhvBTL21zNxVR2PBbc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "KristenKoin",
+      "symbol": "KKOIN",
+      "logoURI": "https://raw.githubusercontent.com/klauducci/klauducci/main/logo.png",
+      "decimals": 0,
+      "address": "H7KGAGLpfKnPUcLUR521R13gKys5vVnjTrD5tyGgKP1D",
       "chainId": 101,
       "tags": [
         "social-token"
