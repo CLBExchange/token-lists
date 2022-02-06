@@ -785,6 +785,22 @@
       ]
     },
     {
+      "name": "Isashii Coin",
+      "symbol": "ISHA",
+      "logoURI": "https://raw.githubusercontent.com/MIpito/isashii/main/logo.png",
+      "decimals": 8,
+      "address": "24iJjSNbD3nZdjBi3UPcgwxDLZhAGd1GQozSy8JRpvaW",
+      "chainId": 101,
+      "tags": [
+        "natural",
+        "technology",
+        "economy",
+        "mining",
+        "ecology",
+        "electricity"
+      ]
+    },
+    {
       "name": "TreeCoin",
       "symbol": "TREE",
       "logoURI": "https://raw.githubusercontent.com/ZettaTree/treecrypto/main/tree.png",
@@ -22339,6 +22355,17 @@
       }
     },
     {
+      "name": "Hikari",
+      "symbol": "Hikari",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6FfKvzcHxo2no9MwLs8FHXDxBhQj1Sg7Q4H3WnyhmHDw/hikari.png",
+      "decimals": 9,
+      "address": "6FfKvzcHxo2no9MwLs8FHXDxBhQj1Sg7Q4H3WnyhmHDw",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "GaplaCoin",
       "symbol": "GPC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Fw9B7EAyET1ohFsutoU72mUpENvCMBCbHJQRdpJ8jcY/logo.png",
@@ -31577,6 +31604,17 @@
       "chainId": 101
     },
     {
+      "name": "Konoha",
+      "symbol": "Konoha",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xGviwPk9Fj2YFLLoZdXZzj64TwQe9ysVS7JawHKaePD/konoha.png",
+      "decimals": 9,
+      "address": "7xGviwPk9Fj2YFLLoZdXZzj64TwQe9ysVS7JawHKaePD",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Capital Fusion Pro",
       "symbol": "CF",
       "logoURI": "https://raw.githubusercontent.com/Cyclopsticks007/CapitalFusion/main/CapitalFusion1.png",
@@ -37199,6 +37237,17 @@
         "twitter": "https://twitter.com/schwabendollar",
         "instagram": "https://www.instagram.com/schwabendollar"
       }
+    },
+    {
+      "name": "Umi",
+      "symbol": "Umi",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8sxPUxRSRQD6vdvNLC65VMdLrjkbyyEtRfw4aMasvjUR/umi.png",
+      "decimals": 9,
+      "address": "8sxPUxRSRQD6vdvNLC65VMdLrjkbyyEtRfw4aMasvjUR",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "XRPBEAR",
@@ -47732,6 +47781,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Kaze",
+      "symbol": "Kaze",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AbD4ZqLj1xXwRWnnEGfuLK5KRfynSuNXRHLkQ9ntNcjg/kaze.png",
+      "decimals": 9,
+      "address": "AbD4ZqLj1xXwRWnnEGfuLK5KRfynSuNXRHLkQ9ntNcjg",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
@@ -67438,6 +67498,17 @@
       ]
     },
     {
+      "name": "MEENcoin",
+      "symbol": "MEEN",
+      "logoURI": "https://raw.githubusercontent.com/MEENcoin/MEEN/main/logo.png",
+      "decimals": 0,
+      "address": "DwmaUsVcYy9NoynnhwH1YfXKPwotjTKQgVW9bwZW4z7E",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MagiCoin",
       "symbol": "MGCN",
       "logoURI": "https://raw.githubusercontent.com/leonelafonsoe/magicoin/main/logo.png",
@@ -67768,6 +67839,17 @@
         "discord": "https://discord.gg/mHS3qbBaZk",
         "serumV3Usdc": "HyERWE8TEQmDX157oLEpwaTc59ECzmvjUgZhZ2RNtNdn"
       }
+    },
+    {
+      "name": "Zio",
+      "symbol": "Zio",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E1XbcaMheKrvRbaM8rMVnJkHJ9EYpHZCX6xctsDQ73Pp/zio.png",
+      "decimals": 9,
+      "address": "E1XbcaMheKrvRbaM8rMVnJkHJ9EYpHZCX6xctsDQ73Pp",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Cosmic Ape Coin",
@@ -82437,6 +82519,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Chris Token",
+      "symbol": "CHRIS",
+      "logoURI": "https://github.com/chris400p/crypto/blob/main/chrisb.png",
+      "decimals": 9,
+      "address": "GbGg3uoYBjbY7PKbKsFi1vHE36PRVk8ycu5k5Ay9ojuN",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "story-token"
       ]
     },
     {
