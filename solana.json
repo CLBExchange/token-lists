@@ -46245,6 +46245,20 @@
       ]
     },
     {
+      "name": "Mint Chip Token",
+      "symbol": "MCHP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQ1ZVHTKZBoWbd8qf3CUzymnLTFvGngU84zNjV11EFHs/logo.png",
+      "decimals": 4,
+      "address": "AQ1ZVHTKZBoWbd8qf3CUzymnLTFvGngU84zNjV11EFHs",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MintChipToken"
+      }
+    },
+    {
       "name": "Linux Oracle)",
       "symbol": "OLNX",
       "logoURI": "https://raw.githubusercontent.com/SquareandCompass/images/main/AQ542ndgurN8Dnef8JVQ6G3SAjQJjxAshS2n2fKXz6Tx.png",
@@ -84958,6 +84972,19 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Santa Barberia Coin",
+      "symbol": "SB",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Santa-Barberia-Coin/main/logo.png",
+      "decimals": 0,
+      "address": "H9qEvSM7FCJUXSG13yss8vT7f82fHySypLqBMrhrfytb",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
       ]
     },
     {
