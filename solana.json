@@ -87932,6 +87932,24 @@
       }
     },
     {
+      "name": "High Society Protocol",
+      "symbol": "SOCIETY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HighHmwDW4o5QXGXt4n3HsimjLEKnTG4V1DjBwbhyP1i/logo.png",
+      "decimals": 9,
+      "address": "HighHmwDW4o5QXGXt4n3HsimjLEKnTG4V1DjBwbhyP1i",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://highsocietynft.io/high-society-protocol",
+        "twitter": "https://twitter.com/highsocietynfts",
+        "discord": "http://discord.gg/highsociety"
+      }
+    },
+    {
       "name": "Cream (Wormhole)",
       "symbol": "CREAM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH/logo.png",
