@@ -675,6 +675,20 @@
       ]
     },
     {
+      "name": "GoodBoyTokens",
+      "symbol": "$GBT",
+      "logoURI": "https://raw.githubusercontent.com/JakeElder/token-list/main/assets/mainnet/22poAsb2M8gfh7oYEGTBiFFheSzf5tQTsrLKTA2jtbLT/logo.png",
+      "decimals": 0,
+      "address": "22poAsb2M8gfh7oYEGTBiFFheSzf5tQTsrLKTA2jtbLT",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "nft-token",
+        "community"
+      ]
+    },
+    {
       "name": "BCHBULL",
       "symbol": "BCHBULL",
       "decimals": 6,
@@ -5943,6 +5957,14 @@
         "community-token",
         "connection-token"
       ]
+    },
+    {
+      "name": "Refined Land Metaverse HOMES",
+      "symbol": "RHLM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/36pVTMos1K66AHSk8N3R27dPCzvMMziUpU8bHBHn2Qky/logo.jpg",
+      "decimals": 0,
+      "address": "36pVTMos1K66AHSk8N3R27dPCzvMMziUpU8bHBHn2Qky",
+      "chainId": 101
     },
     {
       "name": "The Convergence War",
@@ -52611,6 +52633,17 @@
       ]
     },
     {
+      "name": "twin coin",
+      "symbol": "twn",
+      "logoURI": "https://raw.githubusercontent.com/smitte10/crypto2/main/twncoin2png.png",
+      "decimals": 0,
+      "address": "BUzZpkLc97TGJH2oTzixkbRA5KFMUyWaon7iQAqgiQYP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Secret Syren Pass",
       "symbol": "SSP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BV2AJmBUFnEXqAjXxhds5st6hoHnCfbCLzqnGY87ciWQ/logo.png",
@@ -53396,6 +53429,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BbrhzVrirDHJhByTHCtHc2YQd9pNfkwKZtjjhNuF6RYS/logo.png",
       "decimals": 0,
       "address": "BbrhzVrirDHJhByTHCtHc2YQd9pNfkwKZtjjhNuF6RYS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Duality Dogs",
+      "symbol": "DUALITY",
+      "logoURI": "https://raw.githubusercontent.com/g0dpain/crypto/main/DDC.png",
+      "decimals": 18,
+      "address": "Bc24bCVJLC1ugySyRoH9MNExW8VWxN1MZ3XJLsNgzjCe",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -83309,6 +83353,23 @@
       }
     },
     {
+      "name": "Digital Gorilla Genesis",
+      "symbol": "DGG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpkU9GZXznnPwoCttnXFLTq4P9UVzocCUJT8Jsn3MzcC/logo.png",
+      "decimals": 9,
+      "address": "GpkU9GZXznnPwoCttnXFLTq4P9UVzocCUJT8Jsn3MzcC",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DigiGorillaNFT",
+        "discord": "https://discord.gg/Yw6TQnVGD8"
+      }
+    },
+    {
       "name": "Ankr Network (Wormhole)",
       "symbol": "ANKR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB/logo.png",
@@ -100369,6 +100430,24 @@
       ]
     },
     {
+      "name": "Builder",
+      "symbol": "BDR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BDR3oUcZLRQtufDahJskbsxwTvfWt9jiZkJPVr4kUQg2/logo.png",
+      "decimals": 6,
+      "address": "BDR3oUcZLRQtufDahJskbsxwTvfWt9jiZkJPVr4kUQg2",
+      "chainId": 103,
+      "tags": [
+        "community-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "website": "https://learn.figment.io/",
+        "twitter": "https://twitter.com/TheBuilderDAO",
+        "discord": "https://discord.gg/r4vNRUTXY9",
+        "description": "BDR Token"
+      }
+    },
+    {
       "name": "Solympic",
       "symbol": "OLY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BH3BxwXgk1PGwM7wKXNaxVEFTATjHaoJqRx4QcETquK3/logo.png",
@@ -101324,6 +101403,23 @@
       ],
       "extensions": {
         "website": "https://nftbookworm.com/"
+      }
+    },
+    {
+      "name": "Kafe",
+      "symbol": "KAFE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KAFE5ivWfDPP3dek2m36xvdU2NearVsnU5ryfCSAdAW/logo.png",
+      "decimals": 6,
+      "address": "KAFE5ivWfDPP3dek2m36xvdU2NearVsnU5ryfCSAdAW",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://learn.figment.io/",
+        "twitter": "https://twitter.com/TheBuilderDAO",
+        "discord": "https://discord.gg/r4vNRUTXY9",
+        "description": "KAFE Token"
       }
     },
     {
