@@ -12785,6 +12785,17 @@
       ]
     },
     {
+      "name": "Beatcoin",
+      "symbol": "BEAC",
+      "logoURI": "https://raw.githubusercontent.com/asdrubalchirinos/beatcoin/main/Beatcoin.png",
+      "decimals": 0,
+      "address": "4HU3YPmYuejnEXhG24dUmFuVwvtkYqebdanqqubRsiFP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Space Heads Coin",
       "symbol": "HEADS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
@@ -24494,6 +24505,17 @@
       "logoURI": "https://raw.githubusercontent.com/spiesserfreakx3/sm-tokenimage/main/logo.PNG",
       "decimals": 0,
       "address": "6ciiLZXXtCdEzxKPEpqDxeXM5ewKWi7yyJZ6MiMfK5Jt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Frederikk Coin",
+      "symbol": "FRC",
+      "logoURI": "https://raw.githubusercontent.com/LorenzoMann/crypto/main/FC.png",
+      "decimals": 0,
+      "address": "6crJB6HHyAdiuMYjW9W8p6i4QSfBmRPTw1xbrG8zXfHy",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -60846,6 +60868,22 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "SolOwl Token",
+      "symbol": "HOOTS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CjxPDfH3EX2gp3qypLbwmePyehwpsvU3Qc7GmxP3LQQG/logo.png",
+      "decimals": 9,
+      "address": "CjxPDfH3EX2gp3qypLbwmePyehwpsvU3Qc7GmxP3LQQG",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solowl.io",
+        "twitter": "https://twitter.com/owlsofsol",
+        "discord": "https://t.co/iOUr4IKfcm"
+      }
     },
     {
       "name": "Oasis Coin",
@@ -102508,6 +102546,19 @@
       "extensions": {
         "vault": "https://devnet.bridgesplit.com/markets/HVVB2ZDw1ykyRYSwcMrDXsQ6sesGe7qyp5vB3zAuK4Hw"
       }
+    },
+    {
+      "name": "PoSB Doubloon",
+      "symbol": "PoSB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HjChwVRT1WjbdDx6ikyKp4qXWLowXfneQZ6MXJd5Zw6p/logo.png",
+      "decimals": 0,
+      "address": "HjChwVRT1WjbdDx6ikyKp4qXWLowXfneQZ6MXJd5Zw6p",
+      "chainId": 103,
+      "tags": [
+        "posb-token",
+        "doubloon",
+        "test"
+      ]
     },
     {
       "name": "Estefania Foxy (Hkjm)",
