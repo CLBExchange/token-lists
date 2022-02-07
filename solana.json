@@ -2636,6 +2636,18 @@
       "chainId": 101
     },
     {
+      "name": "Zim",
+      "symbol": "Zim",
+      "logoURI": "https://raw.githubusercontent.com/danwdgc/Zim/main/logo.png",
+      "decimals": 9,
+      "address": "2S6vF5KfLUCBoBahC3QkWzTG4XSnJ7RbpM1hf3dmiEUp",
+      "chainId": 101,
+      "tags": [
+        "currency-token",
+        "financial-token"
+      ]
+    },
+    {
       "name": "nondos",
       "symbol": "non",
       "logoURI": "https://raw.githubusercontent.com/nondoscom/token/main/logo.png",
@@ -34132,6 +34144,17 @@
       "logoURI": "https://raw.githubusercontent.com/bremnertech/crypto_oskar/main/IMG_2237.png",
       "decimals": 0,
       "address": "8JxhzRVb2BNdPD9tmobfeqjyEjnic3ZYxyS3NxKAfei2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "MeetingMaryjane",
+      "symbol": "MMJ",
+      "logoURI": "https://raw.githubusercontent.com/Neojunkerr/crypto/main/MMJ.png",
+      "decimals": 0,
+      "address": "8KA12axBKQK5FG3SqTR1WU7ybvw5M3YDQEAHmk8eop8P",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -79840,6 +79863,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Rooter Coin",
+      "symbol": "ROOTER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G2apZqTaccBmBipn9NLTXo4MJ6XbJ4z2EZmDGrtrZfam/logo.png",
+      "decimals": 9,
+      "address": "G2apZqTaccBmBipn9NLTXo4MJ6XbJ4z2EZmDGrtrZfam",
+      "chainId": 101,
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://www.rooter.gg/"
+      }
     },
     {
       "name": "Dino Power Token",
