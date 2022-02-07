@@ -17828,6 +17828,14 @@
       }
     },
     {
+      "name": "Solnex",
+      "symbol": "Solnex",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KmzqxNmxEz7mdhckVNb36BKztVWNdggeMfa71H9RfX4/logo.jpg",
+      "decimals": 9,
+      "address": "5KmzqxNmxEz7mdhckVNb36BKztVWNdggeMfa71H9RfX4",
+      "chainId": 101
+    },
+    {
       "name": "Pixels.so Token",
       "symbol": "PIXL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5L2YboFbHAUpBDDJjvDB5M6pu9CW2FRjyDB2asZyvjtE/logo.png",
@@ -25581,6 +25589,20 @@
       ],
       "extensions": {
         "website": "https://www.earjuice.com/"
+      }
+    },
+    {
+      "name": "Cat Cash",
+      "symbol": "CATZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6sZdGff2HusNB4M4yqQxmfZicdwSMzjTF8axXeW4nQ2N/logo.png",
+      "decimals": 9,
+      "address": "6sZdGff2HusNB4M4yqQxmfZicdwSMzjTF8axXeW4nQ2N",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.catsonmats.com"
       }
     },
     {
