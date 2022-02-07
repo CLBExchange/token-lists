@@ -4060,7 +4060,8 @@
       "extensions": {
         "website": "https://vivaion.com",
         "twitter": "https://twitter.com/vivaion",
-        "discord": "https://discord.gg/vivaion/"
+        "discord": "https://discord.gg/vivaion/",
+        "coingeckoId": "vivaion"
       }
     },
     {
@@ -13736,21 +13737,6 @@
         "meme-token",
         "social-token"
       ]
-    },
-    {
-      "name": "Nooft Token",
-      "symbol": "NOOFT",
-      "logoURI": "https://raw.githubusercontent.com/noofttoken/nooft/main/logo.png",
-      "decimals": 9,
-      "address": "4VH8UdE13qAh5NMwZFdE34aLWRSXfBjL5Kh2ZhzNoPEs",
-      "chainId": 101,
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "website": "https://nooft.io/",
-        "twitter": "https://twitter.com/NooftProject"
-      }
     },
     {
       "name": "CannabisCoin",
@@ -31346,6 +31332,17 @@
         "twitter": "https://twitter.com/SenshiNFT",
         "discord": "https://discord.gg/E7yWZrzvXj"
       }
+    },
+    {
+      "name": "Cosmic Token",
+      "symbol": "COSMIC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7sgs35BJHUQAsVBFat2f3M8dRggTZAPcstc3mRHoEmq1/logo.png",
+      "decimals": 0,
+      "address": "7sgs35BJHUQAsVBFat2f3M8dRggTZAPcstc3mRHoEmq1",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "UF Computer Science Token",
@@ -49989,7 +49986,7 @@
     {
       "name": "zkrollup cross chain link",
       "symbol": "ZKL",
-      "logoURI": "https://github.com/AaronSmart/CopyCat/blob/master/assets/picture/zklink.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN/logo.pn",
       "decimals": 9,
       "address": "AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN",
       "chainId": 101,
@@ -57926,6 +57923,21 @@
       }
     },
     {
+      "name": "Nooft Token",
+      "symbol": "NOOFT",
+      "logoURI": "https://raw.githubusercontent.com/noofttoken/nooft/main/logo.png",
+      "decimals": 9,
+      "address": "CHYiXPvPRrvN5eCGHkpfPExdBy4GerGewyuoK2BRyDiC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://nooft.io/",
+        "twitter": "https://twitter.com/NooftProject"
+      }
+    },
+    {
       "name": "Browl Coin",
       "symbol": "BROWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHci94eZt3KX2YZEJZppybMms2nW2wm5JWcdDtYLKujH/logo.png",
@@ -60358,6 +60370,21 @@
       "chainId": 101,
       "extensions": {
         "website": "https://www.toem.art/"
+      }
+    },
+    {
+      "name": "Neuron",
+      "symbol": "NEU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cf31XKvBYx287TL8C1XBmDuLPDL8BKzozwkFC58RTqC6/logo.png",
+      "decimals": 0,
+      "address": "Cf31XKvBYx287TL8C1XBmDuLPDL8BKzozwkFC58RTqC6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solbrains.com",
+        "twitter": "https://twitter.com/SolanaBrains"
       }
     },
     {
@@ -73413,7 +73440,7 @@
     {
       "name": "Solana Mobile App UlaPay Token",
       "symbol": "ULA",
-      "logoURI": "https://github.com/AaronSmart/CopyCat/blob/master/assets/picture/ulapay.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ/logo.pn",
       "decimals": 9,
       "address": "EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ",
       "chainId": 101,
@@ -85903,17 +85930,6 @@
         "nft-token",
         "community-token",
         "play-2-earn"
-      ]
-    },
-    {
-      "name": "Cosmic Token",
-      "symbol": "COSMIC",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H9SaYGLR6GwXQyF46b1DG3SunDkTiq2e3YXVRfoWKmHH/logo.png",
-      "decimals": 0,
-      "address": "H9SaYGLR6GwXQyF46b1DG3SunDkTiq2e3YXVRfoWKmHH",
-      "chainId": 101,
-      "tags": [
-        "utility-token"
       ]
     },
     {
