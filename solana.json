@@ -675,7 +675,7 @@
       ]
     },
     {
-      "name": "GoodBoyTokens",
+      "name": "GoodBoyToken",
       "symbol": "$GBT",
       "logoURI": "https://raw.githubusercontent.com/JakeElder/token-list/main/assets/mainnet/22poAsb2M8gfh7oYEGTBiFFheSzf5tQTsrLKTA2jtbLT/logo.png",
       "decimals": 0,
@@ -9717,6 +9717,17 @@
       "extensions": {
         "website": "https://www.crazydice.app"
       }
+    },
+    {
+      "name": "Cursed Coin",
+      "symbol": "CURSE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd/logo.png",
+      "decimals": 0,
+      "address": "3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "EternalT",
@@ -22674,6 +22685,22 @@
       "chainId": 101,
       "extensions": {
         "twitter": "https://twitter.com/Pepe_Solana_SPL"
+      }
+    },
+    {
+      "name": "Near Coin",
+      "symbol": "NEAR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6KC8AU1Tm39sVvmwBkXBzW82XtHaRgSZqufQET9YipHY/logo.png",
+      "decimals": 0,
+      "address": "6KC8AU1Tm39sVvmwBkXBzW82XtHaRgSZqufQET9YipHY",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.nearcoin.com/",
+        "twitter": "https://twitter.com/NearcastHQ",
+        "facebook": "https://www.facebook.com/NearcastHQ",
+        "instagram": "https://www.instagram.com/NearcastHQ/",
+        "linkedin": "https://www.linkedin.com/company/nearcast",
+        "youtube": "https://www.youtube.com/channel/UCqvbKHoV0xaReGts8oedmnQ"
       }
     },
     {
@@ -99665,6 +99692,14 @@
         "linkedin": "https://www.linkedin.com/company/the-big-deals",
         "telegram": "https://t.me/+sWdEDZzdkSVlY2I1"
       }
+    },
+    {
+      "name": "WorksToken",
+      "symbol": "WORKS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEixDWPG1cTMdCDimN67oGc5SjbbVMMSDGJSX3G2Fyez/logo.png",
+      "decimals": 9,
+      "address": "HEixDWPG1cTMdCDimN67oGc5SjbbVMMSDGJSX3G2Fyez",
+      "chainId": 102
     },
     {
       "name": "Singularity DAO",
