@@ -37390,7 +37390,7 @@
     {
       "name": "Myth",
       "symbol": "$MYTH",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8t2JQrLWDN8HJ5jTNKzVYgJasmxpaqQW6yo6dx9M3BTK/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8t2JQrLWDN8HJ5jTNKzVYgJasmxpaqQW6yo6dx9M3BTK/logo.gif",
       "decimals": 0,
       "address": "8t2JQrLWDN8HJ5jTNKzVYgJasmxpaqQW6yo6dx9M3BTK",
       "chainId": 101,
@@ -71196,6 +71196,23 @@
       }
     },
     {
+      "name": "FUM",
+      "symbol": "FUM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ed5nxXh2TT1Ry7MuX4Hi5YuCAnjmXEcpJ9LhdmDbCFQS/logo.png",
+      "decimals": 9,
+      "address": "Ed5nxXh2TT1Ry7MuX4Hi5YuCAnjmXEcpJ9LhdmDbCFQS",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solsquatch.io/",
+        "twitter": "https://twitter.com/SolSquatchNFT"
+      }
+    },
+    {
       "name": "FABRIC",
       "symbol": "FAB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
@@ -71817,6 +71834,17 @@
       "chainId": 101,
       "tags": [
         "meme-token"
+      ]
+    },
+    {
+      "name": "NineZulu Token",
+      "symbol": "NZT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EiyHq2uL3AYCq7VREs69RbbMC6Ccj5vfYGpqFptb2Zie/logo.png",
+      "decimals": 0,
+      "address": "EiyHq2uL3AYCq7VREs69RbbMC6Ccj5vfYGpqFptb2Zie",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
