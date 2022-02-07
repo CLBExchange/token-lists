@@ -26645,6 +26645,17 @@
       "chainId": 101
     },
     {
+      "name": "King Coin",
+      "symbol": "AK",
+      "logoURI": "https://raw.githubusercontent.com/King4715/Crypto/main/King.png",
+      "decimals": 0,
+      "address": "73cnggNzqCd6PSdFVjJ2ohzvGYyrJhygKfj2Sjqi9zhx",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Pip",
       "symbol": "PIP",
       "logoURI": "https://raw.githubusercontent.com/knoxharper/pep/main/noun-seed-418863.png",
@@ -27576,6 +27587,21 @@
       ],
       "extensions": {
         "website": "https://skogdev.no/"
+      }
+    },
+    {
+      "name": "Mahalo Token",
+      "symbol": "MHL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7DpRoxt4gzQnbtBavWi6VyBY75fBPuoRNsBmr7KxeBDm/logo.png",
+      "decimals": 0,
+      "address": "7DpRoxt4gzQnbtBavWi6VyBY75fBPuoRNsBmr7KxeBDm",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "tech-token"
+      ],
+      "extensions": {
+        "website": "https://github.com/blagoon"
       }
     },
     {
@@ -33555,6 +33581,22 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?CGC"
+      }
+    },
+    {
+      "name": "CACTI",
+      "symbol": "CACTI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8G1SG7q8VyqCrjH7VjG9fouDDmHYJaYBMzBomdcUZ1qX/logo.png",
+      "decimals": 9,
+      "address": "8G1SG7q8VyqCrjH7VjG9fouDDmHYJaYBMzBomdcUZ1qX",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/stranded_cactus"
       }
     },
     {
@@ -54999,6 +55041,19 @@
       }
     },
     {
+      "name": "DOOX Coin",
+      "symbol": "DOOX",
+      "logoURI": "https://raw.githubusercontent.com/rce171/crypto/main/doox_coin_logo.png",
+      "decimals": 0,
+      "address": "Bpx6rPot4m7nhxEEnagokTbRqnaMeZXPnKsTEurNcgQR",
+      "chainId": 101,
+      "tags": [
+        "tech-token",
+        "technology",
+        "social-token"
+      ]
+    },
+    {
       "name": "Turf",
       "symbol": "TURF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kti1UbBFcCZbfccmGE57W9f6Byy5EY9YLLdsecs3UHa/logo.jpg",
@@ -55173,6 +55228,17 @@
       "extensions": {
         "website": "https://solible.com/"
       }
+    },
+    {
+      "name": "CryptoFinn",
+      "symbol": "CRF",
+      "logoURI": "https://raw.githubusercontent.com/FinnInBinn/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "BrYZZjDTGzZXLsL3ABCYNa5ArQd48kJbhTyhbTp2fgq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "TecBeat Coin",
