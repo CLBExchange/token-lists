@@ -8524,6 +8524,17 @@
       }
     },
     {
+      "name": "DAVSHALONA",
+      "symbol": "YADA",
+      "logoURI": "https://raw.githubusercontent.com/yanivberg/tiktoken/main/yada.png",
+      "decimals": 0,
+      "address": "3UmGKDt2wvwaU3C5L711ikNMtM2fwrB5qpyCm1DDPC71",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Vamp Coin",
       "symbol": "VAMP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3V1iScAr8N7X2CXPXpLpgjeV3ThpJdwPJftmem6Ab3JH/logo.png",
@@ -38197,6 +38208,22 @@
       }
     },
     {
+      "name": "Maniak NFT",
+      "symbol": "MANIAK",
+      "logoURI": "https://github.com/OmiCodez/maniaktoken/raw/main/logo.png",
+      "decimals": 9,
+      "address": "8yiekaUUidqA8bQ5QuWGNgrSDCnZVf5te6ZykGeY8roa",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://maniak-nft.space",
+        "twitter": "https://twitter.com/ManiakNFT1"
+      }
+    },
+    {
       "name": "Kunefke Koin",
       "symbol": "KNFK",
       "logoURI": "https://raw.githubusercontent.com/brandonkunefke/KNFK/main/logo.png",
@@ -49431,6 +49458,19 @@
         "facebook": "https://www.facebook.com/ARTchive.nft",
         "instagram": "https://www.instagram.com/artchive.nft"
       }
+    },
+    {
+      "name": "PromiseCoin",
+      "symbol": "BAOP",
+      "logoURI": "https://raw.githubusercontent.com/justcallmetk/cryptotokenexperiment/main/logo.png",
+      "decimals": 9,
+      "address": "AnQdNTJKgU5TY9YYnFMBaL6Hfc7uUGZzSkZVduPVCfMx",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "educational-token"
+      ]
     },
     {
       "name": "Andy token",
@@ -99756,6 +99796,17 @@
         "website": "https://www.solacetoken.com/",
         "twitter": "https://twitter.com/solacetoken"
       }
+    },
+    {
+      "name": "XInvoke",
+      "symbol": "XINV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xinvJyYM2DK7gZrntebb23sJfZWYhbCArsVaWZtepjN/logo.png",
+      "decimals": 9,
+      "address": "xinvJyYM2DK7gZrntebb23sJfZWYhbCArsVaWZtepjN",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Serum (Wormhole from Ethereum)",
