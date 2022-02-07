@@ -7308,6 +7308,22 @@
       }
     },
     {
+      "name": "Solend mSOL",
+      "symbol": "cmSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h/logo.png",
+      "decimals": 9,
+      "address": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "mahdi rostami",
       "symbol": "MAHDIROSTAMI",
       "logoURI": "https://raw.githubusercontent.com/rostamimahdi1997/mysoltoken/main/logo.png",
@@ -14963,6 +14979,22 @@
       ],
       "extensions": {
         "website": "https://rocketsola.com/nft/instagram/4iPKfHxmYX29fr5nnXdNifA52GJKokWeRmQ67hApGySJ"
+      }
+    },
+    {
+      "name": "Solend mSOL-SOL",
+      "symbol": "cmSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4icXEpFVMrcqob6fnd3jZ6KjKrc6cqre6do1f8kKAC1u/logo.png",
+      "decimals": 9,
+      "address": "4icXEpFVMrcqob6fnd3jZ6KjKrc6cqre6do1f8kKAC1u",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
       }
     },
     {
@@ -24005,6 +24037,22 @@
       }
     },
     {
+      "name": "Solend USDT-USDC",
+      "symbol": "cUSDT-USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6XrbsKScacEwpEW5DVNko9t5vW3cim9wktAeT9mmiYHS/logo.png",
+      "decimals": 6,
+      "address": "6XrbsKScacEwpEW5DVNko9t5vW3cim9wktAeT9mmiYHS",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "DINO",
       "symbol": "DINO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png",
@@ -25137,6 +25185,22 @@
         "twitter": "https://twitter.com/medusa_token",
         "discord": "https://discord.com/invite/8Trp4b6W7S",
         "telegram": "https://t.me/project_medusa_NFT"
+      }
+    },
+    {
+      "name": "PRMD-USDC LP",
+      "symbol": "PRMD-USDC",
+      "logoURI": "https://user-images.githubusercontent.com/84945202/152856372-8691eef7-6eb4-40b3-a307-0e033104fa9f.png",
+      "decimals": 9,
+      "address": "6jeSdTbLzrgSpnATG38zQJLfEVwbrP8WXxzzgmsVpRFW",
+      "chainId": 101,
+      "tags": [
+        "PRMD",
+        "primordials-coin"
+      ],
+      "extensions": {
+        "website": "https://primordialsgame.com/",
+        "twitter": "https://twitter.com/Primordialsgame"
       }
     },
     {
@@ -45631,6 +45695,22 @@
       ]
     },
     {
+      "name": "Solend scnSOL",
+      "symbol": "cscnSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFq1sSdevxfqWGcmcz7XpPbfjHevcJY7baZf9RkyrzoR/logo.png",
+      "decimals": 9,
+      "address": "AFq1sSdevxfqWGcmcz7XpPbfjHevcJY7baZf9RkyrzoR",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "TUSK (WATW)",
       "symbol": "TUSK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AG1wkgfXJNkS2xWsbDePVsVDsdiZofcm2JpYiMfvPnHg/logo.png",
@@ -46908,6 +46988,22 @@
       ]
     },
     {
+      "name": "Clip Finance",
+      "symbol": "CLIP",
+      "logoURI": "https://i.ibb.co/M19crq9/gallery-1.png",
+      "decimals": 9,
+      "address": "AR1AwFBUTQ2QNrKaY1vAMmHqqwQWGfX3bzxSaqJ76uPd",
+      "chainId": 101,
+      "tags": [
+        "Lending-Protocol",
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://www.clip.finance",
+        "twitter": "https://twitter.com/ClipFinance"
+      }
+    },
+    {
       "name": "Wrapped SUSHI (Sollet)",
       "symbol": "soSUSHI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy/logo.png",
@@ -48053,6 +48149,21 @@
       "decimals": 9,
       "address": "AZYS2oh7rKaiAkabWMkCfHztKS3y9mNGnPaahHyqVtrK",
       "chainId": 101
+    },
+    {
+      "name": "CuseTheJuice",
+      "symbol": "CUSE",
+      "logoURI": "https://github.com/CuseTheJuice/token-list/blob/main/assets/mainnet/AZci9R148CU6hfnnE8ffm2K5mkxagbnTAZNQF5fLbvHb/logo.png?raw=true",
+      "decimals": 9,
+      "address": "AZci9R148CU6hfnnE8ffm2K5mkxagbnTAZNQF5fLbvHb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CuseTheJuice",
+        "discord": "https://discord.gg/xHpRcRKG"
+      }
     },
     {
       "name": "Bipple",
@@ -51316,6 +51427,17 @@
       "logoURI": "https://raw.githubusercontent.com/felipecadar/crypto/main/logo.png",
       "decimals": 0,
       "address": "B9Ej4ooSjae7xdgMhcUzCGtT6HcCL4cA8LSse3QqaibX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Upbring Token",
+      "symbol": "UPB",
+      "logoURI": "https://raw.githubusercontent.com/SOLreaper88/Upbring-Logo/main/UpbringLogo.PNG",
+      "decimals": 0,
+      "address": "B9LtfDZWWRrihYu8jDN57thcqqi7xfWAvj8yq4o2YJxw",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -62758,6 +62880,22 @@
       ]
     },
     {
+      "name": "Solend SLND",
+      "symbol": "cSLND",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D3Cu5urZJhkKyNZQQq2ne6xSfzbXLU4RrywVErMA2vf8/logo.png",
+      "decimals": 6,
+      "address": "D3Cu5urZJhkKyNZQQq2ne6xSfzbXLU4RrywVErMA2vf8",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "Gruesome Goblin Token",
       "symbol": "GG",
       "logoURI": "https://www.gruesomegoblins.com/assets/images/Token.png",
@@ -69313,6 +69451,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Solend ORCA",
+      "symbol": "cORCA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E9LAZYxBVhJr9Cdfi9Tn4GSiJHDWSZDsew5tfgJja6Cu/logo.png",
+      "decimals": 6,
+      "address": "E9LAZYxBVhJr9Cdfi9Tn4GSiJHDWSZDsew5tfgJja6Cu",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
     },
     {
       "name": "TrustSwap Token (Wormhole v1)",
@@ -83442,6 +83596,24 @@
       }
     },
     {
+      "name": "Jungle DeFi",
+      "symbol": "JFI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "decimals": 9,
+      "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+      "chainId": 101,
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "website": "https://jungledefi.io/",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "medium": "https://medium.com/@JungleDeFi",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "description": "The Jungle Finance governance token."
+      }
+    },
+    {
       "name": "AlexaBucks",
       "symbol": "ABUX",
       "logoURI": "https://raw.githubusercontent.com/Fuki17/crypto/main/AlexaBuxLogo.png",
@@ -93138,6 +93310,22 @@
       ]
     },
     {
+      "name": "Solend stSOL",
+      "symbol": "cstSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/QQ6WK86aUCBvNPkGeYBKikk15sUg6aMUEi5PTL6eB4i/logo.png",
+      "decimals": 9,
+      "address": "QQ6WK86aUCBvNPkGeYBKikk15sUg6aMUEi5PTL6eB4i",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "Chump Buck",
       "symbol": "CHMP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/QQe5FMXHnF9cSx9PmYim7fveSsCSivqTut6BbYZGb1b/logo.png",
@@ -94894,6 +95082,23 @@
       ]
     },
     {
+      "name": "Pixel Drugs Whitelist",
+      "symbol": "PD",
+      "logoURI": "https://raw.githubusercontent.com/solodevo/pixeldrugs/main/token.png",
+      "decimals": 0,
+      "address": "TosKhWRKkaf3Bc6c5j3BYRx8EQn8w17xVRx1HAvv2zV",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.pixeldrugs.com",
+        "twitter": "https://twitter.com/PixelDrugs",
+        "discord": "https://discord.gg/Hd97U9z3eg"
+      }
+    },
+    {
       "name": "Kurama Foxes",
       "symbol": "KF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TosnWGnUeRM7D6TfVarLNAkFYsKoCUHKnjjd6Bim4jn/logo.png",
@@ -96608,6 +96813,19 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Balandra",
+      "symbol": "BLDRA",
+      "logoURI": "https://raw.githubusercontent.com/AKDEVFD/btit/main/logo.png",
+      "decimals": 0,
+      "address": "e66ioN3eaRDSnKfHZrB72Nr6eBUZxxq1ZDHxnHdnFmo",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nft",
+        "game"
       ]
     },
     {
