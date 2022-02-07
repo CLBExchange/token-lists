@@ -39793,6 +39793,25 @@
       }
     },
     {
+      "name": "ArtCoin",
+      "symbol": "ARTJ",
+      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/ARTJ/logo.png",
+      "decimals": 9,
+      "address": "9Jum2noBrYYT8Mt6VFJ9kPcGc4mXS7vDJzuAUAkBgmXP",
+      "chainId": 101,
+      "tags": [
+        "corporate"
+      ],
+      "extensions": {
+        "website": "https://artjoker.net",
+        "facebook": "https://facebook.com/artjoker.ua",
+        "instagram": "https://instagram.com/artjoker_official",
+        "linkedin": "https://linkedin.com/company/artjoker-software",
+        "telegram": "https://t.me/hello_artjoker",
+        "youtube": "https://www.youtube.com/user/artjokerua"
+      }
+    },
+    {
       "name": "MuneraGames",
       "symbol": "MUN",
       "logoURI": "https://raw.githubusercontent.com/muneragames/munera-public-docs/main/IconOnly.png",
@@ -66353,6 +66372,27 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Gosht Coin",
+      "symbol": "GOSHT",
+      "logoURI": "https://raw.githubusercontent.com/GoshNFT/uploads/main/logo.png",
+      "decimals": 9,
+      "address": "DgCZDUPm5PapUMZ3F9jbB62zDqzgpuBKgdANz34u7KL8",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nft",
+        "game"
+      ],
+      "extensions": {
+        "website": "https://www.goshnft.com/",
+        "twitter": "https://twitter.com/GoshNft",
+        "facebook": "https://www.facebook.com/goshnft",
+        "instagram": "https://www.instagram.com/goshnft/",
+        "linkedin": "https://www.linkedin.com/company/goshnft",
+        "telegram": "https://t.me/GoshNFT"
+      }
     },
     {
       "name": "Raydium LP Token V4 (BTC-USDT)",
