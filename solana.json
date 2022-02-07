@@ -61148,6 +61148,19 @@
       ]
     },
     {
+      "name": "Invokers Coin",
+      "symbol": "$INV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CnzCjrBQNzcwG1XEfBtP6kfvsbkLmXmSsHxR6UwgfXYQ/logo-iv.png",
+      "decimals": 9,
+      "address": "CnzCjrBQNzcwG1XEfBtP6kfvsbkLmXmSsHxR6UwgfXYQ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nft",
+        "game"
+      ]
+    },
+    {
       "name": "CocaCola",
       "symbol": "COLA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CoLaAnVnyzMo88o1iZs3sgKTct6BEdQPD7eYfZEz6KVG/logo.png",
@@ -85094,7 +85107,7 @@
         "bridgeContract": "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde",
         "assetContract": "https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
         "serumV3Usdc": "5WRoQxE59966N2XfD2wYy1uhuyKeoVJ9NBMH6r6RNYEF",
-        "coingeckoId": "polygon",
+        "coingeckoId": "matic-network",
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
     },
@@ -91795,7 +91808,7 @@
         "bridgeContract": "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052",
         "assetContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "serumV3Usdc": "E8JQstcwjuqN5kdMyUJLNuaectymnhffkvfg1j286UCr",
-        "coingeckoId": "avalanche",
+        "coingeckoId": "avalanche-2",
         "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
       }
     },
@@ -92364,6 +92377,19 @@
         "discord": "https://discord.com/invite/moondusa",
         "telegram": "https://t.me/MoondusaTheNFT"
       }
+    },
+    {
+      "name": "Moscovium",
+      "symbol": "MOSC",
+      "logoURI": "https://arweave.net/i1bb-mYGWpJyDivUpnyExbYfvefgH-NcsLhsCMGeAjc",
+      "decimals": 0,
+      "address": "MoscKLpTs9EV4ADTCGYATt1cHLdmybZ7215gKTdWAq7",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "metaverse",
+        "staking"
+      ]
     },
     {
       "name": "WL Moondusa",
