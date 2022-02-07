@@ -4521,6 +4521,17 @@
       }
     },
     {
+      "name": "Laugh",
+      "symbol": "LOL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lol-logo.png",
+      "decimals": 9,
+      "address": "2qNQBY77aeTWK141weqvSpeQ84DdHM3AvujffpWVSQXS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Samolana NFT",
       "symbol": "SAMOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2qRHKgE9k7doshwy7ZfENuSHW256pDhcbyspDgU3Ek8C/logo.png",
@@ -11803,6 +11814,17 @@
       ]
     },
     {
+      "name": "Light",
+      "symbol": "BRIGHT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/bright-logo.png",
+      "decimals": 9,
+      "address": "46KYqqwbiuMipGidYos9LaMZNNteobscuqxP9jo3Taes",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ShuShi Koin",
       "symbol": "SHUSHIS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/46QuZ6aBbevAFzQsA1zxwHnZaT8FDcZKorBT3muQ4oqh/logo.png",
@@ -13611,6 +13633,17 @@
       }
     },
     {
+      "name": "Heat",
+      "symbol": "HT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ht-logo.png",
+      "decimals": 9,
+      "address": "4UZzWmagD4QKRnmp94cM5BXQdVbspDXmKR57efcwkpWX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Inkwe Coin",
       "symbol": "INKW",
       "logoURI": "https://raw.githubusercontent.com/mrdawgza/inkwecoin/main/logo.png",
@@ -13647,6 +13680,17 @@
         "twitter": "https://twitter.com/solareum_wallet",
         "telegram": "https://t.me/solareum_wallet"
       }
+    },
+    {
+      "name": "Cool",
+      "symbol": "CL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/cl-logo.png",
+      "decimals": 9,
+      "address": "4V3g5mrjZeExqLMpJfmtHXmJsaxGpCW2hn6uj4FG54XL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "PALLADIUM",
@@ -16001,6 +16045,17 @@
       ]
     },
     {
+      "name": "UBU Coin",
+      "symbol": "UBU",
+      "logoURI": "https://raw.githubusercontent.com/UBUcares/UBUcrypto/main/UBUcares-crypto-logo.png",
+      "decimals": 0,
+      "address": "4uoMXiEP1thMEsFjT9kQ8HyM1wYgx7CN6gV8waeEvqMy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "InfectedCoin",
       "symbol": "INF",
       "logoURI": "https://raw.githubusercontent.com/infectedw/infectoin/main/wp3014779-radioactive-wallpapers-modified.png",
@@ -16942,6 +16997,17 @@
       "logoURI": "https://raw.githubusercontent.com/serdafim24/shrek/main/main-qimg-8430e461c28bbfb39ef1806f0b4100f3.jpg",
       "decimals": 0,
       "address": "585772wNa6DMRV3BwAFStS3A45DPTuUbhbwyAZG1kZBX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Dinner",
+      "symbol": "DINE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/dine-logo.png",
+      "decimals": 9,
+      "address": "58D4h2DhKq3256NEK5geK4S6DzYDXxm9nNAhW5FAJ5gq",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -19344,6 +19410,20 @@
         "website": "https://www.nftsolanagallery.com/",
         "twitter": "https://twitter.com/nftgalleryshop",
         "description": "Hope will never be silent"
+      }
+    },
+    {
+      "name": "Gummi Bear Coin",
+      "symbol": "Gummi",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5cdoDqerd9AbmouZQrFnRVMSimo7G4kVXTKQf98WiKkv/logo.png",
+      "decimals": 0,
+      "address": "5cdoDqerd9AbmouZQrFnRVMSimo7G4kVXTKQf98WiKkv",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GummiBears_NFT"
       }
     },
     {
@@ -22037,6 +22117,17 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "symbol": "TAIN",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/tain-logo.png",
+      "decimals": 9,
+      "address": "69eLQE1AvjBpjskJrDSVbkNKY4Z6J61A9BjGfxqEuH6x",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -32655,6 +32746,17 @@
       }
     },
     {
+      "name": "JoseCoin",
+      "symbol": "JOSE",
+      "logoURI": "https://raw.githubusercontent.com/JoseCoin/Crypto/main/JoseCoin.png",
+      "decimals": 8,
+      "address": "86BrHAcZijW11wXTP4MqWYJoLZc8HL1egp8XuG8LfDCt",
+      "chainId": 101,
+      "tags": [
+        "jose-knows-token"
+      ]
+    },
+    {
       "name": "FUTURE SKULLZ",
       "symbol": "FSKZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/86H9UVqUFqPjKiMPVhRLfWiTsJRWRc9yFGJACmboZCyi/logo.png",
@@ -38525,6 +38627,17 @@
       ]
     },
     {
+      "name": "Snack",
+      "symbol": "SNCK",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/snck-logo.png",
+      "decimals": 9,
+      "address": "96f3LWFcQo8amNTekr1wAUMRWQ99bV53D6xn2nbmgU2w",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hiep Coin",
       "symbol": "HIEP",
       "logoURI": "https://raw.githubusercontent.com/HiepToken/Hiep/main/20220116_031649_0000.png",
@@ -43288,6 +43401,17 @@
       "logoURI": "https://raw.githubusercontent.com/LeonSatyr/crypto/main/Bear.png",
       "decimals": 0,
       "address": "9vZ17jrKfMZj5pH37232mCR3t45EZiVHfauoAECueVWN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Shop",
+      "symbol": "BUY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/buy-logo.png",
+      "decimals": 9,
+      "address": "9vbTWQTmdKZed35iC14Q1XiQp7syUWwfwQZLXVrjnkxt",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -53552,6 +53676,17 @@
       }
     },
     {
+      "name": "Best Friend",
+      "symbol": "BFF",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/bff-logo.png",
+      "decimals": 9,
+      "address": "BZScomZJmrJs5DUjyPUH24Sz2srPFdqTcbEzk4WknLhW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Nick Token",
       "symbol": "NICK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BZopZtZHqUY7ApiYTLjztQSgBoAsqQsJU3kFqHW27qEK/logo.png",
@@ -59782,6 +59917,17 @@
       ]
     },
     {
+      "name": "Girlfriend",
+      "symbol": "GFND",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/gfnd-logo.png",
+      "decimals": 9,
+      "address": "CbvgsXZfdfSbPn7crh34oYAvLfBbTZDSLcrxbgZsiVBk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Dubsteet Coin",
       "symbol": "DSN",
       "logoURI": "https://raw.githubusercontent.com/Dubsteet/crypto/main/logo.png",
@@ -60024,6 +60170,17 @@
       "logoURI": "https://raw.githubusercontent.com/conanjaywallace/crypto/main/Untitled%20design.png",
       "decimals": 0,
       "address": "CeRYEWdRSNbCqA8rC2s2eiANiqUpbGuhW3kD9uyvz8Kp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Boyfriend",
+      "symbol": "BFND",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/bfnd-logo.png",
+      "decimals": 9,
+      "address": "CeRbm5araoFjmW7UGc5D85vHjD1gTUBMHuVynyqLLHa7",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -60802,6 +60959,17 @@
       }
     },
     {
+      "name": "Husband",
+      "symbol": "HUS",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/hus-logo.png",
+      "decimals": 9,
+      "address": "CnLsjg3xZ8rtNg41DA9cXUTtF6VWL78UKr2RygjqcGo5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "VigilantVeterans",
       "symbol": "VGVT",
       "logoURI": "https://raw.githubusercontent.com/Vigilant6/VigilantVeteransToken/main/Token.png",
@@ -60954,6 +61122,17 @@
         "website": "https://pigeonresistance.org",
         "twitter": "https://twitter.com/pigeonresist"
       }
+    },
+    {
+      "name": "Wife",
+      "symbol": "WIF",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wif-logo.png",
+      "decimals": 9,
+      "address": "Coq3LbB52jzCxk5W8SJTyK3SB83sYTKEjs2JmHaoSGxS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Cash Cow",
@@ -63519,6 +63698,17 @@
       }
     },
     {
+      "name": "Diet",
+      "symbol": "DIET",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/diet-logo.png",
+      "decimals": 9,
+      "address": "DE3qpVWZuomEkXgBWD9r1u4EtkVDAFvQzrsxg6DnTzF1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Juel Token",
       "symbol": "JUEL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEAdry5qhNoSkF3mbFrTa6udGbMwUoLnQhvchCu26Ak1/logo.png",
@@ -64328,6 +64518,17 @@
         "nft-token",
         "community",
         "Sports"
+      ]
+    },
+    {
+      "name": "Date",
+      "symbol": "DTNT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/dtnt-logo.png",
+      "decimals": 9,
+      "address": "DMHjU5u3X9ZLRsoxufWa53WjfT84TXKH15ePANskj6UL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -83791,6 +83992,17 @@
       ]
     },
     {
+      "name": "Freedom",
+      "symbol": "FRDM",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/frdm-logo.png",
+      "decimals": 9,
+      "address": "GooetU7meKL6HbnGj6ZiNAGC41nHX8a8P8jyyGWppnpY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Nasc",
       "symbol": "NASC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GpGR2QqDf4Yxkuas3rYRHYdDWSmqk8auHiRdmMicQi2a/logo.png",
@@ -87456,6 +87668,17 @@
       "chainId": 101,
       "tags": [
         "community-token"
+      ]
+    },
+    {
+      "name": "Honey-Do",
+      "symbol": "HDO",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/hdo-logo.png",
+      "decimals": 9,
+      "address": "HXgUrXgfVEmjpt1oaNjogj2XxL5QzbrgN1Sqjyv7o184",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -93996,6 +94219,17 @@
       }
     },
     {
+      "name": "Wealth",
+      "symbol": "SET",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/set-logo.png",
+      "decimals": 9,
+      "address": "T2uNWp4uzFkVHei6qkqVywvzxR2Rde9Zgt8pfC4G8nJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hot Air Finance",
       "symbol": "HAF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/T4iPCH1Fo6fGdebxrTnwM79t82DhS4uJJ4xesykUThw/logo.png",
@@ -97253,6 +97487,17 @@
       ]
     },
     {
+      "name": "Income",
+      "symbol": "NCM",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ncm-logo.png",
+      "decimals": 9,
+      "address": "mxhhKrBKjb8jzJYYoe6pYGMA4Qgr7ZD4wirHM3cHLdm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "KulturaArt",
       "symbol": "Kult",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/nBesAPqZwC6Jcf8SD3iMjLPNTbJuBjG9C2KqEWMKGZy/logo.png",
@@ -97414,6 +97659,17 @@
       "extensions": {
         "website": "https://solible.com/"
       }
+    },
+    {
+      "name": "Expense",
+      "symbol": "XPS",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/xps-logo.png",
+      "decimals": 9,
+      "address": "ocPTPpMQZVMuTNxraMNyqxsAzHoxagA1RrP68HZvyHm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Die Hard Coin",
