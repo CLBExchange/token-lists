@@ -42093,6 +42093,17 @@
       ]
     },
     {
+      "name": "Naughty_Token",
+      "symbol": "NMTM",
+      "logoURI": "https://raw.githubusercontent.com/zung1/logo/main/logo.png",
+      "decimals": 5,
+      "address": "9hNfQggmq5QaWtf2HjjSvSSM18iCW4qF4kPUu4kZkMJS",
+      "chainId": 101,
+      "tags": [
+        "Test-token"
+      ]
+    },
+    {
       "name": "zSRM (ACUMEN)",
       "symbol": "zSRM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9hZt5mP139TvzDBZHtruXxAyjYHiovKXfxW6XNYiofae/logo.png",
@@ -92390,6 +92401,17 @@
       "extensions": {
         "website": "https://avatarinu.com/"
       }
+    },
+    {
+      "name": "VenehKoin",
+      "symbol": "VENE",
+      "logoURI": "https://raw.githubusercontent.com/hartoken/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "NQV11Y41dpwJjXA7BwUVNJh3uf9fFChLgdn97dqPCNp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "DIKCHAA NEBENG TOKEN",
