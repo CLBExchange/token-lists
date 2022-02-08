@@ -76312,6 +76312,23 @@
       }
     },
     {
+      "name": "vBLSH",
+      "symbol": "vBLSH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNMLmBPkhh7nBFyGHsdrmCuvgEf6ygpaVqFejimHEx9V/logo.png",
+      "decimals": 9,
+      "address": "FNMLmBPkhh7nBFyGHsdrmCuvgEf6ygpaVqFejimHEx9V",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://fearlessbulls.club/",
+        "twitter": "https://twitter.com/Fearless_Bulls"
+      }
+    },
+    {
       "name": "AMIKETTICOIN",
       "symbol": "AMKT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FNcmhoAsuzeoDwnckSEefuAW1jwGnFCbowVbv2DLMM74/logo.png",
