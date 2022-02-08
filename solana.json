@@ -10360,6 +10360,17 @@
       ]
     },
     {
+      "name": "LYIToken",
+      "symbol": "LYIT",
+      "logoURI": "https://raw.githubusercontent.com/JoeTheGilbert/crypto/main/logo.jpg",
+      "decimals": 9,
+      "address": "3n2bNUxAm9S3y6sP6ovsbC21x7anWs4YP8czAkzVBnej",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "SkylrFinance",
       "symbol": "SKL",
       "logoURI": "https://raw.githubusercontent.com/skylrfinance1/skylr/main/assets/mainnet/3nEUJDbbCPEh7ePCwxgEXq8fXXqStjrCrZmJ1rUyCPSB/logo.png",
@@ -11972,6 +11983,17 @@
       "logoURI": "https://raw.githubusercontent.com/therealghxst/crypto/main/Logo.png",
       "decimals": 0,
       "address": "47MXRyBzL2B8tutvCHNtahd35LdsTKhsVdneozf6mDwU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Bluebeary",
+      "symbol": "BLUB",
+      "logoURI": "https://raw.githubusercontent.com/an7ana5/crypto/main/BlooBearySmall.png",
+      "decimals": 0,
+      "address": "47QLe2y3Ao7r8A2K75XGBjXotrnvUp79arYvf5zNzzmV",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -47697,6 +47719,22 @@
       ]
     },
     {
+      "name": "AKHI",
+      "symbol": "AKHI",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Akhi-Coin/main/logo.png",
+      "decimals": 0,
+      "address": "AVPutJiUTzcDEpekrZ1G3CDr1K9b51VbmhbtaKpjJeJh",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "social-token",
+        "meme-token",
+        "akhi-token"
+      ]
+    },
+    {
       "name": "DumboOcto",
       "symbol": "DUMOC",
       "logoURI": "https://raw.githubusercontent.com/jeronaut/crypto/main/logo.png",
@@ -56646,6 +56684,17 @@
       "extensions": {
         "website": "https://jenka-nauta.com",
         "blog": "https://acomdir.com"
+      }
+    },
+    {
+      "name": "Molecula",
+      "symbol": "MOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C3jJ1FMaKXa5r7u36zuoqnqmcriscNAgTh94CwAJqaZV/logo.svg",
+      "decimals": 2,
+      "address": "C3jJ1FMaKXa5r7u36zuoqnqmcriscNAgTh94CwAJqaZV",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://moleculanum.com/"
       }
     },
     {
@@ -82922,6 +82971,21 @@
       "decimals": 2,
       "address": "GWHaVysqHeeFgjM4eKDSAh5cbgG9VZNPNFSdJeNsfgKN",
       "chainId": 101
+    },
+    {
+      "name": "Maho Genies Whitelist Token",
+      "symbol": "MGWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWLT3Dh8MvXPD2iCCMCvxrbmVp2zNmyFBpyDpTZBq4Fi/logo.png",
+      "decimals": 0,
+      "address": "GWLT3Dh8MvXPD2iCCMCvxrbmVp2zNmyFBpyDpTZBq4Fi",
+      "chainId": 101,
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mahogenies.io/",
+        "twitter": "https://twitter.com/mahogenies"
+      }
     },
     {
       "name": "SHBL-USDC Cropper LP",
