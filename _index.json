@@ -10,5 +10,6 @@
   "quarry-mainnet",
   "quarry-devnet",
   "solana",
-  "saber-tokens"
+  "saber-tokens",
+  "saber-tokens-devnet"
 ]
