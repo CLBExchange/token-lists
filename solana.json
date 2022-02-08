@@ -51256,6 +51256,23 @@
       }
     },
     {
+      "name": "Herd Token",
+      "symbol": "HERD",
+      "logoURI": "https://raw.githubusercontent.com/TheChillElephantsClub/assets/main/HERD_COIN_LOGO.png",
+      "decimals": 9,
+      "address": "B4pZJFQm9VDdscJzoR4TTuj8YwexY4kYMfmRCxbZwbcV",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://thechillelephantsnft.site/",
+        "twitter": "https://twitter.com/ChillElephants",
+        "discord": "https://discord.gg/qMb6Evqe2b"
+      }
+    },
+    {
       "name": "Pixel Quest Token",
       "symbol": "PQT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B5g4fUcVox9q6dowqAxm2EXNLuz45jiW2iFZcmvP2KvK/logo.png",
@@ -55769,6 +55786,17 @@
       "extensions": {
         "website": "https://raydium.io/"
       }
+    },
+    {
+      "name": "Josh Tasman Coin",
+      "symbol": "JTS",
+      "logoURI": "https://raw.githubusercontent.com/joshtasman/cSolana/main/JTS_logo_small.jpg",
+      "decimals": 2,
+      "address": "Bqr6xVZ9mTMuiTgvZC4tkMC7kH1WdP4r5CZjy2fV3GQe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Not A Scam Token",
@@ -92609,6 +92637,25 @@
         "discord": "https://discord.gg/hfnRFV9Ngt",
         "coingeckoId": "larix",
         "telegram": "https://t.me/projectlarix"
+      }
+    },
+    {
+      "name": "Locked Staked Sol Invictus",
+      "symbol": "lsIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LsinpBtQH68hzHqrvWw4PYbH7wMoAobQAzcvxVHwTLv/logo.png",
+      "decimals": 9,
+      "address": "LsinpBtQH68hzHqrvWw4PYbH7wMoAobQAzcvxVHwTLv",
+      "chainId": 101,
+      "tags": [
+        "decentralizedreserve",
+        "utility-token",
+        "DeFi",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://invictusdao.fi/",
+        "twitter": "https://twitter.com/InvictusDAO",
+        "discord": "https://discord.gg/invictusdao"
       }
     },
     {
