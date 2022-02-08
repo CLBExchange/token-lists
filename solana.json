@@ -570,6 +570,26 @@
       }
     },
     {
+      "name": "Solcasino USD",
+      "symbol": "sUSD",
+      "logoURI": "https://files.solcasino.io/susd.png",
+      "decimals": 6,
+      "address": "21jZ1ESEFYh9SBwjT5gqE3jHv3JnaGhgvypLTR96QXW9",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "web3",
+        "lottery",
+        "casino",
+        "bet"
+      ],
+      "extensions": {
+        "website": "https://www.solcasino.io/",
+        "twitter": "https://twitter.com/Solcasinoio",
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
       "name": "EASTSIDE GmbH Coin",
       "symbol": "EAST",
       "logoURI": "https://raw.githubusercontent.com/project-play/crypto/main/logo.jpg",
@@ -87550,6 +87570,17 @@
         "coingeckoId": "coti",
         "address": "0xDDB3422497E61e13543BeA06989C0789117555c5"
       }
+    },
+    {
+      "name": "Hamsa Hands WL Token",
+      "symbol": "HHWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHW3Bjf3PnufTZnnm1LV8e8cfcrs3k8QvTBJ9uuDKyo8/logo.png",
+      "decimals": 0,
+      "address": "HHsUHFuSuXYoJiEkfqxFpVArhUfkxs7d6peNWQMuVLQw",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Atlas Dex",
