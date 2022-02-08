@@ -30969,6 +30969,17 @@
       ]
     },
     {
+      "name": "BROCoin",
+      "symbol": "BROC",
+      "logoURI": "https://raw.githubusercontent.com/echo5even/crypto/main/bro.png",
+      "decimals": 0,
+      "address": "7nKjEQVc5tNG3KU1fkhBFqpFy4e6z4QY74HDATWcBbez",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wrapped Reserve Rights (Sollet)",
       "symbol": "soRSR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ncCLJpP3MNww17LW8bRvx8odQQnubNtfNZBL5BgAEHW/logo.png",
@@ -50024,6 +50035,17 @@
       ]
     },
     {
+      "name": "Shad Coin",
+      "symbol": "SHAD",
+      "logoURI": "https://raw.githubusercontent.com/Shad01111000/crypto/main/logo.PNG",
+      "decimals": 0,
+      "address": "ArGtDgKVbu2hKX9HHUzgknuKgx2PFHCg2HfPL96XvpBk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "renDOGE",
       "symbol": "renDOGE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ArUkYE2XDKzqy77PRRGjo4wREWwqk6RXTfM9NeqzPvjU/logo.png",
@@ -68247,6 +68269,26 @@
       }
     },
     {
+      "name": "HOMELESSARMY",
+      "symbol": "HOMY",
+      "logoURI": "https://raw.githubusercontent.com/Homelessarmy/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "DvqzmxRatXsdWLeZ6zQnkQdXNGnNqE6n227TkHbRSCTF",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "trading-token",
+        "nft-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://homelessarmy.com/",
+        "twitter": "https://twitter.com/homelessarmy_",
+        "description": "HomelessArmy (HOMY) is Eco-System Perspective for Homeless",
+        "telegram": "https://t.me/homelessarmy"
+      }
+    },
+    {
       "name": "Tang Chode",
       "symbol": "CHOD",
       "logoURI": "https://raw.githubusercontent.com/OshKoskByPosh/TangChode/gh-pages/logo.png",
@@ -76445,6 +76487,18 @@
       "address": "FQAoqS3fSyxZdNzssezgk7vBBFWweSRNFpCnM7pmFT3M",
       "chainId": 101,
       "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "SolRockets",
+      "symbol": "SLRZ",
+      "logoURI": "https://raw.githubusercontent.com/PadureanRazvan/crypto/main/SolRockets.png",
+      "decimals": 2,
+      "address": "FQgPLqhrErJQ85wmxRggvUnqmvVoMzWYzGQSxQ8MYxSL",
+      "chainId": 101,
+      "tags": [
+        "gaming-token",
         "social-token"
       ]
     },
@@ -87142,6 +87196,17 @@
       "logoURI": "https://raw.githubusercontent.com/gagar/crypto/main/logo.png",
       "decimals": 0,
       "address": "HHVz54Lh3Mx4mSZEtfd8spRcJdSaNKA8WhyxdniXrw7D",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Hamsa Hands Whitelist Token",
+      "symbol": "HHWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHW3Bjf3PnufTZnnm1LV8e8cfcrs3k8QvTBJ9uuDKyo8/logo.png",
+      "decimals": 0,
+      "address": "HHW3Bjf3PnufTZnnm1LV8e8cfcrs3k8QvTBJ9uuDKyo8",
       "chainId": 101,
       "tags": [
         "social-token"
