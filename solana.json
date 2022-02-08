@@ -7917,6 +7917,17 @@
       ]
     },
     {
+      "name": "KnightCoin",
+      "symbol": "TKC",
+      "logoURI": "https://raw.githubusercontent.com/JopdeRidder-hub/KnightCoin/main/0-5415_fortnite-black-knight-png-transparent-png%20(1).png",
+      "decimals": 0,
+      "address": "3NpdRoGtohjoJD5cwXJxU3g3y4UsY1GVcMohGfS32LoQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "NASCOL",
       "symbol": "NSL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NqEtv9CpqP6cgFd1bJCUG4Z9jsaGDGASsBbAreFFEwX/logo.png",
@@ -38425,6 +38436,18 @@
       "tags": [
         "social-token",
         "education-token"
+      ]
+    },
+    {
+      "name": "The Lost Aliens WL",
+      "symbol": "TLAWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8xvbRKnmRWbsS8hpsADvaXS7EtjSFoyWGsteqQwuWwyp/logo.png",
+      "decimals": 0,
+      "address": "8xvbRKnmRWbsS8hpsADvaXS7EtjSFoyWGsteqQwuWwyp",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
       ]
     },
     {
@@ -96679,6 +96702,22 @@
       }
     },
     {
+      "name": "DireWolf",
+      "symbol": "DIRE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb/logo.png",
+      "decimals": 9,
+      "address": "WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "stake-pool-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/direwolfsol"
+      }
+    },
+    {
       "name": "Stars Seed",
       "symbol": "SEED",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/X1rN2wMDSoX3QacCgcumMGDQvk1ssr1LqTTwLsCRvf9/logo.png",
@@ -99973,6 +100012,20 @@
       "extensions": {
         "website": "https://sosol.app/",
         "twitter": "https://twitter.com/sosol_app"
+      }
+    },
+    {
+      "name": "Souls",
+      "symbol": "SS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sou1ELxm3XpLWpnjP81KaoigPPCwbNUFAZ4dhqifq13/logo.png",
+      "decimals": 6,
+      "address": "sou1ELxm3XpLWpnjP81KaoigPPCwbNUFAZ4dhqifq13",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.hornsvshalosnft.com/"
       }
     },
     {
