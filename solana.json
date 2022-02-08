@@ -2484,6 +2484,17 @@
       ]
     },
     {
+      "name": "FAU-Coin",
+      "symbol": "FAU",
+      "logoURI": "https://raw.githubusercontent.com/Adrian2541/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "2NwuBrDSvbBvH8WVKyhVJvyakPSuLH8P2cceApgVQZWv",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Polkamarkets (Wormhole v1)",
       "symbol": "wPOLK_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2PSvGigDY4MVUmv51bBiARBMcHBtXcUBnx5V9BwWbbi2/logo.png",
@@ -12634,6 +12645,17 @@
         "medium": "https://medium.com/@mimo_3408",
         "discord": "https://discord.com/invite/rznuTnenPJ"
       }
+    },
+    {
+      "name": "karima_phoenix",
+      "symbol": "KAPH",
+      "logoURI": "https://raw.githubusercontent.com/KarimaPhoenix/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "4EPoEU6Yjpv3fiZ9awuUv8rCQzBFRjPhMmaM4L1uQVHm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CGMB",
@@ -64699,6 +64721,25 @@
       ]
     },
     {
+      "name": "Demons on Holiday Whitelist Token",
+      "symbol": "DOHWL",
+      "logoURI": "https://raw.githubusercontent.com/DNKENNFT/logo/main/logo.png",
+      "decimals": 0,
+      "address": "DHNQXwHSKsNu9NPBiWb86mWDQTRj27diPJu55BC73KW2",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://demonsonholiday.com/",
+        "twitter": "https://twitter.com/DemonsOnholiday",
+        "discord": "https://discord.gg/nTq4dgbSpc",
+        "instagram": "https://www.instagram.com/demonsonholidaynft/"
+      }
+    },
+    {
       "name": "Crypto Health Plus",
       "symbol": "CHP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DHVUoxNqv3D7EgktBxUsxFF2Wx83hVDmD2wBBpUaw3jn/logo.png",
@@ -67112,7 +67153,7 @@
     {
       "name": "OLIMP NFT TOKEN",
       "symbol": "OLIMP",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DhrqCm5oG8J6agWVCXzpKJh5UZk4XcWCJ4pyXm2szNXx/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DhrqCm5oG8J6agWVCXzpKJh5UZk4XcWCJ4pyXm2szNXx/logo2.png",
       "decimals": 9,
       "address": "DhrqCm5oG8J6agWVCXzpKJh5UZk4XcWCJ4pyXm2szNXx",
       "chainId": 101,
@@ -77870,6 +77911,23 @@
         "website": "https://phase.trade/",
         "twitter": "https://twitter.com/phase_trade",
         "discord": "https://discord.gg/jVwHMvXfp9"
+      }
+    },
+    {
+      "name": "Growler",
+      "symbol": "GRWLR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D7txa12HUtWk5dVxC2Ybg9QoE7ALZgDcUEKdrh43V8fB/logo.png",
+      "decimals": 0,
+      "address": "FZxanxcLw2d5a7bBRcQsRpC5KD5LZWpRLMMo4YAvu4eW",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://leopardsyndicate.com/",
+        "twitter": "https://twitter.com/LeopardSNFT"
       }
     },
     {
