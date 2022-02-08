@@ -2247,6 +2247,20 @@
       }
     },
     {
+      "name": "troisdeuxun coin",
+      "symbol": "321",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KhhdkFcLe8ZW5e7r93KbkAeDnfxHcfYH4GmXjCuEVwC/logo.png",
+      "decimals": 0,
+      "address": "2KhhdkFcLe8ZW5e7r93KbkAeDnfxHcfYH4GmXjCuEVwC",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://troisdeuxun.ch/"
+      }
+    },
+    {
       "name": "107 Coin",
       "symbol": "107",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KozeiQ6xnZsLRpjv9KfJdYbvzzLVttRQZ8HT7ibdsX9/logo.png",
@@ -32364,6 +32378,24 @@
       "decimals": 9,
       "address": "7yUFhJy4R2b3RLGqbB9JAHuN3kFw4DZyHLagSyRGEc71",
       "chainId": 101
+    },
+    {
+      "name": "Coin98 Community Token",
+      "symbol": "CCT",
+      "logoURI": "https://raw.githubusercontent.com/abbas-bachari/logo/main/src/cct.png",
+      "decimals": 6,
+      "address": "7yejJw7D5khrhETFZjahaD3LfKpi1XDSLYSCb5jYVkuN",
+      "chainId": 101,
+      "tags": [
+        "CCT",
+        "Coin98",
+        "Community",
+        "Token"
+      ],
+      "extensions": {
+        "description": "This token is used to reward active members of the @COIN98 Telegram channel.",
+        "telegram": "https://t.me/coin98"
+      }
     },
     {
       "name": "ENOFEL",
@@ -81591,6 +81623,17 @@
       }
     },
     {
+      "name": "YuticK",
+      "symbol": "YTCK",
+      "logoURI": "https://raw.githubusercontent.com/yutick/crypto/main/ytck.png",
+      "decimals": 0,
+      "address": "GCEm8HRdz61TSUHch21GbdyKtU3jUt9bjyeixv1M7HWu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Cybershady token",
       "symbol": "CYST",
       "logoURI": "https://raw.githubusercontent.com/cybershady/cypto/main/Logo.png",
@@ -96334,6 +96377,25 @@
         "website": "https://mercestoken.com",
         "twitter": "https://twitter.com/mercestoken",
         "instagram": "https://www.instagram.com/mercestoken"
+      }
+    },
+    {
+      "name": "Demons on Holiday Whitelist Token S1",
+      "symbol": "DOHWLT",
+      "logoURI": "https://raw.githubusercontent.com/DNKENNFT/logo/main/logo.png",
+      "decimals": 0,
+      "address": "WLDjeuGksQC5wiha7zpmq1RaHhmHiE7gvE4Qkxnyyda",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://demonsonholiday.com/",
+        "twitter": "https://twitter.com/DemonsOnholiday",
+        "discord": "https://discord.gg/nTq4dgbSpc",
+        "instagram": "https://www.instagram.com/demonsonholidaynft/"
       }
     },
     {
