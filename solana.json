@@ -19320,6 +19320,17 @@
       ]
     },
     {
+      "name": "CE-5 GALACTIC COIN",
+      "symbol": "CE5C",
+      "logoURI": "https://raw.githubusercontent.com/StarLord36/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "5XUSf9cjuX3NmMs3GNY4ASf8nhD12PcZ31vJiTWJNMTR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Samba Coin",
       "symbol": "EEZC",
       "logoURI": "https://github.com/doyoubelieveit/sol/blob/main/token.png",
@@ -75252,6 +75263,19 @@
         "educational-token",
         "kids-token",
         "utility-token"
+      ]
+    },
+    {
+      "name": "DRIVE",
+      "symbol": "DRIVE",
+      "logoURI": "https://raw.githubusercontent.com/Vo1dedParad0x/Drive/main/Drive1.png",
+      "decimals": 0,
+      "address": "F9ShtW8SG3rypRSUKFogwPPMUPN38EJ77KkxkUQ3degr",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
       ]
     },
     {
