@@ -54482,6 +54482,21 @@
       ]
     },
     {
+      "name": "prtSOL (Parrot Staked SOL)",
+      "symbol": "prtSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
+      "decimals": 9,
+      "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://parrot.fi",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
+        "discord": "https://discord.gg/gopartyparrot",
+        "telegram": "https://t.me/gopartyparrot"
+      }
+    },
+    {
       "name": "Cherry",
       "symbol": "CHERRY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdtBaw3u9bBiBLjF9unbPDhXTWaWqz6ngSDXo16yXcT9/logo.png",
