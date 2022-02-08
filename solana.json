@@ -18068,6 +18068,25 @@
       "chainId": 101
     },
     {
+      "name": "The Open Network",
+      "symbol": "TON",
+      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/TON/logo.png",
+      "decimals": 9,
+      "address": "5Kts7TQFVrBseq9GokZ71o2gBiAmQNQc1ykdVZtH1JhS",
+      "chainId": 101,
+      "tags": [
+        "general-token",
+        "wrapped"
+      ],
+      "extensions": {
+        "website": "https://ton.org",
+        "github": "https://github.com/newton-blockchain",
+        "coingeckoId": "the-open-network",
+        "description": "TON is a third-generation proof-of-stake blockchain designed in 2018 by the Durov brothers, the founders of Telegram Messenger. Later, it was handed over to our open TON Community, which has been supporting and developing it ever since.",
+        "telegram": "https://t.me/tonblockchain"
+      }
+    },
+    {
       "name": "Pixels.so Token",
       "symbol": "PIXL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5L2YboFbHAUpBDDJjvDB5M6pu9CW2FRjyDB2asZyvjtE/logo.png",
@@ -22317,6 +22336,17 @@
       "logoURI": "https://raw.githubusercontent.com/m4xr1s/crypto/main/logo.png",
       "decimals": 0,
       "address": "69pC7U7hod1ZLggEj9KoftVBseEKq3TwCwAvffEP24dp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "BENJI",
+      "symbol": "BENJI",
+      "logoURI": "https://raw.githubusercontent.com/stefanylaforest/benji/main/BENJI.png",
+      "decimals": 0,
+      "address": "6A1uWJRgUVmJYSVYxACXjsvxcy3EzzPdMxHt12j9J1dx",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -35381,6 +35411,17 @@
       "extensions": {
         "website": "https://livingfreely.on.fleek.co"
       }
+    },
+    {
+      "name": "ZenCoin",
+      "symbol": "ZENY",
+      "logoURI": "https://raw.githubusercontent.com/badeafrost/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "8U72UUryrh6xtHyAsHbyEvESj8X5ARQtNAu3XY7ZtkJd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Illuvium (Wormhole)",
