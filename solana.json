@@ -96165,6 +96165,20 @@
       }
     },
     {
+      "name": "Degen Competitions Whitelist Token",
+      "symbol": "DCOMPWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLvnutUvmM44YrqHN7y7ow5EJWW9GGmeijLubQbyy3J/icon.png",
+      "decimals": 0,
+      "address": "WLvnutUvmM44YrqHN7y7ow5EJWW9GGmeijLubQbyy3J",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DegenComp"
+      }
+    },
+    {
       "name": "Winerz",
       "symbol": "$WNZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WNZzxM1WqWFH8DpDZSqr6EoHKWXeMx9NLLd2R5RzGPA/logo.png",
