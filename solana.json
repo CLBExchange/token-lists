@@ -67623,6 +67623,17 @@
       "chainId": 101
     },
     {
+      "name": "Citizen Apes",
+      "symbol": "CAPE",
+      "logoURI": "https://raw.githubusercontent.com/citizenape/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "DoP9jJrLVLUrG6NaAjJoHKTnhQq59AFXRzmjc677UCSm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Dogelana Token",
       "symbol": "DLANA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DogeLZECE9CthXasBLFxgeA2umEyt8CcV7Jsf6P5ZTFo/logo.png",
@@ -67844,6 +67855,17 @@
       "extensions": {
         "instagram": "https://www.instagram.com/clement_aglr"
       }
+    },
+    {
+      "name": "Helix",
+      "symbol": "HLX",
+      "logoURI": "https://raw.githubusercontent.com/KiranPothana/Helix/main/Helix.png",
+      "decimals": 0,
+      "address": "DqsgNL9KnjSNbCvzuKdfT18N5VQDzhL1EuNC3CTFHrGy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Umbrella",
@@ -69040,6 +69062,17 @@
         "twitter": "https://twitter.com/shadowlooters",
         "discord": "https://discord.gg/5E4RzUPYjs"
       }
+    },
+    {
+      "name": "Duck Patrol",
+      "symbol": "DUCK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E4DwhpJWCGSLY1K6LjWjB94pMnLQszhS9yRz5LkuLGL3/logo.png",
+      "decimals": 0,
+      "address": "E4DwhpJWCGSLY1K6LjWjB94pMnLQszhS9yRz5LkuLGL3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Tramina",
@@ -75710,6 +75743,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Wapiti Token",
+      "symbol": "ELK",
+      "logoURI": "https://raw.githubusercontent.com/gruntlabs/wapiti/2380612a92f617f6bf869490b94fae94c98ef9a9/assets/ELK_Icon.png",
+      "decimals": 9,
+      "address": "FH9zPGDCw4TfhJCJmYd7EnJ9E5wtjHTynM6m128Eh5LA",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://token.wapiti.app/",
+        "discord": "https://discord.com/invite/2AAEaYmQaV",
+        "reddit": "https://www.reddit.com/r/WapitiToken/"
+      }
     },
     {
       "name": "AKHOR",
@@ -84459,6 +84509,20 @@
         "Cupon",
         "Perks"
       ]
+    },
+    {
+      "name": "Doragon Whitelist",
+      "symbol": "DORAw",
+      "logoURI": "https://raw.githubusercontent.com/pixelateddoragon/brand/main/wl-token.png",
+      "decimals": 0,
+      "address": "Gmn6oi8jSbncob1UZYVQeKqc5JY1w471ADgDDmqG8uHN",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/PixelDoragon"
+      }
     },
     {
       "name": "Fex",
