@@ -36618,6 +36618,20 @@
       ]
     },
     {
+      "name": "Drap Coin",
+      "symbol": "DRAP",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Drap-Coin/main/logo.png",
+      "decimals": 0,
+      "address": "8ZWRyq1gQMJjt1kgmRRT7zNKCsLz8HCuGmt13jf7iUPo",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "drap-token"
+      ]
+    },
+    {
       "name": "SIM CRYPTO",
       "symbol": "SIMC",
       "logoURI": "https://raw.githubusercontent.com/SIMCrypto/crypto/main/Asset%201.png",
@@ -38509,6 +38523,21 @@
         "website": "https://godznft.com/",
         "twitter": "https://twitter.com/nft_godz",
         "discord": "https://discord.gg/C4WG3YZCbN"
+      }
+    },
+    {
+      "name": "SolBase",
+      "symbol": "SOLBASE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8t3fB5pmvgYpYnxqvVSbJCf5rEtgNNcsGs3exgWqdvoT/logo.png",
+      "decimals": 0,
+      "address": "8t3fB5pmvgYpYnxqvVSbJCf5rEtgNNcsGs3exgWqdvoT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solbase.io",
+        "description": "Easily build apps on Solana."
       }
     },
     {
@@ -43884,6 +43913,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "CuseTheJuice Liquidity Pool",
+      "symbol": "CUSELP",
+      "logoURI": "https://github.com/CuseTheJuice/token-list/blob/main/assets/mainnet/9ph2ZAwzigVRrrXvHoGxMU7YuW59zMDtNX6WJjh927tF/logo.png?raw=true",
+      "decimals": 9,
+      "address": "9ph2ZAwzigVRrrXvHoGxMU7YuW59zMDtNX6WJjh927tF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://linktr.ee/CuseTheJuice",
+        "twitter": "https://twitter.com/CuseTheJuice",
+        "discord": "https://discord.gg/xHpRcRKG"
+      }
     },
     {
       "name": "Serenity Shield",
@@ -83734,6 +83779,23 @@
       }
     },
     {
+      "name": "GLPrototype",
+      "symbol": "GLPRT",
+      "logoURI": "https://bafybeieax25iipx7k67ul3l5eeuzoisx5gohsxddrltuftuogktnrpbzgy.ipfs.infura-ipfs.io/",
+      "decimals": 0,
+      "address": "GLrfLkhCBv7w3LPW8YZJxXcNnXnzic8nQ7nTefPRaSMR",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://prototype-nft.com/",
+        "twitter": "https://twitter.com/prototype5656",
+        "discord": "https://discord.com/invite/prototypenft",
+        "description": "Goldlist token for PrototypeNFT."
+      }
+    },
+    {
       "name": "Bedrosova",
       "symbol": "BWS",
       "logoURI": "https://raw.githubusercontent.com/BedrosovaYulia/token-list/main/assets/mainnet/GLxsZ4aMXNAq5XQ8wyp5cGPov3fajZVXeF6w8w4Pd58M/logo.png",
@@ -84925,6 +84987,17 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/cyber_apes_nft"
+      }
+    },
+    {
+      "name": "Global Dollar",
+      "symbol": "GLD",
+      "logoURI": "https://raw.githubusercontent.com/admin8808/GLD/main/logo.png",
+      "decimals": 6,
+      "address": "GYwYv1NcPuQozaqedrfivksbPfGEpuhwiWJg33rChQrq",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://globaldollar.world/"
       }
     },
     {
@@ -91265,6 +91338,25 @@
       ]
     },
     {
+      "name": "BoreasCF Token",
+      "symbol": "BCFT",
+      "logoURI": "https://raw.githubusercontent.com/besnikbelegu/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "HjPHNMugJsC9tQHp2zMhQ7EB6YjsH4DMsR81hM1PjmmM",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "fitness-token",
+        "family-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/PyGry28k5Z",
+        "description": "BoreasCF Token is a token that is given to our friends when they do something good.",
+        "instagram": "https://www.instagram.com/besnikbelegu",
+        "linkedin": "https://www.linkedin.com/in/besnikbelegu"
+      }
+    },
+    {
       "name": "Wrapped DAI (Allbridge from Fantom)",
       "symbol": "afDAI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
@@ -94870,6 +94962,25 @@
       }
     },
     {
+      "name": "NYN Token",
+      "symbol": "NYN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NYNKnLDu1WRacDTmqvMburqc31reUWQSSmoh4MxE3FB/logo.png",
+      "decimals": 9,
+      "address": "NYNKnLDu1WRacDTmqvMburqc31reUWQSSmoh4MxE3FB",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://nyanheroes.com/",
+        "twitter": "https://twitter.com/nyanheroes",
+        "medium": "https://nyanheroes.medium.com/",
+        "discord": "https://discord.gg/nyanheroes",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/nyan-heroes/",
+        "telegram": "https://t.me/nyanheroes"
+      }
+    },
+    {
       "name": "Naga Kingdom",
       "symbol": "NAGA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NaFJTgvemQFfTTGAq2PR1uBny3NENWMur5k6eBsG5ii/logo.png",
@@ -97948,6 +98059,23 @@
       "extensions": {
         "twitter": "https://twitter.com/brainyapegang",
         "discord": "https://discord.gg/ptA8qAp7Gf"
+      }
+    },
+    {
+      "name": "WLPrototype",
+      "symbol": "WLPRT",
+      "logoURI": "https://bafybeie4ijaerva5fjqa4ojdy356jzf4xhhggybpwxf2ekn5tyg7xiedzu.ipfs.infura-ipfs.io/",
+      "decimals": 0,
+      "address": "WLiHGZSFg3E17ZBymfQG3NzhUjgQPKeLzTdYW3PhchQ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://prototype-nft.com/",
+        "twitter": "https://twitter.com/prototype5656",
+        "discord": "https://discord.com/invite/prototypenft",
+        "description": "Whitelist token for PrototypeNFT."
       }
     },
     {
