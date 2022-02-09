@@ -64101,6 +64101,28 @@
       }
     },
     {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/DOGE/logo.png",
+      "decimals": 9,
+      "address": "D56dMWuvAEGq4WmbWxNKBJREkXYVfER98Tb5RNCmF84o",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "wrapped"
+      ],
+      "extensions": {
+        "website": "https://dogecoin.com/",
+        "twitter": "https://twitter.com/dogecoin",
+        "github": "https://github.com/dogecoin/dogecoin",
+        "discord": "https://discord.com/invite/dogecoin",
+        "coingeckoId": "dogecoin",
+        "description": "Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide.",
+        "facebook": "https://facebook.com/OfficialDogecoin",
+        "reddit": "https://reddit.com/r/dogecoin"
+      }
+    },
+    {
       "name": "Kaidos Token",
       "symbol": "$KAIDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5YJf7nqSp9JtQpMcZCthdEpMghK2gKmkLMLi2RhKSJt/Kaido.jpg",
@@ -84216,6 +84238,22 @@
       ],
       "extensions": {
         "website": "https://cropper.finance/farms/"
+      }
+    },
+    {
+      "name": "Millitoken",
+      "symbol": "MILL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWYzdeiAr1MhAckNn2Sn8D3XhUHSCMcmf3YoAGZAM7C7/logo.png",
+      "decimals": 9,
+      "address": "GWYzdeiAr1MhAckNn2Sn8D3XhUHSCMcmf3YoAGZAM7C7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://themillennials.io/",
+        "twitter": "https://twitter.com/MillennialsNFT",
+        "discord": "https://discord.gg/aW7MRd5zYA"
       }
     },
     {
