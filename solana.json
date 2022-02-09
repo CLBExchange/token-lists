@@ -30476,6 +30476,22 @@
       ]
     },
     {
+      "name": "Orb of Ascension",
+      "symbol": "OoA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7foFetNr9ktWZp95hppg19v6wMSJhoWAjCdceLk89EBy/icon.png",
+      "decimals": 0,
+      "address": "7foFetNr9ktWZp95hppg19v6wMSJhoWAjCdceLk89EBy",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catalysts.world/",
+        "twitter": "https://twitter.com/CatalystsNFT",
+        "discord": "https://discord.gg/catalysts"
+      }
+    },
+    {
       "name": "Wrapped CEUR (Allbridge from Celo)",
       "symbol": "acEUR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv/logo.png",
@@ -38180,6 +38196,23 @@
         "description": "Recite in the name of your Lord who created man from a clinging substance",
         "animationUrl": "https://github.com/xerterbt/quran/raw/5c2f0b7456c62b53149a10c2746d68069a7f4ece/Holy_Quran_Full.pdf",
         "instagram": "https://www.instagram.com/nftsolanagallery"
+      }
+    },
+    {
+      "name": "Rilum",
+      "symbol": "RIL",
+      "logoURI": "https://raw.githubusercontent.com/abbas-bachari/logo/main/src/RIL.png",
+      "decimals": 0,
+      "address": "8uhGf3XCJkBQoRxBycsEFWao3TPPajcTEbdXeJk1mFS7",
+      "chainId": 101,
+      "tags": [
+        "wallet",
+        "payment",
+        "Token"
+      ],
+      "extensions": {
+        "description": "Rilum is SPL telegram wallet for buy and sell products and currencies.",
+        "telegram": "https://t.me/Rilum"
       }
     },
     {
@@ -71914,6 +71947,22 @@
       ]
     },
     {
+      "name": "Orb of Chaos",
+      "symbol": "OoC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EXi2m6TtDpFU63penR2d4DGtirw58GPB3Zkj9Bco2jqM/icon.png",
+      "decimals": 0,
+      "address": "EXi2m6TtDpFU63penR2d4DGtirw58GPB3Zkj9Bco2jqM",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catalysts.world/",
+        "twitter": "https://twitter.com/CatalystsNFT",
+        "discord": "https://discord.gg/catalysts"
+      }
+    },
+    {
       "name": "GUPTA",
       "symbol": "RDG",
       "logoURI": "https://raw.githubusercontent.com/rishabdeogupta/crypto/main/logo.png",
@@ -74041,6 +74090,22 @@
         "twitter": "https://twitter.com/SocialCoin3",
         "reddit": "https://www.reddit.com/user/Social_Coin",
         "telegram": "https://t.me/SocialCoinNews"
+      }
+    },
+    {
+      "name": "Orb of Wither",
+      "symbol": "OoW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Eth5Tw3ZveSv8t8scEJ9VGx99wVJTkQCrAgDAjKY6pNr/icon.png",
+      "decimals": 0,
+      "address": "Eth5Tw3ZveSv8t8scEJ9VGx99wVJTkQCrAgDAjKY6pNr",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catalysts.world/",
+        "twitter": "https://twitter.com/CatalystsNFT",
+        "discord": "https://discord.gg/catalysts"
       }
     },
     {
@@ -85548,6 +85613,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Orb of Protection",
+      "symbol": "OoP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Grti5hpNF5kQt7kV2YvEaWVJ2CwPy2KapXUXvZzbCTgJ/icon.png",
+      "decimals": 0,
+      "address": "Grti5hpNF5kQt7kV2YvEaWVJ2CwPy2KapXUXvZzbCTgJ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catalysts.world/",
+        "twitter": "https://twitter.com/CatalystsNFT",
+        "discord": "https://discord.gg/catalysts"
+      }
     },
     {
       "name": "Orca Double Dip Token (STEP/SOL[aquafarm])",
@@ -99357,6 +99438,22 @@
         "Fun-Token",
         "MEW"
       ]
+    },
+    {
+      "name": "Orb of Divinity",
+      "symbol": "OoD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pbVqUjNWhL6YNt8gtMJCD5Ntevnh4Wy59CEp3jZAU69/icon.png",
+      "decimals": 0,
+      "address": "pbVqUjNWhL6YNt8gtMJCD5Ntevnh4Wy59CEp3jZAU69",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catalysts.world/",
+        "twitter": "https://twitter.com/CatalystsNFT",
+        "discord": "https://discord.gg/catalysts"
+      }
     },
     {
       "name": "Poodle Inu",
