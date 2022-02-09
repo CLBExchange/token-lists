@@ -13064,6 +13064,19 @@
       ]
     },
     {
+      "name": "ShibaBurn",
+      "symbol": "SHIBBURN",
+      "logoURI": "https://raw.githubusercontent.com/tradermq/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "4Hke4tmbBsXSpj269VkwMXo8sTr6oFhCUsiJepUxatHz",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "game"
+      ]
+    },
+    {
       "name": "Friktion SOL (Volt 01 Call)",
       "symbol": "fcSOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Hnh1UCC6HLzx9NaGKnTVHR2bANcRrhydumdHCnrT3i2/logo.png",
@@ -57738,6 +57751,17 @@
       ]
     },
     {
+      "name": "TGIF",
+      "symbol": "TGIF",
+      "logoURI": "https://raw.githubusercontent.com/skmotochan/crypto/main/tgif-icon.png",
+      "decimals": 0,
+      "address": "C8pcsGXL21Hq8XCPMA2RAwfLAMn2UVKX1FqNeFgwgSLK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "OchosCoin",
       "symbol": "L8S",
       "logoURI": "https://raw.githubusercontent.com/agrestic1/OchosCoin/main/logo.png",
@@ -60661,6 +60685,20 @@
         "assetContract": "https://etherscan.io/address/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
         "coingeckoId": "vesper-finance",
         "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421"
+      }
+    },
+    {
+      "name": "Crypneyland Tickets",
+      "symbol": "TICKET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ca4CppSk1dSyneHw6Kn1x588yny4DeXGe7mAVZ7eyyuG/logo.png",
+      "decimals": 0,
+      "address": "Ca4CppSk1dSyneHw6Kn1x588yny4DeXGe7mAVZ7eyyuG",
+      "chainId": 101,
+      "tags": [
+        "Currency"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/crypneyland"
       }
     },
     {
@@ -88285,6 +88323,17 @@
       "logoURI": "https://raw.githubusercontent.com/tetsuo-nl/crypto/main/logo.png",
       "decimals": 0,
       "address": "HJmkRP6NwF9cMAis78atdBWG2TrGtzhH4M28T8VPB2T8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "No Money",
+      "symbol": "ITSNM",
+      "logoURI": "https://raw.githubusercontent.com/nomoneyface/nomoney/main/logo.png",
+      "decimals": 0,
+      "address": "HKCHNuB9t18zKgjSvDdfADbXyxCFyHU1Gac74WnRdAPt",
       "chainId": 101,
       "tags": [
         "social-token"
