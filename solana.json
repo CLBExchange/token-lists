@@ -15162,6 +15162,18 @@
       }
     },
     {
+      "name": "Prime",
+      "symbol": "PRM",
+      "logoURI": "https://raw.githubusercontent.com/maava89/crypto/main/prime.png",
+      "decimals": 0,
+      "address": "4hFExpecK2WyGGxpEVSzwYw7SUmrCSgyoAmFg88cyzVZ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "web3-token"
+      ]
+    },
+    {
       "name": "Graviton",
       "symbol": "GTON",
       "logoURI": "https://v1.graviton.one/img/brand/download/graviton-logo/primary-logo-png.png",
@@ -63423,6 +63435,20 @@
       }
     },
     {
+      "name": "Nest Arcade",
+      "symbol": "NEST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV/logo.png",
+      "decimals": 9,
+      "address": "Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV",
+      "chainId": 101,
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://nestarcade.io"
+      }
+    },
+    {
       "name": "GUARDS",
       "symbol": "GUARDS",
       "logoURI": "https://uw3arkapc6mahymsgieljx2isutp7c5lk5y7pufcucifobbwasdq.arweave.net/pbYIqA8XmAPhkjIItN9IlSb_i6tXcffQoqCQVwQ2BIc",
@@ -82425,6 +82451,17 @@
         "website": "https://www.kisscrypto.net/",
         "whitepaper": "https://ae283fe9-fab9-4865-a65a-bcd5559ada09.filesusr.com/ugd/0a74e1_8d61680fa97d40568d9f7adba2eccfd7.pdf"
       }
+    },
+    {
+      "name": "GAMO",
+      "symbol": "GAMO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GF1Y8ZqtJ37ek6YzjmU3p14SX4qCHK7B7ozXgiLcmbS4/logo.png",
+      "decimals": 4,
+      "address": "GF1Y8ZqtJ37ek6YzjmU3p14SX4qCHK7B7ozXgiLcmbS4",
+      "chainId": 101,
+      "tags": [
+        "MANAGEMENT"
+      ]
     },
     {
       "name": "New Myanmar Shekel",
@@ -101704,6 +101741,14 @@
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       }
+    },
+    {
+      "name": "APEs",
+      "symbol": "APEs",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7KFASybd48bRqcBEUXoAWHwwbwJqYoyLMSjZwMkUigiR/logo.png",
+      "decimals": 9,
+      "address": "7KFASybd48bRqcBEUXoAWHwwbwJqYoyLMSjZwMkUigiR",
+      "chainId": 102
     },
     {
       "name": "FYFY Governance Token",
