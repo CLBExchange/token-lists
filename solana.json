@@ -45306,6 +45306,24 @@
       ]
     },
     {
+      "name": "Netflix Coin",
+      "symbol": "NFLX",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Netflix-Coin/030295bdec4cf208294a54e155c06fac2cc964db/logo.svg",
+      "decimals": 9,
+      "address": "A3g1zcXKxE3sZP9chg79zWKc62pRbtpJcTtosujBHgVN",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "netflix-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/netflix"
+      }
+    },
+    {
       "name": "Shibaverse",
       "symbol": "$SHIVER",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3iozx9T9wgrtybnecQ9rv56y9RF8ThUrwRGWiF7hsmZ/logo.png",
@@ -51969,6 +51987,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Zankoku JUNK",
+      "symbol": "JUNK",
+      "logoURI": "https://raw.githubusercontent.com/XAGBack/junktoken/main/Junk.png",
+      "decimals": 9,
+      "address": "Azw7nHFCUrY3i2RpRLxJja1mooiZkAai3ipsmQTeMqNQ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
@@ -58968,6 +58997,17 @@
       ]
     },
     {
+      "name": "HAWTFOX WL TOKEN",
+      "symbol": "HFWL",
+      "logoURI": "https://raw.githubusercontent.com/UMGD/images/main/firefoxxx.png",
+      "decimals": 0,
+      "address": "CDYJ5se32rbcLCo4nSS7EsMJ7FJyn7xHyz7LP9mynyHC",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "WOODEN NICKLE",
       "symbol": "NKLE",
       "logoURI": "https://raw.githubusercontent.com/XtremeAppz/BEER-TOKEN/main/logo.png",
@@ -62444,6 +62484,17 @@
       "extensions": {
         "website": "https://gmsol.io"
       }
+    },
+    {
+      "name": "NYAO COIN",
+      "symbol": "NYAO",
+      "logoURI": "https://raw.githubusercontent.com/kln037/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "CmYzaiBpAxLFkXAfePgUJ4D99hvtZKpMvbbftYotjWgk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Kid",
@@ -91781,6 +91832,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BugCoin",
+      "symbol": "BUG",
+      "logoURI": "https://raw.githubusercontent.com/BugzumDevAlt/CoinLogo/main/logo.png",
+      "decimals": 0,
+      "address": "HqXHEpvDAM9WntedjzxSx5MUpDRtxGyTZXGTUohSgLtb",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "Crypto-Token",
+        "crypto"
+      ],
+      "extensions": {
+        "youtube": "https://www.youtube.com/channel/UCi5K-ZcuNbBW6svtT1gvlwA/"
+      }
     },
     {
       "name": "Sol-Hotels",
