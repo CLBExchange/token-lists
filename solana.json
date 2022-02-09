@@ -65400,6 +65400,17 @@
       ]
     },
     {
+      "name": "EinCoin",
+      "symbol": "EINC",
+      "logoURI": "https://raw.githubusercontent.com/einmanjr/Crypto/main/DCBB9804-C1D5-4903-8461-8CE1CA66A187_1_201_a.jpeg",
+      "decimals": 0,
+      "address": "DFzykeGoEa359d7RS99bFwG95i6ojKcEMibqNtF7JC2c",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BlundCoin",
       "symbol": "BLND",
       "logoURI": "https://raw.githubusercontent.com/blundcoin/crypto/main/logo.png",
@@ -81334,6 +81345,17 @@
         "serumV3Usdc": "SyQ4KyF5Y1MPPkkf9LGNA6JpkVmis53HrpPvJ1ZUFwK",
         "facebook": "https://www.facebook.com/UPFInetwork",
         "telegram": "https://t.me/upfinetworkchannel"
+      }
+    },
+    {
+      "name": "eTolar",
+      "symbol": "ETL",
+      "logoURI": "https://raw.githubusercontent.com/admin9955/eTolar/main/logo.png",
+      "decimals": 9,
+      "address": "Fxkabr3Qjc7HnraxgvtHxf7HCrrzqLzvhFUJuonFcoW3",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://etolar.org/"
       }
     },
     {
