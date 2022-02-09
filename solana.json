@@ -5782,6 +5782,17 @@
       ]
     },
     {
+      "name": "Diamond",
+      "symbol": "DMND",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/dmnd-logo.png",
+      "decimals": 9,
+      "address": "31jGurR1grhqPw5wphpqf6SNQMJCAPpEz2pvSdMnH1UX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Spookeletons Token",
       "symbol": "SPKL",
       "logoURI": "https://www.spookeletons.com/assets/spookeletons_tokenv2.png",
@@ -14338,6 +14349,17 @@
       ]
     },
     {
+      "name": "IT",
+      "symbol": "iTECH",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/itech-logo.png",
+      "decimals": 9,
+      "address": "4YvQifoQTgACgogadp6qy4YYUUFt9HF1EX4a8oZdiLJu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ApesAgainst WL Token",
       "symbol": "ALBINO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Z9UMELGy3tU4pD4PvnQCiTVGPDpNK6e25XYSWYH9MrG/logo.png",
@@ -18203,6 +18225,17 @@
       }
     },
     {
+      "name": "Law",
+      "symbol": "LAW",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/law-logo.png",
+      "decimals": 9,
+      "address": "5K1mKvSdpGtAeuz2bbgCzRD77qcwsrNKANjfwbfQUCwM",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DecentGig Governance Token",
       "symbol": "GIG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KB7WK1sB7WpoFXAiKoyhWCh44jHfTMtXDuvaSRQ4TR1/logo.png",
@@ -19711,6 +19744,21 @@
       }
     },
     {
+      "name": "Unicorn",
+      "symbol": "UNCRN",
+      "logoURI": "https://raw.githubusercontent.com/goingfortheether/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "5cAcAGQVxJmJCKAHTnDTCwXPsGbiDf8St9WwVQTLiSBu",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "whitelist-token",
+        "NFT",
+        "community-token",
+        "game"
+      ]
+    },
+    {
       "name": "CommonCoin",
       "symbol": "COMN",
       "logoURI": "https://raw.githubusercontent.com/cjwolff/comncoin/main/logo.png",
@@ -20723,6 +20771,17 @@
       "tags": [
         "social-token",
         "fun-token"
+      ]
+    },
+    {
+      "name": "Sam",
+      "symbol": "S0S",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/s0s-logo.png",
+      "decimals": 9,
+      "address": "5oSS1JcvUgYgFsrEhWQkN4hxJ6oUJXmSiKDK7n66aUKn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -26521,6 +26580,17 @@
         "social-token",
         "hope",
         "F12364"
+      ]
+    },
+    {
+      "name": "Balance",
+      "symbol": "BAL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/bal-logo.png",
+      "decimals": 9,
+      "address": "6vXX83QA2vSR1LMVbBKCoezqQyW8yma25WFujQwhc1gn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -41245,6 +41315,17 @@
       }
     },
     {
+      "name": "Woody",
+      "symbol": "WDY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wdy-logo.png",
+      "decimals": 9,
+      "address": "9TAcqfx1NZ2y5VJDg2q8sGYMrKa5J626DTghhG6i1pjW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Million Monke",
       "symbol": "MIMO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9TE7ebz1dsFo1uQ2T4oYAKSm39Y6fWuHrd6Uk6XaiD16/logo.png",
@@ -47986,6 +48067,17 @@
       ]
     },
     {
+      "name": "Moonshine",
+      "symbol": "SHINE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/shine-logo.png",
+      "decimals": 9,
+      "address": "AUWiGXvZyrgB9KB5DLTNeyu3wENJU99basenhKZeaPZn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Orca Aquafarm Token (RAY/SOL)",
       "symbol": "RAY/SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb/logo.svg",
@@ -49500,6 +49592,17 @@
       "logoURI": "https://raw.githubusercontent.com/shashtikar/arcoin-legacy/main/logo.png",
       "decimals": 0,
       "address": "Agyt4PGy7sqq6yjEJddtCzYsvRuSJDefwTsMgobV67xo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Pliability",
+      "symbol": "PLY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ply-logo.png",
+      "decimals": 9,
+      "address": "Ah1yv8NEKjDirynjwopjLxZh7KhhW59Z6tqsFAjj6GyZ",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -71660,6 +71763,17 @@
       ]
     },
     {
+      "name": "Zettle",
+      "symbol": "ZET",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/zet-logo.png",
+      "decimals": 9,
+      "address": "ETRs7r7yuBAnoJgbf68YnX9gnWVAvpRpipxD5EwkU8Xn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Vrolix",
       "symbol": "DVRO",
       "logoURI": "https://github.com/DirkV69/Crypto/blob/main/logo.png",
@@ -73952,6 +74066,17 @@
         "description": "Internet Protocol as NFT. We are bringing the ability of IP ownership as NFT.",
         "telegram": "https://t.me/ipasnft"
       }
+    },
+    {
+      "name": "Camper",
+      "symbol": "CMPR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/cmpr-logo.png",
+      "decimals": 9,
+      "address": "ErVUYVyKw41FKh6fjYZSVzjCKZonBfz21qsLtxz3pUba",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "NFTABS Whitelist Token",
@@ -76440,6 +76565,17 @@
         "website": "https://orca.so",
         "twitter": "https://twitter.com/orca_so"
       }
+    },
+    {
+      "name": "Sass",
+      "symbol": "SASS",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/sass-logo.png",
+      "decimals": 9,
+      "address": "FJAbrPsfZuap6txnJpvpVLMtfDqec51JxMELagyQaxDX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Gold Worm",
@@ -88036,6 +88172,17 @@
       }
     },
     {
+      "name": "Butt",
+      "symbol": "BUTT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/butt-logo.png",
+      "decimals": 9,
+      "address": "HHjz2EB6XZCNwPtncutxKgJdzwnTB5ejDhmYuXoFVx97",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "COTI Token (Wormhole v1)",
       "symbol": "wCOTI_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHoHTtntq2kiBPENyVM1DTP7pNrkBXX2Jye29PSyz3qf/logo.png",
@@ -91369,6 +91516,17 @@
       }
     },
     {
+      "name": "Daisy",
+      "symbol": "DAISY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/daisy-logo.png",
+      "decimals": 9,
+      "address": "HxtAGwgWb7AGEnJPLQkygsQkcnvfMgAUL8XvN8encgwf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Nigels Social Token",
       "symbol": "NIGE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HyUqdk5LxGSFyrptQL9JiUgP66H25djVd3mCAedhfCR9/logo.png",
@@ -92832,6 +92990,17 @@
       "extensions": {
         "twitter": "https://twitter.com/conado"
       }
+    },
+    {
+      "name": "Lore",
+      "symbol": "LOR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lor-logo.png",
+      "decimals": 9,
+      "address": "JJSRBDYPtreV1mBfBgsmSpsVbXit1hQSBpspNGSQENw",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "ZivaiyahKoin",
@@ -94334,6 +94503,17 @@
       "chainId": 101,
       "tags": [
         "meme-token"
+      ]
+    },
+    {
+      "name": "Ostrich",
+      "symbol": "OST",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ost-logo.png",
+      "decimals": 9,
+      "address": "Q8RRoJ8bWAPuTH4qjJ8An6qYX3Yigzod5WUWMWTdUXp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -100009,6 +100189,17 @@
         "TheShit",
         "capped",
         "deflatory"
+      ]
+    },
+    {
+      "name": "Sunshine",
+      "symbol": "RAYS",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/rays-logo.png",
+      "decimals": 9,
+      "address": "sL6CBFRUD2xHUbzvsYCvrVguJrWpV8XFvKP7hso3C1b",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
