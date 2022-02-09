@@ -11727,6 +11727,17 @@
       ]
     },
     {
+      "name": "Hasif Malaysia Node Coin",
+      "symbol": "HMN",
+      "logoURI": "https://raw.githubusercontent.com/hasifMahazir/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "42869t2uZcntyvNhJyVU7X83AKxcWqeikvGsxsJwG3NF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Gamify Club",
       "symbol": "GMFC",
       "logoURI": "https://pbs.twimg.com/profile_images/1444964749897175046/wdz26CzM_400x400.jpg",
@@ -49387,6 +49398,25 @@
       ]
     },
     {
+      "name": "VeggieCoin",
+      "symbol": "VEGE",
+      "logoURI": "https://raw.githubusercontent.com/transaide/vege/main/logo.png",
+      "decimals": 0,
+      "address": "Ab28EPE28GFubPM47DN5xxp8Edm5fpeN24FkdWnRGND9",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "game-token",
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/VegetariansNFT",
+        "discord": "https://discord.gg/QddPWdg4vg",
+        "description": "Use VeggieCoin to participate in the Vegetarians ecosystem; NFT's, Gaming, Governance and more! Earn VeggieCoin by owning a Vegetarian NFT. Eat your Veggies!"
+      }
+    },
+    {
       "name": "Kaze",
       "symbol": "Kaze",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AbD4ZqLj1xXwRWnnEGfuLK5KRfynSuNXRHLkQ9ntNcjg/kaze.png",
@@ -86587,6 +86617,22 @@
       }
     },
     {
+      "name": "Eskeleton",
+      "symbol": "SKLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GrhiwuCNR953krtxPu4F7YGqYhhfQH2QDfaE1ktNurrT/logo.png",
+      "decimals": 0,
+      "address": "GrhiwuCNR953krtxPu4F7YGqYhhfQH2QDfaE1ktNurrT",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/miguela_crypto"
+      }
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Fantom)",
       "symbol": "afUSDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
@@ -98359,6 +98405,20 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "name": "Duck Patrol WL",
+      "symbol": "DPPD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ZAzphjkZwSYnPgdaiaUqYpZajhkz9hC5aYkRyzEVc4G/logo.png",
+      "decimals": 0,
+      "address": "ZAzphjkZwSYnPgdaiaUqYpZajhkz9hC5aYkRyzEVc4G",
+      "chainId": 101,
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DuckPatrolNFT"
+      }
     },
     {
       "name": "KoralCoin",
