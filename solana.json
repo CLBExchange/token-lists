@@ -5920,6 +5920,20 @@
       }
     },
     {
+      "name": "IDEA",
+      "symbol": "IDEA",
+      "logoURI": "https://raw.githubusercontent.com/admin9955/crypto/main/logo.png",
+      "decimals": 6,
+      "address": "33EWTxBQdQdLnubsKyZ1Gyf97F7SSYBdi65YkUehgm58",
+      "chainId": 101,
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "website": "https://ideacoin.info/"
+      }
+    },
+    {
       "name": "Solana Worm",
       "symbol": "SolWorm",
       "logoURI": "https://arweave.net/QgzEgUiWcPUOPIX8EyPGZpzbh1JysKHPS7K9_xRYDo0",
@@ -42964,6 +42978,21 @@
       }
     },
     {
+      "name": "SPACEGOLD",
+      "symbol": "SPACEGOLD",
+      "logoURI": "https://raw.githubusercontent.com/cosmic-condos/SPACEGOLD/main/logo-icon.png",
+      "decimals": 4,
+      "address": "9mXZ54YnJJRmUN2MaMEtWCfFyoncP4ZhKz7U9DZ4JY2X",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cosmiccondos.io/",
+        "twitter": "https://twitter.com/CosmicCondos"
+      }
+    },
+    {
       "name": "MihirCoin",
       "symbol": "MICN",
       "logoURI": "https://raw.githubusercontent.com/MihirSahu/MihirCoin/main/logo.png",
@@ -78022,6 +78051,20 @@
       }
     },
     {
+      "name": "Razzlecoin",
+      "symbol": "RZC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd/logo.png",
+      "decimals": 4,
+      "address": "FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.razzlecoin.xyz/"
+      }
+    },
+    {
       "name": "Prometa",
       "symbol": "PTA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZVTWqHifiTAozipkCz5mtERSZQRPg9JV1GZFXXetRij/ProMeta.png",
@@ -84695,6 +84738,21 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/FactToken"
+      }
+    },
+    {
+      "name": "IT SOL COIN",
+      "symbol": "ITCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gic1MQRVSqpY4pT8to55CtMammzpthQwDgij7wZEvyo2/Coinlogo.png",
+      "decimals": 0,
+      "address": "Gic1MQRVSqpY4pT8to55CtMammzpthQwDgij7wZEvyo2",
+      "chainId": 101,
+      "tags": [
+        "software-developer",
+        "coin"
+      ],
+      "extensions": {
+        "website": "https://www.blocksto.ne/it-sol"
       }
     },
     {
