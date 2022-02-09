@@ -22734,6 +22734,22 @@
       ]
     },
     {
+      "name": "Momobear Taro Pot",
+      "symbol": "Momobear",
+      "logoURI": "https://raw.githubusercontent.com/wei1769/nft_storage/main/art/momoyaTaroPot.png",
+      "decimals": 0,
+      "address": "6BnVgighj8VKqCS2ymUmcvLUguHrPHjZfDZ9oZqqFp7j",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/momobearya",
+        "telegram": "https://t.me/momobeardao"
+      }
+    },
+    {
       "name": "Design",
       "symbol": "Des",
       "logoURI": "https://raw.githubusercontent.com/owens33/crypto/main/designn.png",
@@ -33413,11 +33429,30 @@
       }
     },
     {
+      "name": "Fake Crypto Coin",
+      "symbol": "FAKE",
+      "logoURI": "https://raw.githubusercontent.com/faketrillionaire/fakecryptocoin/main/fake_crypto_coin.png",
+      "decimals": 0,
+      "address": "85Uap8Zmm2nBo8HSCZMuVbvS6NAwisKS7N8Gj5ok5kvk",
+      "chainId": 101
+    },
+    {
       "name": "Viper",
       "symbol": "VIPR",
       "logoURI": "https://raw.githubusercontent.com/viperguy07/coin/main/logo.png",
       "decimals": 0,
       "address": "85d7BpwfBJNurB6t4S4vN1x4vMaDPjWNiMetWWco2vUe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Highland Cow Herd Coin",
+      "symbol": "HCHC",
+      "logoURI": "https://github.com/Frew250/Crypto/blob/main/HCH.png",
+      "decimals": 0,
+      "address": "85dqKwPUVgEgH1LRTCDYc4Pym2hiQFHU7vfQRJQx6pAg",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -50320,6 +50355,21 @@
       }
     },
     {
+      "name": "TOP USD",
+      "symbol": "TUSD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AoTKABCgrfjMXDo7Rtbcgcphi3XCJRjJ74Vpyc3ENMor/logo.png",
+      "decimals": 0,
+      "address": "AoTKABCgrfjMXDo7Rtbcgcphi3XCJRjJ74Vpyc3ENMor",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "payment"
+      ],
+      "extensions": {
+        "description": "Digital coin for making payments on https://topnfts.cc/"
+      }
+    },
+    {
       "name": "Spice (Wormhole v1)",
       "symbol": "wSFI_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AoU75vwpnWEVvfarxRALjzRc8vS9UdDhRMkwoDimt9ss/logo.png",
@@ -52474,6 +52524,19 @@
       "decimals": 0,
       "address": "BC1QPt3SMAni1mNDbeXLGmUL1ie6n2L6GX943UACwu3R",
       "chainId": 101
+    },
+    {
+      "name": "SheepCoin",
+      "symbol": "SHEEP",
+      "logoURI": "https://raw.githubusercontent.com/Andreas711/crypto/main/sheeptoken.png",
+      "decimals": 0,
+      "address": "BCMqKuey7zLuxfErEo1at1ui4BjC69752MCy2WU1mhmo",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "meme-token",
+        "private-token"
+      ]
     },
     {
       "name": "Hosting Coin",
@@ -81539,6 +81602,22 @@
       }
     },
     {
+      "name": "Pre-Sale Mercanti NFT 1",
+      "symbol": "P-MERC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G49gd8dLmqedK3DNdgUkd2chVMZieRgqZVMnnrsnsF5V/logo.png",
+      "decimals": 0,
+      "address": "G49gd8dLmqedK3DNdgUkd2chVMZieRgqZVMnnrsnsF5V",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "mercanti",
+        "pre-sale"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tradewithmarco"
+      }
+    },
+    {
       "name": "Merlin Coin",
       "symbol": "MRLN",
       "logoURI": "https://raw.githubusercontent.com/lewixlabs/merlin-solana-token/main/logo.png",
@@ -92912,6 +92991,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Pre-Sale Mercanti NFT 2",
+      "symbol": "P-MERC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JBveYSPQ5sGSPBMi8UdSYcFH25pCEQiU6PymVFqkzm3b/logo.png",
+      "decimals": 0,
+      "address": "JBveYSPQ5sGSPBMi8UdSYcFH25pCEQiU6PymVFqkzm3b",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "mercanti",
+        "pre-sale"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tradewithmarco"
+      }
     },
     {
       "name": "Promenix Coin",
