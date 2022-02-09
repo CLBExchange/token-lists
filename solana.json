@@ -20633,6 +20633,17 @@
       ]
     },
     {
+      "name": "Lilith Project",
+      "symbol": "LILIT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5kdUFnjEERxhCzTDQrmxoh5nSkp4xkDSJaUGquNkar5a/logo.png",
+      "decimals": 4,
+      "address": "5kdUFnjEERxhCzTDQrmxoh5nSkp4xkDSJaUGquNkar5a",
+      "chainId": 101,
+      "tags": [
+        "meme"
+      ]
+    },
+    {
       "name": "AAPE",
       "symbol": "AAPE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE/logo.png",
@@ -61282,6 +61293,19 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "PACES Token",
+      "symbol": "$PACES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CdQseFmnPh2JBiz5747dJ6oYXK9NKnbdFRfiXTcZuaXT/logo.png",
+      "decimals": 0,
+      "address": "CdQseFmnPh2JBiz5747dJ6oYXK9NKnbdFRfiXTcZuaXT",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://theacesnft.com/",
+        "twitter": "https://twitter.com/TheAcesNFT",
+        "discord": "https://discord.gg/5gehRmCNem"
+      }
     },
     {
       "name": "Cyber Ape Age",
