@@ -11064,6 +11064,22 @@
       }
     },
     {
+      "name": "Mercanti Pre-Sale NFT",
+      "symbol": "P-MERC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3sMKt96ayAftnsGrjsymTzxanHPWGZiGgdfcZQ7Pfe8K/logo.png",
+      "decimals": 0,
+      "address": "3sMKt96ayAftnsGrjsymTzxanHPWGZiGgdfcZQ7Pfe8K",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "mercanti",
+        "pre-sale"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tradewithmarco"
+      }
+    },
+    {
       "name": "Play",
       "symbol": "PLA",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/pla-logo.png",
@@ -21555,6 +21571,17 @@
       "extensions": {
         "telegram": "https://t.me/lemonspl"
       }
+    },
+    {
+      "name": "Kuna",
+      "symbol": "KN",
+      "logoURI": "https://raw.githubusercontent.com/donDominik0/cryptokuna/main/logo.png",
+      "decimals": 2,
+      "address": "5v2kfUPs51kMbHh57E81rPMRvFD5KGPU83Ft7dvDtwvP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Solanax",
@@ -43644,6 +43671,17 @@
       ]
     },
     {
+      "name": "Brails Coin",
+      "symbol": "BRLS",
+      "logoURI": "https://raw.githubusercontent.com/brailsford/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "9p8d6WABqK9dDTS2rCcyAbGjZbS4AtXCuqpdMMfcGXat",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Flowers",
       "symbol": "FLWRS",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/flwrs-logo.png",
@@ -46669,6 +46707,22 @@
       }
     },
     {
+      "name": "Mercanti NFT Token",
+      "symbol": "MERC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AH1KE4h9nnKfqYRDynDsB3nFwT8ohXvw9rX81uaxrhAg/logo.png",
+      "decimals": 0,
+      "address": "AH1KE4h9nnKfqYRDynDsB3nFwT8ohXvw9rX81uaxrhAg",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "mercanti",
+        "sale"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tradewithmarco"
+      }
+    },
+    {
       "name": "BITCOIN",
       "symbol": "BITCOIN",
       "logoURI": "https://raw.githubusercontent.com/BitcoinSimone/Bitcoin/main/borrowPNG.png",
@@ -47748,6 +47802,26 @@
         "twitter": "https://twitter.com/linuxtokens",
         "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens, bridged from etherium,non-fungable tokens,asset wrapped tokens and for linux os community tokens.",
         "telegram": "https://t.me/linuxtokens"
+      }
+    },
+    {
+      "name": "Backistan BACK",
+      "symbol": "BACK",
+      "logoURI": "https://raw.githubusercontent.com/backdao/backdao/f64c256ffb811018d88e18c804a60a6127f991d3/SPL-image.png",
+      "decimals": 0,
+      "address": "AQGncY1hA22JATnj8aEuCAaPQsoe9wwmn4QBKzvV96yS",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "nft-backed-currency",
+        "nft-basket"
+      ],
+      "extensions": {
+        "website": "https://back2back.io/",
+        "twitter": "https://twitter.com/backDAO",
+        "vault": "https://www.fraktion.art/vault/DLRCcdmBJvoR6nHTpKRKvRBE9n8TN1443rN3VrtiXzqp",
+        "vaultPubkey": "DLRCcdmBJvoR6nHTpKRKvRBE9n8TN1443rN3VrtiXzqp"
       }
     },
     {
@@ -49806,6 +49880,21 @@
       ],
       "extensions": {
         "website": "https://apexwolfe.com"
+      }
+    },
+    {
+      "name": "EliteCoin",
+      "symbol": "EC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AhDt1FnEt759Tmxwa61E9FQhFnerPwMDTTt7CJjvog7L/logo.png",
+      "decimals": 2,
+      "address": "AhDt1FnEt759Tmxwa61E9FQhFnerPwMDTTt7CJjvog7L",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://metaapeeliteclub.com/",
+        "twitter": "https://twitter.com/MetaApeEC",
+        "discord": "https://discord.gg/MetaApeEC",
+        "instagram": "https://instagram.com/MetaApeEC",
+        "twitch": "https://www.twitch.tv/MetaApeEC"
       }
     },
     {
@@ -86327,6 +86416,17 @@
       }
     },
     {
+      "name": "PoggersCoin",
+      "symbol": "POGR",
+      "logoURI": "https://raw.githubusercontent.com/ConfusedCatBongo/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "GssKDr54mrME81AUnmSBKBc3Bcb4F3M8ugsYVQDE2r9F",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hiram",
       "symbol": "HRM",
       "logoURI": "https://raw.githubusercontent.com/niakova/crypto/main/logo.png",
@@ -89419,6 +89519,17 @@
       ]
     },
     {
+      "name": "BeneCoin",
+      "symbol": "CBG",
+      "logoURI": "https://raw.githubusercontent.com/EigeneDateien/CBG/main/logo.png",
+      "decimals": 0,
+      "address": "HUGZgz5stMv2SuSDCV6WifPea1MsuBWNd4nVfea71oiT",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Saber wHUSD_V1-USDC LP",
       "symbol": "wHUSDV1-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
@@ -91587,6 +91698,28 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/AtEMWORLD"
+      }
+    },
+    {
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/ALGO/logo.png",
+      "decimals": 9,
+      "address": "HtKKipqmgxMQJUob9XCgZBG6zSCZx4nA433ZfDuLyUTg",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "wrapped"
+      ],
+      "extensions": {
+        "website": "https://www.algorand.com/",
+        "twitter": "https://twitter.com/algorand",
+        "github": "https://github.com/algorand",
+        "discord": "https://discord.com/invite/QBYp7Y2",
+        "coingeckoId": "algorand",
+        "description": "Algorand is a scalable, secure and decentralized digital currency and transactions platform.",
+        "reddit": "https://reddit.com/r/AlgorandOfficial",
+        "telegram": "https://t.me/algorand"
       }
     },
     {
