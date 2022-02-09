@@ -322,6 +322,23 @@
       ]
     },
     {
+      "name": "Kawaii Zoo",
+      "symbol": "KZOO",
+      "logoURI": "https://user-images.githubusercontent.com/97711508/151888163-eae76d9b-2055-4d5f-8a5b-043fd625ea75.png",
+      "decimals": 6,
+      "address": "14AnHZYk1CvtTCq5jvYMX7Fx7pnWDmgQJvADxP9Q4jYN",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Kawaii__Zoo",
+        "discord": "https://discord.gg/6SF9wrmXxB"
+      }
+    },
+    {
       "name": "Boogly",
       "symbol": "BOOGLY",
       "logoURI": "https://raw.githubusercontent.com/wubsnubz/boogly/main/boogly.png",
@@ -6785,6 +6802,17 @@
       "logoURI": "https://raw.githubusercontent.com/digitaldog888/crypto/main/logo.png",
       "decimals": 0,
       "address": "3D1SjVC4z9WDaq1vdaJcHMNEjWwpEQrVY4eckm65nEJV",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Banded Agate Coin",
+      "symbol": "BAAG",
+      "logoURI": "https://raw.githubusercontent.com/rightywastaken/logo/main/logo5.png",
+      "decimals": 0,
+      "address": "3DEbcjbcCXwzhx75FHTWs3TiyLLXcwhvnbyAxciDojRY",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -16680,6 +16708,23 @@
         "tokenomics",
         "community-token"
       ]
+    },
+    {
+      "name": "Bridge Network",
+      "symbol": "BRIDGE",
+      "logoURI": "https://i.ibb.co/LhQSzyh/unknown-3.png",
+      "decimals": 9,
+      "address": "4xU44oSF32sFXzTG2PRNhsxJidLegyGTGV8Fmu5grLFy",
+      "chainId": 101,
+      "tags": [
+        "Bridge",
+        "Cross-Chain",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://www.bridgenetwork.com",
+        "twitter": "https://twitter.com/bridgenetwork0x"
+      }
     },
     {
       "name": "Spotthegeek Coin",
@@ -37023,6 +37068,17 @@
       ]
     },
     {
+      "name": "GremlinCoin",
+      "symbol": "GREMM",
+      "logoURI": "https://raw.githubusercontent.com/Bucksmatt/Gremlin-coin/main/Gremlin.png",
+      "decimals": 6,
+      "address": "8fF8hajCaotRDZ39HRJhQCAUA6aFMabvz6eV8518pDkB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Instagram NFT SOLKITTYNFT 1",
       "symbol": "IGNFT8FJ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fJJiHdwnqoVbR8ncALXcPQUwm8HWztDZPjKN4zWL5Wx/logo.png",
@@ -38356,6 +38412,21 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "SECCO",
+      "symbol": "SEC",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/SECCO-COIN/main/logo.png",
+      "decimals": 0,
+      "address": "8sxavS8ky125Axf7h1Zi2nEb2MvVZc6WY8pjPnY9aoKR",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "secco-token",
+        "art-token"
       ]
     },
     {
@@ -84281,6 +84352,17 @@
       ]
     },
     {
+      "name": "Local 73 COIN",
+      "symbol": "SMW73",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVuwAompUahjSWLKS5NZDu1yPnRRsJV5mZa3wvgzzmuH/logo.png",
+      "decimals": 9,
+      "address": "GVuwAompUahjSWLKS5NZDu1yPnRRsJV5mZa3wvgzzmuH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "YellowRose",
       "symbol": "YLRS",
       "logoURI": "https://raw.githubusercontent.com/jms2004/crypto/main/LogoS.png",
@@ -97435,6 +97517,17 @@
       }
     },
     {
+      "name": "SXD Whitelist token",
+      "symbol": "SxDWL",
+      "logoURI": "https://raw.githubusercontent.com/SaintxDmon/WL-sxd/main/logo.jpg",
+      "decimals": 0,
+      "address": "WLG8Q4Woh6Usb4AVtC2vi7AMU2GVtcCrjp3SEpskUDz",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "The Pension Apes Club WL",
       "symbol": "TPACWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLLnZwAKJcN7aMXUFhfejSPj56D48e6DiNuMa6Qud8C/logo.png",
@@ -102246,6 +102339,19 @@
       ]
     },
     {
+      "name": "HGEN",
+      "symbol": "HGEN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3VkCNsok1V8Y65utG7LchxURHh7nAhFR7ScVyTLLG1jJ/logo.png",
+      "decimals": 8,
+      "address": "3VkCNsok1V8Y65utG7LchxURHh7nAhFR7ScVyTLLG1jJ",
+      "chainId": 102,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ]
+    },
+    {
       "name": "WOOD - Metaversium",
       "symbol": "WOOD",
       "logoURI": "https://raw.githubusercontent.com/dwrx/token-list/main/assets/mainnet/5Ns2m2oBWyj7Kz4VgGgenHZA5dUTJ224AbtjUjaDB651/logo.png",
@@ -102304,6 +102410,17 @@
       "decimals": 9,
       "address": "7KFASybd48bRqcBEUXoAWHwwbwJqYoyLMSjZwMkUigiR",
       "chainId": 102
+    },
+    {
+      "name": "GENS",
+      "symbol": "GENS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7d3U17g4WEZkVGjRVVQchrgEaoFAuuui2xmEGCzmtUGt/logo.png",
+      "decimals": 8,
+      "address": "7d3U17g4WEZkVGjRVVQchrgEaoFAuuui2xmEGCzmtUGt",
+      "chainId": 102,
+      "tags": [
+        "stablecoin"
+      ]
     },
     {
       "name": "FYFY Governance Token",
