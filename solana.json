@@ -35967,6 +35967,21 @@
       }
     },
     {
+      "name": "gm Groundhog Whitelist",
+      "symbol": "GMGWH",
+      "logoURI": "https://github.com/imentus-rahul/whitelist-token-registry/blob/main/logo.png",
+      "decimals": 0,
+      "address": "8TeyhNzVnJkYMQg6byGGwuszV2C3miNashj8HNUzgRU7",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "presale-token"
+      ],
+      "extensions": {
+        "description": "gmgwh is a whitelist token for preminting the gmg nft collection"
+      }
+    },
+    {
       "name": "BayernVerseSchoasch",
       "symbol": "BAVS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8TytJGVEyYGPCmPbtMwaGNr57gn9qz7YSH9bLf6aBsn9/logo.jpg",
@@ -67465,6 +67480,24 @@
       }
     },
     {
+      "name": "TLBC Whitelist",
+      "symbol": "WTLBC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dc5LzwzYLtSMhquxvXSAuhiDqjjbPLrBF1ZajNQyFuXM/logo.png",
+      "decimals": 0,
+      "address": "Dc5LzwzYLtSMhquxvXSAuhiDqjjbPLrBF1ZajNQyFuXM",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://loftsclub.com/",
+        "twitter": "https://twitter.com/lofts_club",
+        "discord": "https://discord.gg/theloftbusinessclub",
+        "instagram": "https://www.instagram.com/the_lofts_business_club/"
+      }
+    },
+    {
       "name": "SovietCoin",
       "symbol": "CCCP",
       "logoURI": "https://raw.githubusercontent.com/eberling/soviet/main/New%20Project.png",
@@ -86677,6 +86710,23 @@
       "extensions": {
         "website": "https://twitter.com/BitmonWorld",
         "discord": "https://discord.gg/bitmon"
+      }
+    },
+    {
+      "name": "FROGZ",
+      "symbol": "FROGZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GuJWiZBox3tZZwiV9NCJsRUaULv8tmNcK9UWNV25msND/logo.png",
+      "decimals": 9,
+      "address": "GuJWiZBox3tZZwiV9NCJsRUaULv8tmNcK9UWNV25msND",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.hokkaidofrogz.com/",
+        "twitter": "https://twitter.com/HokkaidoFrogz"
       }
     },
     {
