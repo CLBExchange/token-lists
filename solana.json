@@ -6825,6 +6825,21 @@
       ]
     },
     {
+      "name": "New Media Coin",
+      "symbol": "NMC",
+      "logoURI": "https://raw.githubusercontent.com/Scrump/newmediacoin/main/logo.png",
+      "decimals": 0,
+      "address": "3Daw6ysXkpYQ3v6ZgwbDwukdsRsZD4HEmQwafUPbApA2",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://newmediacoin.com"
+      }
+    },
+    {
       "name": "USA",
       "symbol": "USA",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/USA.png",
@@ -11928,6 +11943,23 @@
       }
     },
     {
+      "name": "SOL Playground Coin",
+      "symbol": "SOLP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/45eBLJUCQf1acXdBG8daBfUudy8T7V5gDTBpiE1iezsN/logo.png",
+      "decimals": 6,
+      "address": "45eBLJUCQf1acXdBG8daBfUudy8T7V5gDTBpiE1iezsN",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "blockchain-developer",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solana-playground.com/",
+        "twitter": "https://twitter.com/solplayground"
+      }
+    },
+    {
       "name": "Kids",
       "symbol": "KIDS",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Kids.png",
@@ -13768,6 +13800,17 @@
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/participant-logo.png",
       "decimals": 9,
       "address": "4T2ytRMHfLtmSeFfzErEQ53x4MhVhFSGaY33dV2AXgLw",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Dan Coin",
+      "symbol": "DAN",
+      "logoURI": "https://raw.githubusercontent.com/joshtasman/cSolana/main/dan_logo.jpg",
+      "decimals": 9,
+      "address": "4TEHiDjsFsW6SvqafW2jhsSDuPbU4ESXT1GujtodUrDc",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -22428,6 +22471,19 @@
         "website": "https://cropper.finance/",
         "twitter": "https://twitter.com/CropperFinance"
       }
+    },
+    {
+      "name": "LeibCoin",
+      "symbol": "LEIB",
+      "logoURI": "https://raw.githubusercontent.com/leibmunz/leibt/main/logo.png",
+      "decimals": 0,
+      "address": "691FMUwMY8paaEJjow4BNBnKe3rdS3KH1bnu6hsFudZG",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "web3-token"
+      ]
     },
     {
       "name": "Green Coin",
@@ -44780,6 +44836,17 @@
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lck-logo.png",
       "decimals": 9,
       "address": "A3G1w2mBTFhWXvVXin72UR8Q3MqJ4PqkSX3bVgq92ZGQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Schulmoney",
+      "symbol": "SCHL",
+      "logoURI": "https://raw.githubusercontent.com/FeliksIsABoss/Cryptocurrency/main/logo.png",
+      "decimals": 0,
+      "address": "A3T8bCAVd91xgzuU56Zz9hUEhVriPeVcgDyjrnzaiV1H",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -75220,6 +75287,17 @@
         "twitter": "https://twitter.com/nftgalleryshop",
         "description": "Black holes are where God divided by zero"
       }
+    },
+    {
+      "name": "Meta Parlor Token",
+      "symbol": "METAP",
+      "logoURI": "https://raw.githubusercontent.com/MetaParlor/MetaParlorToken/main/logo.jpg",
+      "decimals": 0,
+      "address": "F6rgHNX17nF5KMC4AWw7Nj9CdBcQZtUz3deunyyRC962",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "LUNA (Wormhole)",
