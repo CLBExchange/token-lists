@@ -1623,6 +1623,17 @@
       }
     },
     {
+      "name": "GRILLAZ",
+      "symbol": "GRILLAZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DH1PxfM8d8bkrQM3WFX1HySohcv1rvMLU9KmycmzLp1/logo.png",
+      "decimals": 0,
+      "address": "2DH1PxfM8d8bkrQM3WFX1HySohcv1rvMLU9KmycmzLp1",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://mekagorillaz.live/"
+      }
+    },
+    {
       "name": "BEAT TOKEN",
       "symbol": "BEAT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DJZLCpTgSodW4DCEA7wJG29ypbnNRpZjSmmBRyRA4dt/logo.png",
@@ -17015,6 +17026,22 @@
         "twitter": "https://twitter.com/LGBRCoin",
         "discord": "https://discord.gg/Qb7QRNAeH2",
         "whitepaper": "https://docs.google.com/document/d/1krRMK_b2DkvgV0AEl9rKN2LU4lh-QACWi9rXByfG8tQ/edit?usp=sharing"
+      }
+    },
+    {
+      "name": "Doragon Token",
+      "symbol": "DORA",
+      "logoURI": "https://raw.githubusercontent.com/pixelateddoragon/brand/main/token.png",
+      "decimals": 6,
+      "address": "549BXihQSZGrog7mJpBLjaBcetUoovh72wVmHJf5icmV",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://pixelateddoragon.com",
+        "twitter": "https://twitter.com/PixelDoragon"
       }
     },
     {
