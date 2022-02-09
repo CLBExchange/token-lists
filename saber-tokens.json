@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-01-31T21:45:37.097Z",
+  "timestamp": "2022-02-09T00:31:57.026Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -1810,9 +1810,9 @@
       }
     },
     {
-      "name": "Parrot Stake Pool SOL",
+      "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
-      "logoURI": "https://registry.saber.so/token-icons/prtsol.svg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
       "decimals": 9,
       "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "chainId": 101,
@@ -1820,10 +1820,15 @@
         "saber-mkt-sol"
       ],
       "extensions": {
+        "website": "https://parrot.fi",
+        "twitter": "https://twitter.com/gopartyparrot",
+        "medium": "https://gopartyparrot.medium.com/",
+        "discord": "https://discord.gg/gopartyparrot",
         "coingeckoId": "solana",
         "source": "parrot",
         "currency": "SOL",
-        "sourceUrl": "https://parrot.fi/mint/"
+        "sourceUrl": "https://parrot.fi/mint/",
+        "telegram": "https://t.me/gopartyparrot"
       }
     },
     {
@@ -3266,6 +3271,25 @@
       }
     },
     {
+      "name": "solUST",
+      "symbol": "solUST",
+      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+      "decimals": 6,
+      "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://soluna.money",
+        "twitter": "https://twitter.com/solunaDAO",
+        "medium": "https://medium.com/solunadao",
+        "coingeckoId": "terrausd",
+        "source": "soluna",
+        "currency": "USD"
+      }
+    },
+    {
       "name": "Saber Wrapped USD Coin (9 decimals)",
       "symbol": "sUSDC-9",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1.png",
@@ -3799,6 +3823,44 @@
       }
     },
     {
+      "name": "Saber mSOL-JSOL LP",
+      "symbol": "mSOL-JSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
+        "underlyingTokens": [
+          "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber scnSOL-JSOL LP",
+      "symbol": "scnSOL-JSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
+        "underlyingTokens": [
+          "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber mSOL-SOL LP",
       "symbol": "mSOL-SOL",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
@@ -4014,6 +4076,25 @@
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber solUST-UST LP",
+      "symbol": "solUST-UST",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "USTKgR66nvdkCc4bUKsirzEnyFoPtRyZzT2xsqB5t7c",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solust",
+        "underlyingTokens": [
+          "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
         ],
         "source": "saber"
       }
