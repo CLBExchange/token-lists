@@ -22219,6 +22219,23 @@
       "chainId": 101
     },
     {
+      "name": "ART",
+      "symbol": "ART",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2/logo.png",
+      "decimals": 6,
+      "address": "63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aiko.io/",
+        "twitter": "https://twitter.com/aikonft",
+        "discord": "https://discord.com/invite/Y72V9wn3Yw",
+        "reddit": "https://www.reddit.com/r/AikoNFT/"
+      }
+    },
+    {
       "name": "PTZCoin",
       "symbol": "PiTZ",
       "logoURI": "https://raw.githubusercontent.com/PTZCOIN/crypto/main/logo.png",
@@ -54288,6 +54305,22 @@
       }
     },
     {
+      "name": "RRAM",
+      "symbol": "RRAM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BS9HQKdgY6DUq6HCgNz8xpDyoERJD4GnwGRHebFasjZS/logo.png",
+      "decimals": 9,
+      "address": "BS9HQKdgY6DUq6HCgNz8xpDyoERJD4GnwGRHebFasjZS",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/rowdyramsnft"
+      }
+    },
+    {
       "name": "Solana Underworld Token",
       "symbol": "UWT",
       "logoURI": "https://solsnatchers.com/images/head2.png",
@@ -63792,6 +63825,20 @@
       ],
       "extensions": {
         "website": "https://cargocollective.com/gustifink/"
+      }
+    },
+    {
+      "name": "Peppy Platypus Posse Whitelist Token",
+      "symbol": "PPPWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CwPp4q7C23oXNh12Z8ZGx1vTL7gnqT4iWtLjg7Ta2vBF/logo.png",
+      "decimals": 0,
+      "address": "CwPp4q7C23oXNh12Z8ZGx1vTL7gnqT4iWtLjg7Ta2vBF",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://peppyplatypus.com/"
       }
     },
     {
@@ -104403,6 +104450,23 @@
         "twitter": "https://twitter.com/official_fabric",
         "github": "https://github.com/fabric-foundation/",
         "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
+      "name": "ART",
+      "symbol": "ART",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2/logo.png",
+      "decimals": 6,
+      "address": "AZ1mS4yHVYLTXb2Z8AQmec2o18i15REEYGWtnRcuWohu",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aiko.io/",
+        "twitter": "https://twitter.com/aikonft",
+        "discord": "https://discord.com/invite/Y72V9wn3Yw",
+        "reddit": "https://www.reddit.com/r/AikoNFT/"
       }
     },
     {
