@@ -6458,6 +6458,23 @@
       "chainId": 101
     },
     {
+      "name": "Lady with an Ermine",
+      "symbol": "GJJ-LDV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38vopEvoU5cdKX33noN793669JweG2KA5afW18BrLBFZ/hermelijn.png",
+      "decimals": 0,
+      "address": "38vopEvoU5cdKX33noN793669JweG2KA5afW18BrLBFZ",
+      "chainId": 101,
+      "tags": [
+        "Geert-Jan-Jansen",
+        "in-the-style-of",
+        "Leonardo-da-Vinci",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/leonardo-da-vinci/"
+      }
+    },
+    {
       "name": "WACCOIN",
       "symbol": "WACCOE",
       "logoURI": "https://raw.githubusercontent.com/iamtheitman/crypto/main/waccoin.jpg",
@@ -45012,6 +45029,17 @@
         "coingeckoId": "tether",
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
       }
+    },
+    {
+      "name": "CRYTOK",
+      "symbol": "CRTK",
+      "logoURI": "https://raw.githubusercontent.com/mamoamo/cryotok/main/crytok_logo.png",
+      "decimals": 0,
+      "address": "9wB5JMdWYGtzygwo8GygrJFg6PY6QhtWK5HdK3PwJraV",
+      "chainId": 101,
+      "tags": [
+        "promo-token"
+      ]
     },
     {
       "name": "KMM Token",
@@ -98517,6 +98545,21 @@
       "decimals": 0,
       "address": "VernWPaodzUcAXnZQAcCguQPbWJvUub1zuURzLvF128",
       "chainId": 101
+    },
+    {
+      "name": "Vice",
+      "symbol": "VICE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ViCeSQqiKWD3LGZv6W9tjLLwgXed3iPZpSLhurYZkXY/logo.png",
+      "decimals": 0,
+      "address": "ViCeSQqiKWD3LGZv6W9tjLLwgXed3iPZpSLhurYZkXY",
+      "chainId": 101,
+      "tags": [
+        "vice",
+        "sports"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Vicehood"
+      }
     },
     {
       "name": "Karl Koin",
