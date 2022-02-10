@@ -9607,6 +9607,9 @@
       "decimals": 0,
       "address": "3cVsanUhbo91Qcuzrzx7qZAutpXYcaMr64jfq5Cs17es",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/BHD448",
         "twitter": "https://twitter.com/liqnft",
@@ -41647,6 +41650,9 @@
       "decimals": 0,
       "address": "9QCTc8SEomtoYPBAZ5uU5G42buLBZKr8ic54jPMSZ8U8",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/PP5445",
         "twitter": "https://twitter.com/liqnft",
@@ -45956,7 +45962,8 @@
       "extensions": {
         "website": "https://catcartel.io/",
         "twitter": "https://twitter.com/SolanaCatCartel",
-        "discord": "http://discord.gg/CV46gmTuPM"
+        "discord": "http://discord.gg/catcartel",
+        "coingeckoId": "zion"
       }
     },
     {
@@ -50418,6 +50425,9 @@
       "decimals": 0,
       "address": "AhwH3NSkyzGfasYpXA1N7v1KJJu6rFkeQ8EKuoh3Ab3C",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/LIQ",
         "twitter": "https://twitter.com/liqnft",
@@ -51523,7 +51533,7 @@
     {
       "name": "zkrollup cross chain link",
       "symbol": "ZKL",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN/logo.pn",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN/logo.png",
       "decimals": 9,
       "address": "AsWigW5KeEKsiDAgdjxpWQEBMFk4BEgmmmHZMYwVfUVN",
       "chainId": 101,
@@ -61777,6 +61787,20 @@
       ]
     },
     {
+      "name": "IZGI Technologies",
+      "symbol": "IZCO",
+      "logoURI": "https://raw.githubusercontent.com/hammerbox/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "CbpaPcL86iPJC8okGJbbH852tUFJrr18agBgz6j9uu4g",
+      "chainId": 101,
+      "tags": [
+        "NFTs",
+        "utility-token",
+        "currency-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Chief Coin",
       "symbol": "CHC",
       "logoURI": "https://github.com/PrommerRichard/crypto/blob/main/logo2.jpg?raw=true",
@@ -69839,6 +69863,9 @@
       "decimals": 0,
       "address": "Duch2MmgCar9UGt76smK5HcJ7anBRa31uNZZvNJt3b5S",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/SMB3719",
         "twitter": "https://twitter.com/liqnft",
@@ -75624,7 +75651,7 @@
     {
       "name": "Solana Mobile App UlaPay Token",
       "symbol": "ULA",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ/logo.pn",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ/logo.png",
       "decimals": 9,
       "address": "EwHqbMUMX33JjWAhxSg9vsX3miWqncsgpnAbqn9nhJwZ",
       "chainId": 101,
@@ -81787,6 +81814,27 @@
       ]
     },
     {
+      "name": "Xiuder Coin",
+      "symbol": "XIU",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Xiuder-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "FviScByi7Pbg1myqqHjfT6xxMVYUaF8wP3DGxgEov8tM",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "game-token",
+        "xiuder-token"
+      ],
+      "extensions": {
+        "website": "https://www.smart-gfx.com/merch-xiuder",
+        "twitter": "https://twitter.com/Xiuder_",
+        "twitch": "https://www.twitch.tv/xiuder_",
+        "youtube": "https://www.youtube.com/c/Xiuder"
+      }
+    },
+    {
       "name": "RockCycleNFT",
       "symbol": "$RLC",
       "logoURI": "https://raw.githubusercontent.com/mannupvt1/rockcyclenft/main/Rzp9lJSROl56K1ON17zTgtExw448SIPUeS6LOM1IYqlRpPdp.png",
@@ -82588,6 +82636,9 @@
       "decimals": 0,
       "address": "G4iSJWW63sU8yRWtV4AkcQ5JJmEdbUHEG68aDyHbaqr3",
       "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/SOLAND",
         "twitter": "https://twitter.com/liqnft",
@@ -88890,6 +88941,9 @@
       "decimals": 0,
       "address": "HCBPNDD9iz683PszPBZzoy7xEub4GQ7rHBJxM57cLQpf",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/THUG0160",
         "twitter": "https://twitter.com/liqnft",
@@ -93959,6 +94013,17 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/mememenft"
+      }
+    },
+    {
+      "name": "Tolar",
+      "symbol": "TLR",
+      "logoURI": "https://raw.githubusercontent.com/admin8855/tlr/main/logo.png",
+      "decimals": 6,
+      "address": "JAotw1dfgFRt3wUgkHrEXaHmMxXUQGMfZF176TNnMLFE",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://tolar.exchange/"
       }
     },
     {
@@ -100463,6 +100528,9 @@
       "decimals": 0,
       "address": "jAi1KmJZrrDVSroQXXAqASpES4qLvZcW5p9s5a5ksG4",
       "chainId": 101,
+      "tags": [
+        "liqnft-owner-token"
+      ],
       "extensions": {
         "website": "https://www.liqnft.com/gallery/DAPE9989",
         "twitter": "https://twitter.com/liqnft",
