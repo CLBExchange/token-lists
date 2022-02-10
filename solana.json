@@ -30121,6 +30121,26 @@
       }
     },
     {
+      "name": "Galapagos",
+      "symbol": "GAL",
+      "logoURI": "https://raw.githubusercontent.com/galapagos-coin/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "7XmXhKmngJJvK3k1dSbCNDB9pfMyGtgm8QUcczUY1c4R",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "NFTs",
+        "Metaverse"
+      ],
+      "extensions": {
+        "website": "https://GalapagosNFT.com",
+        "twitter": "https://twitter.com/GalapagosNFTs",
+        "discord": "https://discord.gg/bVvZWvFRAT",
+        "telegram": "https://t.me/GalapagosNFTs"
+      }
+    },
+    {
       "name": "JareBear",
       "symbol": "JDBEAR",
       "logoURI": "https://raw.githubusercontent.com/dyor-market/token-list/main/assets/mainnet/7Y2FprWHsBYCFkTpWiQ123BMPgWWquraaZHy6oFofcvs/logo.png",
@@ -57522,6 +57542,27 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "name": "Nearcoin",
+      "symbol": "NRC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BsnpN8xvDpY7uKo4gnk5B3Z6pHnyL8RXgmMTQFpEETLa/logo.png",
+      "decimals": 2,
+      "address": "BsnpN8xvDpY7uKo4gnk5B3Z6pHnyL8RXgmMTQFpEETLa",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "currency-token"
+      ],
+      "extensions": {
+        "website": "https://www.nearcoin.com/",
+        "twitter": "https://twitter.com/NearcastHQ",
+        "facebook": "https://www.facebook.com/NearcastHQ",
+        "instagram": "https://www.instagram.com/NearcastHQ/",
+        "linkedin": "https://www.linkedin.com/company/nearcast",
+        "youtube": "https://www.youtube.com/channel/UCqvbKHoV0xaReGts8oedmnQ"
+      }
     },
     {
       "name": "SolanaEgg token",
@@ -94884,6 +94925,24 @@
         "serumV3Usdc": "E8JQstcwjuqN5kdMyUJLNuaectymnhffkvfg1j286UCr",
         "coingeckoId": "avalanche-2",
         "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      }
+    },
+    {
+      "name": "Kirin Kingdom",
+      "symbol": "KIRIN",
+      "logoURI": "https://i.ibb.co/CtjdKgQ/unknown.png",
+      "decimals": 9,
+      "address": "Kir4NUgYeLoHN7aBjNTfiyn3vHwZVKiyhBqN5RYBqnA",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "Staking",
+        "Passive-income",
+        "Breeding"
+      ],
+      "extensions": {
+        "website": "https://kirin-kingdom.com",
+        "twitter": "https://twitter.com/Kirin_Kingdom"
       }
     },
     {
