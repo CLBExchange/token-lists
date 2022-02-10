@@ -84249,6 +84249,23 @@
       "chainId": 101
     },
     {
+      "name": "Achille Lauro Coin",
+      "symbol": "LAUR",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Achille-Lauro-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "GQ9Ym6HrE3C5NvugEMLwBXTyWjXrwoHZD6Nvv5Laosvu",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "lauro-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/frasidilauro"
+      }
+    },
+    {
       "name": "Subayai Snakes VENOM",
       "symbol": "VENOM",
       "logoURI": "https://raw.githubusercontent.com/abrarmusa/files/master/logo.png",
