@@ -1204,6 +1204,18 @@
       }
     },
     {
+      "name": "TERPS TOKEN",
+      "symbol": "TERPS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/29dvN2ABzyyKFJs7ZiqPEoFuv5cRKhtkCxjfeaDVEjwe/logo.png",
+      "decimals": 9,
+      "address": "29dvN2ABzyyKFJs7ZiqPEoFuv5cRKhtkCxjfeaDVEjwe",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://kryptokronic.io/",
+        "twitter": "https://twitter.com/KryptoKronicNFT"
+      }
+    },
+    {
       "name": "Gorilla Squad",
       "symbol": "GOS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/29gwg5bs4x33L53wRfPoerReQfQgMDwftACQifGEtqk6/logo.png",
@@ -11673,6 +11685,17 @@
       }
     },
     {
+      "name": "cryptonators",
+      "symbol": "CRPN",
+      "logoURI": "https://raw.githubusercontent.com/ibby255/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "3zjBUUJEvJHAUB6K4hX9j5HVcfJxXmC3iSREjsvDqT4C",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Elis Gay LMAO",
       "symbol": "PNIS",
       "logoURI": "https://github.com/AR1Z0NAPN1SMAN/token-list/blob/09e2082a5d2f73b1e6d39aeb3487dce83b725477/assets/mainnet/413vAqjCPcjkGm5JEWNqXDti757PbtXjB2ju6ecMLbWf/cover8.jpg?raw=true",
@@ -16655,6 +16678,22 @@
       "extensions": {
         "website": "https://www.nft4cause.app/",
         "twitter": "https://twitter.com/NFT4cause"
+      }
+    },
+    {
+      "name": "HONSHU",
+      "symbol": "HONSHU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4vXidyArpT8fyQTmfXfMNHitj5ay1Fjcnbw9fJLL2zBa/logo.png",
+      "decimals": 9,
+      "address": "4vXidyArpT8fyQTmfXfMNHitj5ay1Fjcnbw9fJLL2zBa",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HonshuWolves"
       }
     },
     {
@@ -85237,6 +85276,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "PEEL",
+      "symbol": "PEEL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVsdtSe3E2fQoP3TzNT2M1VUchJ7sBmDBuvBZmGDGvmB/logo.png",
+      "decimals": 9,
+      "address": "GVsdtSe3E2fQoP3TzNT2M1VUchJ7sBmDBuvBZmGDGvmB",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.solkongz.net/",
+        "twitter": "https://twitter.com/SolKongz"
+      }
     },
     {
       "name": "Local 73 COIN",
