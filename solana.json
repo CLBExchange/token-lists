@@ -16529,6 +16529,29 @@
       }
     },
     {
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tfNrjsyMR35Jbvua7RM2n2zsrvWBfPsuqovGxcL2DHB/logo.png",
+      "decimals": 9,
+      "address": "4tfNrjsyMR35Jbvua7RM2n2zsrvWBfPsuqovGxcL2DHB",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "wrapped"
+      ],
+      "extensions": {
+        "website": "https://polkadot.network/",
+        "twitter": "https://twitter.com/Polkadot",
+        "github": "https://github.com/paritytech/polkadot",
+        "discord": "https://discord.com/invite/wGUDt2p",
+        "coingeckoId": "polkadot",
+        "description": "Polkadot makes it easier than ever to create and connect decentralized applications, services, and institutions.",
+        "reddit": "https://reddit.com/r/dot",
+        "telegram": "https://t.me/PolkadotOfficial",
+        "youtube": "https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw"
+      }
+    },
+    {
       "name": "BonzOhm",
       "symbol": "BNZO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tqCXeEtbGCzmav8QPiNeBZnh9p59HMbXYk8SW2z4Fj3/logo.png",
@@ -46718,6 +46741,20 @@
       "decimals": 6,
       "address": "ADehsNVsuXwdQ5L6JT4YpZrmLumDQ3f1ar2VxBaR3TaL",
       "chainId": 101
+    },
+    {
+      "name": "Kristijan Svihran",
+      "symbol": "KIKS",
+      "logoURI": "https://raw.githubusercontent.com/kiks2401/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "ADn8cY1hhzFiB7bSFzR1oxLJdqc7Dhmj8UXhpdkNVtGj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Vicehood"
+      }
     },
     {
       "name": "Instagram NFT LIONLEGACY7 2",
@@ -97450,6 +97487,23 @@
         "serumV3Usdc": "97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S",
         "coingeckoId": "step-finance",
         "waterfallbot": "https://bit.ly/STEPwaterfall"
+      }
+    },
+    {
+      "name": "STIMMY",
+      "symbol": "STIMMY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StiMWryqUXqFfQUBX51bbxhMJqS9RqJqsAvrsuh2aYi/logo.png",
+      "decimals": 9,
+      "address": "StiMWryqUXqFfQUBX51bbxhMJqS9RqJqsAvrsuh2aYi",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://sers.io/",
+        "twitter": "https://twitter.com/irsnft",
+        "discord": "https://discord.gg/IRS"
       }
     },
     {
