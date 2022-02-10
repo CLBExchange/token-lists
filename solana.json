@@ -72675,6 +72675,24 @@
       ]
     },
     {
+      "name": "Pamela Coin",
+      "symbol": "PAM",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Pamela-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "EW5ZzkiUr1y8snnYmtd4RoK2twnseYXc9YtEVvfFYeVx",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "pam-token"
+      ],
+      "extensions": {
+        "website": "https://pamelareif.com",
+        "twitter": "https://twitter.com/pamela_rf"
+      }
+    },
+    {
       "name": "Commit Good",
       "symbol": "$GOOD",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EWL2aMkx1j7XcjdKniVMKmuK7Vds3CgMXJv28HohVBUx/logo.png",
@@ -82219,6 +82237,21 @@
       }
     },
     {
+      "name": "Hungry Apes",
+      "symbol": "HAPE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G4nr5KV4Yd7JJi94GsRjPUukVGghaUJxgz4qVgXyLg7K/logo.png",
+      "decimals": 9,
+      "address": "G4nr5KV4Yd7JJi94GsRjPUukVGghaUJxgz4qVgXyLg7K",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HungryApesNFT",
+        "discord": "https://discord.gg/Dh4GsSrJ"
+      }
+    },
+    {
       "name": "Miami Hitches Token",
       "symbol": "MHT",
       "logoURI": "https://raw.githubusercontent.com/Lenseov3/token/main/Logo.jpg",
@@ -88131,6 +88164,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Urban Coin",
+      "symbol": "NEO",
+      "logoURI": "https://raw.githubusercontent.com/SecioreanuStefanita/crypto/main/UAC_logo.png",
+      "decimals": 2,
+      "address": "H8M6nvzsKt6L7DLt2pGd7yXLLfJNaYvciS3XbvQecEu6",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "mobility-token"
+      ],
+      "extensions": {
+        "website": "https://www.rideurbanair.com/",
+        "twitter": "https://twitter.com/neobiIity"
+      }
     },
     {
       "name": "CryptoPotes Token",
