@@ -4024,6 +4024,24 @@
       }
     },
     {
+      "name": "Noyz Narcos Coin",
+      "symbol": "NOYZ",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Noyz-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "2iDc5dHpVKq5WsNEdWFoaMiAjtKz7zrRKi8WHyRW7z8x",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "noyz-token"
+      ],
+      "extensions": {
+        "website": "https://www.propagandaclothing.it",
+        "twitter": "https://twitter.com/noyzofficial"
+      }
+    },
+    {
       "name": "Masonly",
       "symbol": "MLY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2iZmEjsrdJnptKUxPe2xRv4WQzpNDrmdWJcqPMysBhdA/logo.png",
@@ -12831,6 +12849,25 @@
       ]
     },
     {
+      "name": "Saving Australian Koalas Token",
+      "symbol": "KOALAS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4E1G6fPbbWqCwipnNNbNtiUfHn8yXBZESjtqU7ZQPacy/logo.png",
+      "decimals": 4,
+      "address": "4E1G6fPbbWqCwipnNNbNtiUfHn8yXBZESjtqU7ZQPacy",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "wildlife",
+        "koalas-token",
+        "Crypto"
+      ],
+      "extensions": {
+        "website": "https://www.savingaustraliankoalas.com/"
+      }
+    },
+    {
       "name": "Golden Access MIMO",
       "symbol": "GMIMO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4EKX35aZroQ9oGk8gf7deGHe77VXMxXcy7ahJRw7qwd1/logo.png",
@@ -19592,7 +19629,7 @@
     {
       "name": "Memoria",
       "symbol": "ORIA",
-      "logoURI": "https://github.com/Memoria-ORIA/Assets/blob/main/MemoriaLogo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5XiE2JApnDwGc24PSY7y7stD4JxStkYPAH5tFVKAcrow/logo.png",
       "decimals": 2,
       "address": "5XiE2JApnDwGc24PSY7y7stD4JxStkYPAH5tFVKAcrow",
       "chainId": 101,
@@ -59589,6 +59626,20 @@
       }
     },
     {
+      "name": "Solcrystol",
+      "symbol": "SOC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CJze5X3G3V6nqqrfeALTpb1HbkKvspjiUGR12rVchL3T/SOC.png",
+      "decimals": 9,
+      "address": "CJze5X3G3V6nqqrfeALTpb1HbkKvspjiUGR12rVchL3T",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "Metaverses",
+        "community-token",
+        "game"
+      ]
+    },
+    {
       "name": "XMAS DAO",
       "symbol": "XMAS",
       "logoURI": "https://i.postimg.cc/d1V9LHsz/L1032992.jpg",
@@ -75986,6 +76037,14 @@
       }
     },
     {
+      "name": "Nuobility",
+      "symbol": "NUO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5SjYkNBNF29iKsLf5r665n58qRsw4PjEwtVTLBZzGh/logo.png",
+      "decimals": 3,
+      "address": "F5SjYkNBNF29iKsLf5r665n58qRsw4PjEwtVTLBZzGh",
+      "chainId": 101
+    },
+    {
       "name": "Baby Floki Doge",
       "symbol": "BABYFLOKISOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F5f9hLQ6FNHwuU3dS8CUCRy9r2deJXYCinDL6RAxsPeX/logo.png",
@@ -81086,6 +81145,22 @@
       "extensions": {
         "website": "https://pepepunks.net",
         "twitter": "https://twitter.com/pepepunksnft"
+      }
+    },
+    {
+      "name": "Fronk",
+      "symbol": "FRONK",
+      "logoURI": "https://arweave.net/g_pwKEk6RAc2ZQ_-DYIrvwchekBRHLvoxGKEDE4S6hc",
+      "decimals": 9,
+      "address": "FronkXnfBgzfhsEV2bjwoJ5VgYhpEVCSN3pzpJkvZGUf",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ffsc.io/",
+        "twitter": "https://twitter.com/FriendlyFrogSC",
+        "discord": "https://discord.gg/friendlyfrogs"
       }
     },
     {
@@ -99442,7 +99517,7 @@
     {
       "name": "FUJI",
       "symbol": "FUJI",
-      "logoURI": "https://github.com/MarkSackerberg/token-list/blob/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/MarkSackerberg/token-list/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png",
       "decimals": 3,
       "address": "fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m",
       "chainId": 101,
