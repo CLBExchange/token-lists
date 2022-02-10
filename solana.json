@@ -71504,6 +71504,18 @@
       ]
     },
     {
+      "name": "Treeco",
+      "symbol": "TREC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ED2o7vhsJH67NUkYpLMZL5Y97SLRfJzTDb27ECy1ZJDe/logo.png",
+      "decimals": 9,
+      "address": "ED2o7vhsJH67NUkYpLMZL5Y97SLRfJzTDb27ECy1ZJDe",
+      "chainId": 101,
+      "tags": [
+        "environment",
+        "technology"
+      ]
+    },
+    {
       "name": "Cobro StrikeForce Initiate Medal",
       "symbol": "SFM1",
       "logoURI": "https://raw.githubusercontent.com/spacepriest/StrikeForce/main/medal/strikeforce%20initiate/logo.png",
@@ -98476,6 +98488,14 @@
       }
     },
     {
+      "name": "SOLive Pass Whitelist",
+      "symbol": "SPWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTDpT8E9TY6jCQQhdamjs7SieUza68JpmCzaayWY6D/logo.png",
+      "decimals": 0,
+      "address": "WLTDpT8E9TY6jCQQhdamjs7SieUza68JpmCzaayWY6D",
+      "chainId": 101
+    },
+    {
       "name": "Grampaw",
       "symbol": "PAWS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLWbeAUsTfvTvQf2iAVmagGxbzNMMS6pzXNiYGdnrj7/logo.png",
@@ -99280,6 +99300,14 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/brnzEEdWQ5pBd2Qfec4Tquw5xL1tLkL85qFuBsMGjfm/bronze.png",
       "decimals": 0,
       "address": "brnzEEdWQ5pBd2Qfec4Tquw5xL1tLkL85qFuBsMGjfm",
+      "chainId": 101
+    },
+    {
+      "name": "BuBi Token",
+      "symbol": "BuBi",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bubis9dcbs6dVrzWkybcLsFPc8wuw8q7vNEnG3eoRPJ/logo.png",
+      "decimals": 0,
+      "address": "bubis9dcbs6dVrzWkybcLsFPc8wuw8q7vNEnG3eoRPJ",
       "chainId": 101
     },
     {
@@ -103254,6 +103282,17 @@
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       }
+    },
+    {
+      "name": "Bouncing Cat Token",
+      "symbol": "BCAT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8C96hGmwzfHznPPiviPxExuKc3MkZ3sNNZcKB9qXUDLg/logo.png",
+      "decimals": 0,
+      "address": "8C96hGmwzfHznPPiviPxExuKc3MkZ3sNNZcKB9qXUDLg",
+      "chainId": 102,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "daib test token",
