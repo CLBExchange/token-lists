@@ -11718,7 +11718,7 @@
     {
       "name": "NeftWorld",
       "symbol": "NEWTON",
-      "logoURI": "https://github.com/neftworld/assets/blob/main/neftworld-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/neftworld/assets/main/logo.png",
       "decimals": 0,
       "address": "426zJLfE2sV6UkQsYJXQrLkJTZo995ZVZodq1LTMfo7Y",
       "chainId": 101,
@@ -65818,7 +65818,16 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DHVUoxNqv3D7EgktBxUsxFF2Wx83hVDmD2wBBpUaw3jn/logo.png",
       "decimals": 9,
       "address": "DHVUoxNqv3D7EgktBxUsxFF2Wx83hVDmD2wBBpUaw3jn",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "health",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cryptohealthplus.com/",
+        "twitter": "https://twitter.com/CryptoHealthPls",
+        "facebook": "https://www.facebook.com/Crypto-Health-Plus-226283872703673/"
+      }
     },
     {
       "name": "StepInsight Coin",
@@ -68244,7 +68253,7 @@
     {
       "name": "OLIMP NFT TOKEN",
       "symbol": "OLIMP",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DhrqCm5oG8J6agWVCXzpKJh5UZk4XcWCJ4pyXm2szNXx/logo2.png",
+      "logoURI": "https://i.postimg.cc/MTYxbd0K/1.jpg",
       "decimals": 9,
       "address": "DhrqCm5oG8J6agWVCXzpKJh5UZk4XcWCJ4pyXm2szNXx",
       "chainId": 101,
@@ -89243,7 +89252,10 @@
         "twitter": "https://twitter.com/TinyColonyGame",
         "github": "https://github.com/TinyColonyGame",
         "medium": "https://medium.com/@TinyColonyGame",
-        "discord": "https://discord.gg/AT9caAbY"
+        "discord": "https://discord.gg/AT9caAbY",
+        "coingeckoId": "tiny-colony",
+        "description": "An expansive pixelated ecosystem on the Solana Blockchain.",
+        "instagram": "https://www.instagram.com/tinycolonygame"
       }
     },
     {
@@ -102116,17 +102128,6 @@
       "decimals": 9,
       "address": "wndrmt7dnQVapGC8Mff6jxN2qr54jJb1cdKsVDKH4oP",
       "chainId": 101
-    },
-    {
-      "name": "Sun Token",
-      "symbol": "SUN",
-      "logoURI": "https://media.discordapp.net/attachments/936507261264724008/940702342586728538/THE_SUN.png",
-      "decimals": 0,
-      "address": "wyyDLTBwQpCejXpWEzJkgn18gsTPizeiWg9meRtepCt",
-      "chainId": 101,
-      "tags": [
-        "social-token"
-      ]
     },
     {
       "name": "xArcade",

@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-09T04:56:42.416Z",
+  "timestamp": "2022-02-10T00:50:54.115Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -3823,8 +3823,9 @@
         "twitter": "https://twitter.com/solunaDAO",
         "medium": "https://medium.com/solunadao",
         "coingeckoId": "terrausd",
-        "source": "soluna",
-        "currency": "USD"
+        "source": "Soluna",
+        "currency": "USD",
+        "sourceUrl": "https://soluna.money/#/deposit"
       }
     },
     {
