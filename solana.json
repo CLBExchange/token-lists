@@ -26543,6 +26543,17 @@
       ]
     },
     {
+      "name": "GDLK Dev Token",
+      "symbol": "GDLKD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6sPqMNWhQPK8X23F6mQAabhKFfJ943fHPDZMaBYuJHgZ/logo.png",
+      "decimals": 0,
+      "address": "6sPqMNWhQPK8X23F6mQAabhKFfJ943fHPDZMaBYuJHgZ",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "DGAF Token",
       "symbol": "DGAF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6sTdGdDSaHJ4SbieiD7oA3b1Sjbu9LZWE3h2mpFxjikw/logo.png",
@@ -93899,6 +93910,18 @@
       }
     },
     {
+      "name": "SXD Whitelist Token",
+      "symbol": "SXD",
+      "logoURI": "https://raw.githubusercontent.com/SaintxDmon/WL-sxd/main/logo.jpg",
+      "decimals": 0,
+      "address": "JApyjFvMard5g1WmgSGC6vF61ZsofSEHHQMYk6hNVUXk",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "mint-token"
+      ]
+    },
+    {
       "name": "GuldBorg family Coin",
       "symbol": "GBFC",
       "logoURI": "https://raw.githubusercontent.com/Pirat0303/crypto/main/logo.png",
@@ -102392,6 +102415,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Vivendell Whitelist Token",
+      "symbol": "VWT",
+      "logoURI": "https://www.vivendell.com/images/icon-whitelist.png",
+      "decimals": 0,
+      "address": "wLYsBuL6HH5Pxzh5sxdzHfQHmWTJMRMyP8WCUvnoKte",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.vivendell.com/",
+        "twitter": "https://twitter.com/vivendell"
+      }
     },
     {
       "name": "JBUX",
