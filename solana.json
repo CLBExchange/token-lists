@@ -72091,6 +72091,20 @@
       ]
     },
     {
+      "name": "Crypto Squirre",
+      "symbol": "CRS",
+      "logoURI": "https://raw.githubusercontent.com/ramoncrs/assets/main/logo.jpg",
+      "decimals": 6,
+      "address": "EKPr2TWypHoCV2zSPfYsfkt8mK8RjxRNNb9B6HH7CBci",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "meme-token",
+        "defi-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "SolanaCash",
       "symbol": "SOLCH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKSM2sjtptnvkqq79kwfAaSfVudNAtFYZSBdPe5jeRSt/logo.png",
@@ -99422,6 +99436,17 @@
       "extensions": {
         "website": "https://www.darkwebtoken.live",
         "serumV3Usdc": "526WW289h5wibg1Q55sK16CGoNip8H5d2AXVbaAGcUMb"
+      }
+    },
+    {
+      "name": "E-Cat Energy",
+      "symbol": "ECAT",
+      "logoURI": "https://raw.githubusercontent.com/admin8808/ecat/main/logo.png",
+      "decimals": 6,
+      "address": "cT9TDUAxi6aw8uG3hfoU6eczXwTHenkQ2pxwRmx1uop",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://e-cat.energy/"
       }
     },
     {
