@@ -26228,6 +26228,17 @@
       }
     },
     {
+      "name": "Reyka",
+      "symbol": "REYK",
+      "logoURI": "https://raw.githubusercontent.com/web3ckster/reika/main/assets/logo.png",
+      "decimals": 1,
+      "address": "6o2Aqq1VtovuwGYBegAvka3RXM3rxM5gTYUuGkXq4GEV",
+      "chainId": 101,
+      "tags": [
+        "general-token"
+      ]
+    },
+    {
       "name": "WEN Token",
       "symbol": "WEN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6o4f6tuvVQTa9PTrHN9pvUeXEPusN6RLgMam1Zc7tYbm/logo.png",
