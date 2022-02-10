@@ -36905,6 +36905,18 @@
       ]
     },
     {
+      "name": "Dogfin Studios Coin",
+      "symbol": "DFSC",
+      "logoURI": "https://github.com/guardianjon/crypto/blob/main/dogfinstudios-logo200x200.png",
+      "decimals": 0,
+      "address": "8c8J3bHqWRkJFhGZ9XLinYjgD69fRsxfQMinZtGbnGr5",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "YEECoin",
       "symbol": "YEE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8cDqXAoivNdvwd1sy74rTfMeYMM4J1u1ey8WRFYk5RD/logo.png",
@@ -37847,6 +37859,17 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Blave Coin",
+      "symbol": "BLVE",
+      "logoURI": "https://raw.githubusercontent.com/arkashka/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "8mTe216SBwdfdXLPxrNCo1fxXTt7NVTUF9PqCwv4Wuzz",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -60608,6 +60631,17 @@
       "extensions": {
         "website": "https://dang.gg"
       }
+    },
+    {
+      "name": "Hot Coin",
+      "symbol": "HOTC",
+      "logoURI": "https://raw.githubusercontent.com/Spidle/crypto/main/HOTLogo.png",
+      "decimals": 0,
+      "address": "CSf5iuscN8A5FKdMyq7FSai1DxzTUhMvKSitp5tzMUQD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "cheProsts",
