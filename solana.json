@@ -19618,21 +19618,22 @@
       }
     },
     {
-      "name": "Shiba Inu Solana",
-      "symbol": "SHIB",
-      "logoURI": "https://shibainusolana.com/shibainusolana.png",
+      "name": "Space Puppy",
+      "symbol": "SP",
+      "logoURI": "https://spacepuppy.fun/logo_space_puppy.png",
       "decimals": 9,
       "address": "5Wgco6reiMwazERpAm3JS1xD7JBHNJJQdNEE9MrUkwtJ",
       "chainId": 101,
       "tags": [
         "community-token",
         "meme-token",
-        "social-token"
+        "social-token",
+        "multi-chain"
       ],
       "extensions": {
-        "website": "https://shibainusolana.com",
-        "twitter": "https://twitter.com/inu_solana",
-        "telegram": "https://t.me/shibainusolana"
+        "website": "https://spacepuppy.fun",
+        "twitter": "https://twitter.com/_spacepuppy",
+        "telegram": "https://t.me/space_puppy"
       }
     },
     {
@@ -36220,6 +36221,23 @@
       ],
       "extensions": {
         "description": "gmgwh is a whitelist token for preminting the gmg nft collection"
+      }
+    },
+    {
+      "name": "Narwhal Coin",
+      "symbol": "NARWHAL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8TjgDMv2Esb7YRKu1ESZv5vtgD1WqFKmzhPBgsLqwEGG/logo.png",
+      "decimals": 9,
+      "address": "8TjgDMv2Esb7YRKu1ESZv5vtgD1WqFKmzhPBgsLqwEGG",
+      "chainId": 101,
+      "tags": [
+        "NFTs",
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://www.narwhalcoin.net",
+        "twitter": "https://twitter.com/narwhalcoin",
+        "serumV3Usdc": "3qXkLj4vAT4B2dMJQgtKSrNxLfrSQawMZtAzKVEsMyYT"
       }
     },
     {
@@ -86320,14 +86338,21 @@
     {
       "name": "Primordials Token",
       "symbol": "PRMD",
-      "logoURI": "https://user-images.githubusercontent.com/97078865/148722648-62ac6950-c46f-4002-8e37-69feb1c4770e.png",
-      "decimals": 8,
+      "logoURI": "https://user-images.githubusercontent.com/84945202/152918221-72a0d9a4-374b-4b30-b686-e371502b0978.png",
+      "decimals": 9,
       "address": "Ghj7ib4VJC592ybwpMK75vaX3fRu1SqtkXYMd2pNywtK",
       "chainId": 101,
       "tags": [
         "social-token",
         "gaming-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://primordialsgame.com/",
+        "twitter": "https://twitter.com/Primordialsgame",
+        "medium": "https://medium.com/@primordialsgame",
+        "discord": "https://discord.gg/zFDBEKSq",
+        "serumV3Usdc": "9wmsybKvBWKatj7FxkYhauna6z4mcMDXQrjNvdy2kdgE"
+      }
     },
     {
       "name": "BEP Coin",
