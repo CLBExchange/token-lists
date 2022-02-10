@@ -7992,6 +7992,17 @@
       ]
     },
     {
+      "name": "JACKED",
+      "symbol": "JRGC",
+      "logoURI": "https://raw.githubusercontent.com/ThomasClous/Crypto/main/logo.png",
+      "decimals": 9,
+      "address": "3NfqXM9i7NvxxRD23FJoF6sX1q8jRLRJU2b8BLsUrUDu",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "Heinie Coin",
       "symbol": "HEIN",
       "logoURI": "https://raw.githubusercontent.com/jeffreyphelan/crypto/main/Heine%20Cypto%20Logo.png",
@@ -9787,6 +9798,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "TOME",
+      "symbol": "TOME",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/AlderToken/main/tome.png",
+      "decimals": 6,
+      "address": "3echLX8Qyz4hB694BFsSNWj6ytdStVQKVKFiFCJ1McpQ",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://aldermages.com/",
+        "twitter": "https://twitter.com/AlderMages",
+        "discord": "https://discord.gg/qRcCATnZ"
+      }
     },
     {
       "name": "ElonInu",
@@ -37289,6 +37318,29 @@
       }
     },
     {
+      "name": "SnakeChain",
+      "symbol": "SNAKE",
+      "logoURI": "https://raw.githubusercontent.com/SnakeRush/SnakeRush/master/SnakeChainLogo.png",
+      "decimals": 5,
+      "address": "8fi6wnM4A1eRfur7fC7TD5DG1cmi4UxcW3rshpB9wEwm",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "gaming",
+        "metaverse",
+        "play-to-earn",
+        "solana-ecosystem",
+        "user-experience",
+        "multiplayer"
+      ],
+      "extensions": {
+        "website": "https://www.snakechain.org",
+        "twitter": "https://twitter.com/snakerushgame",
+        "description": "SnakeChain (SNAKE) are earned by playing SnakeRush, and minting your coins at the SnakeBank. They can be used to play more and exchange in any market where available.",
+        "instagram": "https://www.instagram.com/snakerushgame/"
+      }
+    },
+    {
       "name": "SolMaori",
       "symbol": "TIKI",
       "logoURI": "https://raw.githubusercontent.com/solanadevv/token-list/80a087f36770f46a9f28cc4e1eb78891d4cdd90a/assets/mainnet/8g2241fQ8fJamupx79UPqrFEVz851inAqYD7F8eDSSJG/logo.png",
@@ -40832,6 +40884,22 @@
       "decimals": 9,
       "address": "9Hf6j1UNsSTBAGh7Xng2ig27TYzJQn2MzR6aipUtw18y",
       "chainId": 101
+    },
+    {
+      "name": "StaticToken",
+      "symbol": "ST8",
+      "logoURI": "https://raw.githubusercontent.com/staticgroup/statictoken/main/logo.png?token=GHSAT0AAAAAABRMVGH2HVN65YFKZUT4JHHOYQNVVBA",
+      "decimals": 9,
+      "address": "9HqmwYxGnZctqasFu4MoFmC2EpkgezNvrm3TPS25M6xM",
+      "chainId": 101,
+      "tags": [
+        "tech-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/staticcomputers",
+        "discord": "https://discord.gg/DXDfk4zV",
+        "reddit": "https://www.reddit.com/r/statictoken"
+      }
     },
     {
       "name": "SPDR Gold Shares",
@@ -66817,6 +66885,25 @@
       ],
       "extensions": {
         "website": "https://www.entroppp.com"
+      }
+    },
+    {
+      "name": "Decent Muzic Token",
+      "symbol": "DEMU",
+      "logoURI": "https://raw.githubusercontent.com/geccosol/demu/main/token.png",
+      "decimals": 0,
+      "address": "DQVQEAaE8zx2e2ea6sWvW3MAoxXv9R1t5yN85kGaU5Xk",
+      "chainId": 101,
+      "tags": [
+        "music-token",
+        "listner-token",
+        "utility-token",
+        "demu-token"
+      ],
+      "extensions": {
+        "website": "https://decentmuzic.com",
+        "description": "Decent Muzic Token is a token that is for both the listner and the musician.",
+        "facebook": "https://www.facebook.com/decentmuzic"
       }
     },
     {
