@@ -32048,6 +32048,20 @@
       ]
     },
     {
+      "name": "Metasek",
+      "symbol": "MSEK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7okxAUuyxQLsgkoSBNkhSGQoUkYdXMaL8KWuxNDLpkoZ/logo.png",
+      "decimals": 8,
+      "address": "7okxAUuyxQLsgkoSBNkhSGQoUkYdXMaL8KWuxNDLpkoZ",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.metasek.finance/",
+        "twitter": "https://twitter.com/MetaSek_",
+        "medium": "https://metasek.medium.com",
+        "telegram": "https://t.me/metasek"
+      }
+    },
+    {
       "name": "Sp00ky Sk0Ls Giveaway",
       "symbol": "SSGA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7osDiPy41gwDddxH7Lh6Fdq3LHss97wYqfE5M6bXsNyi/logo.png",
@@ -82423,6 +82437,24 @@
       "tags": [
         "nft"
       ]
+    },
+    {
+      "name": "Steak token",
+      "symbol": "$Steak",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fy6cyRqB4SATf4kRAgXEL9Cze9gz468Mk1fNL5mY3msU/logo.png",
+      "decimals": 9,
+      "address": "Fy6cyRqB4SATf4kRAgXEL9Cze9gz468Mk1fNL5mY3msU",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://royallionpartyclub.com",
+        "twitter": "https://twitter.com/royallionclub",
+        "discord": "https://discord.gg/ekF24e5JEe",
+        "instagram": "https://instagram.com/royallionclub",
+        "telegram": "https://t.me/royallionclub"
+      }
     },
     {
       "name": "PufferCoin",
