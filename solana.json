@@ -69062,6 +69062,17 @@
       }
     },
     {
+      "name": "White Devil Coin",
+      "symbol": "WDC",
+      "logoURI": "https://raw.githubusercontent.com/wdevil404/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "DiZZVBNDEpCDLJceFAqwR1DrtGtyHk9ymCHfzxYJP2KX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GOFAR",
       "symbol": "DIEM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DiemGxqkm284CZVZcvk8wfybmRK4JWmprPtrUamuLndE/logo.png",
@@ -100443,6 +100454,20 @@
       ]
     },
     {
+      "name": "Fortune",
+      "symbol": "FRTN",
+      "logoURI": "https://raw.githubusercontent.com/cesar128/token-list/3b60aecbb7e2565151a9dc3c2e4dab1a96acb520/assets/mainnet/frtnaScfGPuo56uyPGmij1QTc64SBdjnXC3RXmcVmxw/logo.png",
+      "decimals": 9,
+      "address": "frtnaScfGPuo56uyPGmij1QTc64SBdjnXC3RXmcVmxw",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://fortune.finance/",
+        "twitter": "https://twitter.com/fortunefinance_",
+        "discord": "https://discord.gg/fortunefinance",
+        "coingeckoId": "fortune-finance"
+      }
+    },
+    {
       "name": "FUJI",
       "symbol": "FUJI",
       "logoURI": "https://raw.githubusercontent.com/MarkSackerberg/token-list/main/assets/mainnet/fujiCeCeP9AFDVCv27P5JRcKLoH7wfs2C9xmDECs24m/logo.png",
@@ -106086,6 +106111,17 @@
       "decimals": 9,
       "address": "EhSrrLdyVnWQ18LXvxAsVePmtLrADrss1UcZ1W98BNjJ",
       "chainId": 103
+    },
+    {
+      "name": "SEED Weapon Token",
+      "symbol": "ZED",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EhdRK8hKjeNr6R3WStmh7LeiHDtZNdFLru6Mva1t8DZ1/logo.png",
+      "decimals": 0,
+      "address": "EhdRK8hKjeNr6R3WStmh7LeiHDtZNdFLru6Mva1t8DZ1",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "ApesAgainst WL Token",
