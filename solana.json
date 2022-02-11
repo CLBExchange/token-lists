@@ -61411,6 +61411,23 @@
       }
     },
     {
+      "name": "CryptoShards Discount Token",
+      "symbol": "CSDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSDTxoTLT1aniyoJSZ8uvHMe9GoLno1jpTSGNAbYfiwr/logo.png",
+      "decimals": 0,
+      "address": "CSDTxoTLT1aniyoJSZ8uvHMe9GoLno1jpTSGNAbYfiwr",
+      "chainId": 101,
+      "tags": [
+        "discount-token",
+        "sweepstakes"
+      ],
+      "extensions": {
+        "website": "https://cryptoshards.art/",
+        "twitter": "https://twitter.com/CryptoShardsNFT",
+        "discord": "https://discord.gg/VJUtHVJWyv"
+      }
+    },
+    {
       "name": "DANG",
       "symbol": "DANG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSQn7G3SmbBVFRMvNH5SJV5sd2HipWSCphfDVcXwY3K6/logo.png",
