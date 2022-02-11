@@ -12065,6 +12065,19 @@
       }
     },
     {
+      "name": "SolanaGold",
+      "symbol": "SGOD",
+      "logoURI": "https://raw.githubusercontent.com/sgolld/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "43ynN6Y2mG7k3cU9EQveo5KJmzQKenzx2VGu6yVc2yfz",
+      "chainId": 101,
+      "tags": [
+        "Defi",
+        "NFT",
+        "GAME"
+      ]
+    },
+    {
       "name": "Acron Coin",
       "symbol": "ACRON",
       "logoURI": "https://raw.githubusercontent.com/florin-liviu/flaviu/main/ACRONCRYPTO.png",
@@ -22448,6 +22461,17 @@
       ]
     },
     {
+      "name": "BLADE",
+      "symbol": "BLA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63txudD2TqtVTyke1os4iUhzbcU34ykMvnhWVDcyRgxL/logo.png",
+      "decimals": 8,
+      "address": "63txudD2TqtVTyke1os4iUhzbcU34ykMvnhWVDcyRgxL",
+      "chainId": 101,
+      "tags": [
+        "EarnToPlay"
+      ]
+    },
+    {
       "name": "IFU PT",
       "symbol": "IFUPT",
       "logoURI": "https://raw.githubusercontent.com/incognitfigure/ifu/main/ifutoken.png",
@@ -22785,6 +22809,17 @@
       "chainId": 101,
       "tags": [
         "OMEGA-Token"
+      ]
+    },
+    {
+      "name": "Zyhon Coin",
+      "symbol": "ZYHON",
+      "logoURI": "https://raw.githubusercontent.com/M0rphe0us/ZhyonCoin/main/zhyonlogo.png",
+      "decimals": 6,
+      "address": "67QGaWsVKCPU3XeWNomsmVcE34Y1TM5gRF2PH5pMvFL7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -44419,6 +44454,17 @@
       ]
     },
     {
+      "name": "Kuruma",
+      "symbol": "KRMA",
+      "logoURI": "https://raw.githubusercontent.com/alexhunterzs7/crypto/main/logo.jpg",
+      "decimals": 0,
+      "address": "9qCSRCRg8nKk6g78bvNNhqm3wfrDAgKfyvnfCcCmoU6t",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Fotsbeats",
       "symbol": "FOTS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qDohSsZfimv2indBmyxcdwi26NN3fDznu6tycCjzr5z/logo.png",
@@ -62711,6 +62757,23 @@
       "extensions": {
         "website": "https://mend.house",
         "twitter": "https://twitter.com/mendappinc"
+      }
+    },
+    {
+      "name": "KALA NETWORK",
+      "symbol": "KLNW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChRue6J1bajbXtG1wXZKZsmsZ9S3a4zFEnVBKiG9Npio/logo.png",
+      "decimals": 9,
+      "address": "ChRue6J1bajbXtG1wXZKZsmsZ9S3a4zFEnVBKiG9Npio",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://kala.network/",
+        "twitter": "https://twitter.com/kala_network",
+        "instagram": "https://www.instagram.com/kala_network/",
+        "telegram": "https://t.me/kala_network"
       }
     },
     {
@@ -93509,6 +93572,26 @@
       ]
     },
     {
+      "name": "Latinos",
+      "symbol": "LATIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hys3b2ED2Wc5pZnZx6Yd7Fcc6zNtPCVk8NcQaKzNx2Md/logo.png",
+      "decimals": 2,
+      "address": "Hys3b2ED2Wc5pZnZx6Yd7Fcc6zNtPCVk8NcQaKzNx2Md",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://medium.com/@latinostoken/latinos-al-poder-27315aed41d3",
+        "twitter": "https://twitter.com/latinostoken",
+        "discord": "https://discord.gg/DfTFVgwyvN",
+        "instagram": "https://instagram.com/latinostoken"
+      }
+    },
+    {
       "name": "MORPH",
       "symbol": "MORPH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HysJKMMQ4G6oEffMhf55ZPRc28zwCmpmZr63vAfUrrBq/logo.png",
@@ -101306,6 +101389,17 @@
       ],
       "extensions": {
         "website": "https://www.infamous-thugbirdz.com"
+      }
+    },
+    {
+      "name": "Memes4JS",
+      "symbol": "M4JS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/m4Js9gR4SqX8QL66TU31NT3zCKSotbB2PiVv9wA7BuJ/logo.png",
+      "decimals": 9,
+      "address": "m4Js9gR4SqX8QL66TU31NT3zCKSotbB2PiVv9wA7BuJ",
+      "chainId": 101,
+      "extensions": {
+        "telegram": "https://t.me/memes4js"
       }
     },
     {
