@@ -5884,6 +5884,17 @@
       }
     },
     {
+      "name": "DAB COIN",
+      "symbol": "DAB",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/basc-coin.png",
+      "decimals": 9,
+      "address": "32CHtMAuGaCAZx8Rgp54jSFG3ihbpN5brSvRAWpwEHPv",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "JuuJuuCoin",
       "symbol": "JJ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/32DSeHgkX64GcFNMjJXyRpG5eqoBVXJvdQpWyL1UgSrN/logo.png",
@@ -23069,6 +23080,17 @@
       ]
     },
     {
+      "name": "Clan Token",
+      "symbol": "CLAN",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/%24CLAN_Token.png",
+      "decimals": 9,
+      "address": "68RRPuZQrrw3whXHm9LSyC4y8iLrjkTm5Brc2tUMLNPw",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "Jelly Fish Crypto",
       "symbol": "JFC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/68eWsAzjiskQVcQ6qj9Tn6AK3ss532asTckFT5c3i5Yj/logo.png",
@@ -25558,6 +25580,17 @@
       }
     },
     {
+      "name": "SAAD token",
+      "symbol": "DODA",
+      "logoURI": "https://raw.githubusercontent.com/alinet84/DODA/main/logo.png",
+      "decimals": 0,
+      "address": "6cWXLiJQSaMX1446s6yfU9cj44xA7cRVjAy8pzuya5dz",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ShesLiam Coin",
       "symbol": "SLMC",
       "logoURI": "https://raw.githubusercontent.com/spiesserfreakx3/sm-tokenimage/main/logo.PNG",
@@ -27351,6 +27384,17 @@
         "website": "https://www.shibamoon.info/",
         "twitter": "https://twitter.com/ShibamoonNFT"
       }
+    },
+    {
+      "name": "GORE COIN",
+      "symbol": "GORE",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/gore-coin.png",
+      "decimals": 9,
+      "address": "6wJYjYRtEMVsGXKzTuhLmWt6hfHX8qCa6VXn4E4nGoyj",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
     },
     {
       "name": "GeniusCoin",
@@ -70019,6 +70063,17 @@
       ]
     },
     {
+      "name": "FIN COIN",
+      "symbol": "FIN",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/malibu-coin.png",
+      "decimals": 9,
+      "address": "DnYLfTsnLMYVdDhnZuzekdGf8AMQ3crDR2qRfpHRe47i",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_FFFF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dne2srRF7Nv2sJHAEGgT2NfPCcgX1Qcmm3pqzyPvxJmr/logo.png",
@@ -72970,6 +73025,17 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Creature Scroll",
+      "symbol": "CREATURE",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/CREATURE_Token.png",
+      "decimals": 9,
+      "address": "EKmeuVtJRMsXek53ohh33BG3QLxBAiCh4SqGCvS2Eq4W",
+      "chainId": 101,
+      "tags": [
+        "NFT"
       ]
     },
     {
@@ -83838,6 +83904,20 @@
       }
     },
     {
+      "name": "GreenMan",
+      "symbol": "GMNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G9DvVA9XhoTd4GnaBbM4oNWGreM1y75qd12E39PLRjdE/test1.png",
+      "decimals": 0,
+      "address": "G9DvVA9XhoTd4GnaBbM4oNWGreM1y75qd12E39PLRjdE",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "website": "http://MyMetaHedge.com"
+      }
+    },
+    {
       "name": "Wealthy",
       "symbol": "WLTH",
       "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/WLTH/logo-larger.png",
@@ -85807,6 +85887,18 @@
       ],
       "extensions": {
         "website": "https://www.gemtoken.online"
+      }
+    },
+    {
+      "name": "GRUMPY TOKEN",
+      "symbol": "GRUMPY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUdpDLrmJYiXCPmw7U65jz9acHy1z9b1CKnYJxf8kZns/logo.png",
+      "decimals": 6,
+      "address": "GUdpDLrmJYiXCPmw7U65jz9acHy1z9b1CKnYJxf8kZns",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://grumpysolnft.com",
+        "twitter": "https://twitter.com/grumpysolnft"
       }
     },
     {
@@ -100464,6 +100556,26 @@
       ],
       "extensions": {
         "website": "https://pander.network"
+      }
+    },
+    {
+      "name": "Bonded ATS",
+      "symbol": "bATS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HJbNXx2YMRxgfUJ6K4qeWtjatMK5KYQT1QnsCdDWywNv/logo.png",
+      "decimals": 9,
+      "address": "bATSLdvufuY3vQYv18HAEN3sJTLPodtiq2FtUismJd1",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "dex",
+        "swap"
+      ],
+      "extensions": {
+        "website": "https://atlasdex.finance/",
+        "twitter": "https://twitter.com/atlas_dex",
+        "medium": "https://atlasdex.medium.com/",
+        "coingeckoId": "atlas-dex",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/atlas-dex/"
       }
     },
     {
