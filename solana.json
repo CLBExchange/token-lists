@@ -17174,6 +17174,20 @@
       }
     },
     {
+      "name": "NGN Coin",
+      "symbol": "NGNC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/52GzcLDMfBveMRnWXKX7U3Pa5Lf7QLkWWvsJRDjWDBSk/logo.png",
+      "decimals": 2,
+      "address": "52GzcLDMfBveMRnWXKX7U3Pa5Lf7QLkWWvsJRDjWDBSk",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://www.linkio.africa/"
+      }
+    },
+    {
       "name": "EZ Coin",
       "symbol": "EZC",
       "logoURI": "https://raw.githubusercontent.com/ToTt0G/EZC/main/logo.png",
@@ -71729,6 +71743,22 @@
       ]
     },
     {
+      "name": "Zeeland Homes",
+      "symbol": "CLAND",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E8erdK9QjBZEMmkXisFRFrWA3kes7kRLhWcaT1VE7tWg/Coinlogo.png",
+      "decimals": 2,
+      "address": "E8erdK9QjBZEMmkXisFRFrWA3kes7kRLhWcaT1VE7tWg",
+      "chainId": 101,
+      "tags": [
+        "De-Fi",
+        "real-estate",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/zeeland-homes/"
+      }
+    },
+    {
       "name": "Kobe Coin",
       "symbol": "KOBE",
       "logoURI": "https://raw.githubusercontent.com/Giobertox/CryptoKobe/main/KobeLogo.png",
@@ -105797,6 +105827,22 @@
       "decimals": 9,
       "address": "BmfgBHamrb6xRxkU33z6Hq4itEZ2K7KSkHdHGpeMYF9m",
       "chainId": 103
+    },
+    {
+      "name": "Techforce Token",
+      "symbol": "TFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BnT724Zd3WTFnYmpTMe1a4NqkWCJSjxf13iGyKEXHRiS/logo.png",
+      "decimals": 9,
+      "address": "BnT724Zd3WTFnYmpTMe1a4NqkWCJSjxf13iGyKEXHRiS",
+      "chainId": 103,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://techforceglobal.com/"
+      }
     },
     {
       "name": "Phantom Phantomovich (BsJ5)",
