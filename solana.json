@@ -5760,6 +5760,14 @@
       }
     },
     {
+      "name": "Sun Token",
+      "symbol": "SUN",
+      "logoURI": "https://cdn.discordapp.com/attachments/936507261264724008/940702342586728538/THE_SUN.png",
+      "decimals": 0,
+      "address": "31MbbgAyf2WJEzaG9Ck8WRvs2sq9UuDw7gr7cQ1PH3Xs",
+      "chainId": 101
+    },
+    {
       "name": "Ruby Token",
       "symbol": "JAXX",
       "logoURI": "https://raw.githubusercontent.com/josephantoine85/rubytoken/main/Jaxyn%20Logo.png",
@@ -106665,6 +106673,19 @@
       "extensions": {
         "website": "https://projectseed.io"
       }
+    },
+    {
+      "name": "Bugsy Token",
+      "symbol": "UNITOK",
+      "logoURI": "https://bugsy.world/logo.png",
+      "decimals": 6,
+      "address": "GGkyk1KNs6kbnEgYwqYaPtuSwTXVhXPYBqododhGfw3T",
+      "chainId": 103,
+      "tags": [
+        "DeFi",
+        "Gaming",
+        "Gambling"
+      ]
     },
     {
       "name": "OGL Token",
