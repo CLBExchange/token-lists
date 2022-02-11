@@ -54422,6 +54422,17 @@
       }
     },
     {
+      "name": "Sinder Coin",
+      "symbol": "SNDR",
+      "logoURI": "https://raw.githubusercontent.com/ddhoch/cryptoSNDR/main/SinderCoin.png",
+      "decimals": 0,
+      "address": "BPgZHN1YTZ5YGi1AkNSjAA3bKz1mi3VuvaHuWg5eCsQh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Life Token",
       "symbol": "LIFE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQ89saYHbWrtURbgaWJpsXXctRQXX1DeC7FsYmejiUNF/logo.png",
@@ -70156,6 +70167,17 @@
       "tags": [
         "Reward-Token",
         "Social-token"
+      ]
+    },
+    {
+      "name": "Frickin Frix",
+      "symbol": "FRIX",
+      "logoURI": "https://raw.githubusercontent.com/thevaliantviking/FrickingFrix/main/logo.png",
+      "decimals": 0,
+      "address": "DvamBgpr7JxvcCdpUud7UvESjjZC2Sp1jqautepgtqFf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -93010,6 +93032,21 @@
       }
     },
     {
+      "name": "Particles Pre-sale",
+      "symbol": "PARTWL",
+      "logoURI": "https://i.imgur.com/xVznBiJ.jpg",
+      "decimals": 0,
+      "address": "HuWgMSopqLv2uriuvsAMZnSE8DyQCXyfHD6C2NJUHFPX",
+      "chainId": 101,
+      "tags": [
+        "particles-nft"
+      ],
+      "extensions": {
+        "discord": "https://dsc.gg/particles",
+        "description": "Pre-sale Date Feb 11 at 9pm UTC"
+      }
+    },
+    {
       "name": "Fullbull Token",
       "symbol": "FBT",
       "logoURI": "https://raw.githubusercontent.com/fullbull96/fullbull/main/fbt_token.png",
@@ -102680,6 +102717,17 @@
       "logoURI": "https://raw.githubusercontent.com/Templight41/crypto/main/logo.png",
       "decimals": 0,
       "address": "uZZ8ptqyGMWBK1WBtpTSmctw5pUj3cgMZAEauk7Wgw2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Floyd Coin",
+      "symbol": "FLOYD",
+      "logoURI": "https://raw.githubusercontent.com/AlexMGalvez/George-Floyd-Awareness-Token/main/logo.png",
+      "decimals": 0,
+      "address": "ucJLDcy5K7aHm8LVAwpnjWxMAn1MPZ3Wdq5hg9PXjsH",
       "chainId": 101,
       "tags": [
         "social-token"
