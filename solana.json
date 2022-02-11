@@ -6164,6 +6164,21 @@
       ]
     },
     {
+      "name": "Particles Presale",
+      "symbol": "PWL",
+      "logoURI": "https://i.imgur.com/xVznBiJ.jpg",
+      "decimals": 9,
+      "address": "35v9KktjoyRWbACbtVcEFjGbmhAN2QFb4hJvB2MnSyTd",
+      "chainId": 101,
+      "tags": [
+        "particles-nft",
+        "feb11-9pm-utc"
+      ],
+      "extensions": {
+        "discord": "https://dsc.gg/particles"
+      }
+    },
+    {
       "name": "Makhfi",
       "symbol": "ZEB",
       "logoURI": "https://raw.githubusercontent.com/ghazanfarperdakh/TokenIcon/main/279434_383480151741653_1719567806_o.jpg",
@@ -44360,6 +44375,17 @@
       }
     },
     {
+      "name": "Teslon Coin",
+      "symbol": "TESLON",
+      "logoURI": "https://raw.githubusercontent.com/vaibhavgupta28/teslon/main/TESLON.png",
+      "decimals": 0,
+      "address": "9qEKV8LZuZWiqBPLh7zFszBvBBE85q7Rgo6iDjurDAqZ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Culture Coin",
       "symbol": "$CULT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9qTA3A113oG94ppSpiJTwWCyj44wyNcgPAs5i9d7QQne/logo.png",
@@ -49865,6 +49891,17 @@
       ]
     },
     {
+      "name": "Mcoin",
+      "symbol": "MCOIN",
+      "logoURI": "https://raw.githubusercontent.com/nn9uy3n0326/m-coin/main/Mcoin.png",
+      "decimals": 0,
+      "address": "Abym7kC68rnC5BRk1gsuTX19Yv2RGysQVDBoAUkr7NwK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GameStop",
       "symbol": "GME",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ac2wmyujRxiGtb5msS7fKzGycaCF7K8NbVs5ortE6MFo/logo.svg",
@@ -52691,6 +52728,24 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "PoSB Doubloon",
+      "symbol": "$PoSB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B3YqABfC8T8MTdPeDEof469zJiUWjy4CwM94dMaeMpxG/logo.png",
+      "decimals": 0,
+      "address": "B3YqABfC8T8MTdPeDEof469zJiUWjy4CwM94dMaeMpxG",
+      "chainId": 101,
+      "tags": [
+        "posb-token",
+        "doubloon"
+      ],
+      "extensions": {
+        "website": "https://www.piratesofsolbay.com/",
+        "twitter": "https://twitter.com/PiratesOfSolBay",
+        "discord": "https://discord.gg/wEXT6vFKBM",
+        "description": "Pirates of Sol Bay Crew Token"
+      }
     },
     {
       "name": "GI-Coin",
@@ -74959,6 +75014,17 @@
       "decimals": 0,
       "address": "EnC3T8r4ghh2Ck6dh9Ry5eXVPFi6WvxBZV7ZCcK8HtKr",
       "chainId": 101
+    },
+    {
+      "name": "Olegario Arbelaez",
+      "symbol": "$0LEG",
+      "logoURI": "https://raw.githubusercontent.com/drivengroup/0legario.github.io/main/images/logo.png",
+      "decimals": 0,
+      "address": "EnirFMFgqKebUHSsKt1Z9CKZCddUMS3DZ9iL3uLsbeJo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Cropper LP token (XVC/USDC)",
