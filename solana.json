@@ -5622,6 +5622,18 @@
       ]
     },
     {
+      "name": "Hollow Eyes WL",
+      "symbol": "HEYESWL",
+      "logoURI": "https://cdn.jsdelivr.net/gh/viniciuskloppel/hollow-eyes-token-image/hollow-eyes.jpg",
+      "decimals": 0,
+      "address": "2zRiTfY2mmkUcDtj7Rp8pZuB15D5fupxoTaNEDewomTj",
+      "chainId": 101,
+      "tags": [
+        "Whitelist",
+        "NFT"
+      ]
+    },
+    {
       "name": "JOHN F KENNEDY",
       "symbol": "JfK",
       "logoURI": "https://arweave.net/HbeCTMPGnk7Vtl1oZ7Sf2nM6bpkv6-XMtRMrePuPDJc",
@@ -37233,6 +37245,17 @@
       ]
     },
     {
+      "name": "Yoga Coin",
+      "symbol": "YOG",
+      "logoURI": "https://raw.githubusercontent.com/VibhorOne8/YOGA/main/logo.png.jpg",
+      "decimals": 0,
+      "address": "8aMSnqggXTFEn4PSfB5gpzJja8ZuCLMjNV2VadPomhxx",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Aave Interest bearing Aave Token (Wormhole v1)",
       "symbol": "waAAVE_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8aYsiHR6oVTAcFUzdXDhaPkgRbn4QYRCkdk3ATmAmY4p/logo.svg",
@@ -48461,6 +48484,20 @@
       ]
     },
     {
+      "name": "GuinCoin",
+      "symbol": "GUIN",
+      "logoURI": "https://github.com/Ai4503/Guin/blob/main/GuinCoin.png",
+      "decimals": 0,
+      "address": "ANevJMDLF8Z2tJawwtmqqTENU38k6hHqgMyHgffMLdR7",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "NFT",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Taylor Swift the Doyen",
       "symbol": "TSTD",
       "logoURI": "https://raw.githubusercontent.com/haroonmoh/doyentokenimages/main/taylor.png",
@@ -58974,6 +59011,17 @@
       "logoURI": "https://raw.githubusercontent.com/mateosat3/crypto/main/cat-cute.png",
       "decimals": 0,
       "address": "C6hj3fwvoY2AgRzW26AB47cfPNuWaBHGWsW8YdYp4vuC",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "ZashcheCoin",
+      "symbol": "ZHC",
+      "logoURI": "https://raw.githubusercontent.com/ft-1408/ZashcheCoin/main/logo.png",
+      "decimals": 9,
+      "address": "C6n8Cb7kVjbXGPLybfgHNM783mQS1Jhs9RCx1ewiYXw",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -98829,6 +98877,14 @@
       "chainId": 101
     },
     {
+      "name": "Solotto WL Token",
+      "symbol": "SLTT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TocKJBU6yproKbFJCDcM8KHFzuWLzVEi5LXLMG6EoDw/logo.png",
+      "decimals": 0,
+      "address": "TocKJBU6yproKbFJCDcM8KHFzuWLzVEi5LXLMG6EoDw",
+      "chainId": 101
+    },
+    {
       "name": "SolMaps Token",
       "symbol": "SM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToeF3rovM5R7wMomNc8CZ2Pw78VyioUtrTrJs88MFh9/logo.png",
@@ -99823,6 +99879,42 @@
       }
     },
     {
+      "name": "Xenobots Fuel",
+      "symbol": "XENO",
+      "logoURI": "https://i.ibb.co/KbkmW7D/unknown-5-Copie.png",
+      "decimals": 9,
+      "address": "XenomnZ7kLQxfENcKKpfC8tov3GoZiW4XrDmPc8HRxd",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "Staking",
+        "fusion",
+        "Passive-income",
+        "Breeding"
+      ],
+      "extensions": {
+        "website": "https://thexenobotsproject.com",
+        "twitter": "https://twitter.com/XenobotsNFT"
+      }
+    },
+    {
+      "name": "STEAK",
+      "symbol": "STEAK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Y71XaLmJPvuPY4h4LnTZfFgSR6vP3qCxGLpCx25JTMA/logo.png",
+      "decimals": 9,
+      "address": "Y71XaLmJPvuPY4h4LnTZfFgSR6vP3qCxGLpCx25JTMA",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://royallionpartyclub.com/",
+        "twitter": "https://twitter.com/RoyalLionParty"
+      }
+    },
+    {
       "name": "Absolut Burning Token",
       "symbol": "BURN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Y8Je5kBiTj2kN4T8gFMwSfcQLDfUVdYaUWeR2LvkRsA/logo.jpg",
@@ -100729,6 +100821,22 @@
       "extensions": {
         "serumV3Usdt": "6bxuB5N3bt3qW8UnPNLgMMzDq5sEH8pFmYJYGgzvE11V",
         "coingeckoId": "aave"
+      }
+    },
+    {
+      "name": "Construction World",
+      "symbol": "CONW",
+      "logoURI": "https://raw.githubusercontent.com/conworldtoken/conwimage/main/CONWI.png",
+      "decimals": 9,
+      "address": "dUjHL6zHaZtQjL6UKy1NBLZSbD4CCH3TAW4mDafLCzU",
+      "chainId": 101,
+      "tags": [
+        "metaverse-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://conworld.org/",
+        "twitter": "https://twitter.com/Constructionwrl"
       }
     },
     {
