@@ -24044,6 +24044,17 @@
       ]
     },
     {
+      "name": "TokenStore World",
+      "symbol": "TSW",
+      "logoURI": "https://raw.githubusercontent.com/admin5505/tsw/main/logo.png",
+      "decimals": 6,
+      "address": "6P6tND7xPMnGh1Xcc4YrD61SWs5zqe4KqW35jGQywhEu",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://tokenstore.world/"
+      }
+    },
+    {
       "name": "Golem",
       "symbol": "GOLEM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6PBEGe6YaKmDPw1Ebza823SuvQWQgGZ2NTANBgaKdxHq/logo.png",
@@ -82480,6 +82491,17 @@
       "chainId": 101,
       "tags": [
         "nft"
+      ]
+    },
+    {
+      "name": "Doodle Coin",
+      "symbol": "DDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fy3ZMyNFPiA4xZfpiFCrWYRwXSfmRHbvoBvxRVYBnPWN/logo.png",
+      "decimals": 9,
+      "address": "Fy3ZMyNFPiA4xZfpiFCrWYRwXSfmRHbvoBvxRVYBnPWN",
+      "chainId": 101,
+      "tags": [
+        "game-token"
       ]
     },
     {
