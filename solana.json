@@ -79718,6 +79718,20 @@
       }
     },
     {
+      "name": "Madori",
+      "symbol": "MDR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FXTaYTiqvXChz1ASom1ngEqt7LTjr5hfdwHoRkfjJfkd/logo.svg",
+      "decimals": 7,
+      "address": "FXTaYTiqvXChz1ASom1ngEqt7LTjr5hfdwHoRkfjJfkd",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.madori.tech/"
+      }
+    },
+    {
       "name": "Agrinix Carbon Credit Token",
       "symbol": "ACCT",
       "logoURI": "https://cdn.jsdelivr.net/gh/brunofaczz/acct-image/logo.jpeg",
