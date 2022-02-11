@@ -324,7 +324,7 @@
     {
       "name": "Kawaii Zoo",
       "symbol": "KZOO",
-      "logoURI": "https://user-images.githubusercontent.com/97711508/151888163-eae76d9b-2055-4d5f-8a5b-043fd625ea75.png",
+      "logoURI": "https://user-images.githubusercontent.com/97711508/152678665-9e923dbd-8190-40a8-a910-634881fe3530.png",
       "decimals": 6,
       "address": "14AnHZYk1CvtTCq5jvYMX7Fx7pnWDmgQJvADxP9Q4jYN",
       "chainId": 101,
@@ -334,6 +334,7 @@
         "nft-token"
       ],
       "extensions": {
+        "website": "https://kawaii-zoo.com/",
         "twitter": "https://twitter.com/Kawaii__Zoo",
         "discord": "https://discord.gg/6SF9wrmXxB"
       }
@@ -19871,7 +19872,7 @@
     {
       "name": "Memoria",
       "symbol": "ORIA",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5XiE2JApnDwGc24PSY7y7stD4JxStkYPAH5tFVKAcrow/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5XiE2JApnDwGc24PSY7y7stD4JxStkYPAH5tFVKAcrow/Logo.png",
       "decimals": 2,
       "address": "5XiE2JApnDwGc24PSY7y7stD4JxStkYPAH5tFVKAcrow",
       "chainId": 101,
@@ -20437,7 +20438,8 @@
       ],
       "extensions": {
         "website": "https://shreddedapes.io/",
-        "twitter": "https://twitter.com/shreddedapes"
+        "twitter": "https://twitter.com/shreddedapes",
+        "coingeckoId": "whey-token"
       }
     },
     {
@@ -27609,6 +27611,14 @@
         "website": "https://foxanchor.com/",
         "twitter": "https://twitter.com/lightorithm"
       }
+    },
+    {
+      "name": "Listen Token",
+      "symbol": "LSTN",
+      "logoURI": "https://raw.githubusercontent.com/izetrom/token/master/logo.png",
+      "decimals": 8,
+      "address": "6z484cGkS5Nxg1XvZR2wkivCHYXvTwMp5intiA59kWCP",
+      "chainId": 101
     },
     {
       "name": "TSTTOKEN",
@@ -48715,6 +48725,26 @@
       ]
     },
     {
+      "name": "ARTEM Coin",
+      "symbol": "ARTEM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ARApgmD9DyUo72TcfDpRomb13YZkqZKoLroRdeez8UeQ/logo.png",
+      "decimals": 8,
+      "address": "ARApgmD9DyUo72TcfDpRomb13YZkqZKoLroRdeez8UeQ",
+      "chainId": 101,
+      "tags": [
+        "ARTEM",
+        "ART",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://artemcoin.com",
+        "twitter": "https://twitter.com/Artem_Coin",
+        "medium": "https://medium.com/@ArtemCoin",
+        "description": "ARTEM is a fungible cross-chain digital token created by Simonida Pavicevic and Elio D'Anna (founders of The House of Fine Art, Kreation, House of Luxury, and Artcels) made especially for the fine art, digital art, and luxury collectables marketplace and global artist communities.",
+        "telegram": "https://t.me/ARTEMCoinOfficial"
+      }
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_18AD",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ARHaNjDLfkxrE9SQNHuuUihEt8SsN5yRxjTPuzpgPXH4/logo.png",
@@ -61956,7 +61986,7 @@
     {
       "name": "Acorn",
       "symbol": "ACN",
-      "logoURI": "https://github.com/VortexHowl/token-list/blob/main/assets/mainnet/CZtYQvMEQdtFFdF39PtMxGVMditE76AwbXqJYFEhYFvA/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/VortexHowl/Acorn/main/30E9C0AF-8474-4B33-876E-609E2D5E189E.png",
       "decimals": 6,
       "address": "CZtYQvMEQdtFFdF39PtMxGVMditE76AwbXqJYFEhYFvA",
       "chainId": 101,
