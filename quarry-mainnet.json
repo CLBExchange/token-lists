@@ -107,8 +107,28 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-11T00:55:04.773Z",
+  "timestamp": "2022-02-11T14:40:23.096Z",
   "tokens": [
+    {
+      "name": "Sunny Saber USDCbs-USDC LP",
+      "symbol": "sun-USDCbs-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a/icon.png",
+      "decimals": 8,
+      "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
       "symbol": "aeMIM",
@@ -165,6 +185,25 @@
         "source": "wormhole-v1",
         "currency": "SRM",
         "sourceUrl": "https://v1.wormholebridge.com/#/move"
+      }
+    },
+    {
+      "name": "Sunny Saber prtSOL-SOL LP",
+      "symbol": "sun-prtSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/2jpwA28K9fokPpkEaJrR8CUVXk2vR1MphA9hUb3vyH7H/icon.png",
+      "decimals": 9,
+      "address": "2jpwA28K9fokPpkEaJrR8CUVXk2vR1MphA9hUb3vyH7H",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -226,6 +265,25 @@
       }
     },
     {
+      "name": "Sunny Saber aSOL-SOL LP",
+      "symbol": "sun-aSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq/icon.png",
+      "decimals": 9,
+      "address": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Binance USD (Wormhole from Ethereum)",
       "symbol": "BUSDet",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
@@ -246,6 +304,25 @@
         "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Sunny Saber USDT-USDC LP",
+      "symbol": "sun-USDT-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE/icon.png",
+      "decimals": 6,
+      "address": "3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -306,6 +383,46 @@
       }
     },
     {
+      "name": "Sunny Saber USDCet-USDC LP",
+      "symbol": "sun-USDCet-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM/icon.png",
+      "decimals": 6,
+      "address": "3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aaDAI-USDC LP",
+      "symbol": "sun-aaDAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/3jzooTwPcXe9jaWrYbHceK1JYX6W2qnkByQer5WRgZ5P/icon.png",
+      "decimals": 9,
+      "address": "3jzooTwPcXe9jaWrYbHceK1JYX6W2qnkByQer5WRgZ5P",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped BTC (Allbridge from BSC)",
       "symbol": "abBTCB",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
@@ -320,6 +437,26 @@
         "source": "allbridge",
         "currency": "BTC",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber aeFTT-FTT LP",
+      "symbol": "sun-aeFTT-FTT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/41bWR2kDEEbnbE6SFfabJp7PuTYJsNKa6PyMcZTWz8Wm/icon.png",
+      "decimals": 9,
+      "address": "41bWR2kDEEbnbE6SFfabJp7PuTYJsNKa6PyMcZTWz8Wm",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
+          "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -424,6 +561,26 @@
       }
     },
     {
+      "name": "Sunny Saber afBTC-renBTC LP",
+      "symbol": "sun-afBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/4hEzoSUB1WWXZdwCZQB1iXeSYoEVrc7jwH78RH5LkhpX/icon.png",
+      "decimals": 9,
+      "address": "4hEzoSUB1WWXZdwCZQB1iXeSYoEVrc7jwH78RH5LkhpX",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "MIX",
       "symbol": "MIX",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P/logo.png",
@@ -435,6 +592,105 @@
       ],
       "extensions": {
         "website": "https://mixture.money/"
+      }
+    },
+    {
+      "name": "Sunny Saber xBTC-renBTC LP",
+      "symbol": "sun-xBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/4p6x62AjML5ZSUEPWLuYp4Ts17bUeqD5eWtHyGCjBoaB/icon.png",
+      "decimals": 10,
+      "address": "4p6x62AjML5ZSUEPWLuYp4Ts17bUeqD5eWtHyGCjBoaB",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
+          "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber abBUSD-USDC LP",
+      "symbol": "sun-abBUSD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/4xtSPhhx28VfiYNiG2A1xs8cTeLYXWjcethpDsUhQd5g/icon.png",
+      "decimals": 9,
+      "address": "4xtSPhhx28VfiYNiG2A1xs8cTeLYXWjcethpDsUhQd5g",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber USDTet-USDT LP",
+      "symbol": "sun-USDTet-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/4z5LnYfPHJEnzgyPKTkdHd2RNDnU6YUpQQsUY8QAL4oR/icon.png",
+      "decimals": 6,
+      "address": "4z5LnYfPHJEnzgyPKTkdHd2RNDnU6YUpQQsUY8QAL4oR",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber USDTbs-USDT LP",
+      "symbol": "sun-USDTbs-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/56ZJxfGbC5FkMEBHoV7jmEtMsdKjt8Up4Ude33EUdDzt/icon.png",
+      "decimals": 8,
+      "address": "56ZJxfGbC5FkMEBHoV7jmEtMsdKjt8Up4Ude33EUdDzt",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+          "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber BTC-renBTC LP",
+      "symbol": "sun-BTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4/icon.png",
+      "decimals": 8,
+      "address": "5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -504,6 +760,25 @@
       }
     },
     {
+      "name": "Sunny Saber pSOL-prtSOL LP",
+      "symbol": "sun-pSOL-prtSOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD/icon.png",
+      "decimals": 9,
+      "address": "5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
+          "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Socean staked SOL",
       "symbol": "scnSOL",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
@@ -545,6 +820,46 @@
       }
     },
     {
+      "name": "Sunny Saber abUSDT-USDT LP",
+      "symbol": "sun-abUSDT-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu/icon.png",
+      "decimals": 9,
+      "address": "6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
+          "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber apUSDT-USDT LP",
+      "symbol": "sun-apUSDT-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/6J4zMS6PJ3g5p6s8fd97J3HBJucnk3crZ3yTpaRHd8SQ/icon.png",
+      "decimals": 6,
+      "address": "6J4zMS6PJ3g5p6s8fd97J3HBJucnk3crZ3yTpaRHd8SQ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Synthetic LUNA",
       "symbol": "xLUNA",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2.svg",
@@ -561,6 +876,22 @@
         "source": "synthetify",
         "currency": "LUNA",
         "sourceUrl": "https://app.synthetify.io/staking"
+      }
+    },
+    {
+      "name": "Port Finance Mercurial",
+      "symbol": "pMER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UgGnLA3Lfe8NBLAESctsUXWdP3zjMFzSLEZxS3tiaKh/MER.svg",
+      "decimals": 6,
+      "address": "6UgGnLA3Lfe8NBLAESctsUXWdP3zjMFzSLEZxS3tiaKh",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
       }
     },
     {
@@ -584,6 +915,46 @@
       }
     },
     {
+      "name": "Sunny Saber TRYB-TRYB LP",
+      "symbol": "sun-TRYB-TRYB",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i/icon.png",
+      "decimals": 6,
+      "address": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
+          "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aaWBTC-renBTC LP",
+      "symbol": "sun-aaWBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y/icon.png",
+      "decimals": 9,
+      "address": "6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped BUSD (Allbridge from BSC)",
       "symbol": "abBUSD",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
@@ -599,6 +970,81 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber daoSOL-SOL LP",
+      "symbol": "sun-daoSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/7747GKQJBT3HAnrqm7LBB7gV2qnn3A1TkUapoKrPinBj/icon.png",
+      "decimals": 9,
+      "address": "7747GKQJBT3HAnrqm7LBB7gV2qnn3A1TkUapoKrPinBj",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Port Finance Serum",
+      "symbol": "pSRM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/77TBgKmTNtMdGrt1ewNRb56F2Xw6fNLZZj33JZ3oGwXh/SRM.svg",
+      "decimals": 6,
+      "address": "77TBgKmTNtMdGrt1ewNRb56F2Xw6fNLZZj33JZ3oGwXh",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "name": "Sunny Saber PAI-CASH LP",
+      "symbol": "sun-PAI-CASH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/78zx22DH6towgM7mGT7nZGmnPyJEgVgcSThDDsQRRQgw/icon.png",
+      "decimals": 6,
+      "address": "78zx22DH6towgM7mGT7nZGmnPyJEgVgcSThDDsQRRQgw",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-cashio"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aaUSDC-USDC LP",
+      "symbol": "sun-aaUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/7C9hvkE9BqwXbNiqMAejEwLwTCfgxpfzZi5QyLMwDmBv/icon.png",
+      "decimals": 9,
+      "address": "7C9hvkE9BqwXbNiqMAejEwLwTCfgxpfzZi5QyLMwDmBv",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -667,6 +1113,26 @@
       }
     },
     {
+      "name": "Sunny Saber abBTCB-renBTC LP",
+      "symbol": "sun-abBTCB-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/7XHupBYsvWZWNQndVoApd1nwR39dNiLHMiGKa884sFqu/icon.png",
+      "decimals": 9,
+      "address": "7XHupBYsvWZWNQndVoApd1nwR39dNiLHMiGKa884sFqu",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Lido Staked SOL",
       "symbol": "stSOL",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
@@ -723,6 +1189,26 @@
         "source": "allbridge",
         "currency": "EUR",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber wSRM_V1-SRM LP",
+      "symbol": "sun-wSRMV1-SRM",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw/icon.png",
+      "decimals": 6,
+      "address": "7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
+          "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -813,6 +1299,26 @@
       }
     },
     {
+      "name": "Sunny Saber abUSDC-USDC LP",
+      "symbol": "sun-abUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD/icon.png",
+      "decimals": 9,
+      "address": "84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber Wrapped USD Coin (8 decimals)",
       "symbol": "sUSDC-8",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy.png",
@@ -833,6 +1339,25 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "currency": "USD"
+      }
+    },
+    {
+      "name": "Sunny Saber JSOL-SOL LP",
+      "symbol": "sun-JSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs/icon.png",
+      "decimals": 9,
+      "address": "8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -932,6 +1457,46 @@
       }
     },
     {
+      "name": "Port Finance SOL",
+      "symbol": "pSOL",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg.svg",
+      "decimals": 9,
+      "address": "8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "website": "https://port.finance",
+        "source": "port",
+        "currency": "SOL",
+        "sourceUrl": "https://mainnet.port.finance/#/markets"
+      }
+    },
+    {
+      "name": "Sunny Saber aeMIM-UST LP",
+      "symbol": "sun-aeMIM-UST",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/8neVCkhzRGyuQrxsEoMqy8UxotK1Qko7Vsfx15f8Ek1j/icon.png",
+      "decimals": 9,
+      "address": "8neVCkhzRGyuQrxsEoMqy8UxotK1Qko7Vsfx15f8Ek1j",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
+          "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "HBTC (Wormhole v1)",
       "symbol": "wHBTC_v1",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
@@ -996,6 +1561,26 @@
       }
     },
     {
+      "name": "Sunny Saber aeFEI-UST LP",
+      "symbol": "sun-aeFEI-UST",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/93vWgVtXR6i4urVaSkvaQXzbBGHAJJyrtCPqc8QegyU3/icon.png",
+      "decimals": 9,
+      "address": "93vWgVtXR6i4urVaSkvaQXzbBGHAJJyrtCPqc8QegyU3",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
+          "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "pSOL (Parrot SOL)",
       "symbol": "pSOL",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
@@ -1042,6 +1627,25 @@
         "instagram": "https://instagram.com/bilira_official",
         "sourceUrl": "https://wormholebridge.com/#/transfer",
         "telegram": "https://t.me/BiLira_Official"
+      }
+    },
+    {
+      "name": "Sunny Saber stSOL-SOL LP",
+      "symbol": "sun-stSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP/icon.png",
+      "decimals": 9,
+      "address": "9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -1141,6 +1745,26 @@
       }
     },
     {
+      "name": "Sunny Saber wLUNA_v1-renLUNA LP",
+      "symbol": "sun-wLUNAv1-renLUNA",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN/icon.png",
+      "decimals": 9,
+      "address": "9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
+          "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "UST (Wormhole)",
       "symbol": "UST",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
@@ -1179,6 +1803,86 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber wBUSD_v1-USDC LP",
+      "symbol": "sun-wBUSDv1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9wtUFSgXSSTP28G4QesRGkQxh8r3WW4kw98LZko16hNS/icon.png",
+      "decimals": 9,
+      "address": "9wtUFSgXSSTP28G4QesRGkQxh8r3WW4kw98LZko16hNS",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber afDAI-USDC LP",
+      "symbol": "sun-afDAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9yGn47ojzSfw31vxNHijDcP3zaq3fsCopg23sRkpNd6F/icon.png",
+      "decimals": 9,
+      "address": "9yGn47ojzSfw31vxNHijDcP3zaq3fsCopg23sRkpNd6F",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aeUSDC-USDC LP",
+      "symbol": "sun-aeUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56/icon.png",
+      "decimals": 9,
+      "address": "9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber xSOL-SOL LP",
+      "symbol": "sun-xSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/A6uRk8koNtrrnrkgk8GrbCX4c5iHWVxCsSC8a83i5JxQ/icon.png",
+      "decimals": 9,
+      "address": "A6uRk8koNtrrnrkgk8GrbCX4c5iHWVxCsSC8a83i5JxQ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -1652,6 +2356,26 @@
       }
     },
     {
+      "name": "Sunny Saber xUSD-USDC LP",
+      "symbol": "sun-xUSD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/AUSDK6tzpjBSd7ZJH46wTHAgxaU4Q2CoUSvcFY2fg3fr/icon.png",
+      "decimals": 6,
+      "address": "AUSDK6tzpjBSd7ZJH46wTHAgxaU4Q2CoUSvcFY2fg3fr",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber aaWBTC-renBTC LP",
       "symbol": "aaWBTC-renBTC",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39/icon.png",
@@ -1770,6 +2494,25 @@
       }
     },
     {
+      "name": "Sunny Saber scnSOL-SOL LP",
+      "symbol": "sun-scnSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq/icon.png",
+      "decimals": 9,
+      "address": "AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Starbots Token",
       "symbol": "BOT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1/logo.png",
@@ -1788,6 +2531,45 @@
       }
     },
     {
+      "name": "Sunny Saber pBTC-renBTC LP",
+      "symbol": "sun-pBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/Ap8BbmNQHhHnMDX7j7YNVa4uV6pdmH2EfVC2tkfdySxk/icon.png",
+      "decimals": 8,
+      "address": "Ap8BbmNQHhHnMDX7j7YNVa4uV6pdmH2EfVC2tkfdySxk",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
+          "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber HBTC-renBTC LP",
+      "symbol": "sun-HBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD/icon.png",
+      "decimals": 8,
+      "address": "AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped FEI (Allbridge from Ethereum)",
       "symbol": "aeFEI",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2.png",
@@ -1802,6 +2584,46 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber ETH-aeWETH LP",
+      "symbol": "sun-ETH-aeWETH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/BAjkwBMsY9T4wiJ8nGeMhg5rkbzo1Qp9Vcvzsh3SjhHf/icon.png",
+      "decimals": 9,
+      "address": "BAjkwBMsY9T4wiJ8nGeMhg5rkbzo1Qp9Vcvzsh3SjhHf",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
+          "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber BUSDbs-USDC LP",
+      "symbol": "sun-BUSDbs-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/BCJJbBXo4YoBNsjvgyHeTYBpAa1RenqWUcRDFMgLwEGD/icon.png",
+      "decimals": 8,
+      "address": "BCJJbBXo4YoBNsjvgyHeTYBpAa1RenqWUcRDFMgLwEGD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -1897,6 +2719,26 @@
         "underlyingTokens": [
           "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber pUSDT-pUSDC LP",
+      "symbol": "sun-pUSDT-pUSDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/Bbs6aVcWKq1RcSpMD8XFSvnWwGxuWFpDpQeQhGXp6bhr/icon.png",
+      "decimals": 6,
+      "address": "Bbs6aVcWKq1RcSpMD8XFSvnWwGxuWFpDpQeQhGXp6bhr",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-port"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
+          "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
         ],
         "source": "saber"
       }
@@ -2017,6 +2859,26 @@
       }
     },
     {
+      "name": "Sunny Saber LUNA-renLUNA LP",
+      "symbol": "sun-LUNA-renLUNA",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/BtAwcgJ5DZWvvjdfHXZ3T8QiwxUjRbwDgsfqyCpG7yEZ/icon.png",
+      "decimals": 6,
+      "address": "BtAwcgJ5DZWvvjdfHXZ3T8QiwxUjRbwDgsfqyCpG7yEZ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
+          "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber Wrapped renBTC (10 decimals)",
       "symbol": "srenBTC-10",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi.png",
@@ -2124,6 +2986,26 @@
       }
     },
     {
+      "name": "Sunny Saber BUSDet-USDC LP",
+      "symbol": "sun-BUSDet-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/C7wexfRxTm2Vc6szBF7DQDYYnEyZrpCqPbDDUK8Rwphs/icon.png",
+      "decimals": 8,
+      "address": "C7wexfRxTm2Vc6szBF7DQDYYnEyZrpCqPbDDUK8Rwphs",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Coin98",
       "symbol": "C98",
       "logoURI": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/c98-512.svg",
@@ -2224,6 +3106,26 @@
         "source": "Cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
+      }
+    },
+    {
+      "name": "Sunny Saber wUST_v1-USDC LP",
+      "symbol": "sun-wUSTv1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q/icon.png",
+      "decimals": 9,
+      "address": "CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2370,6 +3272,25 @@
       }
     },
     {
+      "name": "Sunny Saber CASH-USDC LP",
+      "symbol": "sun-CASH-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/CnxwJAg5oroTFDr3NJtEoM954EYH2bNgiswnJcUUa1Vn/icon.png",
+      "decimals": 6,
+      "address": "CnxwJAg5oroTFDr3NJtEoM954EYH2bNgiswnJcUUa1Vn",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Cash Cow",
       "symbol": "COW",
       "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
@@ -2384,6 +3305,26 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh"
+      }
+    },
+    {
+      "name": "Sunny Saber abETH-ETH LP",
+      "symbol": "sun-abETH-ETH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/CsNTd8i2zT791CtoGzRbtojraHzfzvS9LrcwYtYQfmsM/icon.png",
+      "decimals": 9,
+      "address": "CsNTd8i2zT791CtoGzRbtojraHzfzvS9LrcwYtYQfmsM",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2405,6 +3346,26 @@
         "pool": "GGdAwjP4ZqtuHTUJgN6f5DqdRAjBLLMJ2fno3TQHx6bm",
         "token0Img": "https://coin98.s3.amazonaws.com/ALtmPM7dt9Pjeyth",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Sunny Saber wHBTC_v1-renBTC LP",
+      "symbol": "sun-wHBTCv1-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/D7fk5ZZasQqXqGdsHaRoxqHkte61ubRN5HyorZddvVGt/icon.png",
+      "decimals": 9,
+      "address": "D7fk5ZZasQqXqGdsHaRoxqHkte61ubRN5HyorZddvVGt",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2488,6 +3449,65 @@
       }
     },
     {
+      "name": "Sunny Saber SRMet-SRM LP",
+      "symbol": "sun-SRMet-SRM",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DJZZzNM9wB1vdKj9xRckvgheqKpkvYzDXxNzDrrArLtS/icon.png",
+      "decimals": 6,
+      "address": "DJZZzNM9wB1vdKj9xRckvgheqKpkvYzDXxNzDrrArLtS",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+          "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber PAI-USDC LP",
+      "symbol": "sun-PAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh/icon.png",
+      "decimals": 6,
+      "address": "DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber wFTT_v1-soFTT LP",
+      "symbol": "sun-wFTTv1-soFTT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP/icon.png",
+      "decimals": 9,
+      "address": "DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
+          "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped USDT (Allbridge from Polygon)",
       "symbol": "apUSDT",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ.png",
@@ -2503,6 +3523,46 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber DAI-USDC LP",
+      "symbol": "sun-DAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DT26tjv9SEuSrQohJ7vSAVShy3xDqjBazGSciDYdZzNP/icon.png",
+      "decimals": 8,
+      "address": "DT26tjv9SEuSrQohJ7vSAVShy3xDqjBazGSciDYdZzNP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber wHUSD_v1-USDC LP",
+      "symbol": "sun-wHUSDv1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k/icon.png",
+      "decimals": 8,
+      "address": "DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2548,6 +3608,26 @@
       }
     },
     {
+      "name": "Sunny Saber soETH-ETH LP",
+      "symbol": "sun-soETH-ETH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DauSzTYjqWHtQu2eY7TdeFXz4RjB1wqftGdkgheoSfjK/icon.png",
+      "decimals": 8,
+      "address": "DauSzTYjqWHtQu2eY7TdeFXz4RjB1wqftGdkgheoSfjK",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
+          "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Ethereum)",
       "symbol": "aeUSDC",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
@@ -2563,6 +3643,46 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber USDCpo-USDC LP",
+      "symbol": "sun-USDCpo-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DfSRa4BVTagZVD8SstHV4b9eHGFAfbkh233kyXGCooTk/icon.png",
+      "decimals": 6,
+      "address": "DfSRa4BVTagZVD8SstHV4b9eHGFAfbkh233kyXGCooTk",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber acUSD-USDC LP",
+      "symbol": "sun-acUSD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy/icon.png",
+      "decimals": 9,
+      "address": "DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2585,6 +3705,46 @@
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Sunny Saber USDC-acUSDC LP",
+      "symbol": "sun-USDC-acUSDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3/icon.png",
+      "decimals": 9,
+      "address": "DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
+          "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Port Finance mSOL",
+      "symbol": "pmSOL",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
+      "decimals": 6,
+      "address": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "website": "https://port.finance",
+        "source": "port",
+        "currency": "SOL",
+        "sourceUrl": "https://mainnet.port.finance/#/markets"
       }
     },
     {
@@ -2781,6 +3941,46 @@
       }
     },
     {
+      "name": "Sunny Saber wibBTC-renBTC LP",
+      "symbol": "sun-wibBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/Ek7Bb5MwakAUq47JTPqcAduAZMauN8QY9aDQC2rLKHRw/icon.png",
+      "decimals": 8,
+      "address": "Ek7Bb5MwakAUq47JTPqcAduAZMauN8QY9aDQC2rLKHRw",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+          "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aeDAI-USDC LP",
+      "symbol": "sun-aeDAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/EkzoVXTNw489Ru41TjmTemN7hbRgeeCp5KJ4ESTfnBUJ/icon.png",
+      "decimals": 9,
+      "address": "EkzoVXTNw489Ru41TjmTemN7hbRgeeCp5KJ4ESTfnBUJ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saros PRT-CASH LP",
       "symbol": "PRT-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj/icon.png",
@@ -2799,6 +3999,26 @@
         "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7",
         "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Sunny Saber ahUSDT-USDC LP",
+      "symbol": "sun-ahUSDT-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/EqUHTBXXy8EYgG8DT9FN9AicbyqVvBC6oENL8TWAmFXA/icon.png",
+      "decimals": 9,
+      "address": "EqUHTBXXy8EYgG8DT9FN9AicbyqVvBC6oENL8TWAmFXA",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -2924,6 +4144,26 @@
       }
     },
     {
+      "name": "Sunny Saber xFTT-FTT LP",
+      "symbol": "sun-xFTT-FTT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o/icon.png",
+      "decimals": 8,
+      "address": "F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
+          "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber Wrapped renBTC (9 decimals)",
       "symbol": "srenBTC-9",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5.png",
@@ -2948,6 +4188,26 @@
       }
     },
     {
+      "name": "Sunny Saber ahBTC-renBTC LP",
+      "symbol": "sun-ahBTC-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FCMEte9VcGWMsqSb3ur8DM1fwYQVRLY7FaRdqZo6SerE/icon.png",
+      "decimals": 9,
+      "address": "FCMEte9VcGWMsqSb3ur8DM1fwYQVRLY7FaRdqZo6SerE",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "USD Coin (Wormhole from BSC)",
       "symbol": "USDCbs",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
@@ -2968,6 +4228,46 @@
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Sunny Saber wUSDK_V1-USDC LP",
+      "symbol": "sun-wUSDKV1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FH91oQqEoGLKhxJx1qQaHD9Jw1ND2KSCibm1Zj8Wj5Kw/icon.png",
+      "decimals": 9,
+      "address": "FH91oQqEoGLKhxJx1qQaHD9Jw1ND2KSCibm1Zj8Wj5Kw",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber wibBTC_V1-renBTC LP",
+      "symbol": "sun-wibBTCV1-renBTC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r/icon.png",
+      "decimals": 9,
+      "address": "FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
+          "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3048,6 +4348,26 @@
         "underlyingTokens": [
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aaUSDT-USDT LP",
+      "symbol": "sun-aaUSDT-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FSTaurkQGVAdBbMnjwcUjAVcWaJ7YHAw2ygX6kpfxvfV/icon.png",
+      "decimals": 9,
+      "address": "FSTaurkQGVAdBbMnjwcUjAVcWaJ7YHAw2ygX6kpfxvfV",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
+          "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
         ],
         "source": "saber"
       }
@@ -3181,6 +4501,26 @@
       }
     },
     {
+      "name": "Sunny Saber FRAX-USDC LP",
+      "symbol": "sun-FRAX-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FU61MFJ8annMSYfA5D2V5DQ3CJ8UUFD9LXHvveSAe4SD/icon.png",
+      "decimals": 8,
+      "address": "FU61MFJ8annMSYfA5D2V5DQ3CJ8UUFD9LXHvveSAe4SD",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Dai Stablecoin (Wormhole v1)",
       "symbol": "wDAI_v1",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
@@ -3221,6 +4561,26 @@
       }
     },
     {
+      "name": "Sunny Saber xLUNA-LUNA LP",
+      "symbol": "sun-xLUNA-LUNA",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb/icon.png",
+      "decimals": 6,
+      "address": "FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
+          "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Wrapped BTC (Allbridge from Fantom)",
       "symbol": "afBTC",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts.png",
@@ -3235,6 +4595,26 @@
         "source": "allbridge",
         "currency": "BTC",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Sunny Saber MAI-USDC LP",
+      "symbol": "sun-MAI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FeFQiet6qwZ95AtWxDEn4sypskxe6fmD2pi9muzoR4qy/icon.png",
+      "decimals": 9,
+      "address": "FeFQiet6qwZ95AtWxDEn4sypskxe6fmD2pi9muzoR4qy",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3255,6 +4635,42 @@
         "source": "port",
         "currency": "USD",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
+      }
+    },
+    {
+      "name": "Port Finance Saber",
+      "symbol": "pSBR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv/SBR.svg",
+      "decimals": 6,
+      "address": "FhraFicS7fGxHn8jfzuZ6TeTpCu8PAnQNZiT2tqM5xvv",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
+      "name": "Sunny Saber USDTpo-USDT LP",
+      "symbol": "sun-USDTpo-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/FqhLqpnoYAiudwkDbjjzkENaDDoJAFDAQXx3eNPbdkF2/icon.png",
+      "decimals": 6,
+      "address": "FqhLqpnoYAiudwkDbjjzkENaDDoJAFDAQXx3eNPbdkF2",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3353,6 +4769,46 @@
         "underlyingTokens": [
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber aeUSDT-USDT LP",
+      "symbol": "sun-aeUSDT-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/GFT1F4Zr7ETmuZrSmGhMAGk5rvmnD7S9g7nt2JdtwK83/icon.png",
+      "decimals": 9,
+      "address": "GFT1F4Zr7ETmuZrSmGhMAGk5rvmnD7S9g7nt2JdtwK83",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
+          "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber USDK-USDC LP",
+      "symbol": "sun-USDK-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K/icon.png",
+      "decimals": 8,
+      "address": "GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
         "source": "saber"
       }
@@ -3459,6 +4915,25 @@
       }
     },
     {
+      "name": "Sunny Saber UXD-USDC LP",
+      "symbol": "sun-UXD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc/icon.png",
+      "decimals": 6,
+      "address": "H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "OOGI",
       "symbol": "OOGI",
       "logoURI": "https://oogi.com/icon.png",
@@ -3472,6 +4947,26 @@
         "serumV3Usdc": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
         "coingeckoId": "oogi",
         "telegram": "https://t.me/oogicoin"
+      }
+    },
+    {
+      "name": "Sunny Saber apUSDC-USDC LP",
+      "symbol": "sun-apUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK/icon.png",
+      "decimals": 6,
+      "address": "HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3571,6 +5066,46 @@
           "HUBBGekfLpdZhZcqjLeecLVz39o1ysDkicZpgMgZgPFS"
         ],
         "source": "quarry-merge-mine-replica"
+      }
+    },
+    {
+      "name": "Sunny Saber wFRAX_v1-USDC LP",
+      "symbol": "sun-wFRAXv1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/HQiqXRu3YsoZDSxo73Q3GWDfRKtmm2kS49YixYQ3ojnQ/icon.png",
+      "decimals": 9,
+      "address": "HQiqXRu3YsoZDSxo73Q3GWDfRKtmm2kS49YixYQ3ojnQ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber HUSD-USDC LP",
+      "symbol": "sun-HUSD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/HS8k4hP9PnLeKL9FYnprbPmUSNBNDm9LoGzZfWcabuAJ/icon.png",
+      "decimals": 8,
+      "address": "HS8k4hP9PnLeKL9FYnprbPmUSNBNDm9LoGzZfWcabuAJ",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3692,6 +5227,26 @@
       }
     },
     {
+      "name": "Sunny Saber afUSDC-USDC LP",
+      "symbol": "sun-afUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw/icon.png",
+      "decimals": 9,
+      "address": "Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber UST-CASH LP (Replica)",
       "symbol": "qrUST-CASH",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8/icon.png",
@@ -3749,6 +5304,47 @@
       }
     },
     {
+      "name": "Sunny Saber acEUR-agEUR LP",
+      "symbol": "sun-acEUR-agEUR",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z/icon.png",
+      "decimals": 9,
+      "address": "Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
+          "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber afETH-ETH LP",
+      "symbol": "sun-afETH-ETH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/HoPyVM4xb2zxBD4YCo6zV2odQeXqAeWuhfxY6UpRc2oA/icon.png",
+      "decimals": 9,
+      "address": "HoPyVM4xb2zxBD4YCo6zV2odQeXqAeWuhfxY6UpRc2oA",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-allbridge"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber CASH-USDC LP (Replica)",
       "symbol": "qrCASH-USDC",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png",
@@ -3786,6 +5382,25 @@
         "pool": "HWsg2Kuqjo6Ve44yrTSCyvyFY5T5qhs7jwMkkpEsh441",
         "token0Img": "https://coin98.s3.amazonaws.com/7MTt7khSZXHf7nAP",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Sunny Saber mSOL-SOL LP",
+      "symbol": "sun-mSOL-SOL",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/HxkoCQY48GTT7hncTpATncmHwswboitC75bWMviAAgxh/icon.png",
+      "decimals": 9,
+      "address": "HxkoCQY48GTT7hncTpATncmHwswboitC75bWMviAAgxh",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -3921,6 +5536,26 @@
         "underlyingTokens": [
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Sunny Saber xETH-ETH LP",
+      "symbol": "sun-xETH-ETH",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/LDdq4KhNRuGUjno4waam4HTkyftYpeRjC6Rbjtiao8b/icon.png",
+      "decimals": 9,
+      "address": "LDdq4KhNRuGUjno4waam4HTkyftYpeRjC6Rbjtiao8b",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-synthetify"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
+          "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
         ],
         "source": "saber"
       }
@@ -4254,6 +5889,22 @@
       }
     },
     {
+      "name": "Port Finance BTC",
+      "symbol": "pBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/QN2HkkBaWHfYSU5bybyups9z1UHu8Eu7QeeyMbjD2JA/BTC.svg",
+      "decimals": 6,
+      "address": "QN2HkkBaWHfYSU5bybyups9z1UHu8Eu7QeeyMbjD2JA",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://port.finance"
+      }
+    },
+    {
       "name": "Saber Wrapped Wrapped Bitcoin (Sollet) (8 decimals)",
       "symbol": "sBTC-8",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv.png",
@@ -4518,6 +6169,26 @@
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
         "currency": "USD"
+      }
+    },
+    {
+      "name": "Sunny Saber UST-USDC LP",
+      "symbol": "sun-UST-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/TEMs1tdDkvBQ4sdqQdpAQEiJmB48JBcN9qhZou4jmDM/icon.png",
+      "decimals": 6,
+      "address": "TEMs1tdDkvBQ4sdqQdpAQEiJmB48JBcN9qhZou4jmDM",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -5093,6 +6764,26 @@
       }
     },
     {
+      "name": "Sunny Saber wDAI_v1-USDC LP",
+      "symbol": "sun-wDAIv1-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/aoooXdSCSi4D3hNtYffJtkktXuy4uPMe4pMJqFkA7XL/icon.png",
+      "decimals": 9,
+      "address": "aoooXdSCSi4D3hNtYffJtkktXuy4uPMe4pMJqFkA7XL",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v1"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saros DFL-CASH LP",
       "symbol": "DFL-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6/icon.png",
@@ -5471,13 +7162,6 @@
       }
     },
     {
-      "name": "Token 23SJ",
-      "symbol": "23SJV",
-      "decimals": 8,
-      "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
-      "chainId": 104
-    },
-    {
       "name": "Token 28j8",
       "symbol": "28j8k",
       "decimals": 6,
@@ -5492,31 +7176,10 @@
       "chainId": 104
     },
     {
-      "name": "Token 2jpw",
-      "symbol": "2jpwA",
-      "decimals": 9,
-      "address": "2jpwA28K9fokPpkEaJrR8CUVXk2vR1MphA9hUb3vyH7H",
-      "chainId": 104
-    },
-    {
       "name": "Token 2maH",
       "symbol": "2maHU",
       "decimals": 6,
       "address": "2maHUwkrfGseDDkGEQyGJ8Q8sBpHNkU77baNTW5qNDxo",
-      "chainId": 104
-    },
-    {
-      "name": "Token 2saG",
-      "symbol": "2saGy",
-      "decimals": 9,
-      "address": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq",
-      "chainId": 104
-    },
-    {
-      "name": "Token 3BX2",
-      "symbol": "3BX2c",
-      "decimals": 6,
-      "address": "3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE",
       "chainId": 104
     },
     {
@@ -5531,27 +7194,6 @@
       "symbol": "3S6yt",
       "decimals": 8,
       "address": "3S6ytBWbnLaJr16waKk7GsSfSdnSDWSpXt7VXjnWd3xM",
-      "chainId": 104
-    },
-    {
-      "name": "Token 3T6F",
-      "symbol": "3T6Ft",
-      "decimals": 6,
-      "address": "3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM",
-      "chainId": 104
-    },
-    {
-      "name": "Token 3jzo",
-      "symbol": "3jzoo",
-      "decimals": 9,
-      "address": "3jzooTwPcXe9jaWrYbHceK1JYX6W2qnkByQer5WRgZ5P",
-      "chainId": 104
-    },
-    {
-      "name": "Token 41bW",
-      "symbol": "41bWR",
-      "decimals": 9,
-      "address": "41bWR2kDEEbnbE6SFfabJp7PuTYJsNKa6PyMcZTWz8Wm",
       "chainId": 104
     },
     {
@@ -5576,13 +7218,6 @@
       "chainId": 104
     },
     {
-      "name": "Token 4hEz",
-      "symbol": "4hEzo",
-      "decimals": 9,
-      "address": "4hEzoSUB1WWXZdwCZQB1iXeSYoEVrc7jwH78RH5LkhpX",
-      "chainId": 104
-    },
-    {
       "name": "Token 4jL2",
       "symbol": "4jL2h",
       "decimals": 6,
@@ -5590,80 +7225,10 @@
       "chainId": 104
     },
     {
-      "name": "Token 4p6x",
-      "symbol": "4p6x6",
-      "decimals": 10,
-      "address": "4p6x62AjML5ZSUEPWLuYp4Ts17bUeqD5eWtHyGCjBoaB",
-      "chainId": 104
-    },
-    {
-      "name": "Token 4xtS",
-      "symbol": "4xtSP",
-      "decimals": 9,
-      "address": "4xtSPhhx28VfiYNiG2A1xs8cTeLYXWjcethpDsUhQd5g",
-      "chainId": 104
-    },
-    {
-      "name": "Token 4z5L",
-      "symbol": "4z5Ln",
-      "decimals": 6,
-      "address": "4z5LnYfPHJEnzgyPKTkdHd2RNDnU6YUpQQsUY8QAL4oR",
-      "chainId": 104
-    },
-    {
-      "name": "Token 56ZJ",
-      "symbol": "56ZJx",
-      "decimals": 8,
-      "address": "56ZJxfGbC5FkMEBHoV7jmEtMsdKjt8Up4Ude33EUdDzt",
-      "chainId": 104
-    },
-    {
-      "name": "Token 5GiY",
-      "symbol": "5GiYd",
-      "decimals": 8,
-      "address": "5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4",
-      "chainId": 104
-    },
-    {
-      "name": "Token 5mLQ",
-      "symbol": "5mLQT",
-      "decimals": 9,
-      "address": "5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD",
-      "chainId": 104
-    },
-    {
       "name": "Token 67LA",
       "symbol": "67LA7",
       "decimals": 6,
       "address": "67LA7NiUJmY1ky5Lt8bzB5P9dxJyi476kyHU9Tm8vduy",
-      "chainId": 104
-    },
-    {
-      "name": "Token 6HRs",
-      "symbol": "6HRsT",
-      "decimals": 9,
-      "address": "6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu",
-      "chainId": 104
-    },
-    {
-      "name": "Token 6J4z",
-      "symbol": "6J4zM",
-      "decimals": 6,
-      "address": "6J4zMS6PJ3g5p6s8fd97J3HBJucnk3crZ3yTpaRHd8SQ",
-      "chainId": 104
-    },
-    {
-      "name": "Token 6c4R",
-      "symbol": "6c4Ro",
-      "decimals": 6,
-      "address": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i",
-      "chainId": 104
-    },
-    {
-      "name": "Token 6f3V",
-      "symbol": "6f3Vc",
-      "decimals": 9,
-      "address": "6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y",
       "chainId": 104
     },
     {
@@ -5681,59 +7246,10 @@
       "chainId": 104
     },
     {
-      "name": "Token 7747",
-      "symbol": "7747G",
-      "decimals": 9,
-      "address": "7747GKQJBT3HAnrqm7LBB7gV2qnn3A1TkUapoKrPinBj",
-      "chainId": 104
-    },
-    {
-      "name": "Token 78zx",
-      "symbol": "78zx2",
-      "decimals": 6,
-      "address": "78zx22DH6towgM7mGT7nZGmnPyJEgVgcSThDDsQRRQgw",
-      "chainId": 104
-    },
-    {
-      "name": "Token 7C9h",
-      "symbol": "7C9hv",
-      "decimals": 9,
-      "address": "7C9hvkE9BqwXbNiqMAejEwLwTCfgxpfzZi5QyLMwDmBv",
-      "chainId": 104
-    },
-    {
-      "name": "Token 7XHu",
-      "symbol": "7XHup",
-      "decimals": 9,
-      "address": "7XHupBYsvWZWNQndVoApd1nwR39dNiLHMiGKa884sFqu",
-      "chainId": 104
-    },
-    {
-      "name": "Token 7jgv",
-      "symbol": "7jgvL",
-      "decimals": 6,
-      "address": "7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw",
-      "chainId": 104
-    },
-    {
-      "name": "Token 84s5",
-      "symbol": "84s5z",
-      "decimals": 9,
-      "address": "84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD",
-      "chainId": 104
-    },
-    {
       "name": "Token 852S",
       "symbol": "852Sf",
       "decimals": 6,
       "address": "852SfP1uYq9HLBTcJVEdcsoQPiHtZXKLZiagh3FtmnRP",
-      "chainId": 104
-    },
-    {
-      "name": "Token 8Ese",
-      "symbol": "8Esex",
-      "decimals": 9,
-      "address": "8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs",
       "chainId": 104
     },
     {
@@ -5751,31 +7267,10 @@
       "chainId": 104
     },
     {
-      "name": "Token 8neV",
-      "symbol": "8neVC",
-      "decimals": 9,
-      "address": "8neVCkhzRGyuQrxsEoMqy8UxotK1Qko7Vsfx15f8Ek1j",
-      "chainId": 104
-    },
-    {
-      "name": "Token 93vW",
-      "symbol": "93vWg",
-      "decimals": 9,
-      "address": "93vWgVtXR6i4urVaSkvaQXzbBGHAJJyrtCPqc8QegyU3",
-      "chainId": 104
-    },
-    {
       "name": "Token 9812",
       "symbol": "9812J",
       "decimals": 6,
       "address": "9812Jsmt2uRyRioG2RcZyqn5zoHLu69nrbHEhgEucw5o",
-      "chainId": 104
-    },
-    {
-      "name": "Token 9dmG",
-      "symbol": "9dmGt",
-      "decimals": 9,
-      "address": "9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP",
       "chainId": 104
     },
     {
@@ -5800,73 +7295,10 @@
       "chainId": 104
     },
     {
-      "name": "Token 9sE6",
-      "symbol": "9sE6R",
-      "decimals": 9,
-      "address": "9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN",
-      "chainId": 104
-    },
-    {
-      "name": "Token 9wtU",
-      "symbol": "9wtUF",
-      "decimals": 9,
-      "address": "9wtUFSgXSSTP28G4QesRGkQxh8r3WW4kw98LZko16hNS",
-      "chainId": 104
-    },
-    {
-      "name": "Token 9yGn",
-      "symbol": "9yGn4",
-      "decimals": 9,
-      "address": "9yGn47ojzSfw31vxNHijDcP3zaq3fsCopg23sRkpNd6F",
-      "chainId": 104
-    },
-    {
-      "name": "Token 9zzq",
-      "symbol": "9zzqe",
-      "decimals": 9,
-      "address": "9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56",
-      "chainId": 104
-    },
-    {
-      "name": "Token A6uR",
-      "symbol": "A6uRk",
-      "decimals": 9,
-      "address": "A6uRk8koNtrrnrkgk8GrbCX4c5iHWVxCsSC8a83i5JxQ",
-      "chainId": 104
-    },
-    {
-      "name": "Token AUSD",
-      "symbol": "AUSDK",
-      "decimals": 6,
-      "address": "AUSDK6tzpjBSd7ZJH46wTHAgxaU4Q2CoUSvcFY2fg3fr",
-      "chainId": 104
-    },
-    {
-      "name": "Token AgSk",
-      "symbol": "AgSk7",
-      "decimals": 9,
-      "address": "AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq",
-      "chainId": 104
-    },
-    {
-      "name": "Token Ap8B",
-      "symbol": "Ap8Bb",
-      "decimals": 8,
-      "address": "Ap8BbmNQHhHnMDX7j7YNVa4uV6pdmH2EfVC2tkfdySxk",
-      "chainId": 104
-    },
-    {
       "name": "Token Apoj",
       "symbol": "ApojE",
       "decimals": 6,
       "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
-      "chainId": 104
-    },
-    {
-      "name": "Token AsmJ",
-      "symbol": "AsmJb",
-      "decimals": 8,
-      "address": "AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD",
       "chainId": 104
     },
     {
@@ -5877,20 +7309,6 @@
       "chainId": 104
     },
     {
-      "name": "Token BAjk",
-      "symbol": "BAjkw",
-      "decimals": 9,
-      "address": "BAjkwBMsY9T4wiJ8nGeMhg5rkbzo1Qp9Vcvzsh3SjhHf",
-      "chainId": 104
-    },
-    {
-      "name": "Token BCJJ",
-      "symbol": "BCJJb",
-      "decimals": 8,
-      "address": "BCJJbBXo4YoBNsjvgyHeTYBpAa1RenqWUcRDFMgLwEGD",
-      "chainId": 104
-    },
-    {
       "name": "Token BRZL",
       "symbol": "BRZLJ",
       "decimals": 6,
@@ -5898,38 +7316,10 @@
       "chainId": 104
     },
     {
-      "name": "Token Bbs6",
-      "symbol": "Bbs6a",
-      "decimals": 6,
-      "address": "Bbs6aVcWKq1RcSpMD8XFSvnWwGxuWFpDpQeQhGXp6bhr",
-      "chainId": 104
-    },
-    {
-      "name": "Token BtAw",
-      "symbol": "BtAwc",
-      "decimals": 6,
-      "address": "BtAwcgJ5DZWvvjdfHXZ3T8QiwxUjRbwDgsfqyCpG7yEZ",
-      "chainId": 104
-    },
-    {
       "name": "Token BwpW",
       "symbol": "BwpW4",
       "decimals": 6,
       "address": "BwpW4A96EG1Wamq2jDRzQf9UVuy4We8u7qZyawaGkDw3",
-      "chainId": 104
-    },
-    {
-      "name": "Token C7we",
-      "symbol": "C7wex",
-      "decimals": 8,
-      "address": "C7wexfRxTm2Vc6szBF7DQDYYnEyZrpCqPbDDUK8Rwphs",
-      "chainId": 104
-    },
-    {
-      "name": "Token CBkC",
-      "symbol": "CBkCh",
-      "decimals": 9,
-      "address": "CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q",
       "chainId": 104
     },
     {
@@ -5947,20 +7337,6 @@
       "chainId": 104
     },
     {
-      "name": "Token Cnxw",
-      "symbol": "CnxwJ",
-      "decimals": 6,
-      "address": "CnxwJAg5oroTFDr3NJtEoM954EYH2bNgiswnJcUUa1Vn",
-      "chainId": 104
-    },
-    {
-      "name": "Token CsNT",
-      "symbol": "CsNTd",
-      "decimals": 9,
-      "address": "CsNTd8i2zT791CtoGzRbtojraHzfzvS9LrcwYtYQfmsM",
-      "chainId": 104
-    },
-    {
       "name": "Token Cyzr",
       "symbol": "CyzrC",
       "decimals": 6,
@@ -5968,80 +7344,10 @@
       "chainId": 104
     },
     {
-      "name": "Token D7fk",
-      "symbol": "D7fk5",
-      "decimals": 9,
-      "address": "D7fk5ZZasQqXqGdsHaRoxqHkte61ubRN5HyorZddvVGt",
-      "chainId": 104
-    },
-    {
       "name": "Token DD7U",
       "symbol": "DD7UE",
       "decimals": 6,
       "address": "DD7UEpJt5d2FtwaFX4bkGo1V7YBrdd4sj97khopM6oho",
-      "chainId": 104
-    },
-    {
-      "name": "Token DJZZ",
-      "symbol": "DJZZz",
-      "decimals": 6,
-      "address": "DJZZzNM9wB1vdKj9xRckvgheqKpkvYzDXxNzDrrArLtS",
-      "chainId": 104
-    },
-    {
-      "name": "Token DMst",
-      "symbol": "DMstN",
-      "decimals": 6,
-      "address": "DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh",
-      "chainId": 104
-    },
-    {
-      "name": "Token DNC5",
-      "symbol": "DNC5K",
-      "decimals": 9,
-      "address": "DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP",
-      "chainId": 104
-    },
-    {
-      "name": "Token DT26",
-      "symbol": "DT26t",
-      "decimals": 8,
-      "address": "DT26tjv9SEuSrQohJ7vSAVShy3xDqjBazGSciDYdZzNP",
-      "chainId": 104
-    },
-    {
-      "name": "Token DYBd",
-      "symbol": "DYBdn",
-      "decimals": 8,
-      "address": "DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k",
-      "chainId": 104
-    },
-    {
-      "name": "Token DauS",
-      "symbol": "DauSz",
-      "decimals": 8,
-      "address": "DauSzTYjqWHtQu2eY7TdeFXz4RjB1wqftGdkgheoSfjK",
-      "chainId": 104
-    },
-    {
-      "name": "Token DfSR",
-      "symbol": "DfSRa",
-      "decimals": 6,
-      "address": "DfSRa4BVTagZVD8SstHV4b9eHGFAfbkh233kyXGCooTk",
-      "chainId": 104
-    },
-    {
-      "name": "Token DhAq",
-      "symbol": "DhAqd",
-      "decimals": 9,
-      "address": "DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy",
-      "chainId": 104
-    },
-    {
-      "name": "Token DsFM",
-      "symbol": "DsFMP",
-      "decimals": 9,
-      "address": "DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3",
       "chainId": 104
     },
     {
@@ -6073,52 +7379,10 @@
       "chainId": 104
     },
     {
-      "name": "Token Ek7B",
-      "symbol": "Ek7Bb",
-      "decimals": 8,
-      "address": "Ek7Bb5MwakAUq47JTPqcAduAZMauN8QY9aDQC2rLKHRw",
-      "chainId": 104
-    },
-    {
-      "name": "Token Ekzo",
-      "symbol": "EkzoV",
-      "decimals": 9,
-      "address": "EkzoVXTNw489Ru41TjmTemN7hbRgeeCp5KJ4ESTfnBUJ",
-      "chainId": 104
-    },
-    {
-      "name": "Token EqUH",
-      "symbol": "EqUHT",
-      "decimals": 9,
-      "address": "EqUHTBXXy8EYgG8DT9FN9AicbyqVvBC6oENL8TWAmFXA",
-      "chainId": 104
-    },
-    {
-      "name": "Token F7tt",
-      "symbol": "F7tt5",
-      "decimals": 8,
-      "address": "F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o",
-      "chainId": 104
-    },
-    {
-      "name": "Token FCME",
-      "symbol": "FCMEt",
-      "decimals": 9,
-      "address": "FCMEte9VcGWMsqSb3ur8DM1fwYQVRLY7FaRdqZo6SerE",
-      "chainId": 104
-    },
-    {
       "name": "Token FCUp",
       "symbol": "FCUpJ",
       "decimals": 6,
       "address": "FCUpJvENak32mM9PQPxKKUejR4X8GLs2mhmdLva2hEuJ",
-      "chainId": 104
-    },
-    {
-      "name": "Token FH91",
-      "symbol": "FH91o",
-      "decimals": 9,
-      "address": "FH91oQqEoGLKhxJx1qQaHD9Jw1ND2KSCibm1Zj8Wj5Kw",
       "chainId": 104
     },
     {
@@ -6129,94 +7393,10 @@
       "chainId": 104
     },
     {
-      "name": "Token FLoc",
-      "symbol": "FLocu",
-      "decimals": 9,
-      "address": "FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r",
-      "chainId": 104
-    },
-    {
-      "name": "Token FSTa",
-      "symbol": "FSTau",
-      "decimals": 9,
-      "address": "FSTaurkQGVAdBbMnjwcUjAVcWaJ7YHAw2ygX6kpfxvfV",
-      "chainId": 104
-    },
-    {
-      "name": "Token FU61",
-      "symbol": "FU61M",
-      "decimals": 8,
-      "address": "FU61MFJ8annMSYfA5D2V5DQ3CJ8UUFD9LXHvveSAe4SD",
-      "chainId": 104
-    },
-    {
-      "name": "Token FdiK",
-      "symbol": "FdiKG",
-      "decimals": 6,
-      "address": "FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb",
-      "chainId": 104
-    },
-    {
-      "name": "Token FeFQ",
-      "symbol": "FeFQi",
-      "decimals": 9,
-      "address": "FeFQiet6qwZ95AtWxDEn4sypskxe6fmD2pi9muzoR4qy",
-      "chainId": 104
-    },
-    {
-      "name": "Token FqhL",
-      "symbol": "FqhLq",
-      "decimals": 6,
-      "address": "FqhLqpnoYAiudwkDbjjzkENaDDoJAFDAQXx3eNPbdkF2",
-      "chainId": 104
-    },
-    {
-      "name": "Token GFT1",
-      "symbol": "GFT1F",
-      "decimals": 9,
-      "address": "GFT1F4Zr7ETmuZrSmGhMAGk5rvmnD7S9g7nt2JdtwK83",
-      "chainId": 104
-    },
-    {
-      "name": "Token GVxZ",
-      "symbol": "GVxZh",
-      "decimals": 8,
-      "address": "GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K",
-      "chainId": 104
-    },
-    {
       "name": "Token GhhE",
       "symbol": "GhhEP",
       "decimals": 6,
       "address": "GhhEPm3Jb9idakj7Jrqs5y4mAzBEwqXymg1kv2n7nNKP",
-      "chainId": 104
-    },
-    {
-      "name": "Token H1SA",
-      "symbol": "H1SAg",
-      "decimals": 6,
-      "address": "H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc",
-      "chainId": 104
-    },
-    {
-      "name": "Token HAbF",
-      "symbol": "HAbFc",
-      "decimals": 6,
-      "address": "HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK",
-      "chainId": 104
-    },
-    {
-      "name": "Token HQiq",
-      "symbol": "HQiqX",
-      "decimals": 9,
-      "address": "HQiqXRu3YsoZDSxo73Q3GWDfRKtmm2kS49YixYQ3ojnQ",
-      "chainId": 104
-    },
-    {
-      "name": "Token HS8k",
-      "symbol": "HS8k4",
-      "decimals": 8,
-      "address": "HS8k4hP9PnLeKL9FYnprbPmUSNBNDm9LoGzZfWcabuAJ",
       "chainId": 104
     },
     {
@@ -6227,45 +7407,10 @@
       "chainId": 104
     },
     {
-      "name": "Token Ha8L",
-      "symbol": "Ha8Lw",
-      "decimals": 9,
-      "address": "Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw",
-      "chainId": 104
-    },
-    {
-      "name": "Token Hn8M",
-      "symbol": "Hn8MQ",
-      "decimals": 9,
-      "address": "Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z",
-      "chainId": 104
-    },
-    {
-      "name": "Token HoPy",
-      "symbol": "HoPyV",
-      "decimals": 9,
-      "address": "HoPyVM4xb2zxBD4YCo6zV2odQeXqAeWuhfxY6UpRc2oA",
-      "chainId": 104
-    },
-    {
-      "name": "Token Hxko",
-      "symbol": "HxkoC",
-      "decimals": 9,
-      "address": "HxkoCQY48GTT7hncTpATncmHwswboitC75bWMviAAgxh",
-      "chainId": 104
-    },
-    {
       "name": "Token J7ap",
       "symbol": "J7apR",
       "decimals": 6,
       "address": "J7apRHRZCc3uhPqsRoidpmsfVU5DiQ4BrdBGpJW4GvJx",
-      "chainId": 104
-    },
-    {
-      "name": "Token LDdq",
-      "symbol": "LDdq4",
-      "decimals": 9,
-      "address": "LDdq4KhNRuGUjno4waam4HTkyftYpeRjC6Rbjtiao8b",
       "chainId": 104
     },
     {
@@ -6290,13 +7435,6 @@
       "chainId": 104
     },
     {
-      "name": "Token TEMs",
-      "symbol": "TEMs1",
-      "decimals": 6,
-      "address": "TEMs1tdDkvBQ4sdqQdpAQEiJmB48JBcN9qhZou4jmDM",
-      "chainId": 104
-    },
-    {
       "name": "Token WrJg",
       "symbol": "WrJgj",
       "decimals": 6,
@@ -6308,13 +7446,6 @@
       "symbol": "affHF",
       "decimals": 6,
       "address": "affHFjSgvsqLYkqBseKwEt2qwhmtj7f36mWFGVmefYD",
-      "chainId": 104
-    },
-    {
-      "name": "Token aooo",
-      "symbol": "aoooX",
-      "decimals": 9,
-      "address": "aoooXdSCSi4D3hNtYffJtkktXuy4uPMe4pMJqFkA7XL",
       "chainId": 104
     }
   ]

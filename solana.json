@@ -86209,6 +86209,23 @@
       ]
     },
     {
+      "name": "Wallet of Jan Jaap Geusebroek",
+      "symbol": "JANJAAP-WALLET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GZdhs47e6BkHyisqbGe8FKZNHbQVqm1bq9uYciSCkvdH/jjPNG.png",
+      "decimals": 0,
+      "address": "GZdhs47e6BkHyisqbGe8FKZNHbQVqm1bq9uYciSCkvdH",
+      "chainId": 101,
+      "tags": [
+        "Solana-wallet",
+        "JanJaap-Geusebroek",
+        "Blockstone-Founder"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/",
+        "linkedin": "https://www.linkedin.com/in/janjaap-geusebroek/"
+      }
+    },
+    {
       "name": "D&M Token",
       "symbol": "DMMY",
       "logoURI": "https://raw.githubusercontent.com/donovanm21/token-list/main/assets/mainnet/GZhRs3M3yzLAPCcRqgdHsZzLA6KU5ijWqgm1TzfP32P9/logo.png",
@@ -98211,6 +98228,22 @@
       ]
     },
     {
+      "name": "TINY",
+      "symbol": "TINY",
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/coin.png",
+      "decimals": 0,
+      "address": "T1NYHYDyTYqft3UHvYKq3SzTBhSPWVcouVA1bp2fDE9",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://tinydogz.com/",
+        "twitter": "https://twitter.com/TinyDogzNFT",
+        "discord": "https://discord.gg/K3rqQVxDdX"
+      }
+    },
+    {
       "name": "Meta (Wormhole v1)",
       "symbol": "wMTA_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/T2mo6dnFiutu26KMuCMSjCLBB4ofWvQ3qBJGEMc3JSe/logo.png",
@@ -99395,6 +99428,17 @@
         "discord": "https://discord.com/invite/prototypenft",
         "description": "Whitelist token for PrototypeNFT."
       }
+    },
+    {
+      "name": "MinerVerse Brews Whitelist Token",
+      "symbol": "MVBWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLt4YzchWBFCa62cottuJniCGUpVQxy9uEmtwws6iiK/logo.png",
+      "decimals": 0,
+      "address": "WLt4YzchWBFCa62cottuJniCGUpVQxy9uEmtwws6iiK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Degen Competitions Whitelist Token",
