@@ -26375,6 +26375,17 @@
       }
     },
     {
+      "name": "Doug Coin",
+      "symbol": "DOUG",
+      "logoURI": "https://raw.githubusercontent.com/AnEpicTurtle/DougCoin/main/logo.png",
+      "decimals": 0,
+      "address": "6o9N9o2axcm3kCcvjSmMHhR9MatuKdVTBsZsH3T5cFRb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ESCoin",
       "symbol": "ESC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6oJ8Mp1VnKxN5MvGf9LfpeaRvTv8N1xFbvtdEbLLWUDT/logo.png",
@@ -57957,6 +57968,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "GDLK Access Token",
+      "symbol": "GDLKa",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bwq2FJjmtkiTEFGRGpQE3QyeUFBcbZBLKMWy8fmcD8T9/logo.png",
+      "decimals": 0,
+      "address": "Bwq2FJjmtkiTEFGRGpQE3QyeUFBcbZBLKMWy8fmcD8T9",
+      "chainId": 101,
+      "tags": [
+        "NFT"
       ]
     },
     {
