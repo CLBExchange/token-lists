@@ -6583,6 +6583,21 @@
       }
     },
     {
+      "name": "HiQoin",
+      "symbol": "HIQ",
+      "logoURI": "https://raw.githubusercontent.com/mpnox/HiQoins/main/HiQoin.png",
+      "decimals": 0,
+      "address": "39oHe7Aw7XNpc23KKzJJZrPYNBnheobuGhJZoqJUknTW",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "HiQ"
+      ],
+      "extensions": {
+        "website": "https://hiq.se/"
+      }
+    },
+    {
       "name": "Titan Coin",
       "symbol": "Titan",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3A33g3RFVQ5p3mi71ELYd12XxLTp4EbUN3K1crKNFgE8/logo.png",
@@ -12412,6 +12427,17 @@
         "coingeckoId": "option-room",
         "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64"
       }
+    },
+    {
+      "name": "Trash Token",
+      "symbol": "TRASH",
+      "logoURI": "https://raw.githack.com/solbumfights/tokenlogo/main/trash.png",
+      "decimals": 9,
+      "address": "485JRT9ejhCmZK6rQj9kNBQK6DfzRerRefRWPxkmbtA3",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
     },
     {
       "name": "Yakuza Wars",
@@ -40148,6 +40174,19 @@
         "community",
         "RealEstate"
       ]
+    },
+    {
+      "name": "Cyber City DAO",
+      "symbol": "CCDAO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/96NEqUTsdQZ3aQvs3ci67pAuGptRN3spgHTeC4PXxHRP/logo.png",
+      "decimals": 0,
+      "address": "96NEqUTsdQZ3aQvs3ci67pAuGptRN3spgHTeC4PXxHRP",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://cybercitydao.io/",
+        "twitter": "https://twitter.com/CyberCityDAO",
+        "discord": "https://discord.gg/cybercitydao"
+      }
     },
     {
       "name": "SPELL",
@@ -84869,6 +84908,21 @@
       }
     },
     {
+      "name": "Barter Coin",
+      "symbol": "BARTER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GMkKEutqt8Rr4pa2Fh9XZ4ZiQ54DoA64qxmKJXNX7s65/Coinlogo.png",
+      "decimals": 2,
+      "address": "GMkKEutqt8Rr4pa2Fh9XZ4ZiQ54DoA64qxmKJXNX7s65",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "Barter-trade"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/barter/"
+      }
+    },
+    {
       "name": "Relapse",
       "symbol": "RLS",
       "logoURI": "https://raw.githubusercontent.com/REALSDEALS/relapse/main/relapselogo.png",
@@ -85946,6 +86000,14 @@
       "extensions": {
         "website": "https://flashyflamingos.com/"
       }
+    },
+    {
+      "name": "Baby Rapper Gank",
+      "symbol": "BRG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GXnRgq7q9uunrTmaCGL98Riugv88dv7uKiBqoxzmKwXE/logo.png",
+      "decimals": 0,
+      "address": "GXnRgq7q9uunrTmaCGL98Riugv88dv7uKiBqoxzmKwXE",
+      "chainId": 101
     },
     {
       "name": "Mitzy",
