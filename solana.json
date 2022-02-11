@@ -45110,6 +45110,24 @@
       ]
     },
     {
+      "name": "BEER Token",
+      "symbol": "BEER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vezmSLnbUc2aeuLEubVWHdqwhTbnEhCuesRa3kR5SpK/logo.png",
+      "decimals": 3,
+      "address": "9vezmSLnbUc2aeuLEubVWHdqwhTbnEhCuesRa3kR5SpK",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "utility-token",
+        "fun-token"
+      ],
+      "extensions": {
+        "website": "https://beertoken.com/",
+        "twitter": "https://twitter.com/thebeertoken",
+        "discord": "https://discord.gg/Tn2CzcuD"
+      }
+    },
+    {
       "name": "Armstrong Forever",
       "symbol": "ASF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vi6PTKBFHR2hXgyjoTZx6h7WXNkFAA5dCsZRSi4higK/logo.png",
@@ -100875,6 +100893,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "HTO",
+      "symbol": "HTO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD/logo.png",
+      "decimals": 9,
+      "address": "htoHLBJV1err8xP5oxyQdV2PLQhtVjxLXpKB7FsgJQD",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "metaverse"
+      ],
+      "extensions": {
+        "website": "https://heavenland.io/",
+        "twitter": "https://twitter.com/heavenland_io"
+      }
     },
     {
       "name": "Floody Token",
