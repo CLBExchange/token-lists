@@ -101531,6 +101531,23 @@
       "chainId": 101
     },
     {
+      "name": "Net Gala",
+      "symbol": "NETG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/netGLdgjzwsr3zfX1YH59yMGNjX4nK8VtZGJvq7G35Z/logo.png",
+      "decimals": 9,
+      "address": "netGLdgjzwsr3zfX1YH59yMGNjX4nK8VtZGJvq7G35Z",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://netga.la/",
+        "twitter": "https://twitter.com/NetGalaNFT",
+        "discord": "https://discord.gg/NetGala"
+      }
+    },
+    {
       "name": "Pesky Coin",
       "symbol": "PESKY",
       "logoURI": "https://arweave.net/58GmA531NCbAhLPsW5sOLSyzuS1lrveuzqr6nbHLzRc",
