@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-12T00:53:36.570Z",
+  "timestamp": "2022-02-12T02:41:56.862Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -705,6 +705,13 @@
       "symbol": "27gJx",
       "decimals": 6,
       "address": "27gJxcmCdCNAEL5Sztv8S5ZP1eVFSmzmxrPsMuChx3Yi",
+      "chainId": 104
+    },
+    {
+      "name": "Token 27hd",
+      "symbol": "27hdc",
+      "decimals": 9,
+      "address": "27hdcZv7RtuMp75vupThR3T4KLsL61t476eosMdoec4c",
       "chainId": 104
     },
     {
@@ -6867,6 +6874,13 @@
       "symbol": "5YnNm",
       "decimals": 6,
       "address": "5YnNmyoaNAEN7GPBipswmHUpaz5BeKWkKTXMtEbsm8Ak",
+      "chainId": 104
+    },
+    {
+      "name": "Token 5YwU",
+      "symbol": "5YwUk",
+      "decimals": 9,
+      "address": "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ",
       "chainId": 104
     },
     {
@@ -22848,6 +22862,13 @@
       "symbol": "DkADs",
       "decimals": 6,
       "address": "DkADsRq9bPPQ4SiCmzNCygomibVecwBjFYLJdbatWZaa",
+      "chainId": 104
+    },
+    {
+      "name": "Token DkMN",
+      "symbol": "DkMNc",
+      "decimals": 9,
+      "address": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7",
       "chainId": 104
     },
     {
