@@ -58193,6 +58193,22 @@
       ]
     },
     {
+      "name": "CuseTheJuice Governance Token",
+      "symbol": "CUSEGOVERNANCE",
+      "logoURI": "https://github.com/CuseTheJuice/token-list/blob/main/assets/mainnet/BtndwmZJ6QSJpb2dQFm9VyuaQPfKGFB9NrLXeY7rHvT8/logo.png?raw=true",
+      "decimals": 9,
+      "address": "BtndwmZJ6QSJpb2dQFm9VyuaQPfKGFB9NrLXeY7rHvT8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://linktr.ee/CuseTheJuice",
+        "twitter": "https://twitter.com/CuseTheJuice",
+        "discord": "https://discord.gg/xHpRcRKG"
+      }
+    },
+    {
       "name": "BingusCoin",
       "symbol": "BNG",
       "logoURI": "https://raw.githubusercontent.com/PandaLizzy/binguscoin/main/logo.png",
@@ -91222,6 +91238,27 @@
       ]
     },
     {
+      "name": "HMATT Coin",
+      "symbol": "NTCK",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/HMATT-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "HRVSkf3Vp5CLCA3a53qQawyPj8LXWNTVcF9zkLxHLnYt",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utlity-token",
+        "game-token",
+        "hmatt-token"
+      ],
+      "extensions": {
+        "website": "https://hmatt.forstar.shop/",
+        "twitter": "https://twitter.com/_hmatt",
+        "instagram": "https://www.instagram.com/hmattofficial",
+        "youtube": "https://www.youtube.com/channel/UC89WhLz7cetBparM1hrIrFQ"
+      }
+    },
+    {
       "name": "tuORCA",
       "symbol": "tuORCA",
       "logoURI": "https://raw.githubusercontent.com/sol-farm/token-logos/dad49dff5a8cb4abc6c3ccae35dc845a2af46f98/tuORCA.png",
@@ -98958,6 +98995,21 @@
         "website": "https://solpetwar.io/",
         "twitter": "https://twitter.com/SolanaJourney",
         "discord": "https://discord.gg/ssj"
+      }
+    },
+    {
+      "name": "HODL Whales White List Token",
+      "symbol": "HODLWhales",
+      "logoURI": "https://raw.githubusercontent.com/solanahodlwhales/whitelist/main/whitelistToken.png",
+      "decimals": 0,
+      "address": "ToTxDbCvSKrTozuTLyTpiUMPMuyNtSohiXxcxbGv5wL",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://solanahodlwhales.io",
+        "twitter": "https://twitter.com/SolanaWhalesNFT"
       }
     },
     {
