@@ -4651,6 +4651,17 @@
       ]
     },
     {
+      "name": "Dubloon",
+      "symbol": "DUB",
+      "logoURI": "https://storage.googleapis.com/random-stuff-do-not-delete/crypto-coins/dubloon.png",
+      "decimals": 12,
+      "address": "2pQSbiyNgj7oVG3oZAeWG1HjmLZW3XwerHFdaptvJErA",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Saber USDT-USDC LP",
       "symbol": "USDT-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png",
@@ -18913,6 +18924,27 @@
       "chainId": 101
     },
     {
+      "name": "Lilypad Token",
+      "symbol": "$LILY",
+      "logoURI": "https://raw.githubusercontent.com/FrogPartyNFT/Lilypad/main/logo.png",
+      "decimals": 18,
+      "address": "5Knf3n9JT6cmSwXLPavQbvMHwSib2p4iEa1dWvnrFYBx",
+      "chainId": 101,
+      "tags": [
+        "game",
+        "coin",
+        "game-coin",
+        "game-currency",
+        "game-token",
+        "videogame",
+        "frogparty",
+        "frog"
+      ],
+      "extensions": {
+        "website": "https://frog.party/"
+      }
+    },
+    {
       "name": "The Open Network",
       "symbol": "TON",
       "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/TON/logo.png",
@@ -22257,6 +22289,17 @@
       "logoURI": "https://raw.githubusercontent.com/DuklinDonut/Crypto/main/doggy.png",
       "decimals": 0,
       "address": "5wG5c48NvMLoLuzYjZ9ESkTCGh7mEEaBDXgu7WzbizJA",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Rehab",
+      "symbol": "REHA",
+      "logoURI": "https://raw.githubusercontent.com/XRPAviator/Rehab/main/Photo_1644669256494.png",
+      "decimals": 0,
+      "address": "5wHSMHVicDbR9NwnCZfvZqLwHTv2iS2mQxp3kdsJGTzD",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -27780,6 +27823,18 @@
       "extensions": {
         "website": "https://shukutaidinos.com/",
         "twitter": "https://twitter.com/ShukutaiDinos"
+      }
+    },
+    {
+      "name": "MCS Farmer's Pass",
+      "symbol": "BONG",
+      "logoURI": "https://raw.githubusercontent.com/DefiTokens/assets/main/pass.png",
+      "decimals": 0,
+      "address": "6xreK49Nq2VEvcQNpddKWqWwQXBDMgZoNqfz2NiG75Wp",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://metajuanacs.com/",
+        "twitter": "https://twitter.com/metajuananft"
       }
     },
     {
