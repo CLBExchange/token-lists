@@ -1686,6 +1686,20 @@
       ]
     },
     {
+      "name": "Baby Rapper Gank Milk Token",
+      "symbol": "MILK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2DKaAP95JRUh5enBc81DTWCrY1enovZjZGFA6BLF8myC/MILKLOGO.png",
+      "decimals": 9,
+      "address": "2DKaAP95JRUh5enBc81DTWCrY1enovZjZGFA6BLF8myC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/babyrappergank"
+      }
+    },
+    {
       "name": "Fenero",
       "symbol": "FNR",
       "logoURI": "https://raw.githubusercontent.com/jrpt201/crypto/main/fenero1.png",
@@ -4352,6 +4366,21 @@
       }
     },
     {
+      "name": "CLAIM Coin",
+      "symbol": "CLAIM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mUsVwk8Hy3cxa7AchVUA2kVwre4S3Sj5JpnafVqyQTE/Coinlogo.png",
+      "decimals": 2,
+      "address": "2mUsVwk8Hy3cxa7AchVUA2kVwre4S3Sj5JpnafVqyQTE",
+      "chainId": 101,
+      "tags": [
+        "claims",
+        "invest"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/claim-coin/"
+      }
+    },
+    {
       "name": "Okegani",
       "symbol": "OGN",
       "logoURI": "https://raw.githubusercontent.com/slaveofcode/okegani-assets/master/images/ogn.png",
@@ -6244,6 +6273,17 @@
       "extensions": {
         "discord": "https://dsc.gg/particles"
       }
+    },
+    {
+      "name": "Blackbeard",
+      "symbol": "BLAK",
+      "logoURI": "https://raw.githubusercontent.com/BlackBeardToken/crypto/main/logo.png",
+      "decimals": 8,
+      "address": "36BCpE3T2M5mCAaudBKcR21oT4zcas88wwqBeHb1KKUC",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Makhfi",
@@ -13298,6 +13338,17 @@
       "tags": [
         "social-token",
         "game-token"
+      ]
+    },
+    {
+      "name": "KOC&U Awards",
+      "symbol": "KUA",
+      "logoURI": "https://i.ibb.co/CQRTSHk/KUA-Logo.png",
+      "decimals": 4,
+      "address": "4GJZyEZhqsHpKbWUtMGSsLYCpgDB3izrEcU61UJxBfMY",
+      "chainId": 101,
+      "tags": [
+        "community-token"
       ]
     },
     {
@@ -32964,6 +33015,21 @@
         "loans",
         "cash"
       ]
+    },
+    {
+      "name": "Millionaire Mafia Club WL",
+      "symbol": "MMC",
+      "logoURI": "https://raw.githubusercontent.com/agammc/MMCTOKEN/main/MMClogo.png",
+      "decimals": 0,
+      "address": "7tX8bqmNyWMi9X32mFvxR2ZJh4hTjohd5Lc5WmCLxX8e",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nftmmc",
+        "description": "Credits to Millionaire Mafia Club"
+      }
     },
     {
       "name": "Forge Utah DAO Coin",
@@ -53267,6 +53333,19 @@
         "twitter": "https://twitter.com/PiratesOfSolBay",
         "discord": "https://discord.gg/wEXT6vFKBM",
         "description": "Pirates of Sol Bay Crew Token"
+      }
+    },
+    {
+      "name": "ShroomApes Token WL",
+      "symbol": "ShroomApes",
+      "logoURI": "https://imagedelivery.net/aAmca-Po70V1nH4n9cT-uA/fd5a4f97-2ac0-4712-a721-e5ea6c5e4700/public",
+      "decimals": 0,
+      "address": "B3YvXxW7hrtPrg8z2ctwS8iTaJpqaWZKgLU2GyJbB5iB",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://shroomapes.com",
+        "twitter": "https://twitter.com/ApesShroom",
+        "discord": "https://discord.gg/D8X8wmfUaJ"
       }
     },
     {
@@ -99830,6 +99909,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Cryptocurrency Coin",
+      "symbol": "CRYPTO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WCGXaSoSWgwBwpFzCq42eFpLFemLTCNPrAYEQt2eVmm/logo.png",
+      "decimals": 8,
+      "address": "WCGXaSoSWgwBwpFzCq42eFpLFemLTCNPrAYEQt2eVmm",
+      "chainId": 101,
+      "extensions": {
+        "website": "http://cryptocurrencycoin.io",
+        "twitter": "https://twitter.com/cryptocoinio"
+      }
     },
     {
       "name": "We-Tokenize",
