@@ -3068,6 +3068,17 @@
       ]
     },
     {
+      "name": "Favor Token",
+      "symbol": "FAVR",
+      "logoURI": "https://raw.githubusercontent.com/Panda393/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "2WUdQzKMFK1BvNu55TP1jH7LaDwfrzj2zPxAdTcVMC3p",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "The Orcs",
       "symbol": "ORCS",
       "logoURI": "https://raw.githubusercontent.com/TheOrcs/token-list/main/assets/mainnet/2WWK14D4cdWuc9TtUPwbXMUZGyk1PrQYej1NVsPNsBeS/logo.png",
@@ -16133,6 +16144,21 @@
         "game-token",
         "gaming"
       ]
+    },
+    {
+      "name": "IT SOL Coin",
+      "symbol": "IT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nwWXS6UD8yUtJiYUvGcBxnTP8cWrCVGixiMryjrQXmT/Coinlogo.png",
+      "decimals": 9,
+      "address": "4nwWXS6UD8yUtJiYUvGcBxnTP8cWrCVGixiMryjrQXmT",
+      "chainId": 101,
+      "tags": [
+        "software-developers",
+        "guarantee-payments"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/itcoin/"
+      }
     },
     {
       "name": "Toast Crumbs",
@@ -53991,6 +54017,21 @@
       ]
     },
     {
+      "name": "Wallet Geert Jan Jansen",
+      "symbol": "GJJ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCUJboQTMHY38YFpgY1ZjnnjVfRpFoZZuEw49w8Ab6p7/gjjPNG.png",
+      "decimals": 0,
+      "address": "BCUJboQTMHY38YFpgY1ZjnnjVfRpFoZZuEw49w8Ab6p7",
+      "chainId": 101,
+      "tags": [
+        "Masterpainter"
+      ],
+      "extensions": {
+        "website": "https://geertjanjansen.nl/contact/",
+        "facebook": "https://www.facebook.com/geertjanjansenmeesterschilder/"
+      }
+    },
+    {
       "name": "Hosting Coin",
       "symbol": "HC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCaiBkEkDGoPddGsYH65iSLTZW7tr58QsmQ3Vfs6oCWv/logo.png",
@@ -85673,6 +85714,25 @@
         "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
         "assetContract": "https://etherscan.io/address/0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667",
         "address": "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667"
+      }
+    },
+    {
+      "name": "2SET Coin",
+      "symbol": "2SET",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/2SET-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "GNoatrXVjt7fGV7ysjBuarLaGMg5xLYwNegu18Kn7ycJ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "2set-token"
+      ],
+      "extensions": {
+        "website": "https://www.twosetviolin.com/",
+        "twitter": "https://twitter.com/twosetviolin",
+        "youtube": "https://www.youtube.com/c/twosetviolin"
       }
     },
     {
