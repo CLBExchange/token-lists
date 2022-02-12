@@ -8348,6 +8348,18 @@
       ]
     },
     {
+      "name": "Everest Token",
+      "symbol": "ET",
+      "logoURI": "https://github.com/EverestToken/EverestCrypto/blob/main/Everest.png",
+      "decimals": 0,
+      "address": "3PjhmWT4ZbTkaWNPfQ6zwyDVhhuxM28T66UfZDCvt65F",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "POR Coin",
       "symbol": "POR",
       "logoURI": "https://raw.githubusercontent.com/KrisztianZagonyiTis/crypto/main/logo.png",
@@ -27369,6 +27381,17 @@
       ]
     },
     {
+      "name": "Sinder Coin 2",
+      "symbol": "SNDR2",
+      "logoURI": "https://raw.githubusercontent.com/Sinder-exe/Crypto/main/SINDERCOIN2.png",
+      "decimals": 0,
+      "address": "6tpi16FnQq9Jtra6FDiYS1j6bXiz4bnk5FCXuT7v21sj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Super Snax",
       "symbol": "SNAX",
       "logoURI": "https://raw.githubusercontent.com/karyoclasisfox/crypto/main/logo.png",
@@ -44675,6 +44698,21 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Stone Token",
+      "symbol": "STN",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Stone-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "9mCmBexpg4v21NVJbZXPwMLTPDvdAz91d52yzZgFVr62",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "game-token",
+        "meme-token",
+        "stone-token"
       ]
     },
     {
@@ -63653,6 +63691,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "MadMan Coin",
+      "symbol": "MM",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Madman-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "Cgp9Hb59rzv8WYm6bkkq6q55KJ47Eqgo9R1S9dCPcjJw",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "madman-token"
+      ],
+      "extensions": {
+        "website": "https://tantarobastore.com/madman",
+        "twitter": "https://twitter.com/orangemadman"
+      }
     },
     {
       "name": "NeroCoin",
@@ -93972,6 +94028,17 @@
       "extensions": {
         "medium": "https://medium.com/@all4free.crypto"
       }
+    },
+    {
+      "name": "MoveCoin",
+      "symbol": "MOVE",
+      "logoURI": "https://raw.githubusercontent.com/vipurkumar/move89-coin/main/logo.png",
+      "decimals": 0,
+      "address": "Hji6T3VMDqAv21KzX1RfPPvBYn3C7VcnN4YZoCUd3Yhd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Hanfu",
