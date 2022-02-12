@@ -11670,6 +11670,17 @@
       ]
     },
     {
+      "name": "TechJosieCoin",
+      "symbol": "TJCN",
+      "logoURI": "https://raw.githubusercontent.com/techjosie/crypto/main/mainlogoICON.png",
+      "decimals": 0,
+      "address": "3xpb7ZioKc88PWJhrYMZioBp8SWP9DYejuwVBy4uCBj5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Cute Cat Coin",
       "symbol": "OCCC",
       "logoURI": "https://raw.githubusercontent.com/Samthebest999/crypto-real/main/logo.jpg",
@@ -89117,6 +89128,23 @@
       ],
       "extensions": {
         "website": "https://www.yaksa.io/"
+      }
+    },
+    {
+      "name": "GLOOMY GECKO WL",
+      "symbol": "GGWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H1fZRaLJdiUMkPzuWQTDhG6ToYP7BNDsEMcDoJj7PPA/logo.png",
+      "decimals": 0,
+      "address": "H1fZRaLJdiUMkPzuWQTDhG6ToYP7BNDsEMcDoJj7PPA",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "mint-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://www.gloomygeckonft.com/",
+        "twitter": "https://twitter.com/GloomyGeckos"
       }
     },
     {
