@@ -603,8 +603,7 @@
       ],
       "extensions": {
         "website": "https://www.solcasino.io/",
-        "twitter": "https://twitter.com/Solcasinoio",
-        "coingeckoId": "usd-coin"
+        "twitter": "https://twitter.com/Solcasinoio"
       }
     },
     {
@@ -18637,6 +18636,17 @@
       "logoURI": "https://raw.githubusercontent.com/NC4WD/Crypto/main/logo.png",
       "decimals": 0,
       "address": "5G48ogdSHQgFjKZB76RKhyk85zKD5w3ocFMUYeaBVLCd",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "name": "SHOOZCOIN",
+      "symbol": "SHZ",
+      "logoURI": "https://raw.githubusercontent.com/shoozpc/shoozcoin/main/SHOOZCOIN.png",
+      "decimals": 0,
+      "address": "5GcstXTDa6EvauGhSPFi6TokfJhNT1nQTqVGvVDGtV5",
       "chainId": 101,
       "tags": [
         "utility-token"
@@ -53463,6 +53473,25 @@
       }
     },
     {
+      "name": "Pacha DAO Token",
+      "symbol": "$PACHA",
+      "logoURI": "https://raw.githubusercontent.com/bridgitbrowser/bridge-assets/master/tokens/pacha.svg",
+      "decimals": 8,
+      "address": "B3J1npmtEst1zQtbgaUTNgyjV4BHiVLydbcXSmuz3onw",
+      "chainId": 101,
+      "tags": [
+        "p2e",
+        "dao",
+        "coin",
+        "game-token",
+        "animation",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://pachaverse.io/"
+      }
+    },
+    {
       "name": "Mafi",
       "symbol": "MAFI",
       "logoURI": "https://raw.githubusercontent.com/fkanter602/Crypto/main/MAFI_LOGO_1.png",
@@ -76123,8 +76152,9 @@
       "address": "Eo5YeDSgnH1qa4tL5iWhyk7iKdohWWpv9iDtym3Kgb7t",
       "chainId": 101,
       "tags": [
-        "nft",
-        "utility-token"
+        "utility-token",
+        "game-token",
+        "staking"
       ],
       "extensions": {
         "website": "https://www.panzerdogs.io/",
@@ -91152,6 +91182,20 @@
       ]
     },
     {
+      "name": "Lemonhead Felons",
+      "symbol": "LMHF",
+      "logoURI": "https://raw.githubusercontent.com/leojack12/files/main/2.png",
+      "decimals": 8,
+      "address": "HHXKU5sTRCsrJqGk19XCkX8gHXk4XsfGSBrBZBr2N1QE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/LemonHeadFelons"
+      }
+    },
+    {
       "name": "Valknut Gold",
       "symbol": "Ticket",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHXMCAQGw4SNfwJ3FqTJdFgt2M8GqggFk9cRm4jLYPDB/logo.svg",
@@ -103543,6 +103587,24 @@
       ],
       "extensions": {
         "coingeckoId": "3x-long-eos-token"
+      }
+    },
+    {
+      "name": "BlockStone wallet",
+      "symbol": "BLOCKSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/r82YqkLkNBWexTLBfzCMUVmCvCVcy5vnv73wB3orXyN/blockstonePNG.png",
+      "decimals": 0,
+      "address": "r82YqkLkNBWexTLBfzCMUVmCvCVcy5vnv73wB3orXyN",
+      "chainId": 101,
+      "tags": [
+        "Solana-wallet",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/solana-wallet/",
+        "twitter": "https://twitter.com/TheBlockstone",
+        "facebook": "https://www.facebook.com/Blockstone-103327348899538/",
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/"
       }
     },
     {
