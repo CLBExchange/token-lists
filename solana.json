@@ -31494,6 +31494,21 @@
       ]
     },
     {
+      "name": "Versus Mode",
+      "symbol": "VM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ePMLZDsyV6y3BhiSwiewzsTvbh5XkUDiEXVtvB2wGP4/logo.png",
+      "decimals": 9,
+      "address": "7ePMLZDsyV6y3BhiSwiewzsTvbh5XkUDiEXVtvB2wGP4",
+      "chainId": 101,
+      "tags": [
+        "nft-token",
+        "card-game"
+      ],
+      "extensions": {
+        "website": "https://www.versusmode.net/"
+      }
+    },
+    {
       "name": "Wrapped UNI (Allbridge from BSC)",
       "symbol": "abUNI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw/logo.png",
@@ -67145,6 +67160,20 @@
       "chainId": 101
     },
     {
+      "name": "CLASS",
+      "symbol": "CLASS",
+      "logoURI": "https://github.com/Boogdy/Boogdy/blob/main/C%20(1).jpg?raw=true",
+      "decimals": 3,
+      "address": "DH9L2E49cBKC9BEbt4q262WDp6E7FnH7QBkyES7AQbSx",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Classoids"
+      }
+    },
+    {
       "name": "Token Boyfriend",
       "symbol": "TBF",
       "logoURI": "https://raw.githubusercontent.com/victorpng/tokenboyfriend/main/logo.png",
@@ -82595,6 +82624,22 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?ABNB"
+      }
+    },
+    {
+      "name": "Degen Nation Green List",
+      "symbol": "$DNGL",
+      "logoURI": "https://raw.githubusercontent.com/setoKaibalol/pictures/main/pic/DN_sol_gradient_black_bg_600x600.png",
+      "decimals": 0,
+      "address": "FqwseU5ScQrvDH6hCVkbNTXn2B9ZyxfxcTBuDoyHNPRT",
+      "chainId": 101,
+      "tags": [
+        "Utility-Token"
+      ],
+      "extensions": {
+        "website": "https://degen-nation69.com/",
+        "twitter": "https://twitter.com/DegenNation69",
+        "discord": "https://discord.gg/DegenNation69"
       }
     },
     {
