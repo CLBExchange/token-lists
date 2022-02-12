@@ -37559,6 +37559,21 @@
       ]
     },
     {
+      "name": "ROBO Coin",
+      "symbol": "$ROBO",
+      "logoURI": "https://raw.githubusercontent.com/CMHayden/crypto/master/robocoin.png",
+      "decimals": 9,
+      "address": "8ZepSXp47WFyDK21QbvMiiKVWRHnGrAegiwDr71PfGi3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/robotmafiaclub",
+        "discord": "https://discord.gg/cN4qECwt68"
+      }
+    },
+    {
       "name": "SIM CRYPTO",
       "symbol": "SIMC",
       "logoURI": "https://raw.githubusercontent.com/SIMCrypto/crypto/main/Asset%201.png",
@@ -59839,6 +59854,20 @@
         "social-token",
         "meme-token"
       ]
+    },
+    {
+      "name": "Weed Coin",
+      "symbol": "WEED",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CA3zFzBXyVt4tDfAvKWMDxtWogtoGYao5ANvg7Feo8u5/pot.jpg",
+      "decimals": 0,
+      "address": "CA3zFzBXyVt4tDfAvKWMDxtWogtoGYao5ANvg7Feo8u5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://weedcoin.store"
+      }
     },
     {
       "name": "Maine Coon",
@@ -82784,6 +82813,20 @@
       }
     },
     {
+      "name": "High Hungry",
+      "symbol": "HGY",
+      "logoURI": "https://raw.githubusercontent.com/Shateizi/highhungry/main/random_apes_1.png",
+      "decimals": 1,
+      "address": "FrNEoFBDfz62eZQoucquKTHA87XCuPL5GyatQafXbxK1",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HighHungry_Sol"
+      }
+    },
+    {
       "name": "404 ET",
       "symbol": "ERRT",
       "logoURI": "https://raw.githubusercontent.com/3Banan3/tokenas/main/logo.png",
@@ -102608,6 +102651,17 @@
         "description": "Kaizen is the first-ever cross-chain token lifecycle management platform built with the needs of both projects and investors alike.",
         "telegram": "https://t.me/KaizenFinance"
       }
+    },
+    {
+      "name": "Karma V22",
+      "symbol": "KV",
+      "logoURI": "https://raw.githubusercontent.com/Justin-hw-Tseng/assets/main/karma.png",
+      "decimals": 0,
+      "address": "karwVyyQYvdZzR6MvCm5QbbmYxzJ7DqQNa44gD8Rpi8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Kineko",
