@@ -21053,6 +21053,17 @@
       }
     },
     {
+      "name": "FishelCoin",
+      "symbol": "FSHL",
+      "logoURI": "https://raw.githubusercontent.com/nfishel/fishelcoincrypto/main/fishelcoinlogo.png",
+      "decimals": 0,
+      "address": "5ic9vUza5tqrmMX3d2P3zZ78yDbxy2AzYiGA7SUYUQtK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SIU",
       "symbol": "SIU",
       "logoURI": "https://arweave.net/23nANpuvTnApbxoFgvXClZyeike1Jg88x8T6b2QXWYA?ext=png",
@@ -52582,6 +52593,17 @@
         "website": "https://atemcoin.art",
         "twitter": "https://twitter.com/AtEMWORLD"
       }
+    },
+    {
+      "name": "DimorneKoin",
+      "symbol": "DMK",
+      "logoURI": "https://raw.githubusercontent.com/JDBeast200/crypo/main/token_img.png",
+      "decimals": 0,
+      "address": "AtPaih7G75f7LKQzc1CNCPv6crc9T5iwCaan629gLTRq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "PENNYWISE",
@@ -88284,6 +88306,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "SNIFF",
+      "symbol": "SNIFF",
+      "logoURI": "https://user-images.githubusercontent.com/1735634/153721371-69bd5db6-1b6e-433d-a682-5cae6a00e517.png",
+      "decimals": 9,
+      "address": "GmBwNscpLsjctXS4yEt43b1sBzeboUJythhAXw23deg1",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/noseagenft",
+        "discord": "https://discord.gg/jgTh4tyyAJ"
+      }
     },
     {
       "name": "Solleo",
