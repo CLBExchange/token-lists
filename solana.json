@@ -1158,6 +1158,17 @@
       }
     },
     {
+      "name": "Bittywood BittyBucks",
+      "symbol": "PLEB",
+      "logoURI": "https://raw.githubusercontent.com/Luckyshotthegreat/Crypto-Bitty/main/logo.png",
+      "decimals": 0,
+      "address": "29GVG3FUGaUxkZSvFQyYy23UWWk77vVRvMZRZysY2YXB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wine",
       "symbol": "WINE",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wine-logo.png",
@@ -65362,6 +65373,20 @@
       "chainId": 101
     },
     {
+      "name": "VIDI",
+      "symbol": "VIDI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D23yXWLERq732DGAC2YArjBhWdmqg6VBcrhemDjrX8QP/logo.png",
+      "decimals": 6,
+      "address": "D23yXWLERq732DGAC2YArjBhWdmqg6VBcrhemDjrX8QP",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://vidi.art/",
+        "twitter": "https://twitter.com/Vidi_Art",
+        "medium": "https://medium.com/@vidiart",
+        "discord": "http://discord.gg/vidiart"
+      }
+    },
+    {
       "name": "Pioly Coin",
       "symbol": "PIOLY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D2DWXG6oDhywmYeFXQy3pCkLp7RKiwuoSZgjhNSqx14N/logo.png",
@@ -76706,6 +76731,24 @@
         "discord": "https://bit.ly/thetoxicterminators",
         "description": "TermiToken is the one and only token to be paired with your own TheToxicTerminator NFT!",
         "instagram": "https://www.instagram.com/toxicterminators/"
+      }
+    },
+    {
+      "name": "Keramos financial",
+      "symbol": "KRM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwFQ8DHyc3Z2k7HWyABh4ZNBnjr9aGfvFLmdWe5ehepu/logo.png",
+      "decimals": 9,
+      "address": "EwFQ8DHyc3Z2k7HWyABh4ZNBnjr9aGfvFLmdWe5ehepu",
+      "chainId": 101,
+      "tags": [
+        "financial-token",
+        "financial",
+        "ai-cryptocurrency",
+        "solana"
+      ],
+      "extensions": {
+        "website": "https://www.keramos.tech",
+        "description": "AI-POWERED CRYPTOCURRENCY FINANCIAL SERVICES"
       }
     },
     {
