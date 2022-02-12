@@ -432,6 +432,20 @@
       }
     },
     {
+      "name": "Andrelana",
+      "symbol": "AYQC",
+      "logoURI": "https://raw.githubusercontent.com/andreyaniv/cryptolana/main/crypto.png",
+      "decimals": 0,
+      "address": "1Kz2ZBJpMDeH9bJxqH7oGMZAn8PZ35ZeMSm7RVY12J1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://andreyaniv.com/"
+      }
+    },
+    {
       "name": "Irish Setter Sol",
       "symbol": "ISS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1SSBwC8hxB4GXzKKU4ENNpST7zgpTmucDe9NoAopWXX/logo.png",
@@ -2236,6 +2250,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCNFT Trademark",
+      "symbol": "NFTBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2KGYYcwXfxzZ8QsfHwett92Dwz6mpptjtHmLW8WQU2NM/logo.png",
+      "decimals": 9,
+      "address": "2KGYYcwXfxzZ8QsfHwett92Dwz6mpptjtHmLW8WQU2NM",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
     },
     {
       "name": "Poseidon Token",
@@ -41507,6 +41536,17 @@
       }
     },
     {
+      "name": "Acid Bombs Whitelist",
+      "symbol": "ACIDBOMBWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DYLi7scxtyTGUbQEwNSuSoiVUvnxUHrY6mYRGdTu87C/logo.png",
+      "decimals": 0,
+      "address": "9DYLi7scxtyTGUbQEwNSuSoiVUvnxUHrY6mYRGdTu87C",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "NOIA Token (Wormhole v1)",
       "symbol": "wNOIA_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9DdtKWoK8cBfLSLhHXHFZzzhxp4rdwHbFEAis8n5AsfQ/logo.png",
@@ -70173,6 +70213,17 @@
       ]
     },
     {
+      "name": "MAYA Coin",
+      "symbol": "MAYA",
+      "logoURI": "https://raw.githubusercontent.com/iwillbemicrosoftceo/profile-repo/main/om.png",
+      "decimals": 0,
+      "address": "Dj5vr8fVTkt2DQMMoDL5cnva7fdBAgrPe2pcGkECCQ6t",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Berkshire Hathaway Inc",
       "symbol": "BRKA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dj76V3vdFGGE8444NWFACR5qmtJrrSop5RCBAGbC88nr/logo.png",
@@ -81056,6 +81107,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Freppi Coin",
+      "symbol": "FRP",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Freppi-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "FaTPs4RdGnSpEcyNEDwnVbHxM3Mu2PUmv2UftKNSNuHU",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "freppi-token"
+      ],
+      "extensions": {
+        "website": "https://linktr.ee/Francesco03",
+        "twitter": "https://twitter.com/castagnafrance2",
+        "instagram": "https://www.instagram.com/francescocastagnae/"
+      }
     },
     {
       "name": "DODG the Elephant Shrew",
@@ -99562,6 +99632,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Tiexo",
+      "symbol": "TIEXO",
+      "logoURI": "https://i.ibb.co/GvTPdwc/unknown-6.png",
+      "decimals": 9,
+      "address": "TX2FnsJkWvAyjSRoEZsCkDu4ViwZDEYMehiT6U6PXKj",
+      "chainId": 101,
+      "tags": [
+        "Marketplace",
+        "NFT",
+        "Cross-Chain"
+      ],
+      "extensions": {
+        "website": "https://pages.tiexo.com",
+        "twitter": "https://twitter.com/tiexohq"
+      }
     },
     {
       "name": "FAPEIS Token WL",
