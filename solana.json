@@ -47410,6 +47410,21 @@
       }
     },
     {
+      "name": "Guarantee SOL",
+      "symbol": "CUTIE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABxMcyrcR17mzeksKkGbLVq24qXJtHM8zTEfxCo6JpfG/Coinlogo.png",
+      "decimals": 9,
+      "address": "ABxMcyrcR17mzeksKkGbLVq24qXJtHM8zTEfxCo6JpfG",
+      "chainId": 101,
+      "tags": [
+        "guarantee-token",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/cutee-sol/"
+      }
+    },
+    {
       "name": "Wrapped Strong (Sollet)",
       "symbol": "soSTRONG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AByXcTZwJHMtrKrvVsh9eFNB1pJaLDjCUR2ayvxBAAM2/logo.png",
@@ -63867,6 +63882,21 @@
       ]
     },
     {
+      "name": "Guarantee Amsterdam Coin",
+      "symbol": "QT-AMSTERDAM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ck7DzPFmKVUDJ7VUKFpesgPATYDcD25sK2KPjP61T98r/amsterdamcoin.png",
+      "decimals": 9,
+      "address": "Ck7DzPFmKVUDJ7VUKFpesgPATYDcD25sK2KPjP61T98r",
+      "chainId": 101,
+      "tags": [
+        "SOL-guarantee",
+        "Amsterdam-Coin"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/guarantee-amsterdam-coin/"
+      }
+    },
+    {
       "name": "b4c meme coin",
       "symbol": "B4C",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkD9GDPqME11zrFt7Lk51jdQSuPmP1nRULUWbBYj2Ngq/logo.png",
@@ -75862,6 +75892,17 @@
         "website": "https://www.kartazion.com",
         "description": "Universal Theory of Physics and Quantum Mechanics - Research"
       }
+    },
+    {
+      "name": "Rello Coin",
+      "symbol": "RELO",
+      "logoURI": "https://raw.githubusercontent.com/NicholasGLambert/Rello/main/Logo.png",
+      "decimals": 0,
+      "address": "EjTVkGzAR9kYLb6guB3G1mophcqJbJ8BdNZ32GdkKhuA",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "NILF Token",
@@ -94501,6 +94542,17 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Dhanush P Sukruth",
+      "symbol": "DPS",
+      "logoURI": "https://raw.githubusercontent.com/dsukruth/dps_token/main/logo.png",
+      "decimals": 0,
+      "address": "Hv5mZYNXfnapjB4f1opJVipu7wNVv7RWfDPsRrAWXkWo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
