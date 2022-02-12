@@ -14027,6 +14027,17 @@
       ]
     },
     {
+      "name": "Yipperson",
+      "symbol": "YIPS",
+      "logoURI": "https://raw.githubusercontent.com/tokermaker/yippers/main/logo.png",
+      "decimals": 0,
+      "address": "4PunrmGdVN5ZCora83RSRSsFYJBTervxHe7KCxFKYQV9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BumbierToken",
       "symbol": "BMT",
       "logoURI": "https://raw.githubusercontent.com/Bumb1eris/BumbieruToken/main/pear2.png",
@@ -25417,6 +25428,20 @@
         "website": "https://eros-project.com/",
         "twitter": "https://twitter.com/ErosToken"
       }
+    },
+    {
+      "name": "Matilda Ferragni Coin",
+      "symbol": "MTDF",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/MatildaFerragni-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "6Yi69Ac2D1Qa5WGXn7pGw7h4tE5jC74V3TANhiqQaX9b",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token"
+      ]
     },
     {
       "name": "xynorium",
@@ -54115,6 +54140,43 @@
       ]
     },
     {
+      "name": "Marvel Coin",
+      "symbol": "MRVL",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Marvel-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "BANNrQ9CAjnT4ar5rtA3J5Yv67j1Y8CXLmSg1t6atYQq",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "game-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://www.marvel.com/",
+        "twitter": "https://twitter.com/marvel"
+      }
+    },
+    {
+      "name": "Khabi Coin",
+      "symbol": "KHB",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Khabi-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "BATz51cYUfdw8S5HD6ambiJLzDhogQq2Ne3NQu8RREk2",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "khabi-token"
+      ],
+      "extensions": {
+        "website": "https://khabyshop.com",
+        "twitter": "https://twitter.com/KhabyLame"
+      }
+    },
+    {
       "name": "Solbacker",
       "symbol": "SOLB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAcKERxnjUoWNDPzv6SjE1piZEhZPcLgcgpcxYiCSKvy/logo.png",
@@ -72831,6 +72893,21 @@
       }
     },
     {
+      "name": "BTCNFT Trademark USDC",
+      "symbol": "$BTCNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E9aUfnpyoWwq9GMXD2QsT98v8fyZCaXwoyn3tmHY724w/logo.png",
+      "decimals": 9,
+      "address": "E9aUfnpyoWwq9GMXD2QsT98v8fyZCaXwoyn3tmHY724w",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "Chairman Chow",
       "symbol": "CCC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E9bjYSAqabYAd2Zaev4qAMVNAiX7Z2Dp4Sn1JgsTn2b6/logo.png",
@@ -85299,6 +85376,17 @@
       ]
     },
     {
+      "name": "Duck Token",
+      "symbol": "DUCK",
+      "logoURI": "https://raw.githubusercontent.com/FriendlyDuckNFT/nft-project/main/ducktokennew.png",
+      "decimals": 9,
+      "address": "GF8xQkj8EsdB19grGhRYzTFV766NtNBakz6GZg6a9Msr",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "New Myanmar Shekel",
       "symbol": "NMS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFABRXExXpA9SzXc8GkURg8kEqPoxKPTB9tp57miaLsK/logo.png",
@@ -87824,6 +87912,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfXwysjNzyEVFfE9Mf4y9oAkQkA3g4CFrcpkLA5Zhv6s/logo.svg",
       "decimals": 8,
       "address": "GfXwysjNzyEVFfE9Mf4y9oAkQkA3g4CFrcpkLA5Zhv6s",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "PatronumCoin",
+      "symbol": "PTC",
+      "logoURI": "https://raw.githubusercontent.com/Cryptomaker1212/PatronumCoin/main/patronumlogo.png",
+      "decimals": 8,
+      "address": "Gfc5CxvWtoAnHgHD4uJPeHwa69CwnGzDcU2jhNBmwJFu",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -101953,6 +102052,21 @@
         "community-token",
         "Dreamland-token"
       ]
+    },
+    {
+      "name": "BTCNFT Trademark Ticker",
+      "symbol": "$NFTBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eSk6wPv1ZCEaqRshKNjYvwH9jyYdFR2pJWZyTeEBm2G/logo.png",
+      "decimals": 9,
+      "address": "eSk6wPv1ZCEaqRshKNjYvwH9jyYdFR2pJWZyTeEBm2G",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
     },
     {
       "name": "Playground Epoch Droplet",
