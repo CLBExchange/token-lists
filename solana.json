@@ -13787,6 +13787,20 @@
       }
     },
     {
+      "name": "BlocSocIITR",
+      "symbol": "BSIR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Mekk6DCgmFZpDCz4FGDPq1T1W43YPUakiRsoY89uKXM/logo.png",
+      "decimals": 0,
+      "address": "4Mekk6DCgmFZpDCz4FGDPq1T1W43YPUakiRsoY89uKXM",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://blocsoc.netlify.app/"
+      }
+    },
+    {
       "name": "Middle Class",
       "symbol": "TMCT",
       "logoURI": "https://raw.githubusercontent.com/TheMiddleClassToken/crypto/main/12345%20token.png",
@@ -23688,6 +23702,20 @@
       "extensions": {
         "discord": "https://discord.gg/zZedFkuybR"
       }
+    },
+    {
+      "name": "JJC",
+      "symbol": "JJJJC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6FLsSkF4AqQeDuqEmGPyBZvVebc4WWWntnZP2QZyBzG8/logo.png",
+      "decimals": 9,
+      "address": "6FLsSkF4AqQeDuqEmGPyBZvVebc4WWWntnZP2QZyBzG8",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "nft-token",
+        "game-token",
+        "jjcverse"
+      ]
     },
     {
       "name": "The Destiny",
@@ -38081,6 +38109,24 @@
         "twitter": "https://twitter.com/snakerushgame",
         "description": "SnakeChain (SNAKE) are earned by playing SnakeRush, and minting your coins at the SnakeBank. They can be used to play more and exchange in any market where available.",
         "instagram": "https://www.instagram.com/snakerushgame/"
+      }
+    },
+    {
+      "name": "QDukan",
+      "symbol": "QD",
+      "logoURI": "https://raw.githubusercontent.com/qdukan/QD/main/logo.png",
+      "decimals": 9,
+      "address": "8fpus58kYH9rxuG9hodgcZLcsw4Uj4L9G1ZvGFqX7fyF",
+      "chainId": 101,
+      "tags": [
+        "accessories-token",
+        "ecommerce-token",
+        "fashion-token",
+        "shopping-token"
+      ],
+      "extensions": {
+        "website": "https://qdukan.com",
+        "twitter": "https://twitter.com/Qdukan1"
       }
     },
     {
@@ -84694,6 +84740,23 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "name": "Mutant WL",
+      "symbol": "MWLT",
+      "logoURI": "https://raw.githubusercontent.com/HFaour/token-list/main/assets/mainnet/GDQBFKyQKJhMTM53NbF64FaVECv7aooffUJU1MXiixo1/logo.png",
+      "decimals": 2,
+      "address": "GDQBFKyQKJhMTM53NbF64FaVECv7aooffUJU1MXiixo1",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://catcartel.io/",
+        "twitter": "https://twitter.com/SolanaCatCartel",
+        "discord": "http://discord.gg/catcartel"
+      }
     },
     {
       "name": "Metacar Token",
