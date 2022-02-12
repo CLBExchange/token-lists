@@ -28998,6 +28998,17 @@
       "chainId": 101
     },
     {
+      "name": "FROG Coin",
+      "symbol": "FROG",
+      "logoURI": "https://raw.githubusercontent.com/FRoGricH18/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "7CYJuwZmvhzQptaruSoH34xEPyZVKxk5dzq3vHsHYQeS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "CHECKRED Coin",
       "symbol": "CHECKRED",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7CeDq7g178wgQeDPQea5Mvh3i1ACy9AMjrLBqogw8yG3/logo.png",
@@ -31907,6 +31918,23 @@
         "medium": "https://medium.com/@SolRazr_App",
         "discord": "https://discord.gg/HXa3qAYe",
         "telegram": "https://t.me/solrazr_app"
+      }
+    },
+    {
+      "name": "Freedom Cash",
+      "symbol": "3MUT",
+      "logoURI": "https://user-images.githubusercontent.com/34078361/153697539-c5dd51c4-73fd-43bc-bb5e-f6ac1acebfd6.png",
+      "decimals": 6,
+      "address": "7jSfgVyxrCW5D9C7S5XHu32y8aeQgGFgjh6vzrGVW6oV",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://freedom-dao.com/",
+        "twitter": "https://twitter.com/FreedomDAO_",
+        "discord": "https://discord.gg/zzdZx5aMfx"
       }
     },
     {
@@ -68489,6 +68517,22 @@
       }
     },
     {
+      "name": "CuseTheJuice Governance Token Liquidity Pool",
+      "symbol": "CUSEGOVERNANCELP",
+      "logoURI": "https://github.com/CuseTheJuice/token-list/blob/main/assets/mainnet/DWXDRm1TbZBxy4Gtyg746Ms2moW7HtNT6j8dYtKs8u8y/logo.png?raw=true",
+      "decimals": 9,
+      "address": "DWXDRm1TbZBxy4Gtyg746Ms2moW7HtNT6j8dYtKs8u8y",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://linktr.ee/CuseTheJuice",
+        "twitter": "https://twitter.com/CuseTheJuice",
+        "discord": "https://discord.gg/xHpRcRKG"
+      }
+    },
+    {
       "name": "Tetracoin",
       "symbol": "TETRA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DWkd7xS3cDXJSMZqXHWN9oNgyCq49x7AdUqdadhTKW43/logo.png",
@@ -72358,6 +72402,17 @@
         "discord": "https://discord.gg/8twDmsWega",
         "telegram": "https://t.me/joinchat/1XaURMrPqOBjNWVk"
       }
+    },
+    {
+      "name": "Aaka",
+      "symbol": "AAKA",
+      "logoURI": "https://raw.githubusercontent.com/ayan4157/crypto-aaka/main/logo.png",
+      "decimals": 0,
+      "address": "E9q7G44vMQSKTfxXGUppKyRzWpZAAp5rQoFBcjehyTNY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "LitCoin",
@@ -87307,6 +87362,20 @@
       ]
     },
     {
+      "name": "Neon Rocket Coin",
+      "symbol": "NRC",
+      "logoURI": "https://raw.githubusercontent.com/neontechanoah/neon_rocket_coin/main/asset/NRC_Logo_100px.png",
+      "decimals": 3,
+      "address": "Gh1jKzmxf95cT5PQabNbfJskkQU8kQ5UugfpbHSnPq9z",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NeonRocketCoin"
+      }
+    },
+    {
       "name": "Gangsta",
       "symbol": "Gangsta",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gh6jp5U3yfcJwkZ7RoY6Ak2tgd752dSqBSYwHnfK3gft/logo.png",
@@ -100305,6 +100374,17 @@
         "website": "https://www.charactbit.com/",
         "twitter": "https://twitter.com/charactbit"
       }
+    },
+    {
+      "name": "Millenium",
+      "symbol": "YUGI",
+      "logoURI": "https://github.com/KKQanT/token-list/blob/main/assets/mainnet/YuGiLp6mrZwQXVDr8xHMDiadp2og3QTKKyUqM3Fr2Yu/logo.png",
+      "decimals": 0,
+      "address": "YuGiLp6mrZwQXVDr8xHMDiadp2og3QTKKyUqM3Fr2Yu",
+      "chainId": 101,
+      "tags": [
+        "testing-token"
+      ]
     },
     {
       "name": "HellCoin",
