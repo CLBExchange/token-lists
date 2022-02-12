@@ -2314,6 +2314,17 @@
       ]
     },
     {
+      "name": "Uzbek Coin",
+      "symbol": "UZB",
+      "logoURI": "https://github.com/sanjarbek1807/Uzbekcrypto/blob/main/msg453275494-436158.jpg",
+      "decimals": 0,
+      "address": "2L1CKRS2NzJPGB22m2CpMtFcEvujk4ehDHWJW8nTpxdA",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Panama",
       "symbol": "PNMA",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Panama.png",
@@ -25414,6 +25425,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "DeploraBills",
+      "symbol": "DPBLS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6c1QMK2LCCojQ59uaormMLvDj3K8Vpfk7Br4fMAqgpqE/logo.png",
+      "decimals": 0,
+      "address": "6c1QMK2LCCojQ59uaormMLvDj3K8Vpfk7Br4fMAqgpqE",
+      "chainId": 101,
+      "tags": [
+        "deplorable",
+        "free-speech",
+        "deplorabills"
+      ],
+      "extensions": {
+        "website": "https://deplorabills.com/"
+      }
     },
     {
       "name": "AstralApes",
