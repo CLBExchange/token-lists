@@ -3697,6 +3697,19 @@
       ]
     },
     {
+      "name": "Gems Of The Internet",
+      "symbol": "GOI",
+      "logoURI": "https://raw.githubusercontent.com/MrRobotop/gemsoftheineternet/main/logo.png",
+      "decimals": 0,
+      "address": "2dafTgJTtwDUx6RRYEv7Bxjp7nr1G6cyTP6cWQqXGjQ3",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (TULIP-USDC)",
       "symbol": "TULIP-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2doeZGLJyACtaG9DCUyqMLtswesfje1hjNA11hMdj6YU/logo.svg",
@@ -16642,6 +16655,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "CREDIT CARD SOL",
+      "symbol": "CREDITCARD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4t4Jq2LPFbePVe11HJJQByWhZgQWDkmRNhYtTo6rZa63/Coinlogo.png",
+      "decimals": 9,
+      "address": "4t4Jq2LPFbePVe11HJJQByWhZgQWDkmRNhYtTo6rZa63",
+      "chainId": 101,
+      "tags": [
+        "credit-card",
+        "solana"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/credit-card/"
+      }
     },
     {
       "name": "STEALTH COIN",
@@ -30340,6 +30368,27 @@
         "community",
         "Blockchain"
       ]
+    },
+    {
+      "name": "Cipherspace Credits",
+      "symbol": "CSC",
+      "logoURI": "https://raw.githubusercontent.com/Cipherspace-Credits/CSC/main/logo.png",
+      "decimals": 8,
+      "address": "7WSbzRYnisqGcYxG8yeCwViUbs3zGjpABAs7EAkMbj2y",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://www.cipherspace.credit",
+        "twitter": "https://twitter.com/Cipherspace_Cr",
+        "discord": "https://discord.gg/3UJRJfeMmk",
+        "description": "Credits to be used in Cipherspace"
+      }
     },
     {
       "name": "VMW Hands on Team - Coin of Excellence",
