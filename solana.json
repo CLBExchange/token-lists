@@ -11490,6 +11490,24 @@
       ]
     },
     {
+      "name": "SlyFox Governance Token",
+      "symbol": "SlyAF",
+      "logoURI": "https://github.dev/mfhunt/token-list-1/blob/fe4bb38263edce5801507623aa77ca8aa7f4857c/assets/mainnet/3tp5LKhVc6ZaQ9aXNA4ufxNMnoz7aWK7NRRn4cxThY3e/logo.png",
+      "decimals": 0,
+      "address": "3tp5LKhVc6ZaQ9aXNA4ufxNMnoz7aWK7NRRn4cxThY3e",
+      "chainId": 101,
+      "tags": [
+        "Utility-Token",
+        "Community-Token",
+        "social-token",
+        "Governance-Token"
+      ],
+      "extensions": {
+        "website": "https://www.sly-fox.io",
+        "discord": "https://discord.gg/g9QaNkk6HW"
+      }
+    },
+    {
       "name": "Gawd Token",
       "symbol": "GAWD",
       "logoURI": "https://cdn.jsdelivr.net/gh/MaloSkylar/GAWDtoken/GAWDlogo.jpg",
@@ -25364,6 +25382,21 @@
         "serumV3Usdt": "HLvRdctRB48F9yLnu9E24LUTRt89D48Z35yi1HcxayDf",
         "serumV3Usdc": "5CZXTTgVZKSzgSA3AFMN5a2f3hmwmmJ6hU8BHTEJ3PX8",
         "coingeckoId": "akropolis"
+      }
+    },
+    {
+      "name": "Gezondheid Adviseur",
+      "symbol": "INTRODUCTION",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6WP1cizTmefsGBhKu2Fyb2XLS7G29h1ktNp6NWD628FB/gezond.png",
+      "decimals": 0,
+      "address": "6WP1cizTmefsGBhKu2Fyb2XLS7G29h1ktNp6NWD628FB",
+      "chainId": 101,
+      "tags": [
+        "gezondheid-adviseur",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/gezondheid-adviseur/"
       }
     },
     {
@@ -72287,6 +72320,17 @@
       ]
     },
     {
+      "name": "DoctorP",
+      "symbol": "DrP",
+      "logoURI": "https://raw.githubusercontent.com/iddoc2022/crypto/main/DrP.png",
+      "decimals": 9,
+      "address": "DxEmFstA2MDKsSpDngDG1AbJpAc4gPXXcXMZ81tKCBoj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MagiCoin",
       "symbol": "MGCN",
       "logoURI": "https://raw.githubusercontent.com/leonelafonsoe/magicoin/main/logo.png",
@@ -101823,6 +101867,22 @@
         "facebook": "https://www.facebook.com/winerz.official",
         "instagram": "https://www.instagram.com/winerz.official/",
         "whitepaper": "https://ico.winerz.com/assets/docs/Winerz-Token-Economics.pdf"
+      }
+    },
+    {
+      "name": "Zeeland Homes BV",
+      "symbol": "COMPANY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WNhMkZGcWM9WbzkLqWGJb6DdfCcCW2JwEHbPRPjTHfq/blockstonePNG.png",
+      "decimals": 0,
+      "address": "WNhMkZGcWM9WbzkLqWGJb6DdfCcCW2JwEHbPRPjTHfq",
+      "chainId": 101,
+      "tags": [
+        "Company",
+        "Zeeland-Homes-BV",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/zeeland-homes/"
       }
     },
     {
