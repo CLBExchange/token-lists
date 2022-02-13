@@ -44909,6 +44909,17 @@
       ]
     },
     {
+      "name": "Cabbage To Earth Coin",
+      "symbol": "CTE",
+      "logoURI": "https://raw.githubusercontent.com/SGB1986/Cabbage/main/273467447_654316445879810_8753904468743291567_n.png",
+      "decimals": 0,
+      "address": "9kU82wzvUn4uLXxRW2rd2MwqJcZRrBEtotatx81t9GJd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "AwfulCoin",
       "symbol": "AWCN",
       "logoURI": "https://raw.githubusercontent.com/AwfulGamer1/crypto/main/40397979_10155824824890773_871328072698167296_n.png",
@@ -49414,6 +49425,25 @@
         "facebook": "https://www.facebook.com/ziggymoens",
         "instagram": "https://www.instagram.com/ziggymoens",
         "linkedin": "https://www.linkedin.com/in/ziggymoens"
+      }
+    },
+    {
+      "name": "Batman Coin",
+      "symbol": "BAT",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Batman-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "ANtz84NtpCmMtr2smcXw1YUKtPGhgUrvLdb5cF2pN64D",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "batman-token"
+      ],
+      "extensions": {
+        "website": "https://www.thebatman.com",
+        "twitter": "https://twitter.com/dcbatman"
       }
     },
     {
