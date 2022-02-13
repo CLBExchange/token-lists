@@ -18163,6 +18163,17 @@
       }
     },
     {
+      "name": "The VELS Home",
+      "symbol": "VELS",
+      "logoURI": "https://raw.githubusercontent.com/Ljssoares/Mycripto/main/logo.png",
+      "decimals": 0,
+      "address": "59d9er76s7xUzTxwJx797crEBDC5vsKZdemQvJ5Z4HGJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "INR Coin",
       "symbol": "INRC",
       "logoURI": "https://raw.githubusercontent.com/gsingh72/coin/main/inr-coin-inrc-logo.png",
@@ -95373,6 +95384,17 @@
       "logoURI": "https://raw.githubusercontent.com/Ravask/crypto/main/sande-coin.png",
       "decimals": 0,
       "address": "J1SwjFPmo9zNE6UV1FphcR7ohkaLecCYDeKTkWHiNgKM",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "ImaniJabaliKoin",
+      "symbol": "MANIJABZ",
+      "logoURI": "https://raw.githubusercontent.com/jambazi1/MANIJABZ/main/MANIJABZ.png",
+      "decimals": 0,
+      "address": "J1T2yjgZLWWrZEQ5J4Mmo2NrXmZJGN8XrQcsi6T7hzRn",
       "chainId": 101,
       "tags": [
         "social-token"
