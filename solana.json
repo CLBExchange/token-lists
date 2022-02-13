@@ -29939,6 +29939,17 @@
       ]
     },
     {
+      "name": "SulKoin",
+      "symbol": "SULK",
+      "logoURI": "https://raw.githubusercontent.com/boijoely/sulc/main/logo.png",
+      "decimals": 0,
+      "address": "7KUe1wcih2dnDi9q5QrrWAFzJLNKL19tpcNqBy5EbpCh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "HoracioCoin",
       "symbol": "HTKN",
       "logoURI": "https://github.com/hhtokenadmin/htoken/blob/main/logo.png",
@@ -50054,6 +50065,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "SOLFUND",
+      "symbol": "FUND",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVAayYjzz8FuGGwu1g37F5im1T5foYgjnmC87cdAtFhk/Coinlogo.png",
+      "decimals": 0,
+      "address": "AVAayYjzz8FuGGwu1g37F5im1T5foYgjnmC87cdAtFhk",
+      "chainId": 101,
+      "tags": [
+        "Fund",
+        "Investments",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/solfund/"
+      }
     },
     {
       "name": "Saber aaWBTC-renBTC LP",
@@ -70948,6 +70975,22 @@
       }
     },
     {
+      "name": "ART Coin",
+      "symbol": "ART",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn7UyZBD99Jw2NuDXmij5Ao34LmxNhLaPDAzayasaCjB/Coinlogo.png",
+      "decimals": 0,
+      "address": "Dn7UyZBD99Jw2NuDXmij5Ao34LmxNhLaPDAzayasaCjB",
+      "chainId": 101,
+      "tags": [
+        "Art",
+        "Investments",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/art-coin/"
+      }
+    },
+    {
       "name": "Yassin Bucks",
       "symbol": "YASB",
       "logoURI": "https://raw.githubusercontent.com/YassinAbdi/crypto/main/logo.png",
@@ -81703,6 +81746,17 @@
         "discord": "https://discord.gg/vvY56JgKuB",
         "telegram": "https://t.me/joinchat/2dcSL62oXSpmZjIx"
       }
+    },
+    {
+      "name": "Champions Circle",
+      "symbol": "CCIRCLE",
+      "logoURI": "https://raw.githubusercontent.com/cv1s1on/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "FcepxdeiBJHzRGSd3Xs6V2WZyRa1HkunonLfK8rSAAAj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Twirl Governance Token",
@@ -94779,6 +94833,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Blockstone Company Fund",
+      "symbol": "COMPANY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HqR91GXLmMjWYWJCBnBLUd6ahnddQJR2zSb3bqw5B4Hw/blockstonePNG.png",
+      "decimals": 0,
+      "address": "HqR91GXLmMjWYWJCBnBLUd6ahnddQJR2zSb3bqw5B4Hw",
+      "chainId": 101,
+      "tags": [
+        "Fund",
+        "Companies",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/blockstone-company-fund/"
+      }
     },
     {
       "name": "Homeqube",
