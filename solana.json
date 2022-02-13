@@ -29723,6 +29723,21 @@
       ]
     },
     {
+      "name": "Mikuko Token",
+      "symbol": "Miku",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GNyprqrpvJHNwzWSj4KVkqw9cKyV5aR3ehM2HeE5pw/logo.png",
+      "decimals": 0,
+      "address": "7GNyprqrpvJHNwzWSj4KVkqw9cKyV5aR3ehM2HeE5pw",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Kirin_Kingdom",
+        "discord": "https://discord.com/invite/kirinkingdom"
+      }
+    },
+    {
       "name": "Wookie Cookie Credits",
       "symbol": "WCC",
       "logoURI": "https://raw.githubusercontent.com/ad6321/crypto/main/wookiecookie_logo.jpg",
@@ -59202,6 +59217,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "The Xenobots Project",
+      "symbol": "XENO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bwfe7DwmEDvjEBZGbQnDU8CrwZsuvYaed1VuQ8KDTGsS/logo.png",
+      "decimals": 0,
+      "address": "Bwfe7DwmEDvjEBZGbQnDU8CrwZsuvYaed1VuQ8KDTGsS",
+      "chainId": 101,
+      "tags": [
+        "XENO",
+        "nft",
+        "gaming"
+      ],
+      "extensions": {
+        "website": "https://thexenobotsproject.com/",
+        "twitter": "https://twitter.com/XenobotsNFT",
+        "discord": "https://discord.gg/xenobotsnft"
+      }
     },
     {
       "name": "Vodacoin crypto",
