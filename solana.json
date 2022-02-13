@@ -28324,6 +28324,17 @@
       }
     },
     {
+      "name": "Sealz",
+      "symbol": "ARF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/72NBPHtsUkLvk4KpPcDCiDnaHPoP8XvBGZsjcsSSkyi9/logo.png",
+      "decimals": 9,
+      "address": "72NBPHtsUkLvk4KpPcDCiDnaHPoP8XvBGZsjcsSSkyi9",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sealzdao.com"
+      }
+    },
+    {
       "name": "Doge Ex-Girlfriend",
       "symbol": "EXGF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/72VTRtQ6dBfsRzqSNPN5Ws9Bk6GEZCcMWm94oWiiYRiv/logo.png",
@@ -98783,6 +98794,28 @@
       ]
     },
     {
+      "name": "ROC",
+      "symbol": "ROC",
+      "logoURI": "https://assets.blockstars.gg/static/ROC.svg",
+      "decimals": 6,
+      "address": "RoCK9ocDq7Ga8s2VGAgJxNjAgByYd2dyps5WCwVLDMm",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://blockstars.gg",
+        "twitter": "https://twitter.com/blockstarsgame",
+        "medium": "https://blog.blockstars.gg",
+        "discord": "https://discord.gg/blockstars",
+        "description": "$ROC is the governance token used in Blockstars, Solana's first management simulation game.",
+        "facebook": "https://www.facebook.com/blockstarsgame",
+        "instagram": "https://instagram.com/blockstarsgame",
+        "reddit": "https://www.reddit.com/r/blockstarsgame"
+      }
+    },
+    {
       "name": "Rock",
       "symbol": "RCK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RoCKnAqV8LmchWKBdpapKj9sPaM1F9kiNDxvLU8sN8d/logo.png",
@@ -98808,6 +98841,28 @@
         "twitter": "https://twitter.com/MoonrocksMeta",
         "discord": "https://discord.gg/WF5XWfJQ",
         "description": "Mint your base moonrocks at https://get.basemoonrock.store"
+      }
+    },
+    {
+      "name": "ROL",
+      "symbol": "ROL",
+      "logoURI": "https://assets.blockstars.gg/static/ROL.svg",
+      "decimals": 6,
+      "address": "RoLLn5qBN4juQ1D2KFpJyAcC7Deo3cYotXi4qDooHLU",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://blockstars.gg",
+        "twitter": "https://twitter.com/blockstarsgame",
+        "medium": "https://blog.blockstars.gg",
+        "discord": "https://discord.gg/blockstars",
+        "description": "$ROL is the core gameplay token used in Blockstars, Solana's first management simulation game.",
+        "facebook": "https://www.facebook.com/blockstarsgame",
+        "instagram": "https://instagram.com/blockstarsgame",
+        "reddit": "https://www.reddit.com/r/blockstarsgame"
       }
     },
     {
@@ -101343,6 +101398,22 @@
       "decimals": 2,
       "address": "YLTrJGCqZpwZZbCN2D3KTg4PuGBofto8ciqYdPoQEgd",
       "chainId": 101
+    },
+    {
+      "name": "BOLT",
+      "symbol": "BOLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YNnTDhbhseADo4q8QX8Kfy6FWDrCV3PLVG4wcuDWh4G/logo.png",
+      "decimals": 9,
+      "address": "YNnTDhbhseADo4q8QX8Kfy6FWDrCV3PLVG4wcuDWh4G",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.skullbots.io/",
+        "twitter": "https://twitter.com/SKULLBOTS",
+        "discord": "https://discord.gg/skullbots"
+      }
     },
     {
       "name": "Developer Utility Token",
