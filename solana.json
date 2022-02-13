@@ -17729,6 +17729,17 @@
       ]
     },
     {
+      "name": "REG Tokens",
+      "symbol": "$REG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/54vCmCdKk3hkT76CJKmhJq7G1FWL3CTuGNkAa2sRVzAv/logo.png",
+      "decimals": 9,
+      "address": "54vCmCdKk3hkT76CJKmhJq7G1FWL3CTuGNkAa2sRVzAv",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "KolaZoin",
       "symbol": "ZKB",
       "logoURI": "https://github.com/Aceboone011/cryptoZKB/blob/9232cad70e918c9f02b46f4d2b287af0dc6dffa3/logo.png",
@@ -29285,6 +29296,17 @@
         "website": "https://www.civic.com/",
         "twitter": "https://twitter.com/civickey",
         "discord": "https://discord.gg/MWmhXauJw8"
+      }
+    },
+    {
+      "name": "Wormhole wrapped XSGD(eth)",
+      "symbol": "XSGD",
+      "logoURI": "https://i.imgur.com/iXKK4YQ.png",
+      "decimals": 8,
+      "address": "7BjGUzsCJBXuT21QS4tkEdWf4DyFbJz4wAZRbkoCVizm",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://straitsx.com"
       }
     },
     {
@@ -77319,6 +77341,17 @@
       "chainId": 101
     },
     {
+      "name": "Sucker Coin",
+      "symbol": "SCKC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EuijzUe5SDQjg4Gpia8Jt8EsVdGmR8sA16FCH9SpmeHW/logo.png",
+      "decimals": 9,
+      "address": "EuijzUe5SDQjg4Gpia8Jt8EsVdGmR8sA16FCH9SpmeHW",
+      "chainId": 101,
+      "tags": [
+        "Sucker-coin"
+      ]
+    },
+    {
       "name": "Nene Coin",
       "symbol": "NENE",
       "logoURI": "https://raw.githubusercontent.com/MatsWeckhorst/crypto/main/nenelogo.png",
@@ -85329,6 +85362,14 @@
         "twitter": "https://twitter.com/SolanaCatCartel",
         "discord": "http://discord.gg/catcartel"
       }
+    },
+    {
+      "name": "BRG Milk Token",
+      "symbol": "BRM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GDePUpH7aFkxYx6ufPseSJEdLphxsSF58cFVqoUxv9Nt/brmlogo.png",
+      "decimals": 8,
+      "address": "GDePUpH7aFkxYx6ufPseSJEdLphxsSF58cFVqoUxv9Nt",
+      "chainId": 101
     },
     {
       "name": "Metacar Token",
