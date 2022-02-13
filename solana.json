@@ -22420,6 +22420,21 @@
       }
     },
     {
+      "name": "Tribu Coin",
+      "symbol": "TRIBU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xNfxFAesUqRQnG4Y4VGBdBR3jCaxEHGztoxQxruN8Hb/tribu.png",
+      "decimals": 9,
+      "address": "5xNfxFAesUqRQnG4Y4VGBdBR3jCaxEHGztoxQxruN8Hb",
+      "chainId": 101,
+      "tags": [
+        "tribu-coin",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://tribuapp.tech"
+      }
+    },
+    {
       "name": "RNFTz",
       "symbol": "RNFTz",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xgRqfw4DqzjrriXEWduzo8iW8Uj1KzDsPt1pSLVQVJh/logo.png",
@@ -50437,6 +50452,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Perky Mint Coin",
+      "symbol": "PMCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AXgZjDfLxYqr8Sxix5vztYie6PVwKB5miYNnR5YR6ANX/logo.png",
+      "decimals": 0,
+      "address": "AXgZjDfLxYqr8Sxix5vztYie6PVwKB5miYNnR5YR6ANX",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://perkypikas.com"
+      }
     },
     {
       "name": "SolGrabber",
