@@ -3757,6 +3757,25 @@
       ]
     },
     {
+      "name": "Ill Bill Coin",
+      "symbol": "ILLB",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Ill-Bill-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "2dDpeiquywrXutiFJUduYTEkF9oorXFBdcUDWZ5HpxE7",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "game-token",
+        "meme-token",
+        "ilbill-token"
+      ],
+      "extensions": {
+        "website": "https://store.shopbenchmark.net/collections/ill-bill",
+        "twitter": "https://twitter.com/illb1ll"
+      }
+    },
+    {
       "name": "CnnctingKoin",
       "symbol": "CNNC",
       "logoURI": "https://raw.githubusercontent.com/robermakram/Cryptocurrency/main/IMG_4092.png",
@@ -20215,6 +20234,17 @@
       ]
     },
     {
+      "name": "Drachma",
+      "symbol": "DRAH",
+      "logoURI": "https://raw.githubusercontent.com/bouloutas/crypto/main/Drachma.png",
+      "decimals": 0,
+      "address": "5WypLazEE66ARzDjAQrndirRoneWgTFDtKzoCvfHu5N8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "XppiCoin",
       "symbol": "XPPI",
       "logoURI": "https://raw.githubusercontent.com/xppi/xppicoin/main/logo.png",
@@ -33418,6 +33448,24 @@
       "extensions": {
         "website": "https://moveflow.tech",
         "serumV3Usdc": "Cc2K7Ao4FtgoquT2ua7zvRuYnQMBSz2s83A5zTyR8h2z"
+      }
+    },
+    {
+      "name": "Necro Coin",
+      "symbol": "NCR",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Necro-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "7tHKMb727bjpjWS6xVU59aj8KCcsoBjiUVsZbgkrkGvv",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "necro-token"
+      ],
+      "extensions": {
+        "website": "https://www.necrohiphop.com/",
+        "twitter": "https://twitter.com/necro_is_god"
       }
     },
     {
@@ -58288,6 +58336,18 @@
       }
     },
     {
+      "name": "SolFounder token",
+      "symbol": "SFD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BnJp2dd5zEQJKMd48Ac84Evd8ocPa2KpCfVmCG9PrFwi/logo.png",
+      "decimals": 9,
+      "address": "BnJp2dd5zEQJKMd48Ac84Evd8ocPa2KpCfVmCG9PrFwi",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "loop"
+      ]
+    },
+    {
       "name": "Royal Blood Token",
       "symbol": "RBC",
       "logoURI": "https://github.com/Remedies84/crypto/blob/main/Royal%20Blood%20Token%20Logo.jpg",
@@ -59885,6 +59945,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Tiny Bonez",
+      "symbol": "T1NY",
+      "logoURI": "https://raw.githubusercontent.com/danvernon/tiny-dogz-logo/main/coin.png",
+      "decimals": 0,
+      "address": "C5xtJBKm24WTt3JiXrvguv7vHCe7CknDB7PNabp4eYX6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.tinydogz.com",
+        "twitter": "https://twitter.com/TinyDogzNFT",
+        "discord": "https://discord.gg/K3rqQVxDdX"
+      }
     },
     {
       "name": "Juliette",
@@ -61530,6 +61606,17 @@
       "extensions": {
         "website": "https://coinalpha.app/"
       }
+    },
+    {
+      "name": "Earth Coin",
+      "symbol": "ERTH",
+      "logoURI": "https://raw.githubusercontent.com/MrEmeraldSlime/crypto/main/palette.png",
+      "decimals": 0,
+      "address": "CL1khybavkZhyKY1zQvMYGRqyxGxjATT5VxGg7wGENDn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Samoyed Crosschain",
@@ -65395,6 +65482,21 @@
         "website": "https://www.egeefes.com/",
         "description": "The one and only EgeCoin! Made by Ege Efes.",
         "instagram": "https://egeefes.com/instagram/"
+      }
+    },
+    {
+      "name": "STARDUST",
+      "symbol": "SDT",
+      "logoURI": "https://raw.githubusercontent.com/ScarceProject/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "CtgocDbemGswwGezYT37aj3hax5VDVCzWcbMNgsHExB6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://polypursue.com/",
+        "twitter": "https://twitter.com/polypursue"
       }
     },
     {
@@ -71566,6 +71668,17 @@
       "logoURI": "https://raw.githubusercontent.com/mindmaster7/ZBC/main/logo.png",
       "decimals": 0,
       "address": "Ds644r6pUQZVt6wX4THmey2ejWSeqq2CDpiisiGcUKij",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Silent Coin",
+      "symbol": "SILN",
+      "logoURI": "https://raw.githubusercontent.com/joseraeiro/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "DsAc94BXEs9H4BKSE4CrApEBZ3faLDnGwjV7NYKgxiWg",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -85503,6 +85616,24 @@
       }
     },
     {
+      "name": "SpiderMan Coin",
+      "symbol": "SPDR",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/SpiderMan-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "GCn5mmHAdas3QjW38GmXVL8BnEDjuytRRhQLxBGqghjr",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "spiderman-token"
+      ],
+      "extensions": {
+        "website": "https://www.marvel.com/characters/spider-man-peter-parker",
+        "twitter": "https://twitter.com/spiderman"
+      }
+    },
+    {
       "name": "NUTS",
       "symbol": "NUTS",
       "logoURI": "https://user-images.githubusercontent.com/93886730/140664862-6dd80bff-be30-4c68-a978-fcb205011d61.png",
@@ -87093,6 +87224,20 @@
         "twitter": "https://twitter.com/Lagrange_fi",
         "github": "https://github.com/Lagrange-fi",
         "discord": "https://discord.gg/lagrange-fi"
+      }
+    },
+    {
+      "name": "Demigod Cats WL Token",
+      "symbol": "DGCWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GTgfkNU1jbSaHFLHdijzJ75s6TjLRZt5FsA1J7aQgJHS/logo.png",
+      "decimals": 0,
+      "address": "GTgfkNU1jbSaHFLHdijzJ75s6TjLRZt5FsA1J7aQgJHS",
+      "chainId": 101,
+      "tags": [
+        "dgc-wl-token"
+      ],
+      "extensions": {
+        "website": "https://demigodcats.com"
       }
     },
     {
