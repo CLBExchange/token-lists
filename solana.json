@@ -26734,6 +26734,17 @@
       ]
     },
     {
+      "name": "AIVEN COIN",
+      "symbol": "AIVN",
+      "logoURI": "https://raw.githubusercontent.com/DeVReV27/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "6kqr5FDAEPAPfHZJDSrZV5qaZm9xWbYNbVVois3Qd5fs",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Biconomy Token",
       "symbol": "BIT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6kr8q1SXXNRLy3imzDsecWkcRtzJiXqiXx1N7LtpMPTe/logo.png",
@@ -51810,6 +51821,17 @@
       "logoURI": "https://raw.githubusercontent.com/VerheijenWebdevelopment/CrazyMittaCoin/main/logo.png",
       "decimals": 9,
       "address": "Ajz6Gc9H4efEfHXCpzNJwcg1dacUn6numfFoUHJcAUT1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "The SOL Hedgehog",
+      "symbol": "$Hedgie",
+      "logoURI": "https://raw.githubusercontent.com/danny8252/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "Ak6ZqnuToBysp4Em8S5VH4TL7BBKL8cyGNHUz1vY1Vry",
       "chainId": 101,
       "tags": [
         "social-token"
