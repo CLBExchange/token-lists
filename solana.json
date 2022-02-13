@@ -69597,6 +69597,17 @@
       "chainId": 101
     },
     {
+      "name": "Vesna",
+      "symbol": "VSN",
+      "logoURI": "https://raw.githubusercontent.com/pavelbrn/LinkData/main/IMGs/VesnaIconLogoPNG.png",
+      "decimals": 0,
+      "address": "Da1B9dCFi8im1KL9Gf3Uwmnq67SjgLdxtmZ8wpMVTwb3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "UBE Token",
       "symbol": "UBE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Da1jboBKU3rqXUqPL3L3BxJ8e67ogVgVKcqy4rWsS7LC/logo.png",
@@ -85449,6 +85460,17 @@
       "logoURI": "https://raw.githubusercontent.com/BumbieruInvestor/Bumbieri/main/logo.png",
       "decimals": 0,
       "address": "GCzUTpii6QSMoAnqY2rKwXUS7EHWCYbA2X4CawNGnVt1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "CleanworldEnergy",
+      "symbol": "CWE",
+      "logoURI": "https://raw.githubusercontent.com/WayTo1Million/CWE/main/CW-Energy.png",
+      "decimals": 0,
+      "address": "GD2QbNQPqr36RvXV8bWrhE18mdMLXiYY5438PH3wv6Yz",
       "chainId": 101,
       "tags": [
         "social-token"
