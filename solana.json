@@ -888,6 +888,14 @@
       ]
     },
     {
+      "name": "SolTee Balls",
+      "symbol": "STB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25CNQuwBrHNkCHUMbLUjfUcfGBrepGB6gw53LNsTGGZ9/logo.png",
+      "decimals": 6,
+      "address": "25CNQuwBrHNkCHUMbLUjfUcfGBrepGB6gw53LNsTGGZ9",
+      "chainId": 101
+    },
+    {
       "name": "Nice Click",
       "symbol": "CLICK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25DXQbnQicHzZ6sH4HgbhpEGUahxEPZUkPkFbU2Jr7D3/logo.png",
@@ -19372,6 +19380,17 @@
       }
     },
     {
+      "name": "Cleanworld Energy",
+      "symbol": "CWE",
+      "logoURI": "https://raw.githubusercontent.com/WayTo1Million/CWE/main/CW-Energy.png",
+      "decimals": 0,
+      "address": "5Pnvt8qDiMP96x5GHAQPYizgJzgfLJ2TPyTrhYfks6ZK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "AUM",
       "symbol": "OM",
       "logoURI": "https://raw.githubusercontent.com/ppbrahm/aum/main/aumlogo.png",
@@ -23821,6 +23840,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "CREDIT SOL",
+      "symbol": "CREDIT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6EwSsFYZFjfab1gMcinyqvZn5N19ByWaTWjRSUdkxemN/Coinlogo.png",
+      "decimals": 9,
+      "address": "6EwSsFYZFjfab1gMcinyqvZn5N19ByWaTWjRSUdkxemN",
+      "chainId": 101,
+      "tags": [
+        "Credit",
+        "Guarantee",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/credit-sol/"
+      }
     },
     {
       "name": "MLEM Token",
@@ -75391,6 +75426,25 @@
       }
     },
     {
+      "name": "botXcoin",
+      "symbol": "BOTX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbmZ9fE3XxMUr1vEcjvrRqLJv3p9Zjs5fXeZBUGFgC7y/logo.png",
+      "decimals": 8,
+      "address": "EbmZ9fE3XxMUr1vEcjvrRqLJv3p9Zjs5fXeZBUGFgC7y",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "ethereum",
+        "wormhole-v2"
+      ],
+      "extensions": {
+        "website": "https://www.botx.network",
+        "coingeckoId": "botxcoin",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/botxcoin/",
+        "instagram": "https://www.instagram.com/botxofficial/"
+      }
+    },
+    {
       "name": "Aave interest bearing WETH (Wormhole v1)",
       "symbol": "waWETH_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbpkofeWyiQouGyxQAgXxEyGtjgq13NSucX3CNvucNpb/logo.png",
@@ -88139,6 +88193,14 @@
       ]
     },
     {
+      "name": "Spirits of the Mountain Token",
+      "symbol": "SOMT",
+      "logoURI": "https://raw.githubusercontent.com/donaldlee725/som-pfp/main/logo.png",
+      "decimals": 9,
+      "address": "GdeT55oxg67xcVB3CjkAZveDQo1rfz6XQD7icv8N1JKs",
+      "chainId": 101
+    },
+    {
       "name": "Pete Coin",
       "symbol": "PTCN",
       "logoURI": "https://raw.githubusercontent.com/Kayyo321/Pete_Coin/main/peteLogo.png",
@@ -94415,6 +94477,22 @@
       ]
     },
     {
+      "name": "EURO CREDIT",
+      "symbol": "CREDIT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hm1Q9s9gakYp3c6Jh3YqxGaxHJcUc7tCQH9jw6C2Mu5e/Coinlogo.png",
+      "decimals": 2,
+      "address": "Hm1Q9s9gakYp3c6Jh3YqxGaxHJcUc7tCQH9jw6C2Mu5e",
+      "chainId": 101,
+      "tags": [
+        "EURO",
+        "guaranteed",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/euro-credit/"
+      }
+    },
+    {
       "name": "OUTDOORSMAN COIN",
       "symbol": "OUT",
       "logoURI": "https://github.dev/mfhunt/token-list-1/blob/fe4bb38263edce5801507623aa77ca8aa7f4857c/assets/mainnet/HmKMP6mEfbdLDKSL7bpV41QTe4ECNJWNCXbpYUavAauh/logo.png",
@@ -97557,6 +97635,20 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/mai"
+      }
+    },
+    {
+      "name": "MAO Tokendong",
+      "symbol": "MAO",
+      "logoURI": "https://raw.githubusercontent.com/KKQanT/token-list/main/assets/mainnet/MAoMixaSaG7TkXNKQLaqfcK2VKxigePnEU7Vm89ezN5/logo.png",
+      "decimals": 0,
+      "address": "MAoMixaSaG7TkXNKQLaqfcK2VKxigePnEU7Vm89ezN5",
+      "chainId": 101,
+      "tags": [
+        "test-run-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KKQanTT"
       }
     },
     {
