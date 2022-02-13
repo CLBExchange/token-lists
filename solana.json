@@ -406,6 +406,14 @@
       }
     },
     {
+      "name": "Bananas",
+      "symbol": "$BNN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/14oGis8Lv2y8FEX8MdmUz9g48hpLY7cEKR4BRYxHbUAQ/logo.png",
+      "decimals": 9,
+      "address": "14oGis8Lv2y8FEX8MdmUz9g48hpLY7cEKR4BRYxHbUAQ",
+      "chainId": 101
+    },
+    {
       "name": "Solana Puppy Pound Treats",
       "symbol": "TREATS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/14r8dWfzmUUBpw59w5swNRb5F1YWqmUnSPgD6djUs1Jj/logo.png",
@@ -42972,6 +42980,17 @@
       ]
     },
     {
+      "name": "BuBasTeamCoin",
+      "symbol": "BBTC",
+      "logoURI": "https://raw.githubusercontent.com/AntMar23/BubasTeamCoin/main/BBTC.png",
+      "decimals": 0,
+      "address": "9R6a6XQjY8U7j8ae1Gd5GVcrrjtPDRSbgeEYmmHVdVpQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "PEACE",
       "symbol": "OliveBranch",
       "logoURI": "https://raw.githubusercontent.com/rwererfwe/peace/f8fb9422752cdb25ef7c12d58261530ed176fde9/PEACE.png",
@@ -43695,6 +43714,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Dapper Ducks Eggs",
+      "symbol": "EGGZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9XczSh86n8XKkDuL4yK93afRHgSifui9j9sFPHQLfFUT/logo.png",
+      "decimals": 0,
+      "address": "9XczSh86n8XKkDuL4yK93afRHgSifui9j9sFPHQLfFUT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.thedapperducks.com",
+        "discord": "https://discord.gg/DapperDucks",
+        "description": "$EGGZ are the utility token for the Dapper Ducks Universe use to purchase a multitude of items from The Pond."
+      }
     },
     {
       "name": "Raydium LP Token V4 (SRM-USDC)",
@@ -59283,6 +59318,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "MetaMalls Token",
+      "symbol": "MetaBalls",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BvKybzGCJCGjXuhjcokbEZ5SPstsU8NoFjFnPabmni6S/logo.png",
+      "decimals": 9,
+      "address": "BvKybzGCJCGjXuhjcokbEZ5SPstsU8NoFjFnPabmni6S",
+      "chainId": 101
     },
     {
       "name": "YouBaby Coin",
