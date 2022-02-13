@@ -18468,6 +18468,23 @@
       ]
     },
     {
+      "name": "SLACC Whitelist",
+      "symbol": "SLACC",
+      "logoURI": "https://raw.githubusercontent.com/SlaccWhitelist/uploads/main/logo.png",
+      "decimals": 9,
+      "address": "5DKNgVCJyq5VeKQgqKoTh17ARFUCeFQVmrSFXH3mTpYS",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://slacc.io",
+        "twitter": "https://twitter.com/SlaccSol",
+        "discord": "https://discord.gg/slacc"
+      }
+    },
+    {
       "name": "Aave Token (Wormhole v1)",
       "symbol": "wAAVE_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5DQZ14hLDxveMH7NyGmTmUTRGgVAVXADp3cP2UHeH6hM/logo.png",
@@ -64662,6 +64679,25 @@
       ]
     },
     {
+      "name": "Banz Bucks",
+      "symbol": "BANZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cnz4KS5VEogp9SCkZfXMYhBX6GUaeGBxZw5Lks3BMPY9/logo.png",
+      "decimals": 4,
+      "address": "Cnz4KS5VEogp9SCkZfXMYhBX6GUaeGBxZw5Lks3BMPY9",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.banzworld.com",
+        "twitter": "https://twitter.com/banzcarewear",
+        "description": "Banz Carewear for Kids. Sensitive care. Sensible choice.",
+        "facebook": "https://www.facebook.com/BANZCarewear",
+        "instagram": "https://www.instagram.com/banzaustralia/"
+      }
+    },
+    {
       "name": "Invokers Coin",
       "symbol": "$INV",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CnzCjrBQNzcwG1XEfBtP6kfvsbkLmXmSsHxR6UwgfXYQ/logo-iv.png",
@@ -65138,6 +65174,17 @@
         "serumV3Usdc": "GcoKtAmTy5QyuijXSmJKBtFdt99e6Buza18Js7j9AJ6e",
         "coingeckoId": "aleph"
       }
+    },
+    {
+      "name": "Tickets",
+      "symbol": "TIX",
+      "logoURI": "https://raw.githubusercontent.com/T3Toxic/Tickets/main/logo.png",
+      "decimals": 0,
+      "address": "CsbF4RjoWzKgMnQQRBqn5RgruLJt9DbgjBBsVTBEmtZg",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "ThreeD",
@@ -85230,6 +85277,20 @@
       "extensions": {
         "website": "https://www.varkalai.com",
         "description": "Varkalai Official DAO Token"
+      }
+    },
+    {
+      "name": "Galleon Token",
+      "symbol": "Galleon",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GALLEZFD9GsKv7yqbqwavwuv2hqq34xqAsbPJUL8EsRC/logo.png",
+      "decimals": 9,
+      "address": "GALLEZFD9GsKv7yqbqwavwuv2hqq34xqAsbPJUL8EsRC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://mint.solanalysis.com/wiz"
       }
     },
     {
