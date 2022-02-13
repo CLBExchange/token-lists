@@ -25078,6 +25078,20 @@
       }
     },
     {
+      "name": "SmashCoin",
+      "symbol": "SMBX20",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6VAqGYWWiPbBMsKY2LpdE21ECNeoMooobTdtSsw7LGUX/logo3.png",
+      "decimals": 9,
+      "address": "6VAqGYWWiPbBMsKY2LpdE21ECNeoMooobTdtSsw7LGUX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://smashbox20.com"
+      }
+    },
+    {
       "name": "Aral Sea",
       "symbol": "ARAL",
       "logoURI": "https://raw.githubusercontent.com/Kalimbay/aral/main/aral.png",
@@ -46872,6 +46886,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "TIME Coin",
+      "symbol": "TIME",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A6RaMVULGMZhKyFjiqchvonNBYbGEz3hAYvJZb2Zh5v7/watch.png",
+      "decimals": 2,
+      "address": "A6RaMVULGMZhKyFjiqchvonNBYbGEz3hAYvJZb2Zh5v7",
+      "chainId": 101,
+      "tags": [
+        "Investment",
+        "Time"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/time-coin/"
+      }
     },
     {
       "name": "Spizzo Token",
@@ -69246,6 +69275,20 @@
       }
     },
     {
+      "name": "Social Sauna Club",
+      "symbol": "SOSA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYXYVkCk4Xk7RpWdsnqZEkt2S1UBYHsSbj5ZWTWAHvHM/logo.png",
+      "decimals": 0,
+      "address": "DYXYVkCk4Xk7RpWdsnqZEkt2S1UBYHsSbj5ZWTWAHvHM",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SocialSaunaClub"
+      }
+    },
+    {
       "name": "Marijuana Joint",
       "symbol": "MARIJUANA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYbRXaQcnj44SH9woxvyFdtcKkSoPoCEshRTQDZSjsBm/logo.png",
@@ -87022,6 +87065,17 @@
       ]
     },
     {
+      "name": "WINKIE KOIN",
+      "symbol": "WNK",
+      "logoURI": "https://raw.githubusercontent.com/Fishbone5150/Solana_Crypto/main/Wink_Logo.png",
+      "decimals": 0,
+      "address": "GVzo3Asp4LgJ4wdFLBg2fv4XZXai5cGniZNyb32KeTkb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SteeLTv",
       "symbol": "SLT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GW6NUnFwVdbmobcKdHoDKANMjZ5NojtgoPCfSWbQhcrQ/logo.png",
@@ -91642,6 +91696,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Mortgage Coin",
+      "symbol": "MORTGAGE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HJLTaDvwcyHvLbvme81E2BtyxsURfazo34anUwTZDc3W/Coinlogo.png",
+      "decimals": 0,
+      "address": "HJLTaDvwcyHvLbvme81E2BtyxsURfazo34anUwTZDc3W",
+      "chainId": 101,
+      "tags": [
+        "mortgage-coin",
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/mortgage-coin/"
+      }
     },
     {
       "name": "Atlas Dex",
