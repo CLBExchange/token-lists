@@ -2192,6 +2192,25 @@
       "chainId": 101
     },
     {
+      "name": "Instagram Coin",
+      "symbol": "IG",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Instagram-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "2HyFkH3hvpj5PCGwYAaBVXGkgD1s2bCnkiGBv2ksVm4E",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "instagram-token"
+      ],
+      "extensions": {
+        "website": "https://about.instagram.com",
+        "twitter": "https://twitter.com/instagram"
+      }
+    },
+    {
       "name": "NYANS DOGES",
       "symbol": "NYANS",
       "logoURI": "https://raw.githubusercontent.com/nyansdoges/nyanstoken/main/nyans-token.png",
@@ -26610,6 +26629,25 @@
       }
     },
     {
+      "name": "Nike Coin",
+      "symbol": "NIKE",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Nike-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "6imwhega2b1AcDhbuY1mgQnJdoGdKoqfmX4tUTr6F8t9",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "nike-token"
+      ],
+      "extensions": {
+        "website": "https://nike.com",
+        "twitter": "https://twitter.com/nike"
+      }
+    },
+    {
       "name": "Angel Coin",
       "symbol": "ANGC",
       "logoURI": "https://raw.githubusercontent.com/SirSimon04/angel-coin/main/logo.png",
@@ -46940,6 +46978,17 @@
       }
     },
     {
+      "name": "Metaballs Token",
+      "symbol": "Metaballs",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV/logo.png",
+      "decimals": 3,
+      "address": "A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "Luck",
       "symbol": "LCK",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lck-logo.png",
@@ -66231,6 +66280,17 @@
       ]
     },
     {
+      "name": "NeftWorld Coin",
+      "symbol": "NEFT",
+      "logoURI": "https://raw.githubusercontent.com/neftworld/assets/main/logo.png",
+      "decimals": 0,
+      "address": "CyC1zVPGm9ARZYyxiv26Q5vm4vLQBv9n358gW4PB6oCW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "KUNAL",
       "symbol": "KUNAL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CyNssnsGPUK2j4GmdAbahwL6U229YL9nsz2e1gyBf3by/kunal.png",
@@ -72318,6 +72378,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "HJALTUN",
+      "symbol": "HJAL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DxCEtxi7dkTnGhypntokEuAAHdSn7n1oqtUMMYAAgfhb/logo.png",
+      "decimals": 6,
+      "address": "DxCEtxi7dkTnGhypntokEuAAHdSn7n1oqtUMMYAAgfhb",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://hjaltun.com",
+        "twitter": "https://twitter.com/HjaltunLondon",
+        "description": "HJAL is the token supporting Hjaltun's initiatives and its community. Hjaltun is one of the most innovative luxury stationery brands in Europe",
+        "instagram": "https://www.instagram.com/hjaltunlondon"
+      }
     },
     {
       "name": "DoctorP",
@@ -87078,6 +87157,23 @@
       ]
     },
     {
+      "name": "DPD",
+      "symbol": "DPD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GP9zY2D8CgMreoUdYQjyn7Fo7XCq9ubVnX3u4ot1wpgt/logo.png",
+      "decimals": 9,
+      "address": "GP9zY2D8CgMreoUdYQjyn7Fo7XCq9ubVnX3u4ot1wpgt",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://duckpatrol.io/",
+        "twitter": "https://twitter.com/DuckPatrolNFT"
+      }
+    },
+    {
       "name": "PrimeBech",
       "symbol": "BECH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GPF8ZZP6y1BkGAPLvmQCzkvVHvMUBko5e1pZzh8DD87Y/logo.png",
@@ -90764,6 +90860,17 @@
         "twitter": "https://twitter.com/thesolarmy",
         "discord": "https://discord.gg/solarmy"
       }
+    },
+    {
+      "name": "Dust Token",
+      "symbol": "DTT",
+      "logoURI": "https://raw.githubusercontent.com/TheReaperQc/crypto/main/Logo.png",
+      "decimals": 9,
+      "address": "H1bwyQiWQL7wWkcVKbp7NMQtXH2RaxABf1WgswYuKvVk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "YAKSA token",
@@ -97014,6 +97121,24 @@
       "extensions": {
         "vault": "https://fraktion.art/vault/8D1KmYWLdXZZiHqHbs8FS7Kw7RyF3jz2QbkhbwGGxhGj",
         "vaultPubkey": "8D1KmYWLdXZZiHqHbs8FS7Kw7RyF3jz2QbkhbwGGxhGj"
+      }
+    },
+    {
+      "name": "Nasa Coin",
+      "symbol": "NASA",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/NASA-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "JAfdyspue7J3GxWg9Gc1UWDJBqvMFDpfS2KMKWNW6dGh",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "nasa-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nasa"
       }
     },
     {
