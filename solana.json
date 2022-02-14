@@ -11489,6 +11489,17 @@
       }
     },
     {
+      "name": "AmeriKen",
+      "symbol": "ATPK",
+      "logoURI": "https://raw.githubusercontent.com/ekledzik/atpx/main/icon.png",
+      "decimals": 0,
+      "address": "3rL1r2wp7B63fwFzMQuYCQUZgWWKXS576UNnpBZZxRqt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Aave Interest bearing ENJ (Wormhole v1)",
       "symbol": "waENJ_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3rNUQJgvfZ5eFsZvCkvdYcbd9ZzS6YmtwQsoUTFKmVd4/logo.svg",
@@ -71896,6 +71907,17 @@
       }
     },
     {
+      "name": "BUIDL Token",
+      "symbol": "BUIDL",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmbqSmG9As6kvyzFZUQNAB3jGvzKaxYNz8uggJjR8F1LGe",
+      "decimals": 9,
+      "address": "DmR3GfYASk4nvLtm3SJrXZChS7cq7opvMnfvrXwik1z4",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
       "name": "Ween",
       "symbol": "WEENS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DmXfDUeyRJqnpvdjssGgUXwZrRFPXvu2DfMq4jfTTC9C/logo.png",
@@ -85231,6 +85253,17 @@
       "extensions": {
         "website": "https://etolar.org/"
       }
+    },
+    {
+      "name": "La cosa nostra project",
+      "symbol": "USSR",
+      "logoURI": "https://raw.githubusercontent.com/kartashowRoman/src/main/asset.png",
+      "decimals": 8,
+      "address": "FxpkAfCjjYzRn5fL5JSYBmzAG73m9EgJpyv4FojMficF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Phlek",
@@ -102987,6 +103020,17 @@
         "website": "https://cryptourios.io/tokens/dtok",
         "description": "Developer utility token is a community reward token for developers of cryptourios.io."
       }
+    },
+    {
+      "name": "EXOTIC",
+      "symbol": "EXO",
+      "logoURI": "https://raw.githubusercontent.com/ShichibukaiMatt/Crypto/main/logo.png",
+      "decimals": 6,
+      "address": "YaUTyaugMnz5qxoJmL8s8kQYiVRHa7PBRLoU9tw4Nxg",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "The Al Tino Token",
