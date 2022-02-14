@@ -8835,6 +8835,22 @@
       ]
     },
     {
+      "name": "EveryOne Coin",
+      "symbol": "EV1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91/logo.png",
+      "decimals": 9,
+      "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
+      "chainId": 101,
+      "tags": [
+        "currency"
+      ],
+      "extensions": {
+        "website": "https://everyonecoin.com/",
+        "twitter": "https://twitter.com/everyonecoin",
+        "facebook": "https://facebook.com/everyonecoin"
+      }
+    },
+    {
       "name": "Bella Coin",
       "symbol": "BELC",
       "logoURI": "https://raw.githubusercontent.com/apprentice39/BellaCoin/main/Bella5.png",
@@ -11604,7 +11620,7 @@
     {
       "name": "SlyFox Governance Token",
       "symbol": "SlyAF",
-      "logoURI": "https://github.dev/mfhunt/token-list-1/blob/fe4bb38263edce5801507623aa77ca8aa7f4857c/assets/mainnet/3tp5LKhVc6ZaQ9aXNA4ufxNMnoz7aWK7NRRn4cxThY3e/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ProCoreNFT/token-list/main/assets/mainnet/3tp5LKhVc6ZaQ9aXNA4ufxNMnoz7aWK7NRRn4cxThY3e/logo.png",
       "decimals": 0,
       "address": "3tp5LKhVc6ZaQ9aXNA4ufxNMnoz7aWK7NRRn4cxThY3e",
       "chainId": 101,
@@ -20803,6 +20819,21 @@
       ]
     },
     {
+      "name": "LingLing Coin",
+      "symbol": "LING",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Lingling-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "5an1UMFKA5gXGyhKJoqGawEiLao9Z3ymn1SBoXuNmFP",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "lingling-token"
+      ]
+    },
+    {
       "name": "JuRedstoner Coin",
       "symbol": "JR",
       "logoURI": "https://raw.githubusercontent.com/JuRedstoner/crypto/main/solana.png",
@@ -24157,6 +24188,8 @@
         "twitter": "https://twitter.com/ArtPunksNFT",
         "medium": "https://medium.com/@artpunknft",
         "discord": "http://discord.gg/artpunks",
+        "serumV3Usdc": "4wqFtfechUSNW1nJ3WK5ogy478GTa66H99RrKnz45fa9",
+        "coingeckoId": "arte",
         "description": "Utility token which is the fuel of the blockchain-art ARTE ecosystem."
       }
     },
@@ -24584,6 +24617,21 @@
         "handball",
         "cuchi12"
       ]
+    },
+    {
+      "name": "Based Coin",
+      "symbol": "BASED",
+      "logoURI": "https://raw.githubusercontent.com/Scrump/basedcoin/main/logo.png",
+      "decimals": 0,
+      "address": "6Jnew8Gxbt6cWXA4s3HRqET228SLcHYHdDqAEbSchMnL",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://thebasedcoin.com"
+      }
     },
     {
       "name": "PEPE Coin",
@@ -38443,6 +38491,17 @@
       }
     },
     {
+      "name": "ACOIN",
+      "symbol": "A$",
+      "logoURI": "https://raw.githubusercontent.com/alro1991/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "8bbQugNuT8hoUnaJ7xja5hCWgQsVgHK1hc74oXREC1Hq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Noss Coin",
       "symbol": "NOSS",
       "logoURI": "https://raw.githubusercontent.com/ItsNoss/noss-token/main/transparent-128.png?token=ANSJD3YSMXV7IRIZRXTVVPTBY2HB2",
@@ -49778,8 +49837,8 @@
     {
       "name": "MetaToken",
       "symbol": "MTK",
-      "logoURI": "https://raw.githubusercontent.com/SeogyuGim/Crypto/main/logo.png",
-      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ANXqXpSkTEuCnR27YK2AoHNH2CCbiSaKYAKcDQVMi6ar/logo.png",
+      "decimals": 9,
       "address": "ANXqXpSkTEuCnR27YK2AoHNH2CCbiSaKYAKcDQVMi6ar",
       "chainId": 101
     },
@@ -53446,6 +53505,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Technology Coin",
+      "symbol": "TECH",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Technology-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "AsU8cuPxynNeDoGetZ2HscoNkVmhz169f87tAWNb1LNN",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.1dsmedia.com"
+      }
     },
     {
       "name": "Shibalana Inu",
@@ -95221,6 +95296,20 @@
         "metaverse-blocks",
         "Community-Token"
       ]
+    },
+    {
+      "name": "Arx Coin",
+      "symbol": "ARX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HhoEAbSPui6EncKntxdToz8cPPLtacgshfKXUjzRYBUr/logo.png",
+      "decimals": 9,
+      "address": "HhoEAbSPui6EncKntxdToz8cPPLtacgshfKXUjzRYBUr",
+      "chainId": 101,
+      "tags": [
+        "Arxolotl"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/ARxolotl"
+      }
     },
     {
       "name": "YukaCoin",
