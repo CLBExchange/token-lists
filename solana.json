@@ -2592,6 +2592,20 @@
       }
     },
     {
+      "name": "Bois Coin",
+      "symbol": "$BOIS",
+      "logoURI": "https://cdn.discordapp.com/attachments/679118561649623070/942573815513354300/logo.png",
+      "decimals": 0,
+      "address": "2NRKkmiqktNt6c3wdFEdzQMZDQ8KpbR4HU7MFk1Jaw7x",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitch": "https://twitch.tv/gckluke"
+      }
+    },
+    {
       "name": "GitCompile Coin",
       "symbol": "GCC",
       "logoURI": "https://raw.githubusercontent.com/gitcompile/assets/main/logo.png",
@@ -63013,6 +63027,17 @@
       }
     },
     {
+      "name": "Grow East Point Vegging",
+      "symbol": "GEPV",
+      "logoURI": "https://raw.githubusercontent.com/cpatt2015/Crypto/main/vegging.png",
+      "decimals": 9,
+      "address": "CSdwvtbfVw9VD3qjMC8EbWWyximyHUdL2enj836pvvFK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hot Coin",
       "symbol": "HOTC",
       "logoURI": "https://raw.githubusercontent.com/Spidle/crypto/main/HOTLogo.png",
@@ -76050,6 +76075,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Venom",
+      "symbol": "VNM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZZogRzGFPLZYQBoetqeQpsCqFvYYE4DyRsF1rxJwey1/logo.png",
+      "decimals": 9,
+      "address": "EZZogRzGFPLZYQBoetqeQpsCqFvYYE4DyRsF1rxJwey1",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://slimeysnake.club",
+        "twitter": "https://twitter.com/SlimeySnakeClub",
+        "discord": "https://discord.gg/y42pXAFFVH",
+        "instagram": "https://www.instagram.com/SlimeySnakeClub"
+      }
     },
     {
       "name": "Little Nugget",
