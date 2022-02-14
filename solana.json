@@ -3393,6 +3393,21 @@
       ]
     },
     {
+      "name": "Ahome",
+      "symbol": "BLOCKSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YjFA4xNN3qaxpnVAciF7VvnzuF4GzbiNziu2uxRY9Wm/blockstonePNG.png",
+      "decimals": 0,
+      "address": "2YjFA4xNN3qaxpnVAciF7VvnzuF4GzbiNziu2uxRY9Wm",
+      "chainId": 101,
+      "tags": [
+        "Real-estate",
+        "Blockstone-fund"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/ahome/"
+      }
+    },
+    {
       "name": "H2 XLK Definitive Coin",
       "symbol": "H2XLKD",
       "logoURI": "https://raw.githubusercontent.com/M0RPH10U5/H2XLKD-coin/main/logo.png",
@@ -58558,6 +58573,21 @@
       }
     },
     {
+      "name": "BARGE",
+      "symbol": "BLOCKSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiNGum7bxnvXVjQchN8g1mYzt1U1jzMB3Ym7PiWKU1h8/blockstonePNG.png",
+      "decimals": 0,
+      "address": "BiNGum7bxnvXVjQchN8g1mYzt1U1jzMB3Ym7PiWKU1h8",
+      "chainId": 101,
+      "tags": [
+        "DeFi",
+        "Blockstone-fund"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/barge/"
+      }
+    },
+    {
       "name": "Inflation Hedge",
       "symbol": "INFH",
       "logoURI": "https://raw.githubusercontent.com/kiranz38/SolTok/main/InfFlat.ico",
@@ -72225,6 +72255,25 @@
       ]
     },
     {
+      "name": "Night Club Coin",
+      "symbol": "NCCoin",
+      "logoURI": "https://raw.githubusercontent.com/Night-Club/Coins/main/nigtclub.png",
+      "decimals": 6,
+      "address": "DpP9baPNx9gaVDR9ez4Dc6Ty4UnCbtChrfw5WAyc7ei6",
+      "chainId": 101,
+      "tags": [
+        "game",
+        "coin",
+        "game-coin",
+        "game-currency",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://www.NightClub.nu",
+        "twitter": "https://twitter.com/_Night_Club_"
+      }
+    },
+    {
       "name": "Shongololo",
       "symbol": "Shh",
       "logoURI": "https://github.com/thamsanqabengu/Shongololo/blob/main/Shongololo-Bhengu-min.png",
@@ -79997,6 +80046,17 @@
       "tags": [
         "social-token",
         "utility-token"
+      ]
+    },
+    {
+      "name": "Karatishan Coin",
+      "symbol": "MMRB",
+      "logoURI": "https://raw.githubusercontent.com/SGB1986/mmrb/main/273881030_5268999106472407_2126765086870700326_n.png",
+      "decimals": 0,
+      "address": "FB3UPHEXLGzf2CrnUENJ1iVdV7Jf8MN2Kzk9xTaojwNk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -100264,7 +100324,8 @@
       "address": "RLYv2ubRMDLcGG2UyvPmnPmkfuQTsMbg4Jtygc7dmnq",
       "chainId": 101,
       "extensions": {
-        "website": "https://rly.network"
+        "website": "https://rly.network",
+        "coingeckoId": "rally-solana"
       }
     },
     {
