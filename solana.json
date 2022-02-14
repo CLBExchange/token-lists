@@ -9979,6 +9979,20 @@
       ]
     },
     {
+      "name": "Otaku Origins WL Token",
+      "symbol": "OOWL",
+      "logoURI": "https://raw.githubusercontent.com/matlirman/token-list/main/assets/mainnet/3CXVYitUaSMxifZKyiBRDT1TMcGrL1nJ2WfwdgnnvrKS/logo.png",
+      "decimals": 0,
+      "address": "3cUGVa1wVg9XiCSi4dhwjLR8A5T8FYnEyhNPBPkMbYDq",
+      "chainId": 101,
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "website": "https://otakuorigins.io/"
+      }
+    },
+    {
       "name": "LNFT Solsteads-448",
       "symbol": "LNFTxBHD448",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3cVsanUhbo91Qcuzrzx7qZAutpXYcaMr64jfq5Cs17es/logo.png",
@@ -15169,9 +15183,9 @@
         "social-token"
       ],
       "extensions": {
-        "website": "https://www.pugshotfinance.com/",
-        "twitter": "https://twitter.com/pugshotfinance",
-        "discord": "https://discord.gg/mF7mexhaE2"
+        "website": "https://www.boldtype.art/",
+        "twitter": "https://twitter.com/BoldTypeArt",
+        "discord": "https://discord.gg/9gdreAgW"
       }
     },
     {
@@ -31548,10 +31562,10 @@
       ]
     },
     {
-      "name": "UAH Stable",
+      "name": "UAH Coin",
       "symbol": "UAHC",
-      "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/UAHC/logo.png",
-      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Yc2ab2FXjmiXgXzQaQDKHMMXmzRs1RgYDcech9pfg8R/logo.png",
+      "decimals": 9,
       "address": "7Yc2ab2FXjmiXgXzQaQDKHMMXmzRs1RgYDcech9pfg8R",
       "chainId": 101,
       "tags": [
@@ -39148,7 +39162,9 @@
         "web3"
       ],
       "extensions": {
-        "twitter": "https://twitter.com/slaccnft"
+        "website": "https://slacc.io",
+        "twitter": "https://twitter.com/SlaccSol",
+        "discord": "https://discord.gg/slacc"
       }
     },
     {
@@ -57071,6 +57087,17 @@
         "website": "https://solscan.io/token/BWm92csusaUNPWu8M2aC2UTcGQVJsrhH7JYtd47zN7FA",
         "twitter": "https://twitter.com/ElonDogs"
       }
+    },
+    {
+      "name": "Swag Coin",
+      "symbol": "SWAG",
+      "logoURI": "https://raw.githubusercontent.com/heybevis01/crypto/main/swagcoin.png",
+      "decimals": 0,
+      "address": "BWnE6wM3DYyVCMHxsiSxKfNwrJy4G6kcKpSYESGxZWKf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CosmicSphere",
