@@ -7739,6 +7739,17 @@
       ]
     },
     {
+      "name": "ODNR Deer Coin",
+      "symbol": "ODNR",
+      "logoURI": "https://raw.githubusercontent.com/RealKevin1960/Crypto/main/ohioDNR3.png",
+      "decimals": 0,
+      "address": "3HYVcsFMDWSyvoUQthCTJX2MW96ciVMkFEnoHhheNqL7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (SUSHI-SRM)",
       "symbol": "SUSHI-SRM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3HYhUnUdV67j1vn8fu7ExuVGy5dJozHEyWvqEstDbWwE/logo.png",
@@ -18113,6 +18124,20 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?NIO"
+      }
+    },
+    {
+      "name": "Kingdom Crown",
+      "symbol": "KCRWN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk/logo.png",
+      "decimals": 6,
+      "address": "56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.kingdomofdwarves.io/"
       }
     },
     {
@@ -89376,6 +89401,17 @@
       ]
     },
     {
+      "name": "United States Patriot Coin",
+      "symbol": "USPC",
+      "logoURI": "https://raw.githubusercontent.com/Artenen/USPCoin/main/Patriot-Coin-Logo.png",
+      "decimals": 0,
+      "address": "Ge59QW4WJMgi4esSWr6fy8nndhLhp9u9CtF8fBqcZjv5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wrapped MATH (Sollet)",
       "symbol": "soMATH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GeDS162t9yGJuLEHPWXXGrb1zwkzinCgRwnT8vHYjKza/logo.png",
@@ -104369,6 +104405,22 @@
       }
     },
     {
+      "name": "Yokoito Crew Hone",
+      "symbol": "HONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/hone3CJTYjczb5nJh45KCNMkjrKMt7SCnHkWGWsVfVu/logo.png",
+      "decimals": 0,
+      "address": "hone3CJTYjczb5nJh45KCNMkjrKMt7SCnHkWGWsVfVu",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yokoitocrew.org/",
+        "twitter": "https://twitter.com/yokoitocrew",
+        "discord": "https://discord.gg/kcYuqWu9Qr"
+      }
+    },
+    {
       "name": "Inman Coin",
       "symbol": "INMA",
       "logoURI": "https://raw.githubusercontent.com/minman1979/Crptocurrency/main/logo.png",
@@ -110266,7 +110318,7 @@
       "name": "PoSB Doubloon",
       "symbol": "PoSB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HjChwVRT1WjbdDx6ikyKp4qXWLowXfneQZ6MXJd5Zw6p/logo.png",
-      "decimals": 0,
+      "decimals": 9,
       "address": "HjChwVRT1WjbdDx6ikyKp4qXWLowXfneQZ6MXJd5Zw6p",
       "chainId": 103,
       "tags": [

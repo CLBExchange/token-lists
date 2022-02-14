@@ -2,7 +2,7 @@
   "name": "Saber Decimal Wrapped Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/sbr.svg",
   "tags": {},
-  "timestamp": "2022-02-14T18:50:47.506Z",
+  "timestamp": "2022-02-14T19:09:53.698Z",
   "tokens": [
     {
       "name": "Saber Wrapped USD Coin (8 decimals)",
@@ -118,7 +118,7 @@
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "Cashio",
+        "source": "cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
@@ -143,7 +143,7 @@
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "Cashio",
+        "source": "cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
