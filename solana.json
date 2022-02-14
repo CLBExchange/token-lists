@@ -40803,6 +40803,17 @@
       }
     },
     {
+      "name": "Bosich",
+      "symbol": "BSCH",
+      "logoURI": "https://raw.githubusercontent.com/EigeneDateien/BSCH/main/logo.png",
+      "decimals": 0,
+      "address": "92G96KqHG898Mr3nnW9ZCgnRkQComxq3RNPXyvRWrzcb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Piranha",
       "symbol": "PRN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/92SCBrWw1N9fy2eXHbq8xME9nHuGx3Xs9ZWhRu1ZutHA/logo.png",
