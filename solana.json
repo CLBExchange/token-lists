@@ -18868,6 +18868,23 @@
       ]
     },
     {
+      "name": "Bully",
+      "symbol": "BULLY",
+      "logoURI": "https://raw.githubusercontent.com/viaadler/crypto/main/logo.png",
+      "decimals": 4,
+      "address": "5GofNCpdDpz2wNEaSYYB8rf6m4CaNRvfHLAxd3PKmnt9",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "utility-token",
+        "stake-pool-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bullytokennnnn",
+        "discord": "https://discord.gg/bullytoken"
+      }
+    },
+    {
       "name": "EDGE",
       "symbol": "SXE",
       "logoURI": "https://raw.githubusercontent.com/xblackbytesx/edge/main/logo.png",
@@ -66748,6 +66765,17 @@
       }
     },
     {
+      "name": "Tauss Coin",
+      "symbol": "TAUSS",
+      "logoURI": "https://raw.githubusercontent.com/scsezgin/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "D3TbFDiwkLrMKvkEADaN43BV2otE8oMQU6G1n9UdD9m2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "WDE Coin",
       "symbol": "WDE",
       "logoURI": "https://raw.githubusercontent.com/MitchellSP/WDEcoin/main/logo.png",
@@ -79332,6 +79360,17 @@
       }
     },
     {
+      "name": "CluckCoin",
+      "symbol": "OCA",
+      "logoURI": "https://raw.githubusercontent.com/12inchT/Crypto/main/PunkyLogo.png",
+      "decimals": 0,
+      "address": "FAHES5y9chrtEvAFt6Ma1RJJgnfXjF3Toy2vThxLZHUN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MicroClub Coin",
       "symbol": "MRCB",
       "logoURI": "https://raw.githubusercontent.com/massinissaboujelouah/Crypto/main/LOGO.png",
@@ -87495,6 +87534,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "LEX CLOUD DATA",
+      "symbol": "LXCD",
+      "logoURI": "https://raw.githubusercontent.com/lexthoms411/Lex-cloud-Data/main/logo.png",
+      "decimals": 2,
+      "address": "GSBCr3LLkfMu99iJhiwERFdWzuFArqoV93og13pWc9mX",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "LXCD is utility token used by members of Lex Cloud Data at www.homenetlink.com. This is still a work in progress"
+      }
     },
     {
       "name": "Spirit Token",
