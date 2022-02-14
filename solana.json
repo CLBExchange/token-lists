@@ -8119,6 +8119,17 @@
       ]
     },
     {
+      "name": "TonyToken",
+      "symbol": "TTKN",
+      "logoURI": "https://raw.githubusercontent.com/bone-meal/tonytokens/main/tony.png",
+      "decimals": 0,
+      "address": "3MAy18swqBKioU1GRThqixeVi6K6YEK4fBeZiK66fLs6",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Cronstedt Coin",
       "symbol": "CRONS",
       "logoURI": "https://raw.githubusercontent.com/carlcronstedt/crypto/main/ouroboros_sq2.jpg",
@@ -98268,6 +98279,22 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?TLRY"
+      }
+    },
+    {
+      "name": "HONEYZ",
+      "symbol": "HNZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LbrZyD19NVCKQo2C7M6Nq2pfck1spMwE5FUxThcwDWt/logo.png",
+      "decimals": 9,
+      "address": "LbrZyD19NVCKQo2C7M6Nq2pfck1spMwE5FUxThcwDWt",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://lazybearz.io/",
+        "twitter": "https://twitter.com/LazyBearZNFT",
+        "discord": "https://discord.gg/saDmFdp6ar"
       }
     },
     {
