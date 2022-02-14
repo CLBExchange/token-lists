@@ -17355,6 +17355,22 @@
       }
     },
     {
+      "name": "Bolt Token",
+      "symbol": "BOLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xDPH7DVtDXA2eU6wp9BjhryfXEdxBuhe4hnEc9yz1pJ/logo.png",
+      "decimals": 2,
+      "address": "4xDPH7DVtDXA2eU6wp9BjhryfXEdxBuhe4hnEc9yz1pJ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.skullbots.io/",
+        "twitter": "https://twitter.com/SKULLBOTS",
+        "discord": "https://discord.gg/skullbots"
+      }
+    },
+    {
       "name": "TORO Coin",
       "symbol": "TORO",
       "logoURI": "https://raw.githubusercontent.com/cryptodsyne/toro-token/main/toro.png",
@@ -18461,6 +18477,20 @@
       ],
       "extensions": {
         "website": "http://arts.digital"
+      }
+    },
+    {
+      "name": "Solana Angels",
+      "symbol": "ANGELS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5C9gnZEjaDVpaQjJcRSf54pJv3g1JVACo32jBRvNxpm4/logo.png",
+      "decimals": 9,
+      "address": "5C9gnZEjaDVpaQjJcRSf54pJv3g1JVACo32jBRvNxpm4",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AngelsOnSolana"
       }
     },
     {
@@ -66863,6 +66893,22 @@
         "address": "D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q",
         "coinmarketcap": "https://coinmarketcap.com/currencies/theca/",
         "instagram": "https://www.instagram.com/theca_org"
+      }
+    },
+    {
+      "name": "BONE",
+      "symbol": "BONE",
+      "logoURI": "https://user-images.githubusercontent.com/95661911/153796714-8061210f-ebef-4db9-a646-ab8dc6b57e0f.png",
+      "decimals": 6,
+      "address": "D3eyBjfgJMPHZyYDRtbf1cSxeLiNwKumwHzQK3h3TRRq",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.bulldogbillionaires.club/",
+        "twitter": "https://twitter.com/bbsolana",
+        "discord": "https://discord.gg/bulldogbillionaires"
       }
     },
     {
