@@ -6724,6 +6724,21 @@
       "chainId": 101
     },
     {
+      "name": "GemsLab",
+      "symbol": "SGEM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38tKCEuuLfUzCoZZFgsiGTq9wi8Dq3YykrSDvKjx7caE/sgem.png",
+      "decimals": 6,
+      "address": "38tKCEuuLfUzCoZZFgsiGTq9wi8Dq3YykrSDvKjx7caE",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://gemslab.space",
+        "twitter": "https://twitter.com/gemslab_space"
+      }
+    },
+    {
       "name": "Lady with an Ermine",
       "symbol": "GJJ-LDV",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38vopEvoU5cdKX33noN793669JweG2KA5afW18BrLBFZ/hermelijn.png",
@@ -43218,6 +43233,24 @@
       }
     },
     {
+      "name": "Bits",
+      "symbol": "BITS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9QPeHFjjyw4jy9GDzs3RvWxWJuwpKBj6RzQpEnwBuAnR/logo.png",
+      "decimals": 9,
+      "address": "9QPeHFjjyw4jy9GDzs3RvWxWJuwpKBj6RzQpEnwBuAnR",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "gaming-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://gameplex.live/",
+        "twitter": "https://twitter.com/ParleySolana",
+        "discord": "https://discord.gg/XbzMd9uXR4"
+      }
+    },
+    {
       "name": "MOUNT",
       "symbol": "MOUNT",
       "logoURI": "https://arweave.net/fy9pbbRbYRg-Y40B34ojIGrb3wxpadQgsiktan1LfKY?ext=png",
@@ -56192,6 +56225,17 @@
       "logoURI": "https://raw.githubusercontent.com/nosoyeldela/CRYPTO/main/DELA%20COIN.png",
       "decimals": 0,
       "address": "BNm3YkFsVq4VJHscBXANKL4w3qJjF1pxPNd7fsXCSW6o",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "BestBluiAlways",
+      "symbol": "CUX",
+      "logoURI": "https://raw.githubusercontent.com/hemanthgade/CuxCrypto/main/Logo.png",
+      "decimals": 0,
+      "address": "BNpHCaRDPepoUPyXrTMvjTkrcfnwFmuRaXHgqbdjauyE",
       "chainId": 101,
       "tags": [
         "social-token"
