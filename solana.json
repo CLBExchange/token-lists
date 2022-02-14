@@ -81809,6 +81809,17 @@
       ]
     },
     {
+      "name": "DevRev Coin",
+      "symbol": "DVRV",
+      "logoURI": "https://raw.githubusercontent.com/DevReV11/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "FWRP3RHMYHNL5jQa1dpecYdrT8PkpJr8fsq2WsFvDUyr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "IssaAI",
       "symbol": "ISSA",
       "logoURI": "https://raw.githubusercontent.com/marco2meyer/crypto/main/Coin%20logo%20small.png",
@@ -105973,6 +105984,17 @@
         "description": "Sensing a disturbance in the timeline, the tournament organizers send Poh back in time to the beginning of the tournament. He is tasked with finding the origin of the disturbance and restoring the original timeline. Special:'Out of Order'",
         "animationUrl": "https://vww4cphi4lv3ldd4dtidi4njkbilvngmvuaofo3rv2oa3ozepeea.arweave.net/ra3BPOji67WMfBzQNHGpUFC6tMytAOK7ca6cDbskeQg?ext=glb"
       }
+    },
+    {
+      "name": "Offspring Junior",
+      "symbol": "SPGJR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdLycDiJH5se75GZyxEdEdo6c3z7WHkoHZmvbkibUUrS/logo.png",
+      "decimals": 6,
+      "address": "stKrFPSwdR36jvsxLWsFVVKXABXaWUSFFFxNri4gPmH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Saber stSOL-SOL LP",
