@@ -6131,6 +6131,23 @@
       ]
     },
     {
+      "name": "RIBBET",
+      "symbol": "RIBBET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/32gaR4rn9JyzoDVwMzZ5j3NgcHc5RQhMSJby55FFKnq3/logo.png",
+      "decimals": 9,
+      "address": "32gaR4rn9JyzoDVwMzZ5j3NgcHc5RQhMSJby55FFKnq3",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.metafrogbusinessclub.com/",
+        "twitter": "https://twitter.com/metafrogbizclub"
+      }
+    },
+    {
       "name": "Magik Finance",
       "symbol": "MAGIK",
       "logoURI": "https://i.ibb.co/6J5p50N/logo-magik-1.png",
@@ -18749,6 +18766,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "MetaMalls",
+      "symbol": "MALL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5EbpXhW7t8ypBF3Q1X7odFaHjuh7XJfCohXR3VYAW32i/logo.png",
+      "decimals": 3,
+      "address": "5EbpXhW7t8ypBF3Q1X7odFaHjuh7XJfCohXR3VYAW32i",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://metamalls.io"
+      }
     },
     {
       "name": "Metajuana",
@@ -38255,6 +38286,17 @@
         "nft-token",
         "community",
         "Bank"
+      ]
+    },
+    {
+      "name": "Test Run Token",
+      "symbol": "TSTRN",
+      "logoURI": "https://raw.githubusercontent.com/chatkilla/CRYPTO/main/O.png",
+      "decimals": 0,
+      "address": "8bPoL3n7BemSatpnTZPq24anychqcB8uw6omdDPYQAvd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
