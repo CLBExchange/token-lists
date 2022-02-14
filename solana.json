@@ -3629,6 +3629,17 @@
       }
     },
     {
+      "name": "Sexual Tyrannosaur Coin",
+      "symbol": "TREX",
+      "logoURI": "https://raw.githubusercontent.com/SGB1986/TREX/main/Polish_20210218_030212109.png",
+      "decimals": 0,
+      "address": "2bMdoyyxDeFx6H6cN2gvUStVP2NLqgU1Z2zpa3dFcxNt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GOOB",
       "symbol": "GOOB",
       "logoURI": "https://arweave.net/h1AbbOh8hEcm7pXm9hi_Yk_WaYoihquY7ZWzAvWWIc4?ext=png",
@@ -39635,6 +39646,23 @@
       ],
       "extensions": {
         "website": "https://ligmadao.io"
+      }
+    },
+    {
+      "name": "Safe Soul",
+      "symbol": "SAFESOUL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8o4FYKQMarEG9JP5hzbWF16pDjNahVyubz25bYDZCfMq/safesoul.png",
+      "decimals": 9,
+      "address": "8o4FYKQMarEG9JP5hzbWF16pDjNahVyubz25bYDZCfMq",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "meme-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://safesoul.info/",
+        "twitter": "https://twitter.com/SafeSoulMeme"
       }
     },
     {
@@ -98950,6 +98978,21 @@
       }
     },
     {
+      "name": "Meta D Token",
+      "symbol": "MetaD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MetaDxGDwtNZwsbwrfERzBwhRdUhRVVjGU7HYuCTk8r/logo.png",
+      "decimals": 6,
+      "address": "MetaDxGDwtNZwsbwrfERzBwhRdUhRVVjGU7HYuCTk8r",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.johnsoncontrols.com/building-automation-and-controls/building-management/building-automation-systems-bas",
+        "description": "The Meta D token is a social token used to promote digital technologies in modern BAS"
+      }
+    },
+    {
       "name": "FreezyCoin",
       "symbol": "FZC",
       "logoURI": "https://raw.githubusercontent.com/arminjaenisch/freezycoin/main/logo.png",
@@ -100840,6 +100883,31 @@
         "discord": "https://chat.sunny.ag",
         "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
         "coingeckoId": "sunny-aggregator"
+      }
+    },
+    {
+      "name": "SolRockers PreSale",
+      "symbol": "SRPRESALE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRwhxeZEKPR66i6RyTqMLQHhAxBpfNdFkXcEd1q4dUz/logo.png",
+      "decimals": 6,
+      "address": "SRwhxeZEKPR66i6RyTqMLQHhAxBpfNdFkXcEd1q4dUz",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://solrockers.io/",
+        "twitter": "https://twitter.com/solrockersnft",
+        "medium": "https://medium.com/@solrockersnft",
+        "discord": "https://discord.gg/solrockers",
+        "description": "SolRockers Battle of the Bands is a next-gen PVE/PVP play to earn rhythm game built on the Solana blockchain.",
+        "facebook": "https://facebook.com//solrockersnft",
+        "instagram": "https://instagram.com/solrockersnft",
+        "telegram": "https://t.me/solrockersnft"
       }
     },
     {
