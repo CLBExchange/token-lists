@@ -12938,6 +12938,19 @@
       }
     },
     {
+      "name": "Plague Token",
+      "symbol": "PLAGUE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/49mNzFzMh2i7kApyeQiVdLYjt5jasc9Umjj2An49EtV9/logo.png",
+      "decimals": 9,
+      "address": "49mNzFzMh2i7kApyeQiVdLYjt5jasc9Umjj2An49EtV9",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Solana Mafia Token",
       "symbol": "MAFIA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4A2us4kJfbMcBfJCmBiec8vMmahivRJQuLkreKEDrnsX/logo.png",
@@ -63864,6 +63877,19 @@
       ]
     },
     {
+      "name": "Reversed Kongz",
+      "symbol": "RKONGZ",
+      "logoURI": "https://raw.githubusercontent.com/klaydevelop/reversed-kongz-metadata/main/logo/logo.png",
+      "decimals": 0,
+      "address": "CcAdUqAzCiAQYAGkD4jveD31uKm9g6csQUFiRHuAbwNu",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "meme-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "MakaroSoft",
       "symbol": "MKST",
       "logoURI": "https://raw.githubusercontent.com/tmakaro/crypto/main/logo.png",
@@ -89992,6 +90018,17 @@
       "extensions": {
         "website": "https://blastoffwaters.wixsite.com/bowcoin"
       }
+    },
+    {
+      "name": "TLA Whitelist Token",
+      "symbol": "TLA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GqVKfEuAyiehrSTCg5fcsNpAcsFxUNb1AYCnRwn88NPL/logo.png",
+      "decimals": 0,
+      "address": "GqVKfEuAyiehrSTCg5fcsNpAcsFxUNb1AYCnRwn88NPL",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "GTA LIVE",
