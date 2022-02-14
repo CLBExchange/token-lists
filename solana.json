@@ -2065,6 +2065,17 @@
       ]
     },
     {
+      "name": "CobacCoin",
+      "symbol": "BEEF",
+      "logoURI": "https://raw.githubusercontent.com/Abbyigor/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "2GsktBGZtWC5tU2wHH5RaBvPZhVXRWrGC5Qe5sEKnBzs",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Thirdmap",
       "symbol": "MAP",
       "logoURI": "https://raw.githubusercontent.com/solanadevv/token-list/157bf21ad4a5ecdc6103f139c21490060225fd1a/assets/mainnet/2GuQGvfvS7rNiYpysU4iDHbB9nF4aSjJ5c6TL3ALEgjv/logo.svg",
@@ -14355,6 +14366,21 @@
         "twitter": "https://twitter.com/TheCavemenClub",
         "discord": "https://discord.com/invite/cryptocavemen",
         "coingeckoId": "cave"
+      }
+    },
+    {
+      "name": "Lawyer",
+      "symbol": "BLOCKSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SksTiX5Qh33FaoKp9AhjzpVH68dEobL18GGb44M6DJ6/blockstonePNG.png",
+      "decimals": 0,
+      "address": "4SksTiX5Qh33FaoKp9AhjzpVH68dEobL18GGb44M6DJ6",
+      "chainId": 101,
+      "tags": [
+        "Blockstone-lawyers",
+        "Solana"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/lawyers/"
       }
     },
     {
@@ -37496,6 +37522,21 @@
       ],
       "extensions": {
         "website": "https://www.okkami.com/"
+      }
+    },
+    {
+      "name": "Lawyers",
+      "symbol": "BLOCKSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8V6EsUxArHkt37LphQ4iPVtn4zie5xomeLPAqYbysryy/blockstonePNG.png",
+      "decimals": 0,
+      "address": "8V6EsUxArHkt37LphQ4iPVtn4zie5xomeLPAqYbysryy",
+      "chainId": 101,
+      "tags": [
+        "Blockstone-lawyers",
+        "Solana"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/lawyers/"
       }
     },
     {
