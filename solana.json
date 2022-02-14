@@ -32458,6 +32458,18 @@
       }
     },
     {
+      "name": "Magic Carrot",
+      "symbol": "MC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gsvY4yjAVrP7fwBBMjyVCJNBRMRHgotjFfqrNPDKJec/logo.jpg",
+      "decimals": 6,
+      "address": "7gsvY4yjAVrP7fwBBMjyVCJNBRMRHgotjFfqrNPDKJec",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://solderland.com/",
+        "twitter": "https://twitter.com/solderland"
+      }
+    },
+    {
       "name": "AlpCoin",
       "symbol": "ALP",
       "logoURI": "https://raw.githubusercontent.com/alperenerden/alp/main/logo.png",
@@ -37983,6 +37995,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "khaby Coin",
+      "symbol": "KHB",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Khaby-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "8XGRbcc3mXQ9Pe2bhjoRRuDypA5JcyMpBNtmQoyTeeJd",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "meme-token",
+        "khaby-token"
+      ],
+      "extensions": {
+        "website": "https://khabyshop.com/",
+        "twitter": "https://twitter.com/khabylame"
+      }
     },
     {
       "name": "DMuertos",
@@ -57148,6 +57179,19 @@
       "extensions": {
         "website": "https://www.youtube.com/c/lecarburodu63/"
       }
+    },
+    {
+      "name": "Simo GG Coin",
+      "symbol": "GG",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Simo-Gigi-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "BYDCPWeACSG9XaDDPqqxSC1pLnKjTwxXcSva3UYs8zJP",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-coin"
+      ]
     },
     {
       "name": "Charge",
@@ -107678,6 +107722,20 @@
       ]
     },
     {
+      "name": "USDC-CASH LP",
+      "symbol": "USDC-CASH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2gsojBCyZUgqXEj5vR41sKat3JyG11nXSsgzMErY9EVL/logo.png",
+      "decimals": 9,
+      "address": "2gsojBCyZUgqXEj5vR41sKat3JyG11nXSsgzMErY9EVL",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
+    },
+    {
       "name": "SOL stake pool",
       "symbol": "pSOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2rg5syU3DSwwWs778FQ6yczDKhS14NM3vP4hqnkJ2jsM/logo.png",
@@ -108192,6 +108250,20 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "name": "wtUST-USDT LP",
+      "symbol": "wtUST-USDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6rJSjCEVxovip8GBUw6P7tsQprzFPET3uTohCXXQqkBh/logo.png",
+      "decimals": 9,
+      "address": "6rJSjCEVxovip8GBUw6P7tsQprzFPET3uTohCXXQqkBh",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
     },
     {
       "name": "SPL Token",
@@ -108802,6 +108874,20 @@
       }
     },
     {
+      "name": "wUST_v1-USDC-USDT LP",
+      "symbol": "wUST-USDC-USDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASnVcQxNRosGw8crN8E4ScnDncBfnR1eJPyzucKsM4Vm/logo.png",
+      "decimals": 9,
+      "address": "ASnVcQxNRosGw8crN8E4ScnDncBfnR1eJPyzucKsM4Vm",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
+    },
+    {
       "name": "ART",
       "symbol": "ART",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2/logo.png",
@@ -109025,6 +109111,20 @@
       ],
       "extensions": {
         "website": "https://devbeta.human.ag/address/GF1gRpCRFFpbafMeSQaFXJk4BNvab9o7nZN4Hntdhzn5?src=token-list"
+      }
+    },
+    {
+      "name": "USDC-USDT LP",
+      "symbol": "USDC-USDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BkpqyoDe5mwN6DiH1MYSJ1G4AbhPuiZsycjjYfQcWK9P/logo.png",
+      "decimals": 9,
+      "address": "BkpqyoDe5mwN6DiH1MYSJ1G4AbhPuiZsycjjYfQcWK9P",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
       }
     },
     {
