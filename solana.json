@@ -20601,6 +20601,20 @@
       ]
     },
     {
+      "name": "CFT Token",
+      "symbol": "TCFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5ZDkTmkX7z1VEufQHrkY3M4k1w1H8iEc7MvyePNSotZ8/logo.png",
+      "decimals": 9,
+      "address": "5ZDkTmkX7z1VEufQHrkY3M4k1w1H8iEc7MvyePNSotZ8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.codesfortomorrow.com"
+      }
+    },
+    {
       "name": "Fans I Love U",
       "symbol": "FANS",
       "logoURI": "https://raw.githubusercontent.com/ilov-eu/assets/main/fans-token.png",
@@ -22881,6 +22895,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "RICE Token",
+      "symbol": "RICE",
+      "logoURI": "https://raw.githubusercontent.com/kakasonz112/robocock-token/main/assets/logo.png",
+      "decimals": 2,
+      "address": "5yw793FZPCaPcuUN4F61VJh2ehsFX87zvHbCA4oRebfn",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://robocock.io/",
+        "twitter": "https://twitter.com/RoboCockNFT",
+        "discord": "https://discord.gg/robococknft"
+      }
     },
     {
       "name": "Findlay Force",
@@ -71940,6 +71970,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "The Frenchies",
+      "symbol": "TFNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DpxMKwKMrM9mBExbttc9SrCAqy9Nx9MAX3Ha8kWkHtBr/logo.png",
+      "decimals": 6,
+      "address": "DpxMKwKMrM9mBExbttc9SrCAqy9Nx9MAX3Ha8kWkHtBr",
+      "chainId": 101,
+      "tags": [
+        "NFT"
       ]
     },
     {
