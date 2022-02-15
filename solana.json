@@ -7319,6 +7319,17 @@
       }
     },
     {
+      "name": "BRAMHA",
+      "symbol": "BRHM",
+      "logoURI": "https://raw.githubusercontent.com/vivekdnaik/bramha/main/logo.png",
+      "decimals": 0,
+      "address": "3E3mksyXdcAtCY2zmoniGxgowhWPjn3B93MVbqbgsyLE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BUZZ",
       "symbol": "BUZZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EBLgqhs6CPff7DZMmQRoVFAy7Y9CpTZeKyEw8eryZj2/logo.png",
@@ -25754,6 +25765,17 @@
         "website": "https://whalebe.art/",
         "twitter": "https://twitter.com/Whalebe_"
       }
+    },
+    {
+      "name": "TestYabu12344",
+      "symbol": "Yabu12344",
+      "logoURI": "https://raw.githubusercontent.com/WayTo1Million/test/main/Yabu12344.png",
+      "decimals": 0,
+      "address": "6VgdRyC2ft9MTKzhWBpxy1aemyucdjKtu7a4cxDui29y",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "MUTT",
@@ -54257,6 +54279,31 @@
         "serumV3Usdc": "CU5L8JC83hyYZdf1phzy6a7X58eTtPjs7mHL3QKCcLfh",
         "coingeckoId": "compound-governance-token",
         "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
+      }
+    },
+    {
+      "name": "Goblin Metaverse",
+      "symbol": "GBLN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwdLhnYKHsA53KYVXFhsRAfnrPbAgPMjUKPoMQ2L6VM/logo.png",
+      "decimals": 9,
+      "address": "AwdLhnYKHsA53KYVXFhsRAfnrPbAgPMjUKPoMQ2L6VM",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "governance-token",
+        "metaverse",
+        "community-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://goblinmetaverse.io",
+        "twitter": "https://twitter.com/GoblinArmyNFT",
+        "discord": "https://discord.gg/goblinarmy",
+        "instagram": "https://instagram.com/goblinmetaverse"
       }
     },
     {
