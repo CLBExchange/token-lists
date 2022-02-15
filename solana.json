@@ -66646,6 +66646,18 @@
       ]
     },
     {
+      "name": "DUB Token",
+      "symbol": "DUBS",
+      "logoURI": "https://raw.githubusercontent.com/Bagheadfan/dub/main/logo.png",
+      "decimals": 0,
+      "address": "CvPpTR27jiLS6zqKxRyxnyjgjmeUA3xrfWokhMZs5EaE",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "PARTS",
       "symbol": "PRTS",
       "logoURI": "https://raw.githubusercontent.com/PARTS-PRTS/PARTS-Token/main/logo.png",
@@ -105985,6 +105997,17 @@
         "address": "0x71845240485c5339b3192a820f5fa152c093d93a",
         "telegram": "https://t.me/cointumi"
       }
+    },
+    {
+      "name": "LongFlexCoin",
+      "symbol": "LFC",
+      "logoURI": "https://raw.githubusercontent.com/longflex/crypto-logo/main/cryptologo.png",
+      "decimals": 0,
+      "address": "pBGDfRAWPo15JaTXQVQ8dTYKgaLkG8ywzbgrueGMu7L",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Mysteria Game Key",
