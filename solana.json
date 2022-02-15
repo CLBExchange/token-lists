@@ -89601,6 +89601,21 @@
       }
     },
     {
+      "name": "Vrouw met waaier",
+      "symbol": "GJJ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GaSt1Lqv7oept4bfBipgPnY7T5f1rG6tu8sgpWYxVtFT/waaier.png",
+      "decimals": 0,
+      "address": "GaSt1Lqv7oept4bfBipgPnY7T5f1rG6tu8sgpWYxVtFT",
+      "chainId": 101,
+      "tags": [
+        "Geert-Jan-Jansen",
+        "stijl-van-Klimt"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/nft-gustav-klimt-by-geert-jan-jansen/"
+      }
+    },
+    {
       "name": "Lucas Coin",
       "symbol": "LUCA",
       "logoURI": "https://raw.githubusercontent.com/MRGithubuser2020/crypto/main/logo.png",
