@@ -60368,6 +60368,17 @@
       ]
     },
     {
+      "name": "Donnie Barko",
+      "symbol": "DBOC",
+      "logoURI": "https://raw.githubusercontent.com/JMtechdev/crypto_token_test/main/donnie-barko.png",
+      "decimals": 0,
+      "address": "BuzXJtMchXztGFHMpVtPCBrmRYHMS83TQ7sVCqXJKgvL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MetaMalls Token",
       "symbol": "MetaBalls",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BvKybzGCJCGjXuhjcokbEZ5SPstsU8NoFjFnPabmni6S/logo.png",
@@ -92659,6 +92670,17 @@
       }
     },
     {
+      "name": "Palm Token",
+      "symbol": "PALM",
+      "logoURI": "https://raw.githubusercontent.com/Alsabbagh16/PALM/main/1.png",
+      "decimals": 6,
+      "address": "H6Jz41jUjNV7kNDBQuvJqNnpEYhGF6wJ5DR8bMLZDqvR",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/palmtok"
+      }
+    },
+    {
       "name": "Landee Token",
       "symbol": "LAND",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EsZfrs1iWh9CXzbpGUfUkRfs35KkUWXJH2S6Y9D272M/logo.png",
@@ -96612,6 +96634,21 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/SuchShibas"
+      }
+    },
+    {
+      "name": "Letter",
+      "symbol": "LTR",
+      "logoURI": "https://github.com/letter/brand/raw/main/Normal.jpg",
+      "decimals": 4,
+      "address": "HnbycWsUBp4sVS8D8NrBxDiMxPT3wu9ndoNCyTEiG5TP",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://letter.co",
+        "twitter": "https://twitter.com/letterbanking"
       }
     },
     {
@@ -102441,6 +102478,17 @@
       "chainId": 101
     },
     {
+      "name": "Solana Express WL",
+      "symbol": "SE",
+      "logoURI": "https://raw.githubusercontent.com/krikkkk/setokenlogo/main/rsz_1logo.png",
+      "decimals": 0,
+      "address": "ToDFFVGdRGnxBXpiDX3sjouiQCUpgyKQcSzoHskDX27",
+      "chainId": 101,
+      "tags": [
+        "wl-token"
+      ]
+    },
+    {
       "name": "'Plan B' Token",
       "symbol": "PBT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToQaYfKWvHtHpmPsCo4awxavoEQJjguBZzGiZBM2vYT/logo.png",
@@ -102523,6 +102571,17 @@
       "decimals": 0,
       "address": "Toamuce7zPGWhf8dYgMG92QDtCRxXWqGrvmFfZPiEjE",
       "chainId": 101
+    },
+    {
+      "name": "CSC WL",
+      "symbol": "CSCWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TobhYvEGedQnGWvr1Hge75mepe55xZ9vpKde885HsRV/logo.png",
+      "decimals": 0,
+      "address": "TobhYvEGedQnGWvr1Hge75mepe55xZ9vpKde885HsRV",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
     },
     {
       "name": "Solotto WL Token",
