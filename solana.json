@@ -6824,6 +6824,23 @@
       }
     },
     {
+      "name": "Framework Fortune Coin",
+      "symbol": "FWF",
+      "logoURI": "https://raw.githubusercontent.com/frameworkfortune/FWF-Graphics/main/logo.png.png",
+      "decimals": 4,
+      "address": "399N5NddQ2rpRyUHku1UAmZzqUdanDhxe1kN9MnUBhQW",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.frameworkfortune.com/",
+        "twitter": "https://twitter.com/FramewkFortune"
+      }
+    },
+    {
       "name": "CloudAtlasTech Coin",
       "symbol": "CAT",
       "logoURI": "https://raw.githubusercontent.com/trekk/Cloud-Atlas-Tech-Coin/main/logo.png",
@@ -35063,6 +35080,23 @@
       ]
     },
     {
+      "name": "Omens of Olympus WL",
+      "symbol": "OMEN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/83XVHzMWXfoMJt9aBuS4mWAUk5FPYkkMZWYMe7mQPc7o/logo.png",
+      "decimals": 0,
+      "address": "83XVHzMWXfoMJt9aBuS4mWAUk5FPYkkMZWYMe7mQPc7o",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://omensofolympus.com",
+        "twitter": "https://twitter.com/omensofolympus",
+        "discord": "https://discord.gg/omensofolympus",
+        "description": "Whitelist token for a single Omen of Olympus."
+      }
+    },
+    {
       "name": "RAW Coin",
       "symbol": "RAW",
       "logoURI": "https://raw.githubusercontent.com/RAWBrand/RAWCoin/main/logo.png",
@@ -42429,6 +42463,25 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "Megaverse",
+      "symbol": "MVT",
+      "logoURI": "https://raw.githubusercontent.com/MegaverseProject/Assets/main/MVT%20Logo.png",
+      "decimals": 8,
+      "address": "9Db4WyPxBGAj3V62Y2KGo757PYhq6QYxG2BZPkU8hDzV",
+      "chainId": 101,
+      "tags": [
+        "ethereum",
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "website": "https://www.megaverseproject.io",
+        "twitter": "https://twitter.com/MegaverseProj",
+        "discord": "https://discord.com/invite/2kveFZwnBU",
+        "description": "Megaverse is a cross platform gaming project built on solana, where NFTs and GameFi meets the metaverse, enhancing P2E blockchain technology."
+      }
     },
     {
       "name": "NOIA Token (Wormhole v1)",
@@ -68697,6 +68750,17 @@
       ]
     },
     {
+      "name": "CryptoGas",
+      "symbol": "CGS",
+      "logoURI": "https://raw.githubusercontent.com/rcorales/cryptogas/main/logo.png",
+      "decimals": 0,
+      "address": "DFdgWSHxSmhv8rvMkzaiZR7x5m83LFY9Pe2NP2vVEDDX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "bitHQ",
       "symbol": "BITHQ",
       "logoURI": "https://raw.githubusercontent.com/sutheegt/crypto/main/bithq.png?token=AKRLLC4HNANGYGGKUHXVULLBZIUSO",
@@ -76196,6 +76260,17 @@
       "logoURI": "https://raw.githubusercontent.com/Thunberg087/ForsCoin/master/ForsCoin.png",
       "decimals": 0,
       "address": "EXAzCuUPFRgq2vG5naJYJVW6Z68j45RfequsmYfwPfQy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "CamToken",
+      "symbol": "CMCN",
+      "logoURI": "https://raw.githubusercontent.com/greenapple1234/Crypto/main/C.png",
+      "decimals": 0,
+      "address": "EXDv3VAeWUYgkuoBPuZvfq4k5xdEJSfyzSNKoc9rkceF",
       "chainId": 101,
       "tags": [
         "social-token"
