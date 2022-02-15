@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-14T00:48:28.164Z",
+  "timestamp": "2022-02-15T00:57:46.734Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -1146,7 +1146,7 @@
         "website": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance",
         "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
-        "source": "Lido",
+        "source": "lido",
         "currency": "SOL",
         "sourceUrl": "https://solana.lido.fi/"
       }
@@ -1902,7 +1902,7 @@
         "website": "http://bilira.co",
         "github": "https://github.com/bilira-org",
         "coingeckoId": "bilira",
-        "source": "BiLira",
+        "source": "biLira",
         "currency": "TRY",
         "instagram": "https://instagram.com/bilira_official",
         "sourceUrl": "https://www.bilira.co/",
@@ -2765,7 +2765,7 @@
     {
       "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3/logo.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
       "decimals": 9,
       "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "chainId": 101,
@@ -3060,7 +3060,7 @@
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "Cashio",
+        "source": "cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
@@ -3103,7 +3103,7 @@
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
-        "source": "Cashio",
+        "source": "cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
       }
@@ -5280,7 +5280,7 @@
         "website": "https://everstake.one",
         "twitter": "https://twitter.com/everstake_pool",
         "medium": "https://medium.com/everstake",
-        "source": "Everstake",
+        "source": "everstake",
         "currency": "SOL",
         "sourceUrl": "https://eversol.one/app"
       }
@@ -5438,7 +5438,7 @@
         "twitter": "https://twitter.com/solunaDAO",
         "medium": "https://medium.com/solunadao",
         "coingeckoId": "terrausd",
-        "source": "Soluna",
+        "source": "soluna",
         "currency": "USD",
         "sourceUrl": "https://soluna.money/#/deposit"
       }
@@ -6226,7 +6226,7 @@
         "website": "https://hubbleprotocol.io/",
         "twitter": "https://twitter.com/hubbleprotocol",
         "discord": "https://discord.gg/d44A8WvK",
-        "source": "Hubble",
+        "source": "hubble",
         "currency": "USD",
         "sourceUrl": "https://app.hubbleprotocol.io/"
       }
@@ -7306,6 +7306,13 @@
       "symbol": "Az46V",
       "decimals": 6,
       "address": "Az46VikxzkUioAsdPaPgQd5U85KacAYAWACmn38ysig8",
+      "chainId": 104
+    },
+    {
+      "name": "Token BMzy",
+      "symbol": "BMzyr",
+      "decimals": 9,
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
       "chainId": 104
     },
     {

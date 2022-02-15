@@ -19932,6 +19932,17 @@
       }
     },
     {
+      "name": "Yapperson",
+      "symbol": "YAPS",
+      "logoURI": "https://raw.githubusercontent.com/tokermaker/yippers/main/logo.png",
+      "decimals": 0,
+      "address": "5RyFNDFE6tadfNU7ftSSyXB1PCBQVbLf9EdY1WecHt2b",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wen Token",
       "symbol": "Wen",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SBKK5btXjeaS8w96eCCopwCHQd1g4hbckegtV4MkJhR/logo.png",
@@ -95569,6 +95580,21 @@
       ]
     },
     {
+      "name": "ACRE",
+      "symbol": "ACRE",
+      "logoURI": "https://i.imgur.com/2f7q7UN.png",
+      "decimals": 9,
+      "address": "Hi4WKXqmeoNVz8Nf7pxCCQrdFfxdLDLGFudHXmV95oU9",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.ractopia.com/",
+        "twitter": "https://twitter.com/ractopia"
+      }
+    },
+    {
       "name": "SolNHD",
       "symbol": "SolNHD",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HiL1j5VMR9XtRnCA4mxaVoXr6PMHpbh8wUgfPsAP4CNF/logo.png",
@@ -105129,6 +105155,25 @@
         "medium": "https://kaizenfinance.medium.com",
         "description": "Kaizen is the first-ever cross-chain token lifecycle management platform built with the needs of both projects and investors alike.",
         "telegram": "https://t.me/KaizenFinance"
+      }
+    },
+    {
+      "name": "KaijuVerse",
+      "symbol": "KAIJU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kai6Dt6612rNn9MaW1eXHAWngwfoqYKFEMyniuWmoWv/logo.png",
+      "decimals": 9,
+      "address": "kai6Dt6612rNn9MaW1eXHAWngwfoqYKFEMyniuWmoWv",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://kaijuversenft.com",
+        "twitter": "https://twitter.com/KaijuVerseNFT",
+        "discord": "https://discord.gg/kaijuverse",
+        "description": "1313 Kaijus Wreaking Havoc On Solana"
       }
     },
     {
