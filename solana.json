@@ -22830,6 +22830,23 @@
       }
     },
     {
+      "name": "SLACC Mint Tokens",
+      "symbol": "SLACCMINT",
+      "logoURI": "https://raw.githubusercontent.com/SlaccMint/uploads/main/logo.png",
+      "decimals": 0,
+      "address": "5vfLU3vxRQj6v474imwFvoeWxqo4gKmXmRpQ5N1Qgpcy",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://slacc.io",
+        "twitter": "https://twitter.com/SlaccSol",
+        "discord": "https://discord.gg/slacc"
+      }
+    },
+    {
       "name": "Shibi Samo",
       "symbol": "SHIMO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5vm1hVMm9VpRR1HrdGJdcTHMzTsKkY8nVm3BUYoU4wUw/logo.png",
@@ -40748,6 +40765,14 @@
       }
     },
     {
+      "name": "Space Cash",
+      "symbol": "SPC",
+      "logoURI": "https://raw.githubusercontent.com/spacecash-solana/spacecash/main/spacecash.png",
+      "decimals": 9,
+      "address": "8uvbcdvzVV8TMtmY5DGd7PrJT2bCKgWYYtQJ9iKnU8m8",
+      "chainId": 101
+    },
+    {
       "name": "DonutCoin",
       "symbol": "DNC",
       "logoURI": "https://raw.githubusercontent.com/coderkid11/crypto/main/logo.jpg",
@@ -58492,6 +58517,21 @@
       }
     },
     {
+      "name": "ANGRY",
+      "symbol": "ANGRY",
+      "logoURI": "https://raw.githubusercontent.com/matthewrx/token/main/angry_token_logo.png",
+      "decimals": 9,
+      "address": "BgjhevUKQDZ28usZMEairXPctoFA3nqKM8A1j5YhHv7w",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://angrybattleroyale.com/",
+        "twitter": "https://twitter.com/angryroyale"
+      }
+    },
+    {
       "name": "Roger",
       "symbol": "ROGER",
       "logoURI": "https://raw.githubusercontent.com/rogerthecat/rogercrypto/main/logo.png",
@@ -70917,6 +70957,21 @@
       "decimals": 0,
       "address": "DbgFXFkjA9hpej7fSSivxDRXjFQwimjgWGu5gSVy7yqq",
       "chainId": 101
+    },
+    {
+      "name": "Random Color Cubes",
+      "symbol": "COLORCUBES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DbiLGsmv5FbgzipdpvEMFS1Zv7cHpVFZj7QEYvzRVAyq/logo.png",
+      "decimals": 9,
+      "address": "DbiLGsmv5FbgzipdpvEMFS1Zv7cHpVFZj7QEYvzRVAyq",
+      "chainId": 101,
+      "tags": [
+        "random-color-cubes",
+        "one-of-a-kind"
+      ],
+      "extensions": {
+        "website": "http://randomcolorcubes.xyz"
+      }
     },
     {
       "name": "RaivoKoin",
@@ -104736,6 +104791,21 @@
       "tags": [
         "kalebokan"
       ]
+    },
+    {
+      "name": "Alleycats Collective Token",
+      "symbol": "PURR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/h4XNYWyefydaNiEZmECeutJtxQbyopZUSeWPFDJZtaL/purr_coin.png",
+      "decimals": 2,
+      "address": "h4XNYWyefydaNiEZmECeutJtxQbyopZUSeWPFDJZtaL",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/accsolana",
+        "discord": "https://discord.gg/v6wJMQhArX"
+      }
     },
     {
       "name": "Techwell Token",
