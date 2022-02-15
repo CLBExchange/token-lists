@@ -18982,7 +18982,7 @@
       ]
     },
     {
-      "name": "MetaMalls",
+      "name": "MetaMall",
       "symbol": "MALL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5EbpXhW7t8ypBF3Q1X7odFaHjuh7XJfCohXR3VYAW32i/logo.png",
       "decimals": 3,
@@ -33781,7 +33781,7 @@
     {
       "name": "SOLVIEW",
       "symbol": "SOLV",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/Solviewapp/solviewlogo/main/icon.png",
       "decimals": 9,
       "address": "7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN",
       "chainId": 101,
@@ -76821,6 +76821,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "BUILD Token",
+      "symbol": "BUILD",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmbqSmG9As6kvyzFZUQNAB3jGvzKaxYNz8uggJjR8F1LGe",
+      "decimals": 9,
+      "address": "EZq9JtPQDRJ54Vyp1T8rnbwXU9CDBcjJeZE6jLCjbn1D",
+      "chainId": 101,
+      "tags": [
+        "community-token"
       ]
     },
     {
