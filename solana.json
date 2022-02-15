@@ -23135,7 +23135,7 @@
       ]
     },
     {
-      "name": "RICE Token",
+      "name": "RICE",
       "symbol": "RICE",
       "logoURI": "https://raw.githubusercontent.com/kakasonz112/robocock-token/main/assets/logo.png",
       "decimals": 2,
@@ -30479,6 +30479,17 @@
         "website": "https://solana-nft.io/",
         "twitter": "https://twitter.com/snft2022"
       }
+    },
+    {
+      "name": "XLO Coin",
+      "symbol": "XLO",
+      "logoURI": "https://raw.githubusercontent.com/Link125/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "7JHZiCNojnGedEV9E7nyvJBuaqnGhX8U4iw2o3K6kia",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CHOMP",
@@ -54905,7 +54916,7 @@
       "name": "PoSB Doubloon",
       "symbol": "$PoSB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B3YqABfC8T8MTdPeDEof469zJiUWjy4CwM94dMaeMpxG/logo.png",
-      "decimals": 0,
+      "decimals": 9,
       "address": "B3YqABfC8T8MTdPeDEof469zJiUWjy4CwM94dMaeMpxG",
       "chainId": 101,
       "tags": [
@@ -103114,6 +103125,18 @@
       }
     },
     {
+      "name": "Plague WL",
+      "symbol": "PPWL",
+      "logoURI": "https://raw.githubusercontent.com/PlaguePixel/icon/main/WL%20Plague.png",
+      "decimals": 0,
+      "address": "WLPkasQaeBjePs6uED7MQsQiES41aANWfqqAxc5Y8CP",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Saber wbUSDC-USDC LP",
       "symbol": "wbUSDC-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png",
@@ -107994,15 +108017,19 @@
       }
     },
     {
-      "name": "Glide Coin",
+      "name": "Glide",
       "symbol": "GLIDE",
       "logoURI": "https://raw.githubusercontent.com/tsbsoltn/soltn/main/logo.png",
       "decimals": 0,
       "address": "yxTU2PghnfPgcLiUSamfiKWufLtRyQAEUsqoG45kMjm",
       "chainId": 101,
       "tags": [
-        "social-token"
-      ]
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://glidecoin.com/"
+      }
     },
     {
       "name": "Hamzah Alhumaidi",
