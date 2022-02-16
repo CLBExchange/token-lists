@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-15T00:57:46.734Z",
+  "timestamp": "2022-02-16T00:53:26.919Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -344,6 +344,26 @@
         "pool": "4xyRB2zYojWVQLECV3Y1yMKr2ugDGmTTvLHKrRorY26c",
         "token0Img": "https://coin98.s3.amazonaws.com/fyBxpM0aewvQ1Ag6",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Solend mSOL",
+      "symbol": "cmSOL",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h.png",
+      "decimals": 9,
+      "address": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "website": "https://solend.fi",
+        "source": "solend",
+        "currency": "SOL",
+        "sourceUrl": "https://solend.fi/dashboard"
       }
     },
     {
@@ -757,6 +777,26 @@
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Solend SOL",
+      "symbol": "cSOL",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV.png",
+      "decimals": 9,
+      "address": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "website": "https://solend.fi",
+        "source": "solend",
+        "currency": "SOL",
+        "sourceUrl": "https://solend.fi/dashboard"
       }
     },
     {
@@ -1578,6 +1618,26 @@
           "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Solend USDC",
+      "symbol": "cUSDC",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk.png",
+      "decimals": 6,
+      "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://solend.fi",
+        "source": "solend",
+        "currency": "USD",
+        "sourceUrl": "https://solend.fi/dashboard"
       }
     },
     {
@@ -2681,6 +2741,26 @@
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Solend USDT",
+      "symbol": "cUSDT",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8.png",
+      "decimals": 6,
+      "address": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens",
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://solend.fi",
+        "source": "solend",
+        "currency": "USD",
+        "sourceUrl": "https://solend.fi/dashboard"
       }
     },
     {
@@ -6036,6 +6116,26 @@
       }
     },
     {
+      "name": "Saber cSOL-cmSOL LP",
+      "symbol": "cSOL-cmSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa/icon.png",
+      "decimals": 9,
+      "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-solend"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solend_sol_msol",
+        "underlyingTokens": [
+          "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+          "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Sunny Governance Token",
       "symbol": "SUNNY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
@@ -6051,6 +6151,26 @@
         "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
         "coingeckoId": "sunny-aggregator",
         "waterfallbot": "https://bit.ly/SUNNYwaterfall"
+      }
+    },
+    {
+      "name": "Saber cUSDC-cUSDT LP",
+      "symbol": "cUSDC-cUSDT",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1/icon.png",
+      "decimals": 6,
+      "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-solend"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solend_usdc_usdt",
+        "underlyingTokens": [
+          "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
+          "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -6126,6 +6246,44 @@
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
           "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber mSOL-JSOL LP",
+      "symbol": "mSOL-JSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9/icon.png",
+      "decimals": 9,
+      "address": "SoLWs9Av7ss1jHXqVLDVCBiDaAYuT4o5uRNMMuBFhB9",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/msol_jsol",
+        "underlyingTokens": [
+          "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber scnSOL-JSOL LP",
+      "symbol": "scnSOL-JSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca/icon.png",
+      "decimals": 9,
+      "address": "SoLaUA1vvCaidtQLYwt4yszBv1LtbYJDjEbwC4bzxca",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/scn_jsol",
+        "underlyingTokens": [
+          "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+          "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
         ],
         "source": "saber"
       }

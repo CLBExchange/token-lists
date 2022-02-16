@@ -61193,6 +61193,22 @@
       }
     },
     {
+      "name": "Sol-e Tech Points",
+      "symbol": "PTS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C6Kc3aLCTugfPcH1twxGAdiyWf9DsVjHdyABjXugufhL/logo.png",
+      "decimals": 9,
+      "address": "C6Kc3aLCTugfPcH1twxGAdiyWf9DsVjHdyABjXugufhL",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/sole_nft"
+      }
+    },
+    {
       "name": "Thug Roozter Token",
       "symbol": "RZTR",
       "logoURI": "https://raw.githubusercontent.com/0xthug/logo/main/thug-roozter-token.png",
@@ -67836,6 +67852,17 @@
       }
     },
     {
+      "name": "Neotron",
+      "symbol": "NTRON",
+      "logoURI": "https://raw.githubusercontent.com/gvossos/crypto/main/neotron-logo.png",
+      "decimals": 0,
+      "address": "D3jtAcY9u9EGRiJ7j9FA6Wa6pJNZzmDe29iKrXtWUkJh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Komodo Dragonz",
       "symbol": "KMDO",
       "logoURI": "https://cdn.jsdelivr.net/gh/AbdallaMalik/KMDO/logo/KMDO.png",
@@ -71162,6 +71189,17 @@
         "serumV3Usdt": "FoUNnH6RTVFrL92PsvgLbwTZbFHK1PUe1rb2ZWfF3VGK",
         "description": "Play video games with anyone anywhere in the world on any platform and earn using your Esport skills."
       }
+    },
+    {
+      "name": "The Swamp Token",
+      "symbol": "SWAMP",
+      "logoURI": "https://raw.githubusercontent.com/papacroc/swamptokenofficial/main/Logo.png",
+      "decimals": 0,
+      "address": "DbV44ix6fnBsR7Uf7uinmHqkMcEG81PjxP2ofCbBrUPa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Carwash Token",
@@ -93481,6 +93519,22 @@
         "twitter": "https://twitter.com/kingsamocoin",
         "discord": "https://discord.com/invite/R8QhkNHn",
         "telegram": "https://t.me/TokenKingSamo"
+      }
+    },
+    {
+      "name": "Moose and cub currency system",
+      "symbol": "PEW",
+      "logoURI": "https://i.ibb.co/fkDWTtg/us.jpg",
+      "decimals": 9,
+      "address": "HDnX2LC1bnP88VefMh3rZxdAEFvK1jEPVovb2CBQsbbs",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solgats.io",
+        "twitter": "https://twitter.com/solgats",
+        "discord": "https://discord.gg/n26UwdVy"
       }
     },
     {
