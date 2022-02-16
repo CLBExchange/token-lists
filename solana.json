@@ -16596,6 +16596,17 @@
       }
     },
     {
+      "name": "Flash Coin",
+      "symbol": "FLSH",
+      "logoURI": "https://raw.githubusercontent.com/alexisonsmith/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "4nDRYZAhu1frRzeRx4rh3pbbcWgFWx5oSPvtnGDRp4DM",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Fractionalized Gecko-2140",
       "symbol": "GEICO",
       "logoURI": "https://oleoat3dkcqo3ydnw2m5fe2qcw5rhfhhf5ga7kaalnljynee57za.arweave.net/csjgT2NQoO3gbbaZ0pNQFbsTlOcvTA-oAFtWnDSE7_I",
@@ -101362,6 +101373,14 @@
       "extensions": {
         "website": "https://app.saber.so/#/pools/port_2pool"
       }
+    },
+    {
+      "name": "NFTraders WhiteList",
+      "symbol": "NFTW",
+      "logoURI": "https://github.dev/solana-labs/token-list/blob/89a0071ebd9424b3600cb44719eb73edda6d38ca/assets/mainnet/Pre5GMkB2MYsdTg2QLzM4XD3xawQ9UQiKzp9iuoGVcA/logo.png",
+      "decimals": 0,
+      "address": "Pre5GMkB2MYsdTg2QLzM4XD3xawQ9UQiKzp9iuoGVcA",
+      "chainId": 101
     },
     {
       "name": "Saber prtSOL-SOL LP",
