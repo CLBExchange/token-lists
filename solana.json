@@ -7726,6 +7726,17 @@
       ]
     },
     {
+      "name": "Shizen Orochi - ORO",
+      "symbol": "ORO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3GfdtDnQC6mjkdr9cEaSr9mjS2VnSYoVypQiT2PPRBch/logo.png",
+      "decimals": 9,
+      "address": "3GfdtDnQC6mjkdr9cEaSr9mjS2VnSYoVypQiT2PPRBch",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.shizenorochi.com"
+      }
+    },
+    {
       "name": "Bijli Coin",
       "symbol": "BIJLI",
       "logoURI": "https://raw.githubusercontent.com/iayanpahwa/bijli-coin/main/assets/logo.png",
@@ -17942,6 +17953,21 @@
       }
     },
     {
+      "name": "BTCNFT Trademark BITN 2",
+      "symbol": "$BITN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/527RUQgWm9wjuZqENJ1RTbNmsJ44vLQnZcxMoKKAtXet/logo.png",
+      "decimals": 9,
+      "address": "527RUQgWm9wjuZqENJ1RTbNmsJ44vLQnZcxMoKKAtXet",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "NGN Coin",
       "symbol": "NGNC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/52GzcLDMfBveMRnWXKX7U3Pa5Lf7QLkWWvsJRDjWDBSk/logo.png",
@@ -18230,6 +18256,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCNFT Trademark BCN",
+      "symbol": "BCN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/55mkfwuUyuN6VScNMay4g3KSN2xVsbVuJ9mqb9puARzp/logo.png",
+      "decimals": 9,
+      "address": "55mkfwuUyuN6VScNMay4g3KSN2xVsbVuJ9mqb9puARzp",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
     },
     {
       "name": "Carbon Tube Token",
@@ -22992,6 +23033,21 @@
       "extensions": {
         "website": "https://www.hydraswap.io",
         "twitter": "https://twitter.com/HydraSwap_io"
+      }
+    },
+    {
+      "name": "BTCNFT Trademark BCNFT",
+      "symbol": "BCNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5vXyUx7fGqpo1NJo2GNqaJuyFWQVU96nr8E2r7467Dhb/logo.png",
+      "decimals": 9,
+      "address": "5vXyUx7fGqpo1NJo2GNqaJuyFWQVU96nr8E2r7467Dhb",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
       }
     },
     {
@@ -32902,6 +32958,21 @@
       }
     },
     {
+      "name": "BTCNFT Trademark BCNFT 2",
+      "symbol": "$BCNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gevHSfhLtBj5tZ5iw8113J8Aft1A6aNzy2jKqkPJ2UR/logo.png",
+      "decimals": 9,
+      "address": "7gevHSfhLtBj5tZ5iw8113J8Aft1A6aNzy2jKqkPJ2UR",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "DickButt",
       "symbol": "DIBU",
       "logoURI": "https://cdn.jsdelivr.net/gh/xRoBBeRT/DickButtLogo/DickButt.png",
@@ -41303,6 +41374,21 @@
       }
     },
     {
+      "name": "BTCNFT Trademark BITNFT",
+      "symbol": "$BITNFT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8xCKSf2ba7HP2EwahXmeYqABcFTt6eyYkJZM9hcBZLdf/logo.png",
+      "decimals": 9,
+      "address": "8xCKSf2ba7HP2EwahXmeYqABcFTt6eyYkJZM9hcBZLdf",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "Sassy Cat",
       "symbol": "SASSY",
       "logoURI": "https://raw.githubusercontent.com/veryDead/crypto/main/logo.png",
@@ -46775,6 +46861,21 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "name": "BTCNFT Trademark BCNF 2",
+      "symbol": "$BCNF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9sBpeAnECieAgstSG2hqrKYMF66LzFAajBGpj2hbbPMy/logo.png",
+      "decimals": 9,
+      "address": "9sBpeAnECieAgstSG2hqrKYMF66LzFAajBGpj2hbbPMy",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
     },
     {
       "name": "DMP coin",
@@ -68190,6 +68291,21 @@
       }
     },
     {
+      "name": "BTCNFT Trademark BITNF 2",
+      "symbol": "$BITNF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5GNycJ6kbppKcxsN3FV8ve7crTzAKioaFCh9hEEbVfc/logo.png",
+      "decimals": 9,
+      "address": "D5GNycJ6kbppKcxsN3FV8ve7crTzAKioaFCh9hEEbVfc",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "Kaidos Token",
       "symbol": "$KAIDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D5YJf7nqSp9JtQpMcZCthdEpMghK2gKmkLMLi2RhKSJt/Kaido.jpg",
@@ -68456,6 +68572,21 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "BTCNFT Trademark BITNF",
+      "symbol": "BITNF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D7nr4D5MSLGnyYLoKKe5GfujkcfLoHk6ksDi6FtrfxVs/logo.png",
+      "decimals": 9,
+      "address": "D7nr4D5MSLGnyYLoKKe5GfujkcfLoHk6ksDi6FtrfxVs",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
     },
     {
       "name": "Kori",
@@ -80518,6 +80649,21 @@
       ]
     },
     {
+      "name": "BTCNFT Trademark BITN",
+      "symbol": "BITN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F8hWTmvFrXFK8V6HRS5CEvrHa5rMLbahTBsfnLqr2FRc/logo.png",
+      "decimals": 9,
+      "address": "F8hWTmvFrXFK8V6HRS5CEvrHa5rMLbahTBsfnLqr2FRc",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
+      }
+    },
+    {
       "name": "ShuShi Coin",
       "symbol": "SHUSHI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F8haj7XPnjiYLTmivGL3UvWZHjP9f1Lt96nxDzDQG3K3/logo.png",
@@ -81910,6 +82056,21 @@
         "website": "https://solflowers.io",
         "twitter": "https://twitter.com/solflowers_io",
         "discord": "https://discord.com/invite/solflowersnft"
+      }
+    },
+    {
+      "name": "BTCNFT Trademark BCNF",
+      "symbol": "BCNF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLZGQMEH3eUHhDrwtnDLmw48XqSovLsucgDY5mWuCctG/logo.png",
+      "decimals": 9,
+      "address": "FLZGQMEH3eUHhDrwtnDLmw48XqSovLsucgDY5mWuCctG",
+      "chainId": 101,
+      "tags": [
+        "btcnftcoin-com",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftcoin.com/"
       }
     },
     {
