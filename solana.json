@@ -56066,6 +56066,17 @@
       }
     },
     {
+      "name": "Kkcina",
+      "symbol": "KKC",
+      "logoURI": "https://raw.githubusercontent.com/bumir258/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "BCZZL8hK41QvuR2pg5WHp7JmQtPUsE7m3vNCm3LfQoti",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hosting Coin",
       "symbol": "HC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCaiBkEkDGoPddGsYH65iSLTZW7tr58QsmQ3Vfs6oCWv/logo.png",
@@ -60484,6 +60495,17 @@
       "tags": [
         "utility-token",
         "community-token"
+      ]
+    },
+    {
+      "name": "Future of France",
+      "symbol": "FOF",
+      "logoURI": "https://raw.githubusercontent.com/FutureFrance/fof-/main/logo.png",
+      "decimals": 0,
+      "address": "Bsms72AVaPVPByPUky9Jmh1UCFDwMYBZNMs9Mx55EipG",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -72851,6 +72873,17 @@
         "discord": "https://discord.gg/longweenclub",
         "coingeckoId": "ween-token",
         "description": "Ween Token, a meme coin for people who love wiener dogs."
+      }
+    },
+    {
+      "name": "Solera",
+      "symbol": "SOLERA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dmd4sH3U35Uy3rLGnkx4zVa7EnJAherqSbm9K7aHbfpc/logo.png",
+      "decimals": 9,
+      "address": "Dmd4sH3U35Uy3rLGnkx4zVa7EnJAherqSbm9K7aHbfpc",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.savagestotsys.com"
       }
     },
     {
