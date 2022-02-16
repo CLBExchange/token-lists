@@ -31344,6 +31344,22 @@
       }
     },
     {
+      "name": "BBQ Coin",
+      "symbol": "BBQ",
+      "logoURI": "https://raw.githubusercontent.com/gzparker/BBQCoin/main/logo.png",
+      "decimals": 0,
+      "address": "7TMc9ogd3woQHVNe6y49PyNcqZNtQkrjjNwLtcrKD1Nm",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.americanbbq.org"
+      }
+    },
+    {
       "name": "Pornlana",
       "symbol": "PORN",
       "logoURI": "https://raw.githubusercontent.com/Agaveis/pornlana/main/logo.png",
@@ -100247,6 +100263,23 @@
         "reddit": "https://www.reddit.com/r/nanox_finance",
         "telegram": "https://t.me/nanoXspace",
         "youtube": "https://www.youtube.com/channel/UCSJrIzML8sTE3LsdIGKKuxg"
+      }
+    },
+    {
+      "name": "NEO Governance Token",
+      "symbol": "NEO",
+      "logoURI": "https://raw.githubusercontent.com/UnlockDeFi/NEONEXUS/master/assets/tokens/neo/neo.svg",
+      "decimals": 9,
+      "address": "Neofzr2yA4zKv7zs9DgANA332nD3tAsDBUuk7s2ab2n",
+      "chainId": 101,
+      "tags": [
+        "governance-token",
+        "neonexus"
+      ],
+      "extensions": {
+        "website": "https://neonexus.io",
+        "twitter": "https://twitter.com/neonexus_world",
+        "discord": "https://discord.gg/y76VcXQrZq"
       }
     },
     {
