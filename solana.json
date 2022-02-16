@@ -8806,6 +8806,17 @@
       }
     },
     {
+      "name": "TheChickenz",
+      "symbol": "CHICK",
+      "logoURI": "https://raw.githubusercontent.com/MarioProjects/chick-coin/main/coin.png",
+      "decimals": 0,
+      "address": "3RXTenk2bvx5cTYY8JrN94EFi3AkYCz9tzJzE7oRhSgf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Fulbo Stars",
       "symbol": "FUL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Rca23WVVN5Vnq4JdfgRq5ou8auD1n5ikVWzSd91s6eG/logo.png",
@@ -90280,6 +90291,17 @@
         "website": "https://cryptowhale.org/",
         "twitter": "https://twitter.com/CryptoWhale"
       }
+    },
+    {
+      "name": "Cryptomos Token",
+      "symbol": "CTMS",
+      "logoURI": "https://raw.githubusercontent.com/cryptomos000com/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "GdB5KVvYbmRR3qrxG1sjRMpBLKHb2rg1hzcRR3a3wMmv",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "IsaacBurgerCoin",
