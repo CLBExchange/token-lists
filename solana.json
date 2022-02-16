@@ -63306,6 +63306,17 @@
       }
     },
     {
+      "name": "FourTwentyCoin",
+      "symbol": "FTC",
+      "logoURI": "https://raw.githubusercontent.com/draganfourtwenty/crypto/main/Logo.png",
+      "decimals": 0,
+      "address": "CMeBHBuvWby47zKN8iUyW8mam7tCqet5aLAoshva3fYQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Vera",
       "symbol": "VER",
       "logoURI": "https://dl.dropboxusercontent.com/s/1h1kbyfwhf9m8t3/vera-logo.png?dl=0",
@@ -86420,6 +86431,18 @@
         "imageUrl": "https://storage.googleapis.com/nft-assets/ReBirth/poster-7/paizul-funeral-procession.jpg",
         "description": "The sound of wailing echoes across the plains. The Sogmian procession solemnly marches in step past their ancestors' gravestones, still haunted by the fate of their leader. The sun begins to set as they bring Paizul's cryopod at the top of the Rock of Light. As a beam of light consumes the pod to upload it to eternal rest with the ancients, Bekalu falls to his knees with a wrathful howl. The crowd is rattled to the core, a foreboding of things to come."
       }
+    },
+    {
+      "name": "CSEBets",
+      "symbol": "CBETS",
+      "logoURI": "https://raw.githubusercontent.com/CSEBets/crypto/main/csebetslogo.jpg",
+      "decimals": 0,
+      "address": "G1jPNVrjF6beKE88pDBmMZM72xsphw8x8n94xcPTG18R",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     },
     {
       "name": "Aave interest bearing AAVE (Wormhole v1)",
@@ -111540,6 +111563,17 @@
       "extensions": {
         "website": "https://devbeta.human.ag/address/8tJ9y6nUbcieE3fa6iSuwQSGkcpU5Bt4AhcBnKwPcBz8?src=token-list"
       }
+    },
+    {
+      "name": "Air",
+      "symbol": "AIR",
+      "logoURI": "https://raw.githubusercontent.com/Hariienesh1901/Air/main/logo.png",
+      "decimals": 0,
+      "address": "Hqk42zkSoxhKGZtnj8HpuxYroysRmMkEDUvC9TvQbzNu",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Cinovos",
