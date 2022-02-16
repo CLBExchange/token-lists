@@ -3113,6 +3113,17 @@
       ]
     },
     {
+      "name": "Motor Flippers WL",
+      "symbol": "MFWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Vjitrf9ZF7mmPKiyocSigH8HqWWSCAPYXAGPdzjvZGg/motor-flippers.png",
+      "decimals": 0,
+      "address": "2Vjitrf9ZF7mmPKiyocSigH8HqWWSCAPYXAGPdzjvZGg",
+      "chainId": 101,
+      "tags": [
+        "whitelist"
+      ]
+    },
+    {
       "name": "Aave Interest bearing DAI (Wormhole v1)",
       "symbol": "waDAI_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2VmKuXMwdzouMndWcK7BK2951tBEtYVmGsdU4dXbjyaY/logo.svg",
@@ -20030,6 +20041,17 @@
       "logoURI": "https://raw.githubusercontent.com/tokermaker/yippers/main/logo.png",
       "decimals": 0,
       "address": "5RyFNDFE6tadfNU7ftSSyXB1PCBQVbLf9EdY1WecHt2b",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "KROBA",
+      "symbol": "KROBA",
+      "logoURI": "https://raw.githubusercontent.com/RonxBrush/KROBA-TOKEN/main/logo.png",
+      "decimals": 0,
+      "address": "5S2uwGaiCYX4tXq9wfSH44SbXTQUF2n2sanJJ2o1djXr",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -38549,6 +38571,22 @@
         "facebook": "https://www.facebook.com/Condor-Coin-108233578306800",
         "instagram": "https://www.instagram.com/condorcoin/",
         "reddit": "https://www.reddit.com/user/condorcoin"
+      }
+    },
+    {
+      "name": "Royal Goats",
+      "symbol": "RGT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8YNpPhbPabeZqHTdZsh5miXNqj4WFGPL1DwZbmb7AaxK/logo.png",
+      "decimals": 9,
+      "address": "8YNpPhbPabeZqHTdZsh5miXNqj4WFGPL1DwZbmb7AaxK",
+      "chainId": 101,
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://www.royalgoats.com/",
+        "twitter": "https://twitter.com/RoyalGoatsNFT",
+        "discord": "https://discord.gg/MaB6hjhfzt"
       }
     },
     {
