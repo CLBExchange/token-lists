@@ -31727,6 +31727,25 @@
       ]
     },
     {
+      "name": "Nitro Coin",
+      "symbol": "NTR",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Nitro-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "7VnDcdeDG2PdysDHSeceackLupXNrUo9nmhzKt7kqAMQ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "nitro-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nitroakawilson",
+        "instagram": "https://www.instagram.com/robertdenitro",
+        "youtube": "https://www.youtube.com/channel/UCh-RZKbzquLB8oMsNiFZo5A"
+      }
+    },
+    {
       "name": "HOLY SHIT",
       "symbol": "HOLYSHIT",
       "logoURI": "https://raw.githubusercontent.com/Crypto-Never-Sleeps/ShitToken/main/logo.png",
@@ -42718,6 +42737,17 @@
       "extensions": {
         "website": "https://applehead.finance/"
       }
+    },
+    {
+      "name": "Stelinium",
+      "symbol": "STELI",
+      "logoURI": "https://raw.githubusercontent.com/SteliosMappouras/Stelinium/main/stelinium1.png",
+      "decimals": 0,
+      "address": "9BZffa5zs4K41GRDm7a8EfM4y1rw6SoXV6eysruDCjPT",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Solcatcoin",
@@ -61885,6 +61915,21 @@
       ]
     },
     {
+      "name": "Gietwerk gouden lijst",
+      "symbol": "GJJ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9kdkSkppUh9zAfGZVbyTKR3bR5G972XpyVpBfYVXpVh/goudenlijst.png",
+      "decimals": 0,
+      "address": "C9kdkSkppUh9zAfGZVbyTKR3bR5G972XpyVpBfYVXpVh",
+      "chainId": 101,
+      "tags": [
+        "Geert-Jan-Jansen",
+        "Gietwerken"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/nft-geert-jan-jansen-gietwerk-gouden-lijst/"
+      }
+    },
+    {
       "name": "MetaHedge",
       "symbol": "META$",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9mNSDBnHbpgRCwrtcpDQGNJJbNZPTLNKDe2d195uBSc/logo.png",
@@ -77179,6 +77224,20 @@
       }
     },
     {
+      "name": "Rove Token",
+      "symbol": "ROVE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYAT7vE2TNu4bunpCNfPgmQKUoZCZb4S5ZMJk7AF5xYP/logo.png",
+      "decimals": 0,
+      "address": "EYAT7vE2TNu4bunpCNfPgmQKUoZCZb4S5ZMJk7AF5xYP",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://rove.live"
+      }
+    },
+    {
       "name": "Balisari",
       "symbol": "BST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EYDEQW4xQzLqHcFwHTgGvpdjsa5EFn74KzuqLX5emjD2/logo.png",
@@ -81471,6 +81530,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFBZ7r8Mvk1tSuWRdytmWSo5sJJCVwsAaMbN7m5bD6mR/logo.png",
       "decimals": 0,
       "address": "FFBZ7r8Mvk1tSuWRdytmWSo5sJJCVwsAaMbN7m5bD6mR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "BakkaCoin",
+      "symbol": "BAC",
+      "logoURI": "https://raw.githubusercontent.com/ludvig03/Bakkacoin_logo/main/logo.png",
+      "decimals": 0,
+      "address": "FFDyss8ZNKDoptctFbem76j5idS5yqWVc3kLsNhgFSpV",
       "chainId": 101,
       "tags": [
         "social-token"
