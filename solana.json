@@ -26840,6 +26840,17 @@
       }
     },
     {
+      "name": "Trunte Coin",
+      "symbol": "TRNT",
+      "logoURI": "https://raw.githubusercontent.com/CosmosKrypto/trunte/main/logo.png",
+      "decimals": 0,
+      "address": "6dGAtKBFYNB34ABHDHQV5jc3PXGD36eaxxgVMRakwgeY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "AKIHIGE Token",
       "symbol": "AKI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6dGR9kAt499jzsojDHCvDArKxpTarNbhdSkiS7jeMAib/logo.png",
@@ -85614,6 +85625,25 @@
       "extensions": {
         "website": "https://youngmonksnft.com/",
         "twitter": "https://twitter.com/youngmonksnft"
+      }
+    },
+    {
+      "name": "Beefcoin",
+      "symbol": "BEEF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FrFwnzVRLWics6WEixMupRC5GiPg7YaQuY4m5DWKCqEy/logo.png",
+      "decimals": 9,
+      "address": "FrFwnzVRLWics6WEixMupRC5GiPg7YaQuY4m5DWKCqEy",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token",
+        "meme-token",
+        "food-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://www.beefcoin.info/"
       }
     },
     {
