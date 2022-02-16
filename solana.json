@@ -7419,6 +7419,26 @@
       ]
     },
     {
+      "name": "Sortitio",
+      "symbol": "SORTI",
+      "logoURI": "https://raw.githubusercontent.com/SortitioToken/uploads/main/logo.png",
+      "decimals": 9,
+      "address": "3E6naW6kBaMetuKZD7a17AtPVDVzQr2gnTGdcGn7ud17",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://sortitio.com/",
+        "twitter": "https://twitter.com/sortitioworld",
+        "facebook": "https://www.facebook.com/sortitioworld/",
+        "instagram": "https://www.instagram.com/sortitioworld/",
+        "telegram": "https://t.me/sortitio",
+        "youtube": "https://www.youtube.com/channel/UCxpZ8j5HEC7Pjy5bM8GAiog"
+      }
+    },
+    {
       "name": "BUZZ",
       "symbol": "BUZZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EBLgqhs6CPff7DZMmQRoVFAy7Y9CpTZeKyEw8eryZj2/logo.png",
@@ -24701,6 +24721,23 @@
         "gamefi",
         "game-token"
       ]
+    },
+    {
+      "name": "Pineapple Express Coin",
+      "symbol": "PNPL",
+      "logoURI": "https://raw.githubusercontent.com/PineappleExpressCoin/token/main/logo.png",
+      "decimals": 10,
+      "address": "6FTNWZF5bDNrepD32sA6LSBbPZA13ktjujxTYXtZ9Bde",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "pineapple-token",
+        "pineapple-express",
+        "web3"
+      ],
+      "extensions": {
+        "website": "https://pineappleinc.com/coin/"
+      }
     },
     {
       "name": "Shamji Coin",
