@@ -55762,6 +55762,23 @@
       ]
     },
     {
+      "name": "Chimp",
+      "symbol": "CHIMP",
+      "logoURI": "https://raw.githubusercontent.com/tsbsoltn/soltn/main/chimp/logo.png",
+      "decimals": 0,
+      "address": "B8wCsjSv3TDZcaLuhPZNDvpk2vuBtRgpgmTuvoDAJZZ7",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://chimpd.com",
+        "description": "The #1 Decentralized meme token in Solana ecosystem."
+      }
+    },
+    {
       "name": "Growth (Wormhole v1)",
       "symbol": "wGRO_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B8xDqdrHpYLNHQKQ4ARDKurxhkhn2gfZa8WRosCEzXnF/logo.png",
@@ -90384,6 +90401,18 @@
       }
     },
     {
+      "name": "TheVoidCoin",
+      "symbol": "VOID",
+      "logoURI": "https://cdn.jsdelivr.net/gh/dev-red07/solanavoid/void.png",
+      "decimals": 9,
+      "address": "GZV6zHR9Byi1iBqQobiUW51WPcu5xYHXUXt8JyCS9W92",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "web3"
+      ]
+    },
+    {
       "name": "FOR WORK",
       "symbol": "FRWK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GZVS1bbPiiDqfuNymXEDbu9Am34uZx6MCzxBrp1P85K3/logo.png",
@@ -98702,6 +98731,17 @@
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/csh-logo.png",
       "decimals": 9,
       "address": "J4gd9c6trVYkrUESngq362FrReWtpyyzbUYWAvqmtjBv",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "soulbondsoul",
+      "symbol": "SBS",
+      "logoURI": "https://raw.githubusercontent.com/soulbondsoul/SBS-soulbondsoul-CRYPTO/main/logo.png",
+      "decimals": 0,
+      "address": "J4ieoMxEng99xHVD3KMvyZ2zYz1ZmkwqmQhRSeqjoMqV",
       "chainId": 101,
       "tags": [
         "social-token"
