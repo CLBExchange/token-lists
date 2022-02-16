@@ -18021,6 +18021,17 @@
       }
     },
     {
+      "name": "Egl Coin",
+      "symbol": "EGL",
+      "logoURI": "https://raw.githubusercontent.com/14-8811-1/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "53jjZtfmvFDKpWaHj1Z9u53d45eAVk29xrwG2s89r57E",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Doragon Token",
       "symbol": "DORA",
       "logoURI": "https://raw.githubusercontent.com/pixelateddoragon/brand/main/token.png",
@@ -72177,6 +72188,14 @@
         "twitter": "https://twitter.com/TrueAidBD",
         "description": "True Aid Bangladesh Coin"
       }
+    },
+    {
+      "name": "Brezel",
+      "symbol": "BRZL",
+      "logoURI": "https://brezel.io/img/brezel.svg",
+      "decimals": 6,
+      "address": "DkGCSjkUHKDPM1hjcMM8dGNDPnf5nrQU8fvsqvQkVixx",
+      "chainId": 101
     },
     {
       "name": "Currie Coin",
