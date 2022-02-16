@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-14T18:49:13.250Z",
+  "timestamp": "2022-02-16T21:27:18.587Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -3867,7 +3867,7 @@
     {
       "name": "Saber cSOL-cmSOL LP",
       "symbol": "cSOL-cmSOL",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa.png",
       "decimals": 9,
       "address": "SSoxcNry3qU1wN5Vj6zMJKTSqJPyPLks5KNfCJCmUPa",
       "chainId": 101,
@@ -3887,7 +3887,7 @@
     {
       "name": "Saber cUSDC-cUSDT LP",
       "symbol": "cUSDC-cUSDT",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1.png",
       "decimals": 6,
       "address": "SUSeGZEV69Xy7rQfhDffyTysHgEP3nJUDMxEZJSvJr1",
       "chainId": 101,

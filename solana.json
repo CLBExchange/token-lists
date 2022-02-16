@@ -36454,6 +36454,20 @@
       }
     },
     {
+      "name": "Billionaire Bling Coin",
+      "symbol": "BLING",
+      "logoURI": "https://raw.githubusercontent.com/gzparker/BlingCoin/main/logo.png",
+      "decimals": 0,
+      "address": "8Bmwd23NKHoGGaZbWDvngbG2GQ2vstso1WX3283RSQkC",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "meme-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Linux Parot)",
       "symbol": "PLNX",
       "logoURI": "https://raw.githubusercontent.com/SquareandCompass/images/main/8BryHGGaNCCR7MWa9JoX7mRU3ZyChHMabNFVNw5Dy52x.png",
@@ -65472,6 +65486,23 @@
       }
     },
     {
+      "name": "HONEYBEAR",
+      "symbol": "HONEYBEAR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CdcRwbFuj3YNJYdfUqh3hnxFz1fuF6he1Wgz7JvZMHda/logo.png",
+      "decimals": 9,
+      "address": "CdcRwbFuj3YNJYdfUqh3hnxFz1fuF6he1Wgz7JvZMHda",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "http://lazybearsnft.com/",
+        "twitter": "https://twitter.com/LazyBearsNFT"
+      }
+    },
+    {
       "name": "Cyber Ape Age",
       "symbol": "CYBER",
       "logoURI": "https://raw.githubusercontent.com/CyberApeAge/PFPs/main/Cyber%20Ape%20Concept%2044.png",
@@ -80233,6 +80264,17 @@
       "logoURI": "https://raw.githubusercontent.com/Joblo197/Crypto/main/Shroom%20Logo.png",
       "decimals": 5,
       "address": "F14Cp89oAXMrNnaC4mKMNKHPWw2p2R4DRFAZEdJhUBkD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Sudereum",
+      "symbol": "AST",
+      "logoURI": "https://raw.githubusercontent.com/Aomaf/astlogo/main/logo.png",
+      "decimals": 0,
+      "address": "F173iuJpRaxWdHWc9hFbzrGZykCDyQqqcD11YQ1aiqX7",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -99140,6 +99182,23 @@
       "extensions": {
         "website": "https://cryptomindex.com",
         "twitter": "https://twitter.com/cryptomindex"
+      }
+    },
+    {
+      "name": "HOZ",
+      "symbol": "HOZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J876jWVwYyjCVRDNsLDdgtXw1T1ojwSnbub4sLsiowFy/logo.png",
+      "decimals": 9,
+      "address": "J876jWVwYyjCVRDNsLDdgtXw1T1ojwSnbub4sLsiowFy",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.houndsofzeus.io/",
+        "twitter": "https://twitter.com/HoundsOfZeusNFT"
       }
     },
     {
