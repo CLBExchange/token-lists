@@ -3396,14 +3396,14 @@
       ]
     },
     {
-      "name": "DuckSol",
-      "symbol": "dSOL",
+      "name": "Sol Gems",
+      "symbol": "SGMS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YJH1Y5NbdwJGEUAMY6hoTycKWrRCP6kLKs62xiSKWHM/logo.png",
       "decimals": 9,
       "address": "2YJH1Y5NbdwJGEUAMY6hoTycKWrRCP6kLKs62xiSKWHM",
       "chainId": 101,
       "tags": [
-        "social-token"
+        "utility-token"
       ],
       "extensions": {
         "website": "https://dazedducks.com"
@@ -8288,6 +8288,17 @@
       "chainId": 101,
       "tags": [
         "utility-token"
+      ]
+    },
+    {
+      "name": "Daiki Token",
+      "symbol": "DAIK",
+      "logoURI": "https://cdn.discordapp.com/attachments/926535226820276264/943860197351387146/daikitoken.png",
+      "decimals": 1,
+      "address": "3LFdGFgEpqXNcuLNXKgpcK7fKq5jUYdCfDmcFDVyUqCN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -40160,6 +40171,27 @@
       ]
     },
     {
+      "name": "SolChicks Shards",
+      "symbol": "SHARDS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8j3hXRK5rdoZ2vSpGLRmXtWmW6iYaRUw5xVk4Kzmc9Hp/logo.png",
+      "decimals": 9,
+      "address": "8j3hXRK5rdoZ2vSpGLRmXtWmW6iYaRUw5xVk4Kzmc9Hp",
+      "chainId": 101,
+      "tags": [
+        "gaming",
+        "nfts",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.solchicks.io/",
+        "twitter": "https://twitter.com/SolChicksNFT",
+        "discord": "https://discord.gg/solchicks",
+        "description": "SHARDS is the utility token for SolChicks, the leading play-to-earn fantasy game on Solana",
+        "telegram": "https://t.me/solchicksnft"
+      }
+    },
+    {
       "name": "Wizard World Token",
       "symbol": "WWT",
       "logoURI": "https://cdn.jsdelivr.net/gh/AngelOfWindFon/testgits/wwtokensquare.png",
@@ -49651,6 +49683,19 @@
       ]
     },
     {
+      "name": "CARP-A",
+      "symbol": "CARP-A",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEAxXsKeg8xdoSDMyKtFM1TbbGjXbRpBP3eZGDNEaLGQ/logo.png",
+      "decimals": 9,
+      "address": "AEAxXsKeg8xdoSDMyKtFM1TbbGjXbRpBP3eZGDNEaLGQ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Saber aeUSDC-USDC LP",
       "symbol": "aeUSDC-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz/icon.png",
@@ -52461,10 +52506,17 @@
     {
       "name": "Pesos",
       "symbol": "PESOS",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AZYS2oh7rKaiAkabWMkCfHztKS3y9mNGnPaahHyqVtrK/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AZYS2oh7rKaiAkabWMkCfHztKS3y9mNGnPaahHyqVtrK/logo.svg",
       "decimals": 9,
       "address": "AZYS2oh7rKaiAkabWMkCfHztKS3y9mNGnPaahHyqVtrK",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://pesos.store/",
+        "twitter": "https://twitter.com/pesos_coin"
+      }
     },
     {
       "name": "CuseTheJuice",
