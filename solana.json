@@ -97257,6 +97257,21 @@
       }
     },
     {
+      "name": "Wallet Dimidium BV",
+      "symbol": "COMPANY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HgM7hCyoibJQggtrKAJiaNwpG2usxriFLiVskTgNNEDT/dimidium.png",
+      "decimals": 0,
+      "address": "HgM7hCyoibJQggtrKAJiaNwpG2usxriFLiVskTgNNEDT",
+      "chainId": 101,
+      "tags": [
+        "Dimidium",
+        "Wallet"
+      ],
+      "extensions": {
+        "website": "https://dimidium.eu/contact-us/"
+      }
+    },
+    {
       "name": "Dioptase",
       "symbol": "DPT",
       "logoURI": "https://raw.githubusercontent.com/KatelynKunzmann/crypto/main/NFT_Dioptase.png",
@@ -104041,6 +104056,22 @@
       "extensions": {
         "twitter": "https://twitter.com/SolMapsNFT",
         "discord": "https://discord.gg/gaBQAD2kHW"
+      }
+    },
+    {
+      "name": "Purple and Green token",
+      "symbol": "PandG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToiHvgfcWD6CcHryjAFNaHZfZ1jQkKuEiELVmjqfWH9/logo.png",
+      "decimals": 0,
+      "address": "ToiHvgfcWD6CcHryjAFNaHZfZ1jQkKuEiELVmjqfWH9",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.ghost-beat.com/",
+        "twitter": "https://twitter.com/Ghost_Beat_",
+        "discord": "https://discord.gg/kzPBdWtbrK"
       }
     },
     {
