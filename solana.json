@@ -14488,6 +14488,17 @@
       ]
     },
     {
+      "name": "Whitelist token",
+      "symbol": "WL1",
+      "logoURI": "https://raw.githubusercontent.com/Deghf666g/gggg/main/logo.png",
+      "decimals": 0,
+      "address": "4PJ8yD2hPXVGxnYcmjBoDyDHKAMEAKjGgAfvEqmZUaAw",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "PersonaZim",
       "symbol": "PRSZ",
       "logoURI": "https://raw.githubusercontent.com/zimlander/crypto/main/PSRZ.png",
@@ -79110,6 +79121,17 @@
         "twitter": "https://twitter.com/SolaLambo",
         "discord": "https://discord.gg/sy2xymyc7J"
       }
+    },
+    {
+      "name": "ERIC NERON",
+      "symbol": "ERNE",
+      "logoURI": "https://raw.githubusercontent.com/pattron/first-crypto/main/t%C3%A9l%C3%A9chargement.jpg",
+      "decimals": 0,
+      "address": "EkRFmiruaziaUAafqYm5vXwEXH9dQBSyHT7RLczjnmQS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "SolBody",
