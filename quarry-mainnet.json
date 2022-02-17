@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-16T00:53:26.919Z",
+  "timestamp": "2022-02-17T00:46:57.810Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -4938,6 +4938,24 @@
       }
     },
     {
+      "name": "Jungle DeFi",
+      "symbol": "JFI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "decimals": 9,
+      "address": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
+      "chainId": 101,
+      "tags": [
+        "governance-token"
+      ],
+      "extensions": {
+        "website": "https://jungledefi.io/",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "medium": "https://medium.com/@JungleDeFi",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "description": "The Jungle Finance governance token."
+      }
+    },
+    {
       "name": "Wrapped USDT (Allbridge from HECO)",
       "symbol": "ahUSDT",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
@@ -7457,6 +7475,13 @@
       "symbol": "ApojE",
       "decimals": 6,
       "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
+      "chainId": 104
+    },
+    {
+      "name": "Token Aqwe",
+      "symbol": "Aqwef",
+      "decimals": 9,
+      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
       "chainId": 104
     },
     {
