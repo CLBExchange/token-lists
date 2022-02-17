@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-16T21:27:18.587Z",
+  "timestamp": "2022-02-17T05:28:34.050Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -4254,6 +4254,25 @@
         "underlyingTokens": [
           "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber solUST-USDH LP",
+      "symbol": "solUST-USDH",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "USTRHDiTkhjE1oDydHqNkPJNDeBKTTbz9crTmiYc2w9",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/solust_usdh",
+        "underlyingTokens": [
+          "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
         ],
         "source": "saber"
       }

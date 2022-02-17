@@ -5801,6 +5801,17 @@
       }
     },
     {
+      "name": "META PRO Token",
+      "symbol": "METAPRO",
+      "logoURI": "https://raw.githubusercontent.com/ctomark/token-list-metapro/main/assets/mainnet/2yA5b7MQRFyVr3GtdTDav6zV2BnSBiN5zD5uqms1BqaW/logo.png",
+      "decimals": 9,
+      "address": "2yA5b7MQRFyVr3GtdTDav6zV2BnSBiN5zD5uqms1BqaW",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.metaprotoken.com/"
+      }
+    },
+    {
       "name": "SIDI Network Token",
       "symbol": "SIDI",
       "logoURI": "https://raw.githubusercontent.com/SIDI-github/SIDI-Network-Token/main/logo.png",
@@ -55451,6 +55462,21 @@
       ]
     },
     {
+      "name": "SolKongz WL 2",
+      "symbol": "SKW2L",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B2GcHcXR4Na3ry38dSKXpybacaW4xYmt4TZvCoXHmqki/logo.png",
+      "decimals": 9,
+      "address": "B2GcHcXR4Na3ry38dSKXpybacaW4xYmt4TZvCoXHmqki",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.solkongz.net/",
+        "twitter": "https://twitter.com/SolKongz"
+      }
+    },
+    {
       "name": "Aluz One",
       "symbol": "AL1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B2PKbRKPT5HFv71vzu5z86NqCTPmAB6n8xQkBQRADe5z/logo.png",
@@ -77473,6 +77499,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "MetaVerse",
+      "symbol": "MV",
+      "logoURI": "https://user-images.githubusercontent.com/99852730/154405909-7002a30e-c2a4-4bbd-a4a8-91d6c903090e.jpg",
+      "decimals": 8,
+      "address": "EXChb5DMN7aPHgwXGVRgyxeTbfRuSXU73qL7EVfu4iDg",
+      "chainId": 101,
+      "tags": [
+        "community-token"
       ]
     },
     {
@@ -106342,6 +106379,21 @@
       }
     },
     {
+      "name": "SolKongz WL 1",
+      "symbol": "SKWL1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/hKnVPhEEWBbge4vuNZxFe8dVstpsXVUv6wJDwfTLvhW/logo.png",
+      "decimals": 9,
+      "address": "hKnVPhEEWBbge4vuNZxFe8dVstpsXVUv6wJDwfTLvhW",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.solkongz.net/",
+        "twitter": "https://twitter.com/SolKongz"
+      }
+    },
+    {
       "name": "Techwell Token",
       "symbol": "TWT",
       "logoURI": "https://raw.githubusercontent.com/MitkoBachvarov/crypto/main/cryptologo.png",
@@ -111187,6 +111239,17 @@
       "decimals": 9,
       "address": "AKnTTNEzNXB5q5ZoUTi2dX6XwTrCij136z7aoys3qdaL",
       "chainId": 103
+    },
+    {
+      "name": "Sapphire",
+      "symbol": "SPH",
+      "logoURI": "https://raw.githubusercontent.com/Hariienesh1901/Sapphire/main/logo.png",
+      "decimals": 0,
+      "address": "AKzti1oAdft1XqtoJWoqvP5cqUKYWCNCECstELbgLu2x",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Lord of the rings (ANqj)",
