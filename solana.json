@@ -22527,6 +22527,19 @@
       ]
     },
     {
+      "name": "SHINY",
+      "symbol": "SHNY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5oPqqnah6ci5FNU6M24fRtuRQ56eH8hKrLzBw185D13i/logo.png",
+      "decimals": 8,
+      "address": "5oPqqnah6ci5FNU6M24fRtuRQ56eH8hKrLzBw185D13i",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-coin",
+        "community-token"
+      ]
+    },
+    {
       "name": "Sam",
       "symbol": "S0S",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/s0s-logo.png",
@@ -51814,6 +51827,22 @@
       ]
     },
     {
+      "name": "Moon WL Token",
+      "symbol": "LNFTxMOON345",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUNHT5DSvHqgaQCeB7bs9XQMjyx2gfVv8nzmUf5jX3Et/logo.png",
+      "decimals": 0,
+      "address": "AUNHT5DSvHqgaQCeB7bs9XQMjyx2gfVv8nzmUf5jX3Et",
+      "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "website": "https://www.liqnft.com/gallery/collection/MOON",
+        "twitter": "https://twitter.com/liqnft",
+        "discord": "https://discord.gg/PYZWRHgVwM"
+      }
+    },
+    {
       "name": "Aurory",
       "symbol": "AURY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
@@ -73984,6 +74013,19 @@
       }
     },
     {
+      "name": "Octanity",
+      "symbol": "OKTA",
+      "logoURI": "https://raw.githubusercontent.com/Oktavian25/Octanity/main/unknown.png",
+      "decimals": 0,
+      "address": "DqSUNuXdASnqQ5MR5mRytNZW6NkF9akEA14hEFqmcr94",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "stake",
+        "utility-token"
+      ]
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_2C3B",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DqWweYSkTEQLQ2eNoUgF9vAZEdar5jpyTSEaKrxviQw4/logo.png",
@@ -76321,6 +76363,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Cube WL Token",
+      "symbol": "LNFTxMOON1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EEcTHtygK1agDKMKrXgaznbjUNPM67KvnmsqKmPkCTvn/logo.png",
+      "decimals": 0,
+      "address": "EEcTHtygK1agDKMKrXgaznbjUNPM67KvnmsqKmPkCTvn",
+      "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "website": "https://www.liqnft.com/gallery/collection/MOON",
+        "twitter": "https://twitter.com/liqnft",
+        "discord": "https://discord.gg/PYZWRHgVwM"
+      }
     },
     {
       "name": "Ammo",
@@ -83996,6 +84054,22 @@
       "extensions": {
         "vault": "https://fraktion.art/vault/Uzp4nRWuZozb36PbjepYJGM5Q44Bqiw1nYrDfQC1Hd1",
         "vaultPubkey": "Uzp4nRWuZozb36PbjepYJGM5Q44Bqiw1nYrDfQC1Hd1"
+      }
+    },
+    {
+      "name": "Nautilus WL Token",
+      "symbol": "LNFTxMOON2",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUVpXU15YFGh8PyBgqQfj59NmwiRMDe53uqm6sreaj2D/logo.png",
+      "decimals": 0,
+      "address": "FUVpXU15YFGh8PyBgqQfj59NmwiRMDe53uqm6sreaj2D",
+      "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "website": "https://www.liqnft.com/gallery/collection/MOON",
+        "twitter": "https://twitter.com/liqnft",
+        "discord": "https://discord.gg/PYZWRHgVwM"
       }
     },
     {
@@ -101363,6 +101437,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "mma",
+      "symbol": "MMA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MMAx26JtJgSWv6yH48nEHCGZcVvRbf9Lt9ALa7jSipe/logo.png",
+      "decimals": 9,
+      "address": "MMAx26JtJgSWv6yH48nEHCGZcVvRbf9Lt9ALa7jSipe",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://mmagaming.io/",
+        "twitter": "https://twitter.com/mmagaming_io",
+        "medium": "https://medium.com/@MMAGaming",
+        "discord": "https://discord.gg/mmagaming",
+        "description": "WE PLAY, YOU EARN, By helping gamers generate an income for themselves, they create an income for you."
+      }
     },
     {
       "name": "Marinade",
