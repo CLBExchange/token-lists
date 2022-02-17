@@ -22128,6 +22128,25 @@
       ]
     },
     {
+      "name": "StarDust",
+      "symbol": "DUST",
+      "logoURI": "https://user-images.githubusercontent.com/99850934/154388020-11a96575-d433-4e98-b6e8-dc4e9bd348cd.png",
+      "decimals": 8,
+      "address": "5k4is2LEY9qBNi4s4zf5hFuSkEooMTCKKrVRvvn4RF99",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://stardustpay.com",
+        "twitter": "https://twitter.com/stardustpay",
+        "facebook": "https://www.facebook.com/StarDust-Pay-102818109003525",
+        "instagram": "https://www.instagram.com/stardustpay",
+        "linkedin": "https://www.linkedin.com/company/82468083"
+      }
+    },
+    {
       "name": "David n Seth 312",
       "symbol": "DSGG",
       "logoURI": "https://raw.githubusercontent.com/cgtamburro/davnseth312/main/logo.png",
@@ -87633,6 +87652,17 @@
       ]
     },
     {
+      "name": "BigFishCoin",
+      "symbol": "BFIC",
+      "logoURI": "https://github.com/GioNakamoto/CryptoFish/blob/main/FCPngsasaas2321321321.png",
+      "decimals": 0,
+      "address": "G7MR39wexBZcKfQvPwPqbZRNEUMH3UojpBhvobNyyhAF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Chippo-Coin",
       "symbol": "CHIPPO",
       "logoURI": "https://raw.githubusercontent.com/maikschoerling/crypto/main/Chippo-Coin_logo.jpg",
@@ -95155,6 +95185,17 @@
         "assetContract": "https://explorer.solana.com/address/HMYxhA2ZeSpFjitzP58K7MMJKbKkBuj4P5PHbsmo3rTF/largest",
         "description": "TFBK is A token to unlock the loyalty potential of businesses"
       }
+    },
+    {
+      "name": "You Only Become Rich Once",
+      "symbol": "YOBRO",
+      "logoURI": "https://github.com/crptpj/yobro/blob/main/Untitled.png",
+      "decimals": 0,
+      "address": "HMiZ2LEidcb1wDm8KsYJMk8udxVTchn39wyCJwA9dbAn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "FANF team token",
