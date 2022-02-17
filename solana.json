@@ -29115,6 +29115,23 @@
       }
     },
     {
+      "name": "Favij Coin",
+      "symbol": "FVJ",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Favij-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "6yLLVgoJFyQh6xsKjeFEPL1AKPymJEratCsEXuDHEpq4",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "favij-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/FavijTV"
+      }
+    },
+    {
       "name": "JWcraft",
       "symbol": "JWC",
       "logoURI": "https://raw.githubusercontent.com/TheRealSmartiesG/crypto/main/logo.png",
@@ -55726,6 +55743,17 @@
       }
     },
     {
+      "name": "Moonie Moon",
+      "symbol": "MMNN",
+      "logoURI": "https://raw.githubusercontent.com/seng1218/token/main/moon-logo.png",
+      "decimals": 8,
+      "address": "B5qmUyPzehsTkK5NsJYD7jrsNwGuXivZ6CAZQJ1gJrvh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Orca Aquafarm Token (ORCA/SOL)",
       "symbol": "ORCA/SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B5waaKnsmtqFawPspUwcuy1cRjAC7u2LrHSwxPSxK4sZ/logo.svg",
@@ -65574,6 +65602,17 @@
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/sndmn-logo.png",
       "decimals": 9,
       "address": "CcVSZpJQcViLSA6q7oVnFeLpvTwznhhKKfkNFw7TF2Ew",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "OSINT",
+      "symbol": "OSIN",
+      "logoURI": "https://raw.githubusercontent.com/therealaleph/OSIN/main/logo.png",
+      "decimals": 8,
+      "address": "CcbVj95AVQZttpPUGrDRzdb59tmdV1jEN4UrQhZE2tcG",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -76863,6 +76902,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "KRILL",
+      "symbol": "KRILL",
+      "logoURI": "https://raw.githubusercontent.com/solanahodlwhales/whitelist/main/Krill_towen.png",
+      "decimals": 0,
+      "address": "EP2aYBDD4WvdhnwWLUMyqU69g1ePtEjgYK6qyEAFCHTx",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://solanahodlwhales.io",
+        "twitter": "https://twitter.com/SolanaWhalesNFT"
+      }
     },
     {
       "name": "Yaoi Token",
@@ -89168,6 +89222,23 @@
       }
     },
     {
+      "name": "theShow Coin",
+      "symbol": "TSHW",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/theShow-Coin/main/logo.png",
+      "decimals": 9,
+      "address": "GKsGCWJ5Z1cwL8hr92DDqkfy3aaZ77A9Zy3cyQragt6a",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "theShow-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theshowisyou"
+      }
+    },
+    {
       "name": "Solana Meta",
       "symbol": "SOLMT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKyNQYSnQ3AoJp5HaYu9R4Qhza3NZjDKU7BedmNyFnPL/logo.png",
@@ -97344,6 +97415,17 @@
         "serumV3Usdc": "FyVdsZs15c38b6vBjiYYfq9fPrcrZJjvMgjHtEB2T9Sa",
         "telegram": "https://t.me/solatokennet"
       }
+    },
+    {
+      "name": "SHIBZ Coin",
+      "symbol": "SHIBZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hj92ziQbpRuAX5BAm73m8zjd43YY1nCNa3kGjP5g4hyR/logo.png",
+      "decimals": 4,
+      "address": "Hj92ziQbpRuAX5BAm73m8zjd43YY1nCNa3kGjP5g4hyR",
+      "chainId": 101,
+      "tags": [
+        "meme-coin"
+      ]
     },
     {
       "name": "Pokies Token",
