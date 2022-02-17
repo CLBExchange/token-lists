@@ -25725,6 +25725,22 @@
       ]
     },
     {
+      "name": "Blash Pass Whitelist",
+      "symbol": "BPWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6RzDb8kG2EVnhxuGUQte1bt51JuoEhuZxpnsDbUF2fwg/logo.jpg",
+      "decimals": 0,
+      "address": "6RzDb8kG2EVnhxuGUQte1bt51JuoEhuZxpnsDbUF2fwg",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.blashpass.com",
+        "twitter": "https://twitter.com/BlashPass",
+        "discord": "https://discord.gg/kmpNEkYMrD"
+      }
+    },
+    {
       "name": "Heaven Sevens Token",
       "symbol": "HST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6SBmEB9MuGBYdmCzsWXdqB1fT68Vdkn2prkRQrAEnASr/logo.png",
@@ -31480,6 +31496,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "RING",
+      "symbol": "RING",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7SEsxCsiNiYqCpYG16wx4c9u2YGLZphnEFTAU9ENAizD/logo.png",
+      "decimals": 9,
+      "address": "7SEsxCsiNiYqCpYG16wx4c9u2YGLZphnEFTAU9ENAizD",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://thebullherd.com/ring",
+        "twitter": "https://twitter.com/TheBullHerdNFT"
+      }
     },
     {
       "name": "GorillaCoin",
@@ -55702,6 +55733,17 @@
       }
     },
     {
+      "name": "JoeCoin",
+      "symbol": "JBCNB",
+      "logoURI": "https://raw.githubusercontent.com/StecksMate/crypto/main/joecoin.png",
+      "decimals": 0,
+      "address": "B6WQE14ZvajXFyVFPi1Eik92dKNMu3g3UsDnMc7xNH22",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "RAD",
       "symbol": "RAD",
       "logoURI": "https://raw.githubusercontent.com/NFTBrickLayer/zillaz-assets/main/RAD-logo.png",
@@ -60247,6 +60289,22 @@
       }
     },
     {
+      "name": "CARROT TOKEN",
+      "symbol": "CARROT",
+      "logoURI": "https://raw.githubusercontent.com/cmgonsalves/token/main/carrot-logo.png",
+      "decimals": 0,
+      "address": "BpGRsBqgSNbGHb73cPL4SGqJTyr2zXomjFu3tX9LP9Vo",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://begrudgedbunnies.com/",
+        "twitter": "https://twitter.com/begrudgeddao"
+      }
+    },
+    {
       "name": "Orca Double Dip Token (SYP/USDC[aquafarm])",
       "symbol": "SYP/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BpHfwFwJwkZKWY5xVMC3oifMvWRy42R4VE1vPeBzg2G1/logo.svg",
@@ -64125,6 +64183,22 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?PENN"
+      }
+    },
+    {
+      "name": "GMSC Token",
+      "symbol": "GMSC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRNcN3kpTNiJ9Bb1jfR4MzAavP9tU2vsBJFRHcHPtSzm/logo.png",
+      "decimals": 0,
+      "address": "CRNcN3kpTNiJ9Bb1jfR4MzAavP9tU2vsBJFRHcHPtSzm",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GMSCNFT",
+        "discord": "https://discord.com/invite/ehRVxFxmwq"
       }
     },
     {
@@ -87837,6 +87911,17 @@
       "logoURI": "https://raw.githubusercontent.com/SirHackalots/2359/main/23.59.png",
       "decimals": 0,
       "address": "GAZ2qHKKvTgXpDyDyCVJ3Eh9hJkVLwjiwj4U6da4XTyk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Archie Parchy",
+      "symbol": "ARCHPARCH",
+      "logoURI": "https://raw.githubusercontent.com/rapid12367/Crypto/main/Parchy.png",
+      "decimals": 0,
+      "address": "GAoUf49B5wYDeXtXagS1kJXf8VV9baZqhkte8mw7dZMx",
       "chainId": 101,
       "tags": [
         "social-token"
