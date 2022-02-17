@@ -20465,24 +20465,6 @@
       ]
     },
     {
-      "name": "Fiamma PSD Coin",
-      "symbol": "PSD",
-      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Fiamma_PSD-Coin/main/logo.png",
-      "decimals": 9,
-      "address": "5TLuCMNFLFie6vuTEpiUNHEPjTANYvbooUzdc4Pe1pb6",
-      "chainId": 101,
-      "tags": [
-        "social-token",
-        "community-token",
-        "utility-token",
-        "fiamma-token",
-        "psd-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/fiamma_iavarone"
-      }
-    },
-    {
       "name": "Ras",
       "symbol": "Ras",
       "logoURI": "https://raw.githubusercontent.com/proninkirill/Rastar/main/rastar.png",
@@ -65051,7 +65033,7 @@
       "name": "ColdFusion Token",
       "symbol": "CFT",
       "logoURI": "https://raw.githubusercontent.com/DanteLogan/cfp-token/main/newlogo.png",
-      "decimals": 0,
+      "decimals": 9,
       "address": "CY7meunShZiLEdD9RgXYoMampEj6DZbD87EMLNKrBzAe",
       "chainId": 101,
       "tags": [
@@ -68169,6 +68151,17 @@
       "logoURI": "https://raw.githubusercontent.com/petrsvetr123lol/Crypto/main/logo.png",
       "decimals": 0,
       "address": "Cyg784suVRPBekZ3EsAc2UjDfvbZk9iu9HphD9BkfEKC",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Grav3Coin",
+      "symbol": "GRAV3",
+      "logoURI": "https://github.com/boijoely/grav3/blob/main/logo.png",
+      "decimals": 0,
+      "address": "CykTLNbzwmb3c4D3aWteLPAzR9Zga52gm3RJLDebz4Cz",
       "chainId": 101,
       "tags": [
         "social-token"
