@@ -3813,6 +3813,28 @@
       }
     },
     {
+      "name": "Wasder",
+      "symbol": "WAS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cW8Yosn4tSYJYjfUkcpKnYBSMYDqXfJmQXVu4RJzBTw/logo.png",
+      "decimals": 18,
+      "address": "2cW8Yosn4tSYJYjfUkcpKnYBSMYDqXfJmQXVu4RJzBTw",
+      "chainId": 101,
+      "tags": [
+        "gaming",
+        "metaverse",
+        "microverse",
+        "gamefi"
+      ],
+      "extensions": {
+        "website": "https://www.wasder.gg/",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+        "assetContract": "https://etherscan.io/address/0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+        "twitter": "https://twitter.com/WasderGG",
+        "coingeckoId": "wasder",
+        "address": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b"
+      }
+    },
+    {
       "name": "RoxyCoin",
       "symbol": "ROXY",
       "logoURI": "https://raw.githubusercontent.com/pushygeoduck/roxycoin/main/logo.png",
@@ -91918,6 +91940,20 @@
       }
     },
     {
+      "name": "SolMaxDex",
+      "symbol": "SMD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GiT3osEFEqahWoUmoHiE2GLoVTTjAEsSYawipuNqQzpv/logo.png",
+      "decimals": 9,
+      "address": "GiT3osEFEqahWoUmoHiE2GLoVTTjAEsSYawipuNqQzpv",
+      "chainId": 101,
+      "tags": [
+        "DEX"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolMaxDex"
+      }
+    },
+    {
       "name": "Gray Man Coin",
       "symbol": "GRMC",
       "logoURI": "https://raw.githubusercontent.com/anfesoft/grm/main/logo.png",
@@ -92495,6 +92531,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "GorillaeMACHA",
+      "symbol": "GMACHA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gorizmp5uZz2VC8dg6L58Hhf9L1onCfBH8SoDBHnyJ2C/logo.png",
+      "decimals": 0,
+      "address": "Gorizmp5uZz2VC8dg6L58Hhf9L1onCfBH8SoDBHnyJ2C",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "mint-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://gorillaenft.io",
+        "twitter": "https://twitter.com/GorillaeNFT"
+      }
     },
     {
       "name": "Nasc",
