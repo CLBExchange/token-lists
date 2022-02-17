@@ -20968,6 +20968,20 @@
       }
     },
     {
+      "name": "PURS Token",
+      "symbol": "PURS",
+      "logoURI": "https://raw.githubusercontent.com/konradre/purslogo/main/purslogo.png",
+      "decimals": 0,
+      "address": "5XtsBTUaYbBVZjYQBYQcky1gRCbhj6bf9riVVLSdLJ1h",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "web3-token"
+      ]
+    },
+    {
       "name": "ReichCoin",
       "symbol": "REICH",
       "logoURI": "https://raw.githubusercontent.com/ReichCorp/Reich/main/REICHCOIN-TRNSP.png",
