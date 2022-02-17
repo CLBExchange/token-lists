@@ -81776,6 +81776,21 @@
       }
     },
     {
+      "name": "MHAC MILEZ",
+      "symbol": "MILEZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDrvNJHhLPMCrRe3oPzkXi3ug3S5dQ84hYAGUTjyjrqQ/logo.png",
+      "decimals": 9,
+      "address": "FDrvNJHhLPMCrRe3oPzkXi3ug3S5dQ84hYAGUTjyjrqQ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.milehighapeclub.com/",
+        "twitter": "https://twitter.com/milehighapeclub"
+      }
+    },
+    {
       "name": "Orca Double Dip Token (POLIS/USDC[aquafarm])",
       "symbol": "POLIS/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB/logo.svg",
@@ -92876,6 +92891,17 @@
         "nft-token",
         "community",
         "Gas"
+      ]
+    },
+    {
+      "name": "PoofyCoin",
+      "symbol": "PUF",
+      "logoURI": "https://raw.githubusercontent.com/bogdanix99/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "GwevK6tX7zwpVsardwtCG2SZEMMnSiFQuQfeLcsNuaBR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
