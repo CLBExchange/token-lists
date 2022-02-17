@@ -28521,6 +28521,17 @@
       }
     },
     {
+      "name": "Yara",
+      "symbol": "YAR",
+      "logoURI": "https://raw.githubusercontent.com/Keizerstad/Yara/main/Yara-Coin.png",
+      "decimals": 0,
+      "address": "6skDrUSXtrGWCMgaUbGzDkSTw2TtHwfhcFre397mcedP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Galactic Chimp Club Pre-Sale",
       "symbol": "GCC-PRESALE",
       "logoURI": "https://raw.githubusercontent.com/spore-engineering/GIMP/main/logo.png",
@@ -33698,6 +33709,17 @@
       }
     },
     {
+      "name": "Reverb",
+      "symbol": "RVRB",
+      "logoURI": "https://raw.githubusercontent.com/Andy2988c/logo/main/Reverb.png",
+      "decimals": 0,
+      "address": "7j1G47gSNhavCy5r4UsvDU2Qtw4U5M7JVWzZEXYSGcma",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "SolRazr",
       "symbol": "SOLR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7j7H7sgsnNDeCngAPjpaCN4aaaru4HS7NAFYSEUyzJ3k/SOLR.png",
@@ -35878,6 +35900,22 @@
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
         "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "name": "Galaxy Pets",
+      "symbol": "GPET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/83R8854RXX3h4fow7bgJ7w1MarVDpnXGKbjLMDyetu54/logo.png",
+      "decimals": 9,
+      "address": "83R8854RXX3h4fow7bgJ7w1MarVDpnXGKbjLMDyetu54",
+      "chainId": 101,
+      "tags": [
+        "metaverse",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.galaxypets.xyz/",
+        "twitter": "https://twitter.com/glxypets"
       }
     },
     {
@@ -64070,6 +64108,20 @@
         "utility-token",
         "nanana"
       ]
+    },
+    {
+      "name": "CryptoMural",
+      "symbol": "CMT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CMTiRQKXFbK7eW8GM4svmjVJ8DEBbwjubrQgqkybmC2P/logo.png",
+      "decimals": 9,
+      "address": "CMTiRQKXFbK7eW8GM4svmjVJ8DEBbwjubrQgqkybmC2P",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cryptomural.io/"
+      }
     },
     {
       "name": "GAMMACoin",
@@ -102081,6 +102133,18 @@
         "website": "https://honey.finance",
         "discord": "https://discord.gg/honeydefi"
       }
+    },
+    {
+      "name": "The Republic of Satoshi",
+      "symbol": "TROS",
+      "logoURI": "https://raw.githubusercontent.com/TROSATOSHI/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "PJ683jbxAjjtSh8HWuqq79Kd5HGaSQeNpYXZt6tWSD5",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     },
     {
       "name": "Prime3vil",
