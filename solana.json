@@ -23075,6 +23075,17 @@
       }
     },
     {
+      "name": "Logiq Test",
+      "symbol": "LTS",
+      "logoURI": "https://raw.githubusercontent.com/andreiprivate/token-list/main/assets/mainnet/5sxyEXsCjZcuz4R7SpHxgb6Cx7SV2sLBA4Fm7EKwCDZw/logo.png",
+      "decimals": 9,
+      "address": "5sxyEXsCjZcuz4R7SpHxgb6Cx7SV2sLBA4Fm7EKwCDZw",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Hog Rider Coin",
       "symbol": "HRC",
       "logoURI": "https://raw.githubusercontent.com/LeonBidner/cryptologo1/main/CoinLogo.png",
@@ -59995,6 +60006,17 @@
       "logoURI": "https://raw.githubusercontent.com/CrypticToken/Crypto/main/Coin.png",
       "decimals": 0,
       "address": "BiFAEWzRg5smZuYbkExWCejYLMJThqd7t2HewvLcsmJT",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Stoked Coin",
+      "symbol": "STKD",
+      "logoURI": "https://raw.githubusercontent.com/jstokesok/stoked/main/logo-stkd.png",
+      "decimals": 0,
+      "address": "BiHmfj5eEj2DTFbfKStr2fqKXTqNkFWxHBqv8C4ofKAA",
       "chainId": 101,
       "tags": [
         "social-token"
