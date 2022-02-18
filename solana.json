@@ -67150,7 +67150,7 @@
     {
       "name": "Stone Coin",
       "symbol": "STNE",
-      "logoURI": "https://github.com/AlanBeez/Stone_Coin/blob/main/Logo.png.png",
+      "logoURI": "https://raw.githubusercontent.com/AlanBeez/Stone_Coin/main/Logo.png.png",
       "decimals": 0,
       "address": "CnscHgCcmzFEntdZoAjvLmZWN4cZL1Fy2pKF4NUJiFeb",
       "chainId": 101,
@@ -84396,6 +84396,21 @@
       "tags": [
         "QMC-Token"
       ]
+    },
+    {
+      "name": "BRBB - Burger Token",
+      "symbol": "$BURGER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FXSLj3g5u9SEm62bErBs8895YgrfJPyn5q36V4KpZQFc/logo.png",
+      "decimals": 9,
+      "address": "FXSLj3g5u9SEm62bErBs8895YgrfJPyn5q36V4KpZQFc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BrokenRobotNFT",
+        "discord": "https://discord.gg/zKfTy88rvx"
+      }
     },
     {
       "name": "ORKA Climate Solutions",
@@ -101805,6 +101820,7 @@
       "address": "Mix4UnSBefX8ym3mHndLyTgvqUq2kt7QsYQ4pCL4jr3",
       "chainId": 101,
       "extensions": {
+        "website": "https://matrixx.site",
         "twitter": "https://twitter.com/matrixmix"
       }
     },
