@@ -12470,6 +12470,25 @@
       }
     },
     {
+      "name": "Ninth Planet",
+      "symbol": "PLANET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3zgjd8uWEjZS2tjNnrbB5PATzWXCYmuLckk9B46eQqN8/logo.png",
+      "decimals": 9,
+      "address": "3zgjd8uWEjZS2tjNnrbB5PATzWXCYmuLckk9B46eQqN8",
+      "chainId": 101,
+      "tags": [
+        "nft-token",
+        "game-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ninthplanet.io/",
+        "twitter": "https://twitter.com/NinthPlanetNFT",
+        "discord": "https://discord.com/invite/9SRMNRTWc6",
+        "coingeckoId": "planet"
+      }
+    },
+    {
       "name": "cryptonators",
       "symbol": "CRPN",
       "logoURI": "https://raw.githubusercontent.com/ibby255/crypto/main/logo.png",
@@ -56371,6 +56390,22 @@
       ]
     },
     {
+      "name": "RISE Token",
+      "symbol": "RISE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B7s5eT2SG6RBroG9cxVb18J5mEUp71UTeTRYLzCPra36/logo.png",
+      "decimals": 9,
+      "address": "B7s5eT2SG6RBroG9cxVb18J5mEUp71UTeTRYLzCPra36",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://ecorise.finance/",
+        "twitter": "https://twitter.com/ECORISEDAO",
+        "discord": "https://discord.com/invite/qNtp75xZuN"
+      }
+    },
+    {
       "name": "Reign of Terror",
       "symbol": "ROT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B7vGF8rBUuQGx4bx9Esmpb9zXhn2mXSfR2t7AHbqarpw/logo.png",
@@ -93057,6 +93092,19 @@
       ],
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?NVDA"
+      }
+    },
+    {
+      "name": "SchimmelPeter Monster",
+      "symbol": "SPM",
+      "logoURI": "https://www.schimmelpeter.de/spm_solana.png",
+      "decimals": 9,
+      "address": "GpQLC7KnNgAvEpamfWi1AWFdXECZ1eQetvFYTuETLZC7",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.schimmelpeter.de/",
+        "facebook": "https://facebook.com/SchimmelPeterGmbH",
+        "instagram": "https://www.instagram.com/schimmelpetergmbh"
       }
     },
     {
