@@ -26681,6 +26681,21 @@
       ]
     },
     {
+      "name": "Retro Wolves Token",
+      "symbol": "AWOO",
+      "logoURI": "https://cdn.jsdelivr.net/gh/rxrxrxrx/RetroWolves/logo.png",
+      "decimals": 9,
+      "address": "6ahac3aYrkq5kvUdDaJquBXbcR1xH58GkTBchcgHWkh7",
+      "chainId": 101,
+      "tags": [
+        "retro-coin"
+      ],
+      "extensions": {
+        "website": "https://discord.gg/Dm4tQEwERh",
+        "twitter": "https://twitter.com/RetroWolvesNFT"
+      }
+    },
+    {
       "name": "SonnyBuck Token",
       "symbol": "SNBK",
       "logoURI": "https://raw.githubusercontent.com/creatorSonny/sonnyBuck/main/logo.png",
@@ -75903,6 +75918,17 @@
       "chainId": 101
     },
     {
+      "name": "Lucifer",
+      "symbol": "LIFT",
+      "logoURI": "https://raw.githubusercontent.com/diontr101/Lucifer/main/logo.png",
+      "decimals": 0,
+      "address": "E8763URMT8FSo2Hg9WrQZfVbUKMrK8EVTNt3jXzr2dzY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Leaf Token",
       "symbol": "LEAF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E8LYrZeJ1B84PVhyUS58BLgifWgXLvuot2LQsmCR9Wv4/logo.png",
@@ -105300,6 +105326,17 @@
       }
     },
     {
+      "name": "Big Brain Clique Alpha Whitelist Token",
+      "symbol": "BBCA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLjDmpFkBe2eUunAit8h4pohYNQ243xYS1bv4wHz9Hi/logo.png",
+      "decimals": 0,
+      "address": "WLjDmpFkBe2eUunAit8h4pohYNQ243xYS1bv4wHz9Hi",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MinerVerse Brews Whitelist Token",
       "symbol": "MVBWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLt4YzchWBFCa62cottuJniCGUpVQxy9uEmtwws6iiK/logo.png",
@@ -108371,6 +108408,17 @@
       "extensions": {
         "website": "https://www.orca.so",
         "twitter": "https://twitter.com/orca_so"
+      }
+    },
+    {
+      "name": "ProLeague FE Whitelist Token",
+      "symbol": "PL-FE-WL",
+      "logoURI": "https://proleague.gg/wp-content/uploads/2020/12/cropped-favicon-512px.png",
+      "decimals": 0,
+      "address": "prwjbiQ3EQf8WqTqheZwr4Fa7gHfnFYYgPJJuC3CB7B",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://proleague-mint.prolaunch.gg/"
       }
     },
     {
