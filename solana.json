@@ -47881,7 +47881,8 @@
       "chainId": 101,
       "tags": [
         "wrapped",
-        "wormhole"
+        "wormhole",
+        "stablecoin"
       ],
       "extensions": {
         "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
@@ -111875,6 +111876,20 @@
       }
     },
     {
+      "name": "USDC-PAI Saber LP",
+      "symbol": "USDC-PAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gJWEW3vGDgUNbg3agG9DSSkb271tpk82K4ixAGXeuoh/logo.png",
+      "decimals": 9,
+      "address": "7gJWEW3vGDgUNbg3agG9DSSkb271tpk82K4ixAGXeuoh",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
+    },
+    {
       "name": "Gold Worm Dev",
       "symbol": "GoldWormDev",
       "logoURI": "https://arweave.net/7qE73qF7dHTEc5dKLndcL7cAxvR45fjoWDXdQdQlBBQ",
@@ -112129,6 +112144,20 @@
       "decimals": 2,
       "address": "9NAkASxt7EiYDhjskaTiHw9K2j2ac5mGB2WRwLRzKeUA",
       "chainId": 103
+    },
+    {
+      "name": "USDT-CASH Saber LP",
+      "symbol": "USDT-CASH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9RBrjJLKK7xm5275iNHPDdtMEN3nZFhPDiUkZGmkTUrd/logo.png",
+      "decimals": 9,
+      "address": "9RBrjJLKK7xm5275iNHPDdtMEN3nZFhPDiUkZGmkTUrd",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
     },
     {
       "name": "BLOCKOVATE TEST PROJECT",
@@ -113189,6 +113218,20 @@
       ]
     },
     {
+      "name": "USDC-CASH Saber LP",
+      "symbol": "USDC-CASH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T/logo.png",
+      "decimals": 9,
+      "address": "FZE52MWasDcwNeQfBL6PUHjvYgQMthvHNX5e7xUDN56T",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
+      }
+    },
+    {
       "name": "Onboarding 5 (FZSy)",
       "symbol": "FNBRD",
       "logoURI": "https://devbeta.human.ag/api/profile/9g8zNL6gxGfAi8MjkecZAcz3PqeW2q4aH1bVbeLT2YQS/picture?src=token-list",
@@ -113441,6 +113484,20 @@
       ],
       "extensions": {
         "vault": "https://devnet.bridgesplit.com/markets/HVVB2ZDw1ykyRYSwcMrDXsQ6sesGe7qyp5vB3zAuK4Hw"
+      }
+    },
+    {
+      "name": "USDC-USDT Saber LP",
+      "symbol": "USDC-USDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg/logo.png",
+      "decimals": 9,
+      "address": "HXb1AM83cRUbGegTivuSanvLP1W8A4pyTGMveNWR1pyg",
+      "chainId": 103,
+      "tags": [
+        "ratio-token"
+      ],
+      "extensions": {
+        "website": "https://dev.ratio.finance/"
       }
     },
     {
