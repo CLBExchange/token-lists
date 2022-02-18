@@ -2945,6 +2945,17 @@
       }
     },
     {
+      "name": "Nessalpaca",
+      "symbol": "NPACA",
+      "logoURI": "https://raw.githubusercontent.com/n0rwegianblue/npaca/main/nessalpaca.png",
+      "decimals": 9,
+      "address": "2SzPyNtr9taHniunNJVgunTkXQqpJjaTuKTB9ztTchh3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Project Shares",
       "symbol": "SHARE",
       "logoURI": "https://raw.githubusercontent.com/col000r/Tokens/main/ProjectShares.png",
@@ -17204,6 +17215,17 @@
         "coingeckoId": "rocket-pool",
         "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
       }
+    },
+    {
+      "name": "Librecoin",
+      "symbol": "LBRE",
+      "logoURI": "https://raw.githubusercontent.com/ghostlywhitetail/crypt0/main/LBRE.png",
+      "decimals": 0,
+      "address": "4pzWuLXG8uwXjTCbverinCzeGf7ktAnZ2eL1eAJf8LV3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Mercurial LP Token (stSOL-2Pool)",
@@ -105625,6 +105647,14 @@
         "twitter": "https://twitter.com/GrampawNFT",
         "discord": "https://discord.gg/FtyxbfmSMv"
       }
+    },
+    {
+      "name": "Haughty Monkee WL Token",
+      "symbol": "HMWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLcpHjuqSZQjxmPhnF5fEkfC1MKqZ5voHNops9EGCS7/logo.png",
+      "decimals": 0,
+      "address": "WLcpHjuqSZQjxmPhnF5fEkfC1MKqZ5voHNops9EGCS7",
+      "chainId": 101
     },
     {
       "name": "BAG Mint Token",
