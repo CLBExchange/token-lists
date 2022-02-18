@@ -36605,6 +36605,19 @@
       }
     },
     {
+      "name": "Hell City Coin",
+      "symbol": "HCC",
+      "logoURI": "https://raw.githubusercontent.com/n123al/HCC/main/logo.png",
+      "decimals": 4,
+      "address": "88YUXaaUhybTxYmupRNiSz2TfuU7Zpk37DLwAr6ZyuwN",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Garlic",
       "symbol": "GRLC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/88YqDBWxYhhwPbExF966EdaCYBKP51xVm1oGBcbWzcf2/logo.png",
@@ -62081,6 +62094,18 @@
       }
     },
     {
+      "name": "CLTSM Social Token",
+      "symbol": "JEEV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4KYZ9EPYU2EYvTVkt4R5NG5AwCpCb6VG4QZd7LVMfua/logo.png",
+      "decimals": 0,
+      "address": "C4KYZ9EPYU2EYvTVkt4R5NG5AwCpCb6VG4QZd7LVMfua",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "cltsm"
+      ]
+    },
+    {
       "name": "EggHead Token",
       "symbol": "EHT",
       "logoURI": "https://cdn.jsdelivr.net/gh/ossiHQ/eggtoken/token_picture.png",
@@ -62177,6 +62202,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Solien DAO",
+      "symbol": "SDUST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy/daologo.png",
+      "decimals": 6,
+      "address": "C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy",
+      "chainId": 101,
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://soliens.super.site/",
+        "twitter": "https://twitter.com/soliensnft",
+        "discord": "https://discord.gg/ZVQNNtbw3u"
+      }
     },
     {
       "name": "Janus Finance",
@@ -102257,6 +102298,17 @@
         "thirst",
         "hunger",
         "obesity"
+      ]
+    },
+    {
+      "name": "MetaInfra",
+      "symbol": "METAI",
+      "logoURI": "https://github.com/sachinbhoi29/metainfralogo/blob/main/logo_1.png",
+      "decimals": 9,
+      "address": "PETXfGafuUBZ9AfS6Yq1V5NB271jnkBWRDekT2fRk8f",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
