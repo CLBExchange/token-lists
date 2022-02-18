@@ -41322,6 +41322,17 @@
       ]
     },
     {
+      "name": "BiggieKoin",
+      "symbol": "BIGK",
+      "logoURI": "https://raw.githubusercontent.com/bkmdchw7/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "8s1FdbTFy6RozVcrtydnJ8KkAd5XdpXqcLmAk3BixybK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BattleBots Watch Party Token",
       "symbol": "BBWP",
       "logoURI": "https://raw.githubusercontent.com/spideyar/BBWP2021/main/logo.png",
@@ -88510,6 +88521,17 @@
         "serumV3Usdc": "FjkwTi1nxCa1S2LtgDwCU8QjrbGuiqpJvYWu3SWUHdrV",
         "coingeckoId": "puff"
       }
+    },
+    {
+      "name": "PanditCoin",
+      "symbol": "KAUHL",
+      "logoURI": "https://raw.githubusercontent.com/Gitlycool/Crtyo/main/diy-silk-screen-print-design-stencil-om-mantra-symbol-hindu-buddhist2.jpg",
+      "decimals": 0,
+      "address": "GA1a332k3RjL1MsYyqBsRyK1n9ssvEEXTk4DTAybva11",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Gachapon",
