@@ -39501,6 +39501,22 @@
       }
     },
     {
+      "name": "Solend FTT",
+      "symbol": "cFTT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8bDyV3N7ctLKoaSVqUoEwUzw6msS2F65yyNPgAVUisKm/logo.png",
+      "decimals": 6,
+      "address": "8bDyV3N7ctLKoaSVqUoEwUzw6msS2F65yyNPgAVUisKm",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
+      }
+    },
+    {
       "name": "Bank",
       "symbol": "BANK",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Bank.png",
@@ -48578,8 +48594,8 @@
       }
     },
     {
-      "name": "Solend FTT",
-      "symbol": "cFTT",
+      "name": "Solend soFTT",
+      "symbol": "csoFTT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP/logo.png",
       "decimals": 6,
       "address": "A38TjtcYrfutXT6nfRxhqwoGiXyzwJsGPmekoZYYmfgP",
@@ -54439,8 +54455,8 @@
       }
     },
     {
-      "name": "Solend ETH",
-      "symbol": "cETH",
+      "name": "Solend soETH",
+      "symbol": "csoETH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa/logo.png",
       "decimals": 6,
       "address": "AppJPZka33cu4DyUenFe9Dc1ZmZ3oQju6mBn9k37bNAa",
@@ -64355,6 +64371,22 @@
       "extensions": {
         "website": "http://cryptocarpediem.com",
         "twitter": "https://twitter.com/CarpeDiemCPDM"
+      }
+    },
+    {
+      "name": "Solend ETH",
+      "symbol": "cETH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CPDiKagfozERtJ33p7HHhEfJERjvfk1VAjMXAFLrvrKP/logo.png",
+      "decimals": 6,
+      "address": "CPDiKagfozERtJ33p7HHhEfJERjvfk1VAjMXAFLrvrKP",
+      "chainId": 101,
+      "tags": [
+        "solend",
+        "lending",
+        "collateral-tokens"
+      ],
+      "extensions": {
+        "website": "https://solend.fi"
       }
     },
     {
