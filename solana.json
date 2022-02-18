@@ -94706,6 +94706,25 @@
       ]
     },
     {
+      "name": "Truly Marvelous Falcons",
+      "symbol": "TMF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H6jvgU491zP4uXZEb16DtX9U7ZdbrD2K2FLbbTq9uiVY/logo.png",
+      "decimals": 6,
+      "address": "H6jvgU491zP4uXZEb16DtX9U7ZdbrD2K2FLbbTq9uiVY",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "description": "MarvelousFalcons is a UAE-based p2e NFT game."
+      }
+    },
+    {
       "name": "FUTURE ECOSYSTEM",
       "symbol": "FE",
       "logoURI": "https://raw.githubusercontent.com/h1rdr3v2/logo/main/felogo.jpeg",
@@ -105216,6 +105235,21 @@
         "serumV3Usdc": "7KQpsp914VYnh62yV6AGfoG9hprfA14SgzEyqr6u9NY1",
         "coingeckoId": "uxd-protocol-token",
         "coinmarketcap": "https://coinmarketcap.com/currencies/uxd-protocol/"
+      }
+    },
+    {
+      "name": "Secret Kongz Cheers",
+      "symbol": "CHEERS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UXRj3sUsJsQ6mkDz8xmXQxnY7DHoyZzX1UtEZriqbmC/logo.png",
+      "decimals": 0,
+      "address": "UXRj3sUsJsQ6mkDz8xmXQxnY7DHoyZzX1UtEZriqbmC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://secretkongz.com/",
+        "twitter": "https://twitter.com/SecretKongzSC"
       }
     },
     {
