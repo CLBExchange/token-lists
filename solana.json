@@ -14148,6 +14148,18 @@
       }
     },
     {
+      "name": "NICO Coin",
+      "symbol": "NICO",
+      "logoURI": "https://raw.githubusercontent.com/ralli-5/crypto/main/NICO.png",
+      "decimals": 0,
+      "address": "4JEBYVA3Yny9E46CjoK3V9TKayqbkCGcvwkmYXYu1Uoe",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Ass Coin",
       "symbol": "$ASS",
       "logoURI": "https://static-api-cuazlhxxrq-uk.a.run.app/static/token.png",
@@ -14256,6 +14268,17 @@
       "logoURI": "https://raw.githubusercontent.com/mikemilli818/Fasterthanlight/main/OFFEO-offeo-video-15.png",
       "decimals": 0,
       "address": "4KFkWBNu4Ts3DgGRQHBsSEzVE2txQYZ38wS2nJM43M2w",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "OneofThem",
+      "symbol": "OOT",
+      "logoURI": "https://raw.githubusercontent.com/global01/token/main/logo.png",
+      "decimals": 0,
+      "address": "4KGbtg9AqnstxDfJBMjiZiPZFUAWQrz573gnz5zg7JSE",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -28054,6 +28077,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Arqo Beta",
+      "symbol": "ARBX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6mbESoTpqy3z6BuTY4CVLMJJ1cYuS4s29R5vdUAP5EU/logo.PNG",
+      "decimals": 2,
+      "address": "6mbESoTpqy3z6BuTY4CVLMJJ1cYuS4s29R5vdUAP5EU",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://arqox.com"
+      }
     },
     {
       "name": "ChainLink Token (Wormhole v1)",
@@ -67344,6 +67382,23 @@
       }
     },
     {
+      "name": "Companion",
+      "symbol": "COMPANION",
+      "logoURI": "https://yt3.ggpht.com/6xyHbMau92t-6MDTYGEEqCtzquvCrIlRK_TkfYk_dmq0WM824Gtzo6dP9tp3mwEWRlEnb8_ahzY=s88-c-k-c0x00ffffff-no-rj",
+      "decimals": 9,
+      "address": "CompzLC6kig1XRMsErkvB69JnxYfyAW9pZ8EyaytW43o",
+      "chainId": 101,
+      "tags": [
+        "Defi",
+        "utility-token",
+        "educational"
+      ],
+      "extensions": {
+        "website": "https://app.companion.to",
+        "twitter": "https://twitter.com/Companion_sol"
+      }
+    },
+    {
       "name": "COOLTURA",
       "symbol": "$COOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CooL7VvP1BoSmnPDTXUnKQgRo1tMUo9mHfmwMWn4sm9F/logo.png",
@@ -85680,6 +85735,17 @@
       }
     },
     {
+      "name": "GingerKoin Token",
+      "symbol": "GNGR",
+      "logoURI": "https://raw.githubusercontent.com/shines69/GingerKoin---Token/main/Ginger-Crypto%20Logo.png",
+      "decimals": 0,
+      "address": "FgX5vS4ueGUuSSZ48tJcYd9cNm8nYexheC3YS9FR9aTJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Aurora Cannabis Inc",
       "symbol": "ACB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgcUo7Ymua8r5xxsn9puizkLGN5w4i3nnBmasXvkcWfJ/logo.svg",
@@ -100436,6 +100502,20 @@
       }
     },
     {
+      "name": "Cheriola",
+      "symbol": "CHER",
+      "logoURI": "https://arweave.net/OLGbQ8YmXyjGX1XF6Mt861mkLI8kOZ9U1xnHZlwdqJ4",
+      "decimals": 9,
+      "address": "J9VccnH3iS4qBnCCJqnrLAUk8inBhqNj82E2QyFzUD25",
+      "chainId": 101,
+      "tags": [
+        "General"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/cheriolatoken"
+      }
+    },
+    {
       "name": "FullToken",
       "symbol": "FULL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9XkQyTdVpHWqxv9accWCZ8KS8QjkXLinGc9jenareJi/logo.png",
@@ -106847,6 +106927,14 @@
         "serumV3Usdc": "CQQAHgfsu5uFTPzwewZ7QrLLSPk1K9MmqnuxiwmPDBzN",
         "telegram": "https://t.me/solventprotocol"
       }
+    },
+    {
+      "name": "BuBiDD Token",
+      "symbol": "BBDD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/derekokMW1a3MLm6guMBKaWUFQLSMJ3C5MoEkZZeBrt/logo.png",
+      "decimals": 0,
+      "address": "derekokMW1a3MLm6guMBKaWUFQLSMJ3C5MoEkZZeBrt",
+      "chainId": 101
     },
     {
       "name": "My Low Carbon",
