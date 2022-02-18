@@ -52339,6 +52339,21 @@
       }
     },
     {
+      "name": "BETA Wlkn",
+      "symbol": "BWLKN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWGrr6HmmhJwnMdDLoxxDMpKo2KN99Bx47Rbhfo3NM3V/logo.svg",
+      "decimals": 9,
+      "address": "AWGrr6HmmhJwnMdDLoxxDMpKo2KN99Bx47Rbhfo3NM3V",
+      "chainId": 101,
+      "tags": [
+        "walken",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://walken.io"
+      }
+    },
+    {
       "name": "Arcryptian WL Token",
       "symbol": "Arcryptian",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWLDWua47fVu5f8uxiCCLJPXBJAdsyRM11fESt8jRceo/logo.png",
@@ -94912,6 +94927,20 @@
       "extensions": {
         "website": "https://www.solcats.xyz",
         "twitter": "https://twitter.com/solcat777"
+      }
+    },
+    {
+      "name": "Proof-of-Handshake",
+      "symbol": "PoHS",
+      "logoURI": "https://raw.githubusercontent.com/KKQanT/token-list/main/assets/mainnet/HAndCoG9GWS4TPaBFhbbtVMDevpUkvRti6TweV7d4q1L/logo.png",
+      "decimals": 0,
+      "address": "HAndCoG9GWS4TPaBFhbbtVMDevpUkvRti6TweV7d4q1L",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.atadia.io/"
       }
     },
     {
