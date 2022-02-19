@@ -25955,6 +25955,17 @@
       }
     },
     {
+      "name": "Cannapuff Coin",
+      "symbol": "CNPC",
+      "logoURI": "https://raw.githubusercontent.com/rthomas98/cannacoin/main/cannapuff-coin.png",
+      "decimals": 0,
+      "address": "6Q3WxTssbpM7yQjAxZ9XKfJnoLXAa5xw6Rcd6FVpRkc",
+      "chainId": 101,
+      "tags": [
+        "cannabis-token"
+      ]
+    },
+    {
       "name": "SOS (Wormhole)",
       "symbol": "SOS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE/logo.png",
@@ -110847,6 +110858,26 @@
       "decimals": 9,
       "address": "wndrmt7dnQVapGC8Mff6jxN2qr54jJb1cdKsVDKH4oP",
       "chainId": 101
+    },
+    {
+      "name": "Alien Rappers Whitelist",
+      "symbol": "ARWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wpcxhh4VTi16TkYMZx7ApM6ZKiejkZd7kW7PengKNLi/logo.png",
+      "decimals": 0,
+      "address": "wpcxhh4VTi16TkYMZx7ApM6ZKiejkZd7kW7PengKNLi",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "mint-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://alienrappers.com/",
+        "twitter": "https://twitter.com/AlienRappers",
+        "discord": "https://discord.com/invite/alienrappersclub",
+        "description": "The Coin for Alien Rappers NFT for Whitelist.",
+        "instagram": "https://www.instagram.com/alienrappersclub/"
+      }
     },
     {
       "name": "Zeeland Homes shares",
