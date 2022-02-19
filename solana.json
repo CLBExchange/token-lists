@@ -14445,6 +14445,17 @@
       ]
     },
     {
+      "name": "N2Network",
+      "symbol": "N2NK",
+      "logoURI": "https://raw.githubusercontent.com/nn9uy3n0326/cypto-logo/main/n2networkcoin.png",
+      "decimals": 0,
+      "address": "4LwFLmS7MUBxoqRPDgmMSDjyA63gbZ1e317JmAqiuzbS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Mofogasy Token",
       "symbol": "MGT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4MRVPdN41888CwKSpY37K8HtN2FM9Bc3xTnhf9EDdcou/logo.png",
@@ -14678,6 +14689,17 @@
         "discord": "https://discord.gg/EQMkNZUgxt",
         "description": "Buds for bits, coins for Kush"
       }
+    },
+    {
+      "name": "Grav3Koin",
+      "symbol": "GRV3",
+      "logoURI": "https://raw.githubusercontent.com/boijoely/grav3/main/logo.png",
+      "decimals": 0,
+      "address": "4Pb6o2pJBvdqYJwXpsJnn3JfT3V1XgEq7zQBYH4djbf4",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Graphic Design",
@@ -19051,6 +19073,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "IditaCoin",
+      "symbol": "DGZ",
+      "logoURI": "https://raw.githubusercontent.com/Bitibles/token-logos/master/DGZ/logo.jpg",
+      "decimals": 9,
+      "address": "5AUZ4YM9LieuSiRV9QkSGQ9McvCbs8Dma8YpzhphDD93",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://iditarod.com"
+      }
     },
     {
       "name": "Food tasting Social Token",
@@ -61163,6 +61200,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "AHZUGOLD",
+      "symbol": "AHZGLD",
+      "logoURI": "https://raw.githubusercontent.com/Ahzu-Direct-Tech/crypto/main/Ahzu-Sol-Token.png",
+      "decimals": 9,
+      "address": "BqWTiSenPeBrxSZZhRhuBpTq4kZrnJso9wmby9CSQTh3",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
       ]
     },
     {
