@@ -70094,6 +70094,17 @@
       ]
     },
     {
+      "name": "NAC WL Token",
+      "symbol": "NAC-WL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D9hidBDDauvAYWY9jkNt6YfPxtcC7HgWm5sNNHAobC3A/logo.jpg",
+      "decimals": 0,
+      "address": "D9hidBDDauvAYWY9jkNt6YfPxtcC7HgWm5sNNHAobC3A",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
       "name": "DOODOOKoin",
       "symbol": "DOODOO",
       "logoURI": "https://raw.githubusercontent.com/GoofyDaytrader/doodoo/main/DOODOO.png",
@@ -73946,6 +73957,17 @@
         "twitter": "https://twitter.com/ausstoken",
         "serumV3Usdc": "bNbYoc2KawipbXj76BiXbUdf2NcGKWkdp4S9uDvWXB1"
       }
+    },
+    {
+      "name": "Longcoin",
+      "symbol": "LONG",
+      "logoURI": "https://raw.githubusercontent.com/mutulong/crypto-test/main/logo.png",
+      "decimals": 0,
+      "address": "DjtQv62kUfsZC7n7ejfeRwkjWmhaLnCDwNuDpQLLFNKH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "xBlocks",
@@ -90022,6 +90044,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Sol Kongz Remint 1",
+      "symbol": "KONGWL1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGQmwvoYRUbRs1p8azv7goikFJAJThjm7oW4tDTYCsdR/logo.png",
+      "decimals": 0,
+      "address": "GGQmwvoYRUbRs1p8azv7goikFJAJThjm7oW4tDTYCsdR",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.solkongz.net/",
+        "twitter": "https://twitter.com/SolKongz"
+      }
     },
     {
       "name": "AumKara",
@@ -106333,6 +106370,17 @@
       }
     },
     {
+      "name": "MetaRoyalBank",
+      "symbol": "MRB",
+      "logoURI": "https://raw.githubusercontent.com/JORJE-LOCO/logo.png/main/logo.png",
+      "decimals": 0,
+      "address": "X2m83B2T6y92qcq1am2z3FKXCzzmKNVxUGXxFWa7x8c",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "RII TOKEN",
       "symbol": "RII",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/X2y9KtLFWCRomutronoPoXDmcGrBoyYgMajTFH51EFG/logo.png",
@@ -106482,6 +106530,21 @@
       "extensions": {
         "website": "https://orca.so",
         "twitter": "https://twitter.com/orca_so"
+      }
+    },
+    {
+      "name": "Sol Kongz Remint 2",
+      "symbol": "KONGWL2",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/YLB6H9s99Y9HMARGM5zYpBv59fr1qtooZY1Qo7vpf4n/logo.png",
+      "decimals": 0,
+      "address": "YLB6H9s99Y9HMARGM5zYpBv59fr1qtooZY1Qo7vpf4n",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.solkongz.net/",
+        "twitter": "https://twitter.com/SolKongz"
       }
     },
     {
@@ -107008,6 +107071,21 @@
       "extensions": {
         "website": "https://artmuseo.com",
         "twitter": "https://twitter.com/artmuseo"
+      }
+    },
+    {
+      "name": "SNOW Token",
+      "symbol": "$NOW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ayVMWBtmzPM48HAP1f5BSyvVWnqJWs4y2TEDbKNUGMo/logo.png",
+      "decimals": 9,
+      "address": "ayVMWBtmzPM48HAP1f5BSyvVWnqJWs4y2TEDbKNUGMo",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://polarians.io/",
+        "twitter": "https://twitter.com/PolariansNFT"
       }
     },
     {
