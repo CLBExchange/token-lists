@@ -29554,7 +29554,7 @@
         "Metaverse"
       ],
       "extensions": {
-        "website": "https://questcoin.org",
+        "website": "https://questland.io",
         "description": "Questland metaverse token"
       }
     },
@@ -40634,6 +40634,7 @@
         "website": "https://www.solchicks.io/",
         "twitter": "https://twitter.com/SolChicksNFT",
         "discord": "https://discord.gg/solchicks",
+        "coingeckoId": "solchicks-shards",
         "description": "SHARDS is the utility token for SolChicks, the leading play-to-earn fantasy game on Solana",
         "telegram": "https://t.me/solchicksnft"
       }
@@ -65223,6 +65224,18 @@
       }
     },
     {
+      "name": "SAINTxDMON - GEMS",
+      "symbol": "GEMS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CS5tMuXYGR1cd2XnVQjoZ42Z1jWoW1Bu8ySdRBT99PDc/logo.png",
+      "decimals": 9,
+      "address": "CS5tMuXYGR1cd2XnVQjoZ42Z1jWoW1Bu8ySdRBT99PDc",
+      "chainId": 101,
+      "tags": [],
+      "extensions": {
+        "website": "https://saintxdmon.io"
+      }
+    },
+    {
       "name": "CryptoShards Discount Token",
       "symbol": "CSDT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSDTxoTLT1aniyoJSZ8uvHMe9GoLno1jpTSGNAbYfiwr/logo.png",
@@ -74256,7 +74269,7 @@
     {
       "name": "Solera",
       "symbol": "SOLERA",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dmd4sH3U35Uy3rLGnkx4zVa7EnJAherqSbm9K7aHbfpc/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dmd4sH3U35Uy3rLGnkx4zVa7EnJAherqSbm9K7aHbfpc/icon.png",
       "decimals": 9,
       "address": "Dmd4sH3U35Uy3rLGnkx4zVa7EnJAherqSbm9K7aHbfpc",
       "chainId": 101,
@@ -80532,6 +80545,17 @@
         "website": "https://actualshitcoin.com",
         "twitter": "https://twitter.com/actualshitcoin"
       }
+    },
+    {
+      "name": "Quito Coin",
+      "symbol": "QTOC",
+      "logoURI": "https://raw.githubusercontent.com/MSAdair/Quito_Coin/main/condor3.png",
+      "decimals": 0,
+      "address": "EptKq9tJwRjhg4MLZc9TMdyngNnLqpSkc5cDbeX7PX1f",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CumStar SOL",
