@@ -23705,6 +23705,25 @@
       ]
     },
     {
+      "name": "Chimaek",
+      "symbol": "Chimaek",
+      "logoURI": "https://raw.githubusercontent.com/Chimaek-token/logo/main/chimaek_logo.png",
+      "decimals": 9,
+      "address": "5yULE5Fq8Zfeg74sYqkieuMD9bdzdZz8Mcb1T6gYzneA",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "K-Pop",
+        "K-Drama"
+      ],
+      "extensions": {
+        "website": "https://chi-maek.com",
+        "twitter": "https://twitter.com/Chimaek_Token",
+        "discord": "https://discord.gg/Q7PgF2S3W5",
+        "description": "Community token for those who love k-pop, k-dramas, Chicken & Beer, etc..."
+      }
+    },
+    {
       "name": "Tiddie Token",
       "symbol": "TDX",
       "logoURI": "https://cdn.jsdelivr.net/gh/tiddietoken/Icon2/Screenshot_20211109-102934_WhatsApp.jpg",
@@ -76043,6 +76062,24 @@
       ],
       "extensions": {
         "website": "https://sites.google.com/view/moppelcoin/startseite"
+      }
+    },
+    {
+      "name": "Flappyzcoin",
+      "symbol": "FLPZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E5TT39UcytqDkHy4xq24JjjWhQrWjhT8yf4XeCfz1v2F/logo.png",
+      "decimals": 6,
+      "address": "E5TT39UcytqDkHy4xq24JjjWhQrWjhT8yf4XeCfz1v2F",
+      "chainId": 101,
+      "tags": [
+        "game",
+        "utility-token",
+        "nft",
+        "gaming"
+      ],
+      "extensions": {
+        "website": "https://www.flappyz.io",
+        "twitter": "https://twitter.com/FlappyzApp"
       }
     },
     {
