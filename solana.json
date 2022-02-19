@@ -73165,6 +73165,26 @@
       ]
     },
     {
+      "name": "JRZYcoin",
+      "symbol": "JRZYcoin",
+      "logoURI": "https://jrzycoin.com/images/logo.png",
+      "decimals": 9,
+      "address": "Df7cTkD6BwAjRRogfLFiodePfwFZ4btxwkhTmHG6inEg",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "payment-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://jrzycoin.com",
+        "twitter": "https://twitter.com/jrzycoin",
+        "facebook": "https://www.facebook.com/jrzycoin",
+        "instagram": "https://www.instagram.com/jrzycoin"
+      }
+    },
+    {
       "name": "lfx2m",
       "symbol": "LFX2M",
       "logoURI": "https://raw.githubusercontent.com/lfx2m/crypto/main/lfx2m.png",
@@ -105910,6 +105930,18 @@
       "extensions": {
         "website": "https://app.saber.so/#/pools/wpusdc"
       }
+    },
+    {
+      "name": "The Monkey Design Club Whitelist Token",
+      "symbol": "TMDCWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLT8odEsvbXvdmZ7be6vfXpXgYL8BNR83wiuT5nLz9E/logo.png",
+      "decimals": 0,
+      "address": "WLT8odEsvbXvdmZ7be6vfXpXgYL8BNR83wiuT5nLz9E",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT"
+      ]
     },
     {
       "name": "SOLive Pass Whitelist",
