@@ -4005,6 +4005,17 @@
       ]
     },
     {
+      "name": "wafuWafu Coin",
+      "symbol": "WAW",
+      "logoURI": "https://raw.githubusercontent.com/Viata0/Cryto/main/mango.png",
+      "decimals": 0,
+      "address": "2dbSAv86RN3qh2tcfUPkh8iaYNYu917xjxwKbb2oVdG9",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (TULIP-USDC)",
       "symbol": "TULIP-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2doeZGLJyACtaG9DCUyqMLtswesfje1hjNA11hMdj6YU/logo.svg",
@@ -28057,6 +28068,17 @@
       ]
     },
     {
+      "name": "Monkeland Token",
+      "symbol": "$monkeland",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6kPEua21Vhs41cPkEFieQ8cdyL9ugYicSzgAxu21kfDx/logo.png",
+      "decimals": 9,
+      "address": "6kPEua21Vhs41cPkEFieQ8cdyL9ugYicSzgAxu21kfDx",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://apesagainst.io/"
+      }
+    },
+    {
       "name": "ANGOLA",
       "symbol": "AGLA",
       "logoURI": "https://raw.githubusercontent.com/Partner-Angola/token-list/main/assets/mainnet/6kR8XurNwjJZXGrTEBA8WtJtps7TAUjdX1oJhu1tyBVK/logo.png",
@@ -30657,6 +30679,17 @@
       "chainId": 101,
       "tags": [
         "bruh"
+      ]
+    },
+    {
+      "name": "GILBERT'S GARDENS",
+      "symbol": "GG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/78rgT17v4G3XNoyo7tDWoV6Bwr1Jq6tdCtuK4nUcj5oZ/gg520x520.png",
+      "decimals": 6,
+      "address": "78rgT17v4G3XNoyo7tDWoV6Bwr1Jq6tdCtuK4nUcj5oZ",
+      "chainId": 101,
+      "tags": [
+        "reward-token"
       ]
     },
     {
@@ -75155,6 +75188,14 @@
       ]
     },
     {
+      "name": "Bell Token",
+      "symbol": "BT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dv3LwwDe6QgVCuZ2nYvj29MZsNgDpwMFLhQiVPpjAFqk/logo.png",
+      "decimals": 9,
+      "address": "Dv3LwwDe6QgVCuZ2nYvj29MZsNgDpwMFLhQiVPpjAFqk",
+      "chainId": 101
+    },
+    {
       "name": "Introvert Koin",
       "symbol": "CV20",
       "logoURI": "https://raw.githubusercontent.com/PwnedCrystal/crypto/main/logo.png",
@@ -98952,6 +98993,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Francium Contribution Point",
+      "symbol": "FRANCIUM-CP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hjibp1cn2bSk1dkTdpbxez3YAiBGTLjzc8xZ8LbCCUHS/logo.png",
+      "decimals": 6,
+      "address": "Hjibp1cn2bSk1dkTdpbxez3YAiBGTLjzc8xZ8LbCCUHS",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://francium.io/",
+        "twitter": "https://twitter.com/Francium_Defi",
+        "discord": "https://discord.gg/francium",
+        "description": "Community token for those who contribute to Francium"
+      }
     },
     {
       "name": "Hanfu",
