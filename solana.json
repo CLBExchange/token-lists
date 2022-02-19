@@ -54173,6 +54173,17 @@
       }
     },
     {
+      "name": "WatchCoin",
+      "symbol": "WCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Am2QTz1KrLs2VP8BU4vUjRxTynxBEfNMGsAdNB5Sy8Np/logo.png",
+      "decimals": 9,
+      "address": "Am2QTz1KrLs2VP8BU4vUjRxTynxBEfNMGsAdNB5Sy8Np",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "tuTULIP",
       "symbol": "tuTULIP",
       "logoURI": "https://raw.githubusercontent.com/sol-farm/token-logos/main/tuTULIP.png",
