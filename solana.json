@@ -63253,6 +63253,23 @@
       }
     },
     {
+      "name": "CAROT COIN",
+      "symbol": "$CAROT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CARoTGvYPajELZsoLQSovLY8fZmBkrrUoyJVJN3zGwQT/logo.png",
+      "decimals": 0,
+      "address": "CARoTGvYPajELZsoLQSovLY8fZmBkrrUoyJVJN3zGwQT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://bobbyrabbits.com",
+        "twitter": "https://twitter.com/bobbyrabbits",
+        "discord": "https://discord.gg/bobbyrabbits",
+        "instagram": "https://www.instagram.com/bobbyrabbits/"
+      }
+    },
+    {
       "name": "Cashio Dollar",
       "symbol": "CASH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png",
@@ -106063,6 +106080,18 @@
         "twitter": "https://twitter.com/mercestoken",
         "instagram": "https://www.instagram.com/mercestoken"
       }
+    },
+    {
+      "name": "TMDC Whitelist Token (TMDCWL)",
+      "symbol": "TMDCWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLT8odEsvbXvdmZ7be6vfXpXgYL8BNR83wiuT5nLz9E/logo.png",
+      "decimals": 0,
+      "address": "WL9XzGRaUwrZmPQD7ank5KM2z9U87WcWQEYo6Xk4bnZ",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT"
+      ]
     },
     {
       "name": "TTT WLB",
