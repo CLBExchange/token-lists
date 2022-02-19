@@ -12152,7 +12152,7 @@
     {
       "name": "Final Frontier",
       "symbol": "FRNT",
-      "logoURI": "https://github.com/rpinkney84/FinalFrontierSA/blob/main/Token%20Logo%202%20720p.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vHSsV6mgvpa1JVuuDZVB72vYbeUNzW4mBxiBftwzHEA/logo.png",
       "decimals": 9,
       "address": "3vHSsV6mgvpa1JVuuDZVB72vYbeUNzW4mBxiBftwzHEA",
       "chainId": 101,
@@ -12160,7 +12160,7 @@
         "utility-token"
       ],
       "extensions": {
-        "website": "https://ourfinalfrontier.net",
+        "website": "https://finalfrontiersa.com/",
         "twitter": "https://twitter.com/FinalFrontierSA",
         "instagram": "https://instagram.com/finalfrontiersa"
       }
@@ -13930,6 +13930,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Hacklab Pori",
+      "symbol": "SATAHACK",
+      "logoURI": "https://raw.githubusercontent.com/Satakunnan-Tietojenkasittely-yhdistys/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "4Fn19ad6suzpBHbfRNXGRbrUT1jTwEcJMR4R21vPL7e3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.satkynet.fi/tag/satahack/",
+        "twitter": "https://twitter.com/porihacklab"
+      }
     },
     {
       "name": "Dai Stablecoin (Wormhole from Polygon)",
@@ -19587,6 +19602,24 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "name": "FightVerse",
+      "symbol": "FITE",
+      "logoURI": "https://raw.githubusercontent.com/MightyAxStream/assets/main/FITE.png",
+      "decimals": 6,
+      "address": "5FoabfA5DF15FxMkmEW2qzDm3Q7PLEN1u2yRifhaQMkr",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "game-token",
+        "NFT-Gaming",
+        "governance-token"
+      ],
+      "extensions": {
+        "website": "https://thefightverse.com"
+      }
     },
     {
       "name": "C",
@@ -57637,6 +57670,20 @@
       ]
     },
     {
+      "name": "Mystic Token for MysticVerse",
+      "symbol": "MYSTIC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcrV3zpPhN1adDk91XTTVaCaZnbag2kqziTnwFfPvNNa/logo.png",
+      "decimals": 0,
+      "address": "BHzj5oaBZTjUU9JzwmQBeLP3EttCMsTn4f4JXLd6ASrJ",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.mysticgirlsclub.com"
+      }
+    },
+    {
       "name": "We Koin",
       "symbol": "WEK",
       "logoURI": "https://raw.githubusercontent.com/sermennsker/crypto/main/logo.png",
@@ -65230,7 +65277,6 @@
       "decimals": 9,
       "address": "CS5tMuXYGR1cd2XnVQjoZ42Z1jWoW1Bu8ySdRBT99PDc",
       "chainId": 101,
-      "tags": [],
       "extensions": {
         "website": "https://saintxdmon.io"
       }
@@ -76151,14 +76197,14 @@
     {
       "name": "Flappyzcoin",
       "symbol": "FLPZ",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E5TT39UcytqDkHy4xq24JjjWhQrWjhT8yf4XeCfz1v2F/logo.png",
-      "decimals": 6,
+      "logoURI": "https://solnetwebapistorage.blob.core.windows.net/images/flappyzcoin.png",
+      "decimals": 4,
       "address": "E5TT39UcytqDkHy4xq24JjjWhQrWjhT8yf4XeCfz1v2F",
       "chainId": 101,
       "tags": [
-        "game",
         "utility-token",
-        "nft",
+        "community-token",
+        "game-token",
         "gaming"
       ],
       "extensions": {
@@ -79230,20 +79276,6 @@
       "extensions": {
         "bridgeContract": "https://etherscan.io/address/0xeae57ce9cc1984f202e15e038b964bb8bdf7229a",
         "coingeckoId": "karma-dao"
-      }
-    },
-    {
-      "name": "Mystic Token for MysticVerse",
-      "symbol": "MYSTIC",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcrV3zpPhN1adDk91XTTVaCaZnbag2kqziTnwFfPvNNa/logo.png",
-      "decimals": 8,
-      "address": "EcrV3zpPhN1adDk91XTTVaCaZnbag2kqziTnwFfPvNNa",
-      "chainId": 101,
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "website": "https://www.mysticgirlsclub.com"
       }
     },
     {
@@ -97647,6 +97679,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Asian Dragon",
+      "symbol": "AD2",
+      "logoURI": "https://github.com/asiandragoncoin/token-list/blob/main/assets/mainnet/HYUo89nCzFqyhefsimzBTnX9puAbQ9vMZqdvYrbsrinr/logo.png",
+      "decimals": 4,
+      "address": "HYUo89nCzFqyhefsimzBTnX9puAbQ9vMZqdvYrbsrinr",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://www.asiandragoncoin.com",
+        "twitter": "https://twitter.com/CoinAsian",
+        "discord": "https://discord.gg/hHgvv9JB8e",
+        "facebook": "https://www.facebook.com/asiandragoncoin"
+      }
     },
     {
       "name": "Cropper LP token (SVT/USDC)",
