@@ -3014,6 +3014,23 @@
       }
     },
     {
+      "name": "Hendrix Token",
+      "symbol": "HENDX",
+      "logoURI": "https://github.com/thejoshuahendrix/hennyscript/blob/main/IMG_20180803_100044.jpg?raw=true",
+      "decimals": 6,
+      "address": "2Tp4hCJ24aRnsLShz9U96VtTSDHuaKL7eD7vj8Stvxhn",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token",
+        "game-token"
+      ],
+      "extensions": {
+        "website": "https://hennyscript.netlify.app/"
+      }
+    },
+    {
       "name": "Kotlet Koin",
       "symbol": "KOT",
       "logoURI": "https://raw.githubusercontent.com/teohz/crypto/master/kotlet.png",
@@ -33834,6 +33851,21 @@
       }
     },
     {
+      "name": "Spy Bucks",
+      "symbol": "SPYBCK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7iy4ybiXSvcGVN83gcCVjtfZasu8B9CRV5fULMmbLb7k/logo.png",
+      "decimals": 9,
+      "address": "7iy4ybiXSvcGVN83gcCVjtfZasu8B9CRV5fULMmbLb7k",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://doxologypress.org/spybucks"
+      }
+    },
+    {
       "name": "Reverb",
       "symbol": "RVRB",
       "logoURI": "https://raw.githubusercontent.com/Andy2988c/logo/main/Reverb.png",
@@ -58753,6 +58785,17 @@
       ]
     },
     {
+      "name": "Sol Stone Free Mint Token",
+      "symbol": "SSFM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BW2CtuLxPzvVcV1DEomHfmL8zWiDD4fvk11F2SxqEaUB/logo.jpg",
+      "decimals": 0,
+      "address": "BW2CtuLxPzvVcV1DEomHfmL8zWiDD4fvk11F2SxqEaUB",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://solstone.contrastive.ai/"
+      }
+    },
+    {
       "name": "Haris Pervaiz",
       "symbol": "HAZ",
       "logoURI": "https://raw.githubusercontent.com/harispervaiz/crypto-token/main/logo.png",
@@ -82624,6 +82667,17 @@
       }
     },
     {
+      "name": "Blue Terra Whitelist Token",
+      "symbol": "BT-WL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDxEJx156tbp7ukF4B89QisMg3EpMtFqAZ94TQk2ZwRV/logo.png",
+      "decimals": 6,
+      "address": "FDxEJx156tbp7ukF4B89QisMg3EpMtFqAZ94TQk2ZwRV",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://blueterra.land/"
+      }
+    },
+    {
       "name": "Orca Double Dip Token (POLIS/USDC[aquafarm])",
       "symbol": "POLIS/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FE1QJzi5RA5aKnTfSV3DAMN3z4uHUzSR5Z4drs9S5vB/logo.svg",
@@ -82832,6 +82886,17 @@
         "website": "https://solana-nft.io/",
         "twitter": "https://twitter.com/snft2022"
       }
+    },
+    {
+      "name": "Palmer Coin",
+      "symbol": "PLMR",
+      "logoURI": "https://raw.githubusercontent.com/rydder92/crypto/main/coinlogo.png",
+      "decimals": 0,
+      "address": "FFhRNx1RVn5UnujcEved9aRaQtEUazgmQMbmdFHJXe5K",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Change",
@@ -96261,6 +96326,14 @@
       ]
     },
     {
+      "name": "HMKs Whitelist Token ",
+      "symbol": "HMKS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMWLJtkb5U1evEJvXassg2MHaStY6aeE9CmVvr2o6pVE/logo.png",
+      "decimals": 0,
+      "address": "HMWLJtkb5U1evEJvXassg2MHaStY6aeE9CmVvr2o6pVE",
+      "chainId": 101
+    },
+    {
       "name": "TFBK",
       "symbol": "TFBK",
       "logoURI": "http://youngtech.fr/wp-content/uploads/2022/01/logofineblock.jpeg",
@@ -104867,6 +104940,14 @@
         "twitter": "https://twitter.com/SolanaJourney",
         "discord": "https://discord.gg/ssj"
       }
+    },
+    {
+      "name": "MERITS",
+      "symbol": "MRTS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToTuLunrMF2eQtvj7p6UtU7Jc38mbZZ8do21fg61Qg6/logo.png",
+      "decimals": 0,
+      "address": "ToTuLunrMF2eQtvj7p6UtU7Jc38mbZZ8do21fg61Qg6",
+      "chainId": 101
     },
     {
       "name": "HODL Whales White List Token",
