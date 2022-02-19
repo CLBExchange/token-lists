@@ -7530,6 +7530,22 @@
       ]
     },
     {
+      "name": "Stray Ape WL",
+      "symbol": "STRAYAPE-WL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3E4YuX7XdEVCF54KtimWVBhBpeN5P2dehGnCff65q559/Logo.png",
+      "decimals": 0,
+      "address": "3E4YuX7XdEVCF54KtimWVBhBpeN5P2dehGnCff65q559",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://strayapesnft.com",
+        "twitter": "https://twitter.com/StrayApesNFT",
+        "discord": "https://discord.gg/strayapes"
+      }
+    },
+    {
       "name": "Sortitio",
       "symbol": "SORTI",
       "logoURI": "https://raw.githubusercontent.com/SortitioToken/uploads/main/logo.png",
@@ -70933,6 +70949,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Hanikey Coin",
+      "symbol": "HANI",
+      "logoURI": "https://raw.githubusercontent.com/hanikey01/hani/main/HANI.png",
+      "decimals": 0,
+      "address": "DHKL3aXvhhK4dDu12wWfc5kQgdpqyJJwbS4PqrPL5Fg",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
