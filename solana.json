@@ -50463,6 +50463,20 @@
       }
     },
     {
+      "name": "MetaInfrastructures",
+      "symbol": "METAINF",
+      "logoURI": "https://github.com/sachinbhoi29/metainfralogo/blob/main/logo_1.png",
+      "decimals": 9,
+      "address": "AGwrWpN9dthHxvwfhtrUPJrdT1yQJizwd1KsE2gLaAkr",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "payment-token",
+        "game-token"
+      ]
+    },
+    {
       "name": "Mercanti NFT Token",
       "symbol": "MERC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AH1KE4h9nnKfqYRDynDsB3nFwT8ohXvw9rX81uaxrhAg/logo.png",
@@ -70969,6 +70983,17 @@
       }
     },
     {
+      "name": "Liberator",
+      "symbol": "B24",
+      "logoURI": "https://github.com/mdtdnb/Liberator/blob/main/Lib.png",
+      "decimals": 0,
+      "address": "DJC5ouG5JwrWzdwrEUhrGwB3Sd7oEqCbUJpxJy2v9RVf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Jaroscoin",
       "symbol": "JSC",
       "logoURI": "https://raw.githubusercontent.com/Itzacartouche/crypto/main/logo.png",
@@ -78614,6 +78639,24 @@
         "twitter": "https://twitter.com/SlimeySnakeClub",
         "discord": "https://discord.gg/y42pXAFFVH",
         "instagram": "https://www.instagram.com/SlimeySnakeClub"
+      }
+    },
+    {
+      "name": "CHAN Token",
+      "symbol": "CHAN",
+      "logoURI": "https://solchan.io/chan-token-logo.png",
+      "decimals": 9,
+      "address": "EZkW8HcjwkSSdGdjW4R2pkkLrc58W5mBbditxdj7XG2N",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://solchan.io",
+        "twitter": "https://twitter.com/Solchan_NFT",
+        "discord": "https://discord.gg/Mjv4JFw8pQ"
       }
     },
     {
