@@ -59496,6 +59496,17 @@
       ]
     },
     {
+      "name": "Lokesh Sathiyamoorthi",
+      "symbol": "LOKI",
+      "logoURI": "https://raw.githubusercontent.com/Lokesh-Sathiyamoorthi/My_Cryptocurrency/main/Logo.png",
+      "decimals": 0,
+      "address": "BZy8LAqypYdQLYyyDnDqhebK1FjEfrNqQYt6motchaCo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (SUSHI-USDT)",
       "symbol": "SUSHI-USDT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ba26poEYDy6P2o95AJUsewXgZ8DM9BCsmnU9hmC9i4Ki/logo.png",
