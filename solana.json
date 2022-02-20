@@ -15021,6 +15021,17 @@
       }
     },
     {
+      "name": "Real Treasure Hunt ",
+      "symbol": "HUNT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SSTwFJzRFNBLZBrNcieWYxyJ19bPSPZVZBy2eJKFURS/logo.png",
+      "decimals": 4,
+      "address": "4SSTwFJzRFNBLZBrNcieWYxyJ19bPSPZVZBy2eJKFURS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Please don't tell Mask token",
       "symbol": "MASK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4SVyZ9e8EJFLiHeoys7Bsm4EH8bkfCRMcL4TzEEfsyXE/logo.png",
@@ -37337,6 +37348,23 @@
         "website": "https://radiozone26.com/",
         "twitter": "https://twitter.com/radio_zone26",
         "facebook": "https://www.facebook.com/Rzone26"
+      }
+    },
+    {
+      "name": "HOZ",
+      "symbol": "HOZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Bihqw9aQETYVH7kitDtk4PwWN5XMCCZJTRDJGUwDkNp/logo.png",
+      "decimals": 9,
+      "address": "8Bihqw9aQETYVH7kitDtk4PwWN5XMCCZJTRDJGUwDkNp",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.houndsofzeus.io/",
+        "twitter": "https://twitter.com/HoundsOfZeusNFT"
       }
     },
     {
@@ -60423,7 +60451,8 @@
       "chainId": 101,
       "extensions": {
         "website": "https://boredapesocial.club",
-        "twitter": "https://twitter.com/BAPESocialClub"
+        "twitter": "https://twitter.com/BAPESocialClub",
+        "coingeckoId": "bored-ape-social-club"
       }
     },
     {
@@ -72143,6 +72172,17 @@
       ]
     },
     {
+      "name": "FwoggyCoin",
+      "symbol": "FWOGGY",
+      "logoURI": "https://raw.githubusercontent.com/PineconeChamp/FwogyCoin/main/FwogyCoin.png",
+      "decimals": 0,
+      "address": "DPJr1ErxEuHF2hT73DsJ4aVAv49SRsjpYiV8hRGTYQXa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Friktion SBR (Volt 01 Call)",
       "symbol": "fcSBR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DPMCwE9z9jXaDVDti5aKhdgCWGgsvioz6ZvB9eZjH7UE/logo.png",
@@ -79622,6 +79662,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Walken",
+      "symbol": "WLKN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az/logo.svg",
+      "decimals": 9,
+      "address": "EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az",
+      "chainId": 101,
+      "tags": [
+        "walken",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://walken.io"
+      }
     },
     {
       "name": "ARTIFAKT Mint Pass",
@@ -101522,23 +101577,6 @@
       "extensions": {
         "website": "https://cryptomindex.com",
         "twitter": "https://twitter.com/cryptomindex"
-      }
-    },
-    {
-      "name": "HOZ",
-      "symbol": "HOZ",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J876jWVwYyjCVRDNsLDdgtXw1T1ojwSnbub4sLsiowFy/logo.png",
-      "decimals": 9,
-      "address": "J876jWVwYyjCVRDNsLDdgtXw1T1ojwSnbub4sLsiowFy",
-      "chainId": 101,
-      "tags": [
-        "social-token",
-        "utility-token",
-        "community-token"
-      ],
-      "extensions": {
-        "website": "https://www.houndsofzeus.io/",
-        "twitter": "https://twitter.com/HoundsOfZeusNFT"
       }
     },
     {
