@@ -50842,9 +50842,9 @@
       }
     },
     {
-      "name": "MetaInfrastructures",
-      "symbol": "METAINF",
-      "logoURI": "https://github.com/sachinbhoi29/metainfralogo/blob/main/logo_1.png",
+      "name": "Meta Infra",
+      "symbol": "METAI",
+      "logoURI": "https://raw.githubusercontent.com/sachinbhoi29/metainfralogo/main/logo.png",
       "decimals": 9,
       "address": "AGwrWpN9dthHxvwfhtrUPJrdT1yQJizwd1KsE2gLaAkr",
       "chainId": 101,
@@ -50853,7 +50853,12 @@
         "community-token",
         "payment-token",
         "game-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://metainfracoin.com/",
+        "twitter": "https://twitter.com/meta_infracoin",
+        "instagram": "https://www.instagram.com/metainfra/"
+      }
     },
     {
       "name": "Mercanti NFT Token",
@@ -52926,7 +52931,7 @@
     {
       "name": "KETCoin",
       "symbol": "KET",
-      "logoURI": "https://github.com/ketwebb/Sol_Tpken/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ketwebb/Sol_Tpken/main/logo.png",
       "decimals": 0,
       "address": "AWWimrYk4qFJ2dVxxpbuKKjFp5PiPGKnbGY74pqXVVPt",
       "chainId": 101,
@@ -98226,7 +98231,7 @@
     {
       "name": "Asian Dragon",
       "symbol": "AD2",
-      "logoURI": "https://github.com/asiandragoncoin/token-list/blob/main/assets/mainnet/HYUo89nCzFqyhefsimzBTnX9puAbQ9vMZqdvYrbsrinr/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/asiandragoncoin/official-logo/main/AD2-SOLANA/logo.png",
       "decimals": 4,
       "address": "HYUo89nCzFqyhefsimzBTnX9puAbQ9vMZqdvYrbsrinr",
       "chainId": 101,
@@ -103649,17 +103654,6 @@
       ]
     },
     {
-      "name": "MetaInfra",
-      "symbol": "METAI",
-      "logoURI": "https://github.com/sachinbhoi29/metainfralogo/blob/main/logo_1.png",
-      "decimals": 9,
-      "address": "PETXfGafuUBZ9AfS6Yq1V5NB271jnkBWRDekT2fRk8f",
-      "chainId": 101,
-      "tags": [
-        "utility-token"
-      ]
-    },
-    {
       "name": "Enjin Coin (Wormhole v1)",
       "symbol": "wENJ_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PEjUEMHFRtfajio8YHKZdUruW1vTzGmz6F7NngjYuou/logo.png",
@@ -106654,6 +106648,19 @@
       }
     },
     {
+      "name": "Whitelist Drogo",
+      "symbol": "WLD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLDu1fuZ2dswJAizQg5BrN26oAKeCUiJ42x7uaep5WV/logo.png",
+      "decimals": 0,
+      "address": "WLDu1fuZ2dswJAizQg5BrN26oAKeCUiJ42x7uaep5WV",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://solkomodo.io/",
+        "twitter": "https://twitter.com/Komododragonnft",
+        "discord": "https://discord.com/invite/VFJVFXGxR8"
+      }
+    },
+    {
       "name": "SXD Whitelist token",
       "symbol": "SxDWL",
       "logoURI": "https://raw.githubusercontent.com/SaintxDmon/WL-sxd/main/logo.jpg",
@@ -107178,6 +107185,17 @@
         "website": "https://thexenobotsproject.com",
         "twitter": "https://twitter.com/XenobotsNFT"
       }
+    },
+    {
+      "name": "ItalyCoin",
+      "symbol": "ITA",
+      "logoURI": "https://raw.githubusercontent.com/nemitoken/ItalyCoin/main/ita.png",
+      "decimals": 0,
+      "address": "XkQoahtKbVC15hTczRFLRfZPtM1AFFjWs3uFE9sxDb4",
+      "chainId": 101,
+      "tags": [
+        "management"
+      ]
     },
     {
       "name": "STEAK",
@@ -108252,6 +108270,25 @@
         "discord": "https://discord.gg/thK8BCtQbM",
         "serumV3Usdc": "CQQAHgfsu5uFTPzwewZ7QrLLSPk1K9MmqnuxiwmPDBzN",
         "telegram": "https://t.me/solventprotocol"
+      }
+    },
+    {
+      "name": "DeltaFi Token",
+      "symbol": "DELFI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF/logo.png",
+      "decimals": 6,
+      "address": "de1QJkP1qDCk5JYCCXCeq27bQQUdCaiv7xVKFrhPSzF",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/deltafi_ai",
+        "github": "https://github.com/delta-fi",
+        "medium": "https://medium.com/deltafi",
+        "discord": "https://discord.gg/deltafi",
+        "telegram": "https://t.me/deltafi_labs",
+        "whitepaper": "https://deltafi-s3.s3.us-east-2.amazonaws.com/DeltaFi_whitepaper.pdf"
       }
     },
     {
@@ -111177,6 +111214,22 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "Outlet Ticket - unValuables",
+      "symbol": "UNVAL-WL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/unVasmPouDQNVvyvoGRyHMnNafhqLX23dUpbxrJnZvV/logo.png",
+      "decimals": 0,
+      "address": "unVasmPouDQNVvyvoGRyHMnNafhqLX23dUpbxrJnZvV",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.sneakyslamberts.com/",
+        "twitter": "https://twitter.com/sneakyslamberts"
+      }
     },
     {
       "name": "Thai Baht Plus",
