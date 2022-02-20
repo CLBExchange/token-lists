@@ -14441,6 +14441,17 @@
       ]
     },
     {
+      "name": "Clenos",
+      "symbol": "CLNS",
+      "logoURI": "https://raw.githubusercontent.com/hotmaildhiraj/clenos/main/clenos.png",
+      "decimals": 0,
+      "address": "4KTss3DuyjwuvsZF9RAGr2huYDsktHPwmznZRaQWm7kc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Xenren",
       "symbol": "XEN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4KVuGB1iNhYqR99Hykv1ZLdHvx41zpBqqPFtHucYpQja/logo.png",
@@ -62075,6 +62086,17 @@
       "logoURI": "https://raw.githubusercontent.com/JMtechdev/crypto_token_test/main/donnie-barko.png",
       "decimals": 0,
       "address": "BuzXJtMchXztGFHMpVtPCBrmRYHMS83TQ7sVCqXJKgvL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "KentronKoin",
+      "symbol": "KNTRN",
+      "logoURI": "https://raw.githubusercontent.com/ChristosVoutselas/KentronKoin/main/logo.png",
+      "decimals": 0,
+      "address": "BvJuCsGXoN1UcuUrsNNjJ76MxWq1PSQmbvvermKEfzZ6",
       "chainId": 101,
       "tags": [
         "social-token"
