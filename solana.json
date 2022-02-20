@@ -58327,6 +58327,22 @@
       ]
     },
     {
+      "name": "SCAR",
+      "symbol": "SCR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMgrcLbpmRxTyj6b3FsCrpJB2XRftKewm5YBBu7tK11w/logo.png",
+      "decimals": 8,
+      "address": "BMgrcLbpmRxTyj6b3FsCrpJB2XRftKewm5YBBu7tK11w",
+      "chainId": 101,
+      "tags": [
+        "investments",
+        "reward"
+      ],
+      "extensions": {
+        "website": "http://www.scarco.in/",
+        "twitter": "https://twitter.com/scarcoins"
+      }
+    },
+    {
       "name": "Aave Interest bearing SUSD (Wormhole v1)",
       "symbol": "waSUSD_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BMrbF8DZ9U5KGdJ4F2MJbH5d6KPi5FQVp7EqmLrhDe1f/logo.svg",
@@ -76752,6 +76768,20 @@
       }
     },
     {
+      "name": "Next Chapter Community Token",
+      "symbol": "$NEXT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E7XfsVVwVJMounVHJuW6U2uHK3mHc3eNQrW5nmjHoZYw/logo.png",
+      "decimals": 8,
+      "address": "E7XfsVVwVJMounVHJuW6U2uHK3mHc3eNQrW5nmjHoZYw",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://nextchapter.to/"
+      }
+    },
+    {
       "name": "santi coin V2",
       "symbol": "santi",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E7Ykw7mxzoRVrfmzoE951ASQLhj24PDJaWN3vDu6LNpq/logo.png",
@@ -85438,6 +85468,24 @@
         "twitter": "https://twitter.com/dancerdates",
         "facebook": "https://www.facebook.com/dancerdatespage",
         "instagram": "https://www.instagram.com/dancerdates"
+      }
+    },
+    {
+      "name": "MARS WL Token",
+      "symbol": "MarsWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYmiFBiUTkmFoY7duWgGE21VHxyUazZN15HJLaHBKEKq/logo.png",
+      "decimals": 0,
+      "address": "FYmiFBiUTkmFoY7duWgGE21VHxyUazZN15HJLaHBKEKq",
+      "chainId": 101,
+      "tags": [
+        "currency",
+        "game-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.martianarmy.space/",
+        "discord": "https://discord.com/channels/932827372464513085/943416696964780132"
       }
     },
     {
@@ -95195,6 +95243,17 @@
         "twitter": "https://twitter.com/solplanets_nft",
         "discord": "http://discord.gg/RNAgPeZXnV"
       }
+    },
+    {
+      "name": "fredfiftythreeKoin-Token",
+      "symbol": "FRDKN",
+      "logoURI": "https://raw.githubusercontent.com/shines69/Fred53Koin-Token-2/main/Logo.png",
+      "decimals": 9,
+      "address": "H45osYSkBiWiDr75JzzGjXzfHdwQAQ1rK1Ymb3k6srbn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Shibalana LP Token (SHIBA-USDC)",
