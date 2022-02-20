@@ -12226,6 +12226,17 @@
       ]
     },
     {
+      "name": "PeaceLove Coin",
+      "symbol": "PxLo",
+      "logoURI": "https://raw.githubusercontent.com/PeloKoin/Pelo/main/PXL.png",
+      "decimals": 0,
+      "address": "3wSBMG1CpUDFAQDfUcEkTCbhMZhbznWwzzcWThPNEwJj",
+      "chainId": 101,
+      "tags": [
+        "Faith-token"
+      ]
+    },
+    {
       "name": "Punkz",
       "symbol": "Punkz",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3wScesVuo8sAb8DwheMBq6amGCKuvWPD54Yg8aGQM4Eq/logo.jpg",
