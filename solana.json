@@ -36565,6 +36565,14 @@
       ]
     },
     {
+      "name": "Treasure Hunt",
+      "symbol": "HUNT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84eyzKVHsE3gbPU9Wknkr4AGxdrSkfQfvmCLc5bH9XWD/logo.png",
+      "decimals": 4,
+      "address": "84eyzKVHsE3gbPU9Wknkr4AGxdrSkfQfvmCLc5bH9XWD",
+      "chainId": 101
+    },
+    {
       "name": "HoneyFarmer",
       "symbol": "HNF",
       "logoURI": "https://cdn.jsdelivr.net/gh/CarbonFarm/HNFtoken/logo.png",
@@ -84721,6 +84729,17 @@
       ]
     },
     {
+      "name": "Ananas Coin",
+      "symbol": "ANS",
+      "logoURI": "https://github.com/ananas-coin/Ananas-Coin/blob/main/logo.png",
+      "decimals": 0,
+      "address": "FQv1XRDxPGKJqG5jj7qhQ1PzhW4xnZNPf2yRyVH4BaLZ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DuckDaoDime (Wormhole v1)",
       "symbol": "wDDIM_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR5qPX4gbKHPyKMK7Cey6dHZ7wtqmqRogYPJo6bpd5Uw/logo.png",
@@ -96634,6 +96653,22 @@
       }
     },
     {
+      "name": "ESTRA",
+      "symbol": "EST",
+      "logoURI": "https://raw.githubusercontent.com/vedranlo/estra/main/estra_logo.png",
+      "decimals": 6,
+      "address": "HExEqx48oPsvoDcS88vDyj7X9JW3tiy5kzLTHan9iYJE",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "travel-token"
+      ],
+      "extensions": {
+        "website": "https://estra.world"
+      }
+    },
+    {
       "name": "ElonCoin",
       "symbol": "LOCO",
       "logoURI": "https://raw.githubusercontent.com/eloncoin2022/logo/main/logo.jpg",
@@ -98863,6 +98898,18 @@
         "twitter": "https://twitter.com/SolheroFi",
         "discord": "https://discord.io/solhero-finance",
         "telegram": "https://t.me/SolheroFinance"
+      }
+    },
+    {
+      "name": "BeckCoin",
+      "symbol": "JBB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HfBA9FHCvndVj7DVCfSvAHRZuR5JnT2EKwnsoL6jTwXG/logo.png",
+      "decimals": 9,
+      "address": "HfBA9FHCvndVj7DVCfSvAHRZuR5JnT2EKwnsoL6jTwXG",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/_jbbeck",
+        "linkedin": "https://linkedin.com/in/jeanbaptistebeck"
       }
     },
     {
