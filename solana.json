@@ -8853,6 +8853,22 @@
       ]
     },
     {
+      "name": "MICROCOCK",
+      "symbol": "MICROCOCK",
+      "logoURI": "https://raw.githubusercontent.com/kakasonz112/robocock-token/main/assets/wl_logo.png",
+      "decimals": 0,
+      "address": "3Py5nZKoNuotXBcYTiDrLVQeWJzgryHWyiED4JRckEEs",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://robocock.io/",
+        "twitter": "https://twitter.com/RoboCockNFT",
+        "discord": "https://discord.gg/robococknft"
+      }
+    },
+    {
       "name": "totag",
       "symbol": "TAG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Q8GPQfrMcDRknataFe46VYdsGYqwRTCuYxGqPSHGCQo/logo.png",
@@ -73289,6 +73305,20 @@
       ]
     },
     {
+      "name": "Yukan Neko Whitelist Token",
+      "symbol": "YNWL",
+      "logoURI": "https://cdn.discordapp.com/attachments/926535226820276264/944843273275584552/Untitled_Artwork.png",
+      "decimals": 0,
+      "address": "DcYfKgKsGtZ6YKXLRBDSn6qxc8Us4VYZDsqsU8EiDEeD",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/YukanNekoNFT"
+      }
+    },
+    {
       "name": "Cartel DRUGS",
       "symbol": "DRUGS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcqWM1BdgfUFktSKw8XC6qLAo2Ki2dUFXc1YYe67c8kD/logo.png",
@@ -93399,6 +93429,17 @@
       "extensions": {
         "coingeckoId": "3x-long-bitcoin-token"
       }
+    },
+    {
+      "name": "BamBam Token",
+      "symbol": "MIGHTY",
+      "logoURI": "https://raw.githubusercontent.com/FreddyMart/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "GkSjBhh6G5BZ6zwp22Re33j2i6wbzZUANSoA7rbru8cu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Mike Krow's Official Best Friend Super Kawaii Kasu Token",
