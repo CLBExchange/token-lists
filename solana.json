@@ -15203,6 +15203,17 @@
       }
     },
     {
+      "name": "Mylo Angels",
+      "symbol": "MYLO",
+      "logoURI": "https://raw.githubusercontent.com/iiizzzyyy/mylo-token/main/logo.png",
+      "decimals": 0,
+      "address": "4TYSPUxq4U8q4rokZ7M3mo6RQRRYZDexhvZ6bm8Kh4GW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SolClout",
       "symbol": "SCT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4Te4KJgjtnZe4aE2zne8G4NPfrPjCwDmaiEx9rKnyDVZ/logo.png",
@@ -87906,6 +87917,30 @@
       "extensions": {
         "website": "https://datalus.us",
         "twitter": "https://twitter.com/DatalusCorp"
+      }
+    },
+    {
+      "name": "Glitter Finance",
+      "symbol": "XGLI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FsPncBfeDV3Uv9g6yyx1NnKidvUeCaAiT2NtBAPy17xg/logo.svg",
+      "decimals": 6,
+      "address": "FsPncBfeDV3Uv9g6yyx1NnKidvUeCaAiT2NtBAPy17xg",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token",
+        "security-token",
+        "governance-token"
+      ],
+      "extensions": {
+        "website": "https://glitter.finance",
+        "twitter": "https://twitter.com/GlitterFinance",
+        "medium": "https://medium.com/@Glitter-Finance",
+        "discord": "https://discord.gg/P3mZkjsQMM",
+        "coingeckoId": "glitter-finance",
+        "linkedin": "https://www.linkedin.com/company/glitter-finance",
+        "telegram": "https://t.me/GlitterFinanceGlobal"
       }
     },
     {
