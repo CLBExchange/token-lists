@@ -16886,6 +16886,22 @@
       ]
     },
     {
+      "name": "RC CHIP",
+      "symbol": "RcCHIP",
+      "logoURI": "https://raw.githubusercontent.com/kakasonz112/robocock-token/main/assets/whitelist_token.png",
+      "decimals": 0,
+      "address": "4n5mFx5kQAeZpi786B44yLWMfCNUNZ8us6UeRbuZoyc6",
+      "chainId": 101,
+      "tags": [
+        "SPL-token"
+      ],
+      "extensions": {
+        "website": "https://robocock.io/",
+        "twitter": "https://twitter.com/RoboCockNFT",
+        "discord": "https://discord.gg/robococknft"
+      }
+    },
+    {
       "name": "Citizens Mint Key",
       "symbol": "SCMK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4n91Cp8ufhotnvvNj7zMZemYhCdfaJhSAQifGMGrDXNR/logo.svg",
@@ -22296,6 +22312,20 @@
       ],
       "extensions": {
         "website": "https://raydium.io/"
+      }
+    },
+    {
+      "name": "The Roundies Whitelist",
+      "symbol": "RNDIEWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5io93Fx24MDPMybCUYxjLmfK1WaW33bWRqfvBnNgX6Ug/logo.png",
+      "decimals": 0,
+      "address": "5io93Fx24MDPMybCUYxjLmfK1WaW33bWRqfvBnNgX6Ug",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.theroundies.co"
       }
     },
     {
@@ -29719,6 +29749,18 @@
         "twitter": "https://twitter.com/floki_solana",
         "discord": "https://discord.gg/QDfXeXhkqR"
       }
+    },
+    {
+      "name": "BLACK ONE",
+      "symbol": "BLACK1",
+      "logoURI": "https://raw.githubusercontent.com/danncti/crypto--black-one/master/logo.png",
+      "decimals": 0,
+      "address": "6zZ3Eu3VeHcqCPJhDTGoJrufV6xrSVBCBTp8izgXNJHF",
+      "chainId": 101,
+      "tags": [
+        "currency",
+        "game-token"
+      ]
     },
     {
       "name": "Nara Coin",
