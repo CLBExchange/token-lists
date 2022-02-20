@@ -21650,6 +21650,17 @@
       ]
     },
     {
+      "name": "PineCoin",
+      "symbol": "PINE",
+      "logoURI": "https://raw.githubusercontent.com/eheaivilin/images/main/logo.png",
+      "decimals": 0,
+      "address": "5ahu5wPznx1VFp696Fcw3y1sLeFL7evy8UvYwWmWxTbQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "LingLing Coin",
       "symbol": "LING",
       "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Lingling-Coin/main/logo.png",
@@ -67985,6 +67996,34 @@
       ]
     },
     {
+      "name": "CoC public token",
+      "symbol": "PBL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CoCrDWPkZwDtNuoVticQWhrdUVoBKEgJN1c6pYihB2vD/logo.png",
+      "decimals": 0,
+      "address": "CoCrDWPkZwDtNuoVticQWhrdUVoBKEgJN1c6pYihB2vD",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catsoncrack.xyz"
+      }
+    },
+    {
+      "name": "CoC OG token",
+      "symbol": "OG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CoCrfJfccDLXxdd4HSVynLGKavvBPPHjJEGphwXZTFyn/logo.png",
+      "decimals": 0,
+      "address": "CoCrfJfccDLXxdd4HSVynLGKavvBPPHjJEGphwXZTFyn",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://catsoncrack.xyz"
+      }
+    },
+    {
       "name": "CocaCola",
       "symbol": "COLA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CoLaAnVnyzMo88o1iZs3sgKTct6BEdQPD7eYfZEz6KVG/logo.png",
@@ -95350,6 +95389,17 @@
         "coingeckoId": "keep-network",
         "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
       }
+    },
+    {
+      "name": "FAC FUD Token",
+      "symbol": "FAC",
+      "logoURI": "https://raw.githubusercontent.com/MundoFacu/stuff/038660d9336d647a9d4ede0e3107de9c9481724d/FAC_logo.png",
+      "decimals": 0,
+      "address": "H3pWoh5Te12nHYVSQm1vQC6aAn2EbADj8zit23jP2jX3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Token Della Balotta",
