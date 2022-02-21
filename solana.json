@@ -8429,6 +8429,17 @@
       "chainId": 101
     },
     {
+      "name": "CyberStorm",
+      "symbol": "CYBERS",
+      "logoURI": "https://raw.githubusercontent.com/CyberStorm-Game/CyberStorm-Crypto/main/CyberStorm.png",
+      "decimals": 0,
+      "address": "3Kxcywq58u49CnsF3n1nQt7viZ3ALXxfduc8jfmFPNai",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GoodMorning Token",
       "symbol": "MORN",
       "logoURI": "https://i.ibb.co/8dYwfYw/MORN-Circle.png",
@@ -24410,6 +24421,27 @@
         "website": "https://solido.games/",
         "twitter": "https://twitter.com/solidogames",
         "telegram": "https://t.me/solidogames"
+      }
+    },
+    {
+      "name": "VerZioX",
+      "symbol": "VZX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/64mrJr7bZa85ZtNjDWySUAnA66Dd7jNJNqu7MugsKKyz/logo.png",
+      "decimals": 9,
+      "address": "64mrJr7bZa85ZtNjDWySUAnA66Dd7jNJNqu7MugsKKyz",
+      "chainId": 101,
+      "tags": [
+        "gaming-token",
+        "metaverse"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/VerZio_X",
+        "github": "https://github.com/VerZioX",
+        "medium": "https://verzio-x.medium.com/",
+        "description": "VerZioX is a FPP TPP Blockchain Metaverse That Allows Players To Earn With Distinctive Virtual Adventures.",
+        "telegram": "https://t.me/VerZioX",
+        "telegramAnnouncements": "https://t.me/VerZioX_Announcements",
+        "youtube": "https://www.youtube.com/channel/UCxKQl1vt59EwvGRYuuJz30w"
       }
     },
     {
@@ -73442,6 +73474,17 @@
       ]
     },
     {
+      "name": "Worthless",
+      "symbol": "POS",
+      "logoURI": "https://raw.githubusercontent.com/tommyl1258/crypto/main/cyptoImage.png",
+      "decimals": 2,
+      "address": "DYu4rwdqSRmeastBxQVrsRYzM6bZMGUMSB6cDfWNarw9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SpaceHeads Coin",
       "symbol": "SH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DZkcS3dkDRj4KgxPKrJqAkruL8UznAgn5kFtL7bM9sP1/logo.svg",
@@ -100853,6 +100896,21 @@
       "tags": [
         "Pasame-shares"
       ]
+    },
+    {
+      "name": "DREAM TOKEN",
+      "symbol": "DREAM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HuMShjViKhcfihmHkgvctcFAyeyxAk8hK5K58zWpuRKf/logo.png",
+      "decimals": 9,
+      "address": "HuMShjViKhcfihmHkgvctcFAyeyxAk8hK5K58zWpuRKf",
+      "chainId": 101,
+      "tags": [
+        "Dreamapes"
+      ],
+      "extensions": {
+        "website": "https://dreamapes.intersect.art/",
+        "twitter": "https://twitter.com/DreamapesNFT"
+      }
     },
     {
       "name": "HUMAN",
