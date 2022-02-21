@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-20T00:57:58.441Z",
+  "timestamp": "2022-02-21T00:51:47.095Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -37732,6 +37732,13 @@
       "symbol": "sctAt",
       "decimals": 6,
       "address": "sctAtR5GvwHm73tYWfbr7zZZuUYdEy4LU3vk3D5iCFC",
+      "chainId": 104
+    },
+    {
+      "name": "Token sunx",
+      "symbol": "sunxS",
+      "decimals": 6,
+      "address": "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS",
       "chainId": 104
     },
     {
