@@ -8957,6 +8957,17 @@
       ]
     },
     {
+      "name": "Xovalien Mint Token",
+      "symbol": "XMT",
+      "logoURI": "https://raw.githubusercontent.com/Edis27/XovaliensMintToken/main/coin.png",
+      "decimals": 0,
+      "address": "3Qksbc7NWAXigX5r37LDehRVy92yYV28PJ1nkcCj58wo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "wTYNA",
       "symbol": "TYNA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3QuAYThYKFXSmrTcSHsdd7sAxaFBobaCkLy2DBYJLMDs/logo.png",
@@ -16988,6 +16999,17 @@
         "twitter": "https://twitter.com/RoboCockNFT",
         "discord": "https://discord.gg/robococknft"
       }
+    },
+    {
+      "name": "KaniCoin",
+      "symbol": "KANISEK",
+      "logoURI": "https://raw.githubusercontent.com/adifinek/crypto/main/logo.jpg",
+      "decimals": 0,
+      "address": "4n6bk2d8yxY3NeuimCHhRr1ywP24o7Hcg8dqZWK9mZT2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Citizens Mint Key",
@@ -58072,6 +58094,14 @@
       ]
     },
     {
+      "name": "Dreamcity",
+      "symbol": "DC",
+      "logoURI": "https://dreamcitynft.com/apple-touch-icon.png",
+      "decimals": 0,
+      "address": "BJv2UCtM48qKqmkcTegLg696vXwhBoqfkNjueys4TN8X",
+      "chainId": 101
+    },
+    {
       "name": "Romeao coin",
       "symbol": "R",
       "logoURI": "https://raw.githubusercontent.com/Romeao/crypto/main/logo.png",
@@ -83979,6 +84009,17 @@
         "medium": "https://kekwcoin.medium.com/",
         "discord": "https://discord.gg/kekw"
       }
+    },
+    {
+      "name": "PioneerCoin",
+      "symbol": "PNC",
+      "logoURI": "https://raw.githubusercontent.com/KingxRamos51/PioneerCoins53k/main/pioneerpetecoins53k.png",
+      "decimals": 8,
+      "address": "FJKYciBS5CbskT7BdPnUmMJQz1rWQZocxw7F4UdP9XuF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "RageLands",
