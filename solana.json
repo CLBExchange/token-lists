@@ -87891,6 +87891,17 @@
       }
     },
     {
+      "name": "PINTO",
+      "symbol": "PINT",
+      "logoURI": "https://raw.githubusercontent.com/wedd26/ryanpinto/main/RYAN3.png",
+      "decimals": 0,
+      "address": "FqYPZmwUTCpGgNvLanhe6P7pcQr2mnKMLVjpWmZbV8B9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "JerseyCoin",
       "symbol": "JRSY",
       "logoURI": "https://raw.githubusercontent.com/mjsantos00/sol-project/main/logo.png",
