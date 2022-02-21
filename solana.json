@@ -40096,6 +40096,17 @@
       ]
     },
     {
+      "name": "GalipeauCoin",
+      "symbol": "GALI",
+      "logoURI": "https://raw.githubusercontent.com/ajgalipeau/galipeau-coin/main/galipeau_coin.png",
+      "decimals": 0,
+      "address": "8ZGDbxp6iRYEsLajghuALAq25sEaXcaVepH9zQXGHinN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DeadCoin",
       "symbol": "DEAD",
       "logoURI": "https://github.com/ceponatia/soltoken/blob/main/DeadCoin%20Square.png",
@@ -75692,6 +75703,22 @@
       ]
     },
     {
+      "name": "Drogo",
+      "symbol": "DRG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DrogoV6nuMsCGfhqcVMCVxGZASajgXoxN7ytUcRCQgQs/logo.png",
+      "decimals": 9,
+      "address": "DrogoV6nuMsCGfhqcVMCVxGZASajgXoxN7ytUcRCQgQs",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solkomodo.io/",
+        "twitter": "https://twitter.com/Komododragonnft",
+        "discord": "https://discord.com/invite/VFJVFXGxR8"
+      }
+    },
+    {
       "name": "Orca Aquafarm Token (SYP/USDC[aquafarm])",
       "symbol": "SYP/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ds4VGZhZzS2PMFzhzKeC3mwcQjdiCG21R76fTVbsSJyJ/logo.svg",
@@ -88185,6 +88212,17 @@
         "discord": "https://discord.gg/SyyHgAD9XD",
         "instagram": "https://www.instagram.com/xkoding/"
       }
+    },
+    {
+      "name": "Doryudragonz",
+      "symbol": "DDZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fp1ZyU4NTDvrPfBUtKFPMmSCS3Yp4KvPsTX2RscMCD5g/logo.png",
+      "decimals": 0,
+      "address": "Fp1ZyU4NTDvrPfBUtKFPMmSCS3Yp4KvPsTX2RscMCD5g",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Xelasi",
@@ -103703,6 +103741,17 @@
       }
     },
     {
+      "name": "Miner Moose Whitelist Token",
+      "symbol": "MMWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MMTXhAEoj23QQ22gYYTLfLzRhRTW58NNG5aTBXExjeE/logo.png",
+      "decimals": 0,
+      "address": "MMTXhAEoj23QQ22gYYTLfLzRhRTW58NNG5aTBXExjeE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Marinade",
       "symbol": "MNDE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
@@ -110025,6 +110074,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Knightdom coin",
+      "symbol": "KDM",
+      "logoURI": "https://www.knightdomservers.com/logo/logo.png",
+      "decimals": 9,
+      "address": "kdmxBtSBBodcNXLvBXcYxYREpYaMCYLKcRiRFcjuc1v",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://knightdom-evolved.com",
+        "twitter": "https://twitter.com/Knightdomsol1",
+        "discord": "https://discord.gg/hfaSQ4FY3k",
+        "description": "Knightdom"
+      }
     },
     {
       "name": "Kineko",
