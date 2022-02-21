@@ -20343,6 +20343,17 @@
       ]
     },
     {
+      "name": "Kawaii Animal Token",
+      "symbol": "KAWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5M1gA4nCkK6vHQvh2oGhMwFSCE3TgJNTZ1rhZR1a3o5o/logo.png",
+      "decimals": 0,
+      "address": "5M1gA4nCkK6vHQvh2oGhMwFSCE3TgJNTZ1rhZR1a3o5o",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Maelstromdal Token",
       "symbol": "MAEL",
       "logoURI": "https://raw.githubusercontent.com/deanlucero/Crypto/main/YouTubeLogo.png",
@@ -44449,6 +44460,14 @@
       ]
     },
     {
+      "name": "Zebra Barcelona Design",
+      "symbol": "ZEBRA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9FvJe9t8E771DJuQmJQcqygsUHgYUnXMEbEoYqiNj9ky/logo.png",
+      "decimals": 9,
+      "address": "9FvJe9t8E771DJuQmJQcqygsUHgYUnXMEbEoYqiNj9ky",
+      "chainId": 101
+    },
+    {
       "name": "GNBux",
       "symbol": "GNB",
       "logoURI": "https://raw.githubusercontent.com/jyanosu/GNBux/main/GNBux.png",
@@ -58561,6 +58580,20 @@
       ],
       "extensions": {
         "description": "Token distribué par Chbig pour sa communauté de Chbigonaute"
+      }
+    },
+    {
+      "name": "BHSG Blaster Claim Token",
+      "symbol": "BLAST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLSTrhpP73RnVocgRu3te1Z5bBy6kL78Cpg2WuACqFkS/logo.png",
+      "decimals": 9,
+      "address": "BLSTrhpP73RnVocgRu3te1Z5bBy6kL78Cpg2WuACqFkS",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://bountyhunterspaceguild.com"
       }
     },
     {
@@ -98119,7 +98152,7 @@
     },
     {
       "name": "HMATT Coin",
-      "symbol": "NTCK",
+      "symbol": "HMTT",
       "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/HMATT-Coin/main/logo.png",
       "decimals": 9,
       "address": "HRVSkf3Vp5CLCA3a53qQawyPj8LXWNTVcF9zkLxHLnYt",
