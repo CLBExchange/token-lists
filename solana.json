@@ -9058,6 +9058,23 @@
       }
     },
     {
+      "name": "GigaHub",
+      "symbol": "GHC",
+      "logoURI": "https://arweave.net/uHznKxrFiAG1QC2LgRhGf08ySUHLmRT3Yne4yAndXmg",
+      "decimals": 9,
+      "address": "3QxMtHFY6x35Rmuh7SPSiP6EPNpFT1AEPz268KF3JH1V",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.gigahub.gg/",
+        "twitter": "https://twitter.com/GigaHubOfficial",
+        "instagram": "https://www.instagram.com/GigaHubOfficial",
+        "youtube": "https://www.youtube.com/gigahub"
+      }
+    },
+    {
       "name": "Mahalo",
       "symbol": "MAHT",
       "logoURI": "https://raw.githubusercontent.com/kantrealb/coin/main/Mahalo.png",
@@ -54166,6 +54183,17 @@
       ]
     },
     {
+      "name": "AlexCrypto",
+      "symbol": "AERE",
+      "logoURI": "https://raw.githubusercontent.com/A1234760/logos/main/logo.png",
+      "decimals": 0,
+      "address": "AeFr98GrcpiK4jr6gNg5V4nBQsBbo7bxUg6LrCTgRhY5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Shih Tzu",
       "symbol": "SHIHT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AeTzmX6QcL6tWKMRTKVW9ee8fPmCieKzgfmiU7ZaY4gu/logo.png",
@@ -83565,6 +83593,27 @@
       ]
     },
     {
+      "name": "Krenium",
+      "symbol": "KRENIUM",
+      "logoURI": "https://raw.githubusercontent.com/playsoulstone/logos/main/krenium.png",
+      "decimals": 9,
+      "address": "FBbYSQqfLGdJwiUyyhH3BnXaXzZdGLLaoAaihdqBhAoK",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://playsoulstone.com/",
+        "twitter": "https://twitter.com/playsoulstone",
+        "discord": "https://discord.gg/playsoulstone",
+        "description": "Currency for Soulstone"
+      }
+    },
+    {
       "name": "XIN Dragon Token",
       "symbol": "XIN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FBdRvc9CmHUf8ib2sV8PDv2oiFAmyxoftjid3Uv9e4kK/logo.png",
@@ -104687,6 +104736,23 @@
         "assetContract": "https://etherscan.io/address/0x71F85B2E46976bD21302B64329868fd15eb0D127",
         "coingeckoId": "axion",
         "address": "0x71F85B2E46976bD21302B64329868fd15eb0D127"
+      }
+    },
+    {
+      "name": "Soulstone WL Token",
+      "symbol": "SOULWL",
+      "logoURI": "https://raw.githubusercontent.com/playsoulstone/logos/main/wltoken.png",
+      "decimals": 0,
+      "address": "QVHEgfYuDB6hrFQwzTQZ3RsBxGX3yz2b7L1sa5S1xeV",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://playsoulstone.com/",
+        "twitter": "https://twitter.com/playsoulstone",
+        "discord": "https://discord.gg/playsoulstone",
+        "description": "Soulstone WL Token for Pass Mint"
       }
     },
     {
