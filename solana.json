@@ -10287,6 +10287,14 @@
       ]
     },
     {
+      "name": "Ownify",
+      "symbol": "OWY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3aq3eikS1x7oMYWFNYXiQyhQ5KfL7khBmoaBC3Vist4X/logo.png",
+      "decimals": 9,
+      "address": "3aq3eikS1x7oMYWFNYXiQyhQ5KfL7khBmoaBC3Vist4X",
+      "chainId": 101
+    },
+    {
       "name": "VladCoin",
       "symbol": "VLAD",
       "logoURI": "https://raw.githubusercontent.com/benalbrinck/cryptocurrency/main/logo.png",
@@ -88931,6 +88939,17 @@
       "extensions": {
         "twitter": "https://twitter.com/rock_cycle_nft"
       }
+    },
+    {
+      "name": "AlbertCoin",
+      "symbol": "LBRT",
+      "logoURI": "https://raw.githubusercontent.com/lbrtcoin/lbrt/main/logo.png",
+      "decimals": 0,
+      "address": "FvkVzKWPWMJRuP3XjSk2aKSmf5z7W9gWAtB2HAXoZaRi",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Shekel Coin",
