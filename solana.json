@@ -8046,6 +8046,20 @@
       "chainId": 101
     },
     {
+      "name": "Raydium Fusion Pool Token (NINJA/USDC)",
+      "symbol": "NINJA/USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3HLeyffHyFKsLPJgoSL1Jq1u6tzuhgU2tAgbDBu9uFyb/ninja-lp.png",
+      "decimals": 6,
+      "address": "3HLeyffHyFKsLPJgoSL1Jq1u6tzuhgU2tAgbDBu9uFyb",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://ninjaprotocol.io/"
+      }
+    },
+    {
       "name": "Cybercrime Lab",
       "symbol": "CCLC",
       "logoURI": "https://raw.githubusercontent.com/CybercrimeLabLLC/crypto/main/logo.png",
@@ -20476,6 +20490,19 @@
       "decimals": 0,
       "address": "5PR8Fre4gU52dgv5W4nrJkSAW4xonDWD5d84HJF7nDhU",
       "chainId": 101
+    },
+    {
+      "name": "MANA Token",
+      "symbol": "MANA",
+      "logoURI": "https://raw.githubusercontent.com/Hotel-Six/Mana-Token/main/Logo.png",
+      "decimals": 0,
+      "address": "5PUL5pfqnHqa3mb88txLhGSRadvYboBFQGEbEjCBkHQ8",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ]
     },
     {
       "name": "Party Giraffes",
