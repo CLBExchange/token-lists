@@ -25562,6 +25562,18 @@
       ]
     },
     {
+      "name": "Smith Strong",
+      "symbol": "SS",
+      "logoURI": "https://raw.githubusercontent.com/mattsmith4/crypto/main/smithstronglogo.jpg",
+      "decimals": 0,
+      "address": "6GyUtgM5ux2fa5kjnieQKgk1R1cwkLQ3SZ6c8MwiYLSs",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "smith-strong"
+      ]
+    },
+    {
       "name": "Just Group PLC",
       "symbol": "JUST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6H26K637YNAjZycRosvBR3ENKFGMsbr4xmoV7ca83GWf/logo.png",
@@ -56860,6 +56872,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B45eExdHQmYbVsEYzqYgrMwLBGhz6KXQAAPdpQ2DCGFj/logo.png",
       "decimals": 0,
       "address": "B45eExdHQmYbVsEYzqYgrMwLBGhz6KXQAAPdpQ2DCGFj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "CashOutCoin",
+      "symbol": "CoGC",
+      "logoURI": "https://raw.githubusercontent.com/CashOutGang1337/CashOutGangCoin/main/free-money-bag-icon-6384-thumb-removebg-preview.png",
+      "decimals": 0,
+      "address": "B469ASyzvGkUPCoi3n7cKnXkDiYbhR3Kg7hb1MJjZYfk",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -115135,6 +115158,20 @@
       "tags": [
         "CHERRY"
       ]
+    },
+    {
+      "name": "PlebCoin",
+      "symbol": "PLEBCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH/PlebCoin.png",
+      "decimals": 9,
+      "address": "FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "A coin that Plebs can spend"
+      }
     },
     {
       "name": "Inferno",
