@@ -6863,6 +6863,17 @@
       }
     },
     {
+      "name": "Rest",
+      "symbol": "REST",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/rest-logo.png",
+      "decimals": 9,
+      "address": "37c3ecpSo9zXu8SaUWKRLPEGAfR24gwxcEMMjpD9rPrj",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Dogelon Mars",
       "symbol": "ELON",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/37mG5XYuwMSutQnvERDUZqxumes5hYp89X2gpBbedpZ2/logo.png",
@@ -11941,6 +11952,17 @@
       "logoURI": "https://raw.githubusercontent.com/Optisoftab/Stamcoin/main/stammizSlogo.png",
       "decimals": 0,
       "address": "3qXsHMCAWU2AkSgp4Gss1gDMk4zrFctwB2fYfsHsVmxf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Wisdom",
+      "symbol": "WIS",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wis-logo.png",
+      "decimals": 9,
+      "address": "3qnhg34K5A38NtQXrj3yxQhY3Gc1pMKSd32hAHkKNbKi",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -19289,6 +19311,17 @@
       ]
     },
     {
+      "name": "S",
+      "symbol": "S",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/s-logo.png",
+      "decimals": 9,
+      "address": "59iYkEjvKmHUyNDBjVyVLV9PQViAeMi2rjxRuw4ZuUhv",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "INR Coin",
       "symbol": "INRC",
       "logoURI": "https://raw.githubusercontent.com/gsingh72/coin/main/inr-coin-inrc-logo.png",
@@ -25318,6 +25351,17 @@
       }
     },
     {
+      "name": "Friday",
+      "symbol": "FRI",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/fri-logo.png",
+      "decimals": 9,
+      "address": "6E2wrGGFudaapNmmxE5BoQc3pNr3xJwe2zoNPw5VkjpB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Yet Another Token PIRIT",
       "symbol": "YAT-PIR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6E8tJq85M64wqerfwBN6iYQGJPVcUFzgc8wKqc3tcKeD/logo.png",
@@ -28916,6 +28960,17 @@
       ]
     },
     {
+      "name": "Monday",
+      "symbol": "MON",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/mon-logo.png",
+      "decimals": 9,
+      "address": "6poRXXpCjk5UfLw4tz7vVHiK7MHHxQrjaUStmy65YtFq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Doodle Loot",
       "symbol": "DOODLE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6pyFwtq8wZPumC2owaACuo4XS8qSWnKbWaw5rW4omuLh/logo.png",
@@ -30849,6 +30904,17 @@
       "logoURI": "https://raw.githubusercontent.com/jas0nn1/dankcoin/main/monkeyLogo.png",
       "decimals": 0,
       "address": "77Dz5V9MB97KNR1qhdvNg9gAUjE8xBCjvSPRNi9NZu4D",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "J",
+      "symbol": "J",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/j-logo.png",
+      "decimals": 9,
+      "address": "77P22CtARq4rPGBW7suWJnWDhqJPHN85ZP6x9rXmK2n2",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -33791,6 +33857,17 @@
       "extensions": {
         "website": "http://n1pool.com/"
       }
+    },
+    {
+      "name": "K",
+      "symbol": "KA",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ka-logo.png",
+      "decimals": 9,
+      "address": "7e1mJRetJSAj3nZDmjZFKoBGoRHSbbVogTsWSzTVdf5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Meta Horizons",
@@ -37767,6 +37844,17 @@
       "logoURI": "https://raw.githubusercontent.com/codingbeast/testapp/master/logo.png",
       "decimals": 0,
       "address": "8DWMpVjWCawgurBXWHjfDew1CjkxKGQevGMpGmhAFdTa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "M",
+      "symbol": "M",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/m-logo.png",
+      "decimals": 9,
+      "address": "8DYP1ciF5mXCWFsbFfq7mPL15fXbFHcUUE7rnAY7Adbh",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -45149,6 +45237,17 @@
       }
     },
     {
+      "name": "Jam",
+      "symbol": "JAM",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/jam-logo.png",
+      "decimals": 9,
+      "address": "9NQGZmX19HkLFSvzT6X1BVmrSX1WtwxWbxHTfyDAdcty",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MCLAU Coin",
       "symbol": "MCLAU",
       "logoURI": "https://raw.githubusercontent.com/mclau79/logo/main/crypto2.png",
@@ -45251,6 +45350,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BlueDiamonds",
+      "symbol": "BD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9PYyJoGv5WVht6X7i4znDnPjRKinRhFdiA27yFRRxXqB/logo.png",
+      "decimals": 9,
+      "address": "9PYyJoGv5WVht6X7i4znDnPjRKinRhFdiA27yFRRxXqB",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.bluediamonds.app/",
+        "twitter": "https://twitter.com/BlueDiamondsNFT",
+        "description": "Native token of the BlueDiamonds marketplace"
+      }
     },
     {
       "name": "Skyrocket",
@@ -63214,6 +63331,17 @@
       }
     },
     {
+      "name": "Krahn",
+      "symbol": "KRHN",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/krhn-logo.png",
+      "decimals": 9,
+      "address": "C4fxCuEcvvN1AL19tVtxdGc9GkChho1TB3zSF1QwsATQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Elemento6",
       "symbol": "CERCr",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4kmKzQ8o6NAP8pToERJF6C7V4PjCVE3o2oSrp24f5GP/logo.png",
@@ -67600,6 +67728,17 @@
       "logoURI": "https://github.com/SkibbaToken/SkibbaToken/blob/main/logo.png",
       "decimals": 0,
       "address": "CfEx76J76ojTeqCq92xETrn8xQRpVHnHCRbyVXd8iC9Y",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Approval",
+      "symbol": "APRV",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/aprv-logo.png",
+      "decimals": 9,
+      "address": "CfM5L3bx9Qp5KWoyjBZ67p2d6RFbzgUTrm865KKC9yPZ",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -74081,6 +74220,17 @@
         "website": "https://www.ayoken.com",
         "twitter": "https://twitter.com/ayokenlabs"
       }
+    },
+    {
+      "name": "And",
+      "symbol": "AND",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/and-logo.png",
+      "decimals": 9,
+      "address": "DdRGrcVXQ2t5ma2eDhmvKrXcCYWyTop2TxtrXCrT1c3e",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Bitsol Finance",
@@ -85111,6 +85261,17 @@
       ]
     },
     {
+      "name": "X",
+      "symbol": "X",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/x-logo.png",
+      "decimals": 9,
+      "address": "FNuzzAmiz8Mqspggzyt3fmm3CtjMw1175P2Bubfys8p1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Shiba Poker Coin",
       "symbol": "SHIPO",
       "logoURI": "https://raw.githubusercontent.com/shibasolana/crypto/main/logo.png",
@@ -86288,6 +86449,17 @@
       ]
     },
     {
+      "name": "Z",
+      "symbol": "ZE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ze-logo.png",
+      "decimals": 9,
+      "address": "FZ4kX4dDwhF8HSaczN8TkvcRNUZrtt4uyMDwCiHQye34",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "404",
       "symbol": "ERRD",
       "logoURI": "https://raw.githubusercontent.com/3Banan3/404-token/main/logo.png",
@@ -86636,6 +86808,17 @@
       "extensions": {
         "website": "https://raydium.io/"
       }
+    },
+    {
+      "name": "Like",
+      "symbol": "LIK",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lik-logo.png",
+      "decimals": 9,
+      "address": "FbDc92eS9HzcMhWZb3nEtMH9nMLDxAnWnBG2fACENPCR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Cropper LP token (SD/SOL)",
@@ -91675,6 +91858,17 @@
       "logoURI": "https://raw.githubusercontent.com/dashort/shortcoin/main/logo.png",
       "decimals": 0,
       "address": "GLNJrLLLUNeZcbUmQJuTsCAweniSgrjV4jVhPwWxM7Sy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Giddiness",
+      "symbol": "GIDDI",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/giddi-logo.png",
+      "decimals": 9,
+      "address": "GLVapw9LW3ekMfFFNwgt1GepnCAJUJATVadUZMi5Vm8d",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -99947,6 +100141,17 @@
       ]
     },
     {
+      "name": "Y",
+      "symbol": "WHY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/why-logo.png",
+      "decimals": 9,
+      "address": "HhyziMR2vkGCVddCMM2AUw3D2pjXCoo7qrNkuQKoYBF5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ACRE",
       "symbol": "ACRE",
       "logoURI": "https://i.imgur.com/2f7q7UN.png",
@@ -106592,6 +106797,17 @@
       "logoURI": "https://raw.githubusercontent.com/ArberKadriu/WXP-Coin/main/WXP%20logo.png",
       "decimals": 0,
       "address": "Tjs2thHW1uJXPeBh61iPjZCNeyAwsZFbm9zkbDB4JYZ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "The",
+      "symbol": "THE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/the-logo.png",
+      "decimals": 9,
+      "address": "TjvBEgrhTeCgoSV2TY9QkpFHv3VVcirHSuoT9Zya8uM",
       "chainId": 101,
       "tags": [
         "social-token"
