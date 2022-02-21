@@ -31821,6 +31821,22 @@
       }
     },
     {
+      "name": "GhostTown",
+      "symbol": "GTHK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CdcRwbFuj3YNJYdfUqh3hnxFz1fuF6he1Wgz7JvZMHda/logo.png",
+      "decimals": 6,
+      "address": "7LCo9Kv3rP6F2uHtSbh1ze6K1eDV47S8phMwr8mA9Dne",
+      "chainId": 101,
+      "tags": [
+        "game-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://ghosttown.fun/",
+        "description": "Token for the P2E game"
+      }
+    },
+    {
       "name": "F",
       "symbol": "EFF",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/eff-logo.png",
@@ -62694,6 +62710,21 @@
       }
     },
     {
+      "name": "BLOCKED SOL",
+      "symbol": "GUARANTEE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ByvbXb847KX2MpYraz7daZyS7yv8k2ZyckdTTgDscNuf/gold.png",
+      "decimals": 9,
+      "address": "ByvbXb847KX2MpYraz7daZyS7yv8k2ZyckdTTgDscNuf",
+      "chainId": 101,
+      "tags": [
+        "Blocked-SOL",
+        "Guarantee"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/blocked-sol/"
+      }
+    },
+    {
       "name": "PhoebeCoin",
       "symbol": "PHBC",
       "logoURI": "https://raw.githubusercontent.com/phoebecoin/crypto/main/phoebe.png",
@@ -77615,6 +77646,21 @@
       "extensions": {
         "website": "https://orca.so",
         "twitter": "https://twitter.com/orca_so"
+      }
+    },
+    {
+      "name": "Golden EURO",
+      "symbol": "EURO-GUARANTEE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ECRJG22BfVD5wmGZeCNy6f74zdmzGR5DQFczqMypkpfe/gold.png",
+      "decimals": 2,
+      "address": "ECRJG22BfVD5wmGZeCNy6f74zdmzGR5DQFczqMypkpfe",
+      "chainId": 101,
+      "tags": [
+        "Golden-euro",
+        "Guarantee"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/golden-euro/"
       }
     },
     {
@@ -103049,6 +103095,21 @@
       ]
     },
     {
+      "name": "Launchlabs Holder Token",
+      "symbol": "LHT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LHTZ1E5tcZRK786zwrpcUsGivU6vemQaKBeXuiVD6tP/logo.png",
+      "decimals": 0,
+      "address": "LHTZ1E5tcZRK786zwrpcUsGivU6vemQaKBeXuiVD6tP",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://launchlabs.app/"
+      }
+    },
+    {
       "name": "Wet Spot",
       "symbol": "XXX",
       "logoURI": "https://raw.githubusercontent.com/DarkishHero/Crypto/main/Logo-min.png",
@@ -103106,6 +103167,21 @@
       ],
       "extensions": {
         "website": "https://app.saber.so/#/pools/luna"
+      }
+    },
+    {
+      "name": "Launchlabs Unlimited",
+      "symbol": "LUT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUaAb8dKBd3oye8PdSZtCmr3wQJbcXop4P3bCm434xc/logo.png",
+      "decimals": 0,
+      "address": "LUaAb8dKBd3oye8PdSZtCmr3wQJbcXop4P3bCm434xc",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://launchlabs.app/"
       }
     },
     {
