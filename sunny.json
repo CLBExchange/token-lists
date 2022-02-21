@@ -1,0 +1,53 @@
+{
+  "name": "Sunny Aggregator Token List (mainnet-beta)",
+  "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/sunny.svg",
+  "tags": {},
+  "timestamp": "2022-02-21T02:16:25.684Z",
+  "tokens": [
+    {
+      "name": "tapSunSBR",
+      "symbol": "tapSunSBR",
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/tapsunsbr.svg",
+      "decimals": 6,
+      "address": "BaconSBRjNckjeQCi6E2Ndg8wSmAwPgmfmZnF6ZmyFhz",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sunny.ag",
+        "underlyingTokens": [
+          "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2"
+        ],
+        "source": "sunny"
+      }
+    },
+    {
+      "name": "sunSBR",
+      "symbol": "sunSBR",
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/sunsbr.svg",
+      "decimals": 6,
+      "address": "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sunny.ag",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ],
+        "source": "sunny"
+      }
+    },
+    {
+      "name": "yiSunSBR",
+      "symbol": "yiSunSBR",
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/yisunsbr.svg",
+      "decimals": 6,
+      "address": "sunxSBRH867pEGc5D4UFR7D6RQULsmjkXZT3SQ8XqwS",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sunny.ag",
+        "underlyingTokens": [
+          "sunSBR8hRLZy13HCHdrT3hjJZVRpkVfXF3QaaJYjxZ2"
+        ],
+        "source": "sunny"
+      }
+    }
+  ]
+}
