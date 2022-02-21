@@ -1015,6 +1015,22 @@
       }
     },
     {
+      "name": "EcoToken",
+      "symbol": "ECO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/26KSs4cds9P3p2K5q6j8xGD2yzB1Wa2pzms7AHSMhG3s/logo.png",
+      "decimals": 9,
+      "address": "26KSs4cds9P3p2K5q6j8xGD2yzB1Wa2pzms7AHSMhG3s",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://eco-token.io",
+        "twitter": "https://twitter.com/THEecoToken",
+        "discord": "https://discord.gg/MfBAZ6eQcW"
+      }
+    },
+    {
       "name": "Diabolo Token",
       "symbol": "DCASH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/26W4xxHbWJfrswaMNh14ag2s4PZTQuu2ypHGj6YEVXkT/dcash-logo.png",
@@ -40555,6 +40571,20 @@
       }
     },
     {
+      "name": "NTC crypto MP20",
+      "symbol": "NTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8d22HrxhgditkRAtjhcQLKB7gwT94L3NuKQukEuRU5ax/logo.png",
+      "decimals": 9,
+      "address": "8d22HrxhgditkRAtjhcQLKB7gwT94L3NuKQukEuRU5ax",
+      "chainId": 101,
+      "tags": [
+        "security-token"
+      ],
+      "extensions": {
+        "website": "https://thenationaltradecenter.io/"
+      }
+    },
+    {
       "name": "Felts Coin",
       "symbol": "FELTS",
       "logoURI": "https://raw.githubusercontent.com/Felts89/Crypto/main/Logo.png",
@@ -50736,6 +50766,19 @@
       "extensions": {
         "website": "https://app.saber.so/#/pools/aeusdc"
       }
+    },
+    {
+      "name": "Family Exchange Coin",
+      "symbol": "FMXC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEDrQREPVWLFnymPCrxDrgv4mP58CjBXDsc9YRaYbnfx/logo.png",
+      "decimals": 2,
+      "address": "AEDrQREPVWLFnymPCrxDrgv4mP58CjBXDsc9YRaYbnfx",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "game-token"
+      ]
     },
     {
       "name": "Heads Coin",
