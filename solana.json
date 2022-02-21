@@ -47139,6 +47139,17 @@
       }
     },
     {
+      "name": "Jocky Koin",
+      "symbol": "JCKY",
+      "logoURI": "https://github.com/czcr/cozicoins/blob/main/JLogo.png",
+      "decimals": 0,
+      "address": "9jk4bVurWNPnVqPAN6jqP8UEvtzAxHtZ5ysSd3Npz9Mh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Alpha Ohlinger Token",
       "symbol": "AOLT",
       "logoURI": "https://raw.githubusercontent.com/dandykrions/crypto/main/logo.png",
@@ -51072,6 +51083,17 @@
         "website": "https://nftdevilz.com",
         "twitter": "https://twitter.com/NFTDevilz"
       }
+    },
+    {
+      "name": "LA BONITA",
+      "symbol": "LABNT",
+      "logoURI": "https://raw.githubusercontent.com/LuckyLuis888/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "AHp6mR4Jm6UoogsY1aNYM1JgfpCvDhUvWBAQDnmVcxDw",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Binance USD (Wormhole v1)",
@@ -74980,6 +75002,21 @@
       "chainId": 101
     },
     {
+      "name": "Dokan Apes WL Token",
+      "symbol": "DAWL",
+      "logoURI": "https://raw.githubusercontent.com/NFTBrickLayer/assets/main/dokan-logo.png",
+      "decimals": 0,
+      "address": "DoKnmLSCe81mkvga7Vxn82F8NtvBdW3Qas4Rk22Wd3UG",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DokanApesNFT",
+        "discord": "https://discord.com/invite/YcthEaHXBs"
+      }
+    },
+    {
       "name": "Citizen Apes",
       "symbol": "CAPE",
       "logoURI": "https://raw.githubusercontent.com/citizenape/crypto/main/logo.png",
@@ -93884,6 +93921,14 @@
         "website": "https://mikekrow.com/",
         "twitter": "https://twitter.com/space_asylum"
       }
+    },
+    {
+      "name": "UTSCoin",
+      "symbol": "UTS",
+      "logoURI": "https://raw.githubusercontent.com/utscoin/utscoin/main/logo.png",
+      "decimals": 0,
+      "address": "GkppDJvtDJfE2SENMg9i6EvSTTgvmrcmnNJrNXSoZcbJ",
+      "chainId": 101
     },
     {
       "name": "ILoveU Token",
