@@ -55887,6 +55887,17 @@
       }
     },
     {
+      "name": "Prayer Token",
+      "symbol": "PRAY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AumBLHWYFrPsJn1yPj12XmTq19v4W8573zQ3Ja9zNm5v/praytoken.png",
+      "decimals": 0,
+      "address": "AumBLHWYFrPsJn1yPj12XmTq19v4W8573zQ3Ja9zNm5v",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MagnumDong)",
       "symbol": "MAGD",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AuniAuHUDDXasDZ3v6h4M2oJhZERXzSZFixqED2Etywy/logo.png",
@@ -91160,6 +91171,22 @@
       ]
     },
     {
+      "name": "Sundays Lab Golden Token",
+      "symbol": "SLGT",
+      "logoURI": "https://arweave.net/pHrzP-Q4FhYr-nZRLnNLl0v1fUTbwnsIhxAERvoNf7Y",
+      "decimals": 9,
+      "address": "GLapb5CUwQ5pbDy9RLuEctFEjZuoNKsRvc95MGpKimCf",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "metaverse",
+        "staking"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/sundayslab"
+      }
+    },
+    {
       "name": "Jinx Mainecoon Token",
       "symbol": "JINX",
       "logoURI": "https://raw.githubusercontent.com/drenieri/crypto/main/Jinx.png",
@@ -93872,6 +93899,17 @@
       "logoURI": "https://raw.githubusercontent.com/nazmulababy/crypto/main/NazT-logo.png",
       "decimals": 9,
       "address": "GmHjFJoH5WqkKRQY7ZadwnPm2SqnEwG5aL8EddXRkydx",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "BLEEP",
+      "symbol": "BLEEP",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYjaWwcDx8gaf5rnkzGYLy8qhjjvuuvQXK8RttvXFWUWd?preview=1",
+      "decimals": 0,
+      "address": "GmY2Rp9t5S4yD5jhgJrc47VSAa6hQiikkYi3sr9HLNZr",
       "chainId": 101,
       "tags": [
         "social-token"
