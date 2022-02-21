@@ -12344,6 +12344,17 @@
       }
     },
     {
+      "name": "LiberCoins",
+      "symbol": "LBCN",
+      "logoURI": "https://raw.githubusercontent.com/LiberCoins/Token-LiberCoin/main/libercoins.png",
+      "decimals": 6,
+      "address": "3wx61Zfz7j5gtvTQCKistr2hsWNYMNKfJKqKfyAdK4fG",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Codefin Coin",
       "symbol": "COF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3x4DKbtWYkw9SigBp7LbeT96MLw68wpWVC4ZUtCp1Gvz/logo.png",
