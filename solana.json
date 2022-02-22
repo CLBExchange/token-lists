@@ -11594,6 +11594,17 @@
       }
     },
     {
+      "name": "NXA Bra",
+      "symbol": "NXA",
+      "logoURI": "https://raw.githubusercontent.com/cryptopher17/crypto/main/Logo.png",
+      "decimals": 0,
+      "address": "3mnScz1CPoHdtRxsakdT8LH7b4VC3AUBeUh1GyGZUqq1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Sp00ky Sk0Ls Whitelist",
       "symbol": "SSWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mxhqjhdQD6fveJqfeXuxpiVhH4aVzwSqmbouRMCbuWW/logo.png",
@@ -106796,6 +106807,17 @@
         "serumV3Usdc": "8zPVSrun5AnePjXWjC4EgMdBaLdHtkSUtYbFNobzQHRN",
         "coingeckoId": "swanlana"
       }
+    },
+    {
+      "name": "anymous3",
+      "symbol": "ANYM",
+      "logoURI": "https://raw.githubusercontent.com/anymouse20/crypto/main/logo_size_invert.jpg",
+      "decimals": 0,
+      "address": "SYDetWjb2SZ4G2PsEkdk1xX9Hmu4WV3Dn2CyGG2sKq9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Saber Protocol Token",
