@@ -6979,6 +6979,21 @@
       ]
     },
     {
+      "name": "BTCSEA Trademark BSEA",
+      "symbol": "BSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/38GtEzk73ic2YNX9eaoZk7CTmMF2jFcAjptRLoYkeFQf/logo.png",
+      "decimals": 9,
+      "address": "38GtEzk73ic2YNX9eaoZk7CTmMF2jFcAjptRLoYkeFQf",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "HoloCoing",
       "symbol": "HOLO",
       "logoURI": "https://raw.githubusercontent.com/BoundlessTechSolutions/crypto/main/logo.png",
@@ -7724,6 +7739,26 @@
         "assetContract": "https://etherscan.io/address/0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
         "coingeckoId": "tokemak",
         "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
+      }
+    },
+    {
+      "name": "Alien Rappers Prize Token",
+      "symbol": "ARPT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3EW2p6Dy6a3zNTfcetFFopzvv253xQzMHstBJv7wCgSt/logo.png",
+      "decimals": 0,
+      "address": "3EW2p6Dy6a3zNTfcetFFopzvv253xQzMHstBJv7wCgSt",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "mint-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://alienrappers.com/",
+        "twitter": "https://twitter.com/AlienRappers",
+        "discord": "https://discord.com/invite/alienrappersclub",
+        "description": "The Coin for Alien Rappers NFT free mint.",
+        "instagram": "https://www.instagram.com/alienrappersclub/"
       }
     },
     {
@@ -18061,6 +18096,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark SEABTC",
+      "symbol": "SEABTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4uUzZtoVvpdbq4yKSTcEZbu3LxohNhnoYBBksfFtqUcu/logo.png",
+      "decimals": 9,
+      "address": "4uUzZtoVvpdbq4yKSTcEZbu3LxohNhnoYBBksfFtqUcu",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "UBU Coin",
@@ -29789,6 +29839,21 @@
       }
     },
     {
+      "name": "BTCSEA Trademark BITSEA",
+      "symbol": "BITSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6wu9hyd6gEvAzfEE8r6gf3NMRPrZYQQ7tfgccbZRmWxX/logo.png",
+      "decimals": 9,
+      "address": "6wu9hyd6gEvAzfEE8r6gf3NMRPrZYQQ7tfgccbZRmWxX",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "netOFF Token",
       "symbol": "NETOFF",
       "logoURI": "https://raw.githubusercontent.com/mef123/netoff-token/main/logo.png",
@@ -31707,6 +31772,21 @@
       }
     },
     {
+      "name": "BTCSEA Trademark BITSEA 2",
+      "symbol": "$BITSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7GphmB52nxymz5aoUKk6MascqpoCoJLyPKCH9Dfbti4h/logo.png",
+      "decimals": 9,
+      "address": "7GphmB52nxymz5aoUKk6MascqpoCoJLyPKCH9Dfbti4h",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "MTYGROUP",
       "symbol": "MTY",
       "logoURI": "https://raw.githubusercontent.com/krazyesko/cryptojpg/main/logo.jpg",
@@ -33098,6 +33178,21 @@
       ],
       "extensions": {
         "description": "Uprising is the only way out of gross inequality"
+      }
+    },
+    {
+      "name": "BTCSEA Trademark SEABTC 2",
+      "symbol": "$SEABTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7XjqFj9B7NuTmnVqMtWb1fFg62bMTVAosnHuvavYotgs/logo.png",
+      "decimals": 9,
+      "address": "7XjqFj9B7NuTmnVqMtWb1fFg62bMTVAosnHuvavYotgs",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
       }
     },
     {
@@ -42251,6 +42346,21 @@
       ]
     },
     {
+      "name": "BTCSEA Trademark BTSEA",
+      "symbol": "BTSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8rnKM5ZHYtNRym2GKSnA7rgm9fUddDY4RZQtKus9h5Vc/logo.png",
+      "decimals": 9,
+      "address": "8rnKM5ZHYtNRym2GKSnA7rgm9fUddDY4RZQtKus9h5Vc",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "BiggieKoin",
       "symbol": "BIGK",
       "logoURI": "https://raw.githubusercontent.com/bkmdchw7/crypto/main/logo.png",
@@ -50163,6 +50273,17 @@
       }
     },
     {
+      "name": "Lily Love",
+      "symbol": "LILV",
+      "logoURI": "https://raw.githubusercontent.com/Kcam9908/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "A8fP2qLT1Min6pwP52LgV8j2UmuskwDUgSmVUGGyQ6o7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DragonSol",
       "symbol": "DRGN",
       "logoURI": "https://lizardtoken.xyz/gallery/dragon-ts1635027595.jpg",
@@ -54746,6 +54867,17 @@
       }
     },
     {
+      "name": "Hollo Coin",
+      "symbol": "HOLLO",
+      "logoURI": "https://raw.githubusercontent.com/lddcoding/crypto/main/download.jpg?token=GHSAT0AAAAAABR2FOB7KI2KXGMO6PBLGSEWYQUIKAQ",
+      "decimals": 0,
+      "address": "AhE4DhAUVtqHEFhMp8oRdRgcyCg6Qk3G45QbaQ4vyshB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Soka Coin",
       "symbol": "SOKA",
       "logoURI": "https://raw.githubusercontent.com/imsoka/sokacoin/master/logo.png",
@@ -57887,6 +58019,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark BSEA 2",
+      "symbol": "$BSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BBfGFC4Wu5wsPqeWxYZoA3M22ChcnVCvoTYCfHT7EYBK/logo.png",
+      "decimals": 9,
+      "address": "BBfGFC4Wu5wsPqeWxYZoA3M22ChcnVCvoTYCfHT7EYBK",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "All My Brothers Are Freaks",
@@ -63001,6 +63148,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark 2",
+      "symbol": "$BTCSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bxui1LezmVUhS5P7oo8YcLx11E1EgLk4CUbkFDTSXKTm/logo.png",
+      "decimals": 9,
+      "address": "Bxui1LezmVUhS5P7oo8YcLx11E1EgLk4CUbkFDTSXKTm",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "Tu Dices",
@@ -83916,6 +84078,21 @@
       ]
     },
     {
+      "name": "BTCSEA Trademark BTSEA 2",
+      "symbol": "$BTSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FBUfMhucixFJEFUh4CrDH5h5RwzCZP6Cs5CD8XZcuioC/logo.png",
+      "decimals": 9,
+      "address": "FBUfMhucixFJEFUh4CrDH5h5RwzCZP6Cs5CD8XZcuioC",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "Krenium",
       "symbol": "KRENIUM",
       "logoURI": "https://raw.githubusercontent.com/playsoulstone/logos/main/krenium.png",
@@ -89916,6 +90093,21 @@
       "tags": [
         "Defi-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark BCSEA",
+      "symbol": "BCSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G2PYNu3XS3XQndSof5DffP4QPCzcJ35SAB6a3WuYEgvL/logo.png",
+      "decimals": 9,
+      "address": "G2PYNu3XS3XQndSof5DffP4QPCzcJ35SAB6a3WuYEgvL",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "BoseCoin",
