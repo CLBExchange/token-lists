@@ -39880,6 +39880,17 @@
       }
     },
     {
+      "name": "Family Fun Coin",
+      "symbol": "FUNCO",
+      "logoURI": "https://raw.githubusercontent.com/anymouse20/crypto/main/FUNC.png",
+      "decimals": 0,
+      "address": "8TZa4rcPSY5yFw3wLHDpVL6ASjrVbuBmQV5p18tmUcfW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "gm Groundhog Whitelist",
       "symbol": "GMGWH",
       "logoURI": "https://github.com/imentus-rahul/whitelist-token-registry/blob/main/logo.png",
@@ -56885,6 +56896,17 @@
       }
     },
     {
+      "name": "Drifting Hobo Coin",
+      "symbol": "HOBO",
+      "logoURI": "https://raw.githubusercontent.com/DriftingHobo/Crypto/main/DriftingHoboCoTokenImage.png",
+      "decimals": 0,
+      "address": "AwrdDfbE7CP69kpiEctdtE2YJvr42kKw3rXiCYgFJp85",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "PayPal",
       "symbol": "PYPL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AwutBmwmhehaMh18CxqFPPN311uCB1M2awp68A2bG41v/logo.svg",
@@ -61079,6 +61101,20 @@
       }
     },
     {
+      "name": "Bears Army Whitelist",
+      "symbol": "ARMYWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bcuzen8nWgPQH2wCKiZbB3R8HS5CCEN3hxVwTVPEATPg/logo.png",
+      "decimals": 0,
+      "address": "Bcuzen8nWgPQH2wCKiZbB3R8HS5CCEN3hxVwTVPEATPg",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/beararmy_"
+      }
+    },
+    {
       "name": "KahleoKoin",
       "symbol": "KHLO",
       "logoURI": "https://raw.githubusercontent.com/RoadRunner440/logo/main/logo.png",
@@ -63541,6 +63577,21 @@
         "twitter": "https://twitter.com/ThugTokens",
         "serumV3Usdc": "AgUSpr5zSppSY3Gdz8j1HeKZuyntd3Q9KkjkT2KcYsj"
       }
+    },
+    {
+      "name": "SPOT",
+      "symbol": "$SPOT",
+      "logoURI": "https://raw.githubusercontent.com/ViralCC/Spot/main/spot.jpg",
+      "decimals": 9,
+      "address": "BzwERW2s5brUYtt3jvobVQn64uxXYRrz81Yx6vYpJorE",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "dog-token",
+        "dog",
+        "nfts",
+        "meta"
+      ]
     },
     {
       "name": "MEIKAFI",
@@ -75514,6 +75565,18 @@
         "instagram": "https://www.instagram.com/void_dot_games",
         "telegram": "https://t.me/voidcommunitychat"
       }
+    },
+    {
+      "name": "UniPay",
+      "symbol": "UPAY",
+      "logoURI": "https://raw.githubusercontent.com/UniPayToken/coinlogo/main/pixil-frame-0%20(1).png",
+      "decimals": 0,
+      "address": "DjSiNBBFraAmd2mUHn6ScQaJgovNB6HxPUqSpherE77D",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     },
     {
       "name": "The Living Stone Church coin",
@@ -112184,6 +112247,25 @@
       "extensions": {
         "website": "https://cropper.finance/",
         "twitter": "https://twitter.com/CropperFinance"
+      }
+    },
+    {
+      "name": "Apolycapse Token",
+      "symbol": "POLY",
+      "logoURI": "https://raw.githubusercontent.com/Polycapse/assets/main/Poly%20log.png",
+      "decimals": 9,
+      "address": "rQKXfgBtTZTpywvZQdPGspUDvx2navMx2gmm3CXNsEN",
+      "chainId": 101,
+      "tags": [
+        "gaming-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://apolycapse.com/",
+        "twitter": "https://twitter.com/ApolycapseGame",
+        "discord": "https://discord.gg/3NtrDUC9",
+        "telegram": "https://t.me/apolycapsegame"
       }
     },
     {
