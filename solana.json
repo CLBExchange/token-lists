@@ -19522,6 +19522,22 @@
       }
     },
     {
+      "name": "Corrupted Token",
+      "symbol": "CRPT",
+      "logoURI": "https://raw.githubusercontent.com/thefalseshad0w/crpt-token-/main/5AHzHDUiamGAwiVs8pXJuJmigqJWopwtcp2voieL1oWP/crpt.png",
+      "decimals": 6,
+      "address": "5AHzHDUiamGAwiVs8pXJuJmigqJWopwtcp2voieL1oWP",
+      "chainId": 101,
+      "tags": [
+        "Community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://babychimps.xyz/",
+        "twitter": "https://twitter.com/Babychimps_nft"
+      }
+    },
+    {
       "name": "SuperKoin",
       "symbol": "SUPER",
       "logoURI": "https://raw.githubusercontent.com/supercjlee/crypto/main/logo.png",
@@ -83370,6 +83386,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Chela Token",
+      "symbol": "CHELA",
+      "logoURI": "https://raw.githubusercontent.com/metadanx/chela/main/logo.png",
+      "decimals": 0,
+      "address": "F2YCY4WQqZY6qAiSfmwM9bjdnVhRsZ4oYA5fk6vVNLQv",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
       ]
     },
     {
