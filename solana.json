@@ -11246,6 +11246,17 @@
       }
     },
     {
+      "name": "Honeydrop",
+      "symbol": "HNYDRP",
+      "logoURI": "https://github.com/kipland-m/Honeydrop/blob/master/logo.png?raw=true",
+      "decimals": 0,
+      "address": "3jb1kbPZjhFx9hdGE9CPs838B5UZDmrirbhw6aKMJmEA",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Mansour Family Coin",
       "symbol": "MANS",
       "logoURI": "https://raw.githubusercontent.com/mansourSaleh/mansCoins/main/logo.png",
@@ -32819,6 +32830,19 @@
         "social-token",
         "fantasy-football"
       ]
+    },
+    {
+      "name": "Synthetic DOGE",
+      "symbol": "xDOGE",
+      "logoURI": "https://www.synthetify.io/icons/xdoge.svg",
+      "decimals": 9,
+      "address": "7TEcMnoVJtZgpWCdnLu8X15bTtnt4J2zZyBxfV7i2uw7",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://synthetify.io/",
+        "twitter": "https://twitter.com/synthetify",
+        "coingeckoId": "dogecoin"
+      }
     },
     {
       "name": "Phork Token",
@@ -105336,6 +105360,17 @@
       }
     },
     {
+      "name": "Edinar",
+      "symbol": "EDIN",
+      "logoURI": "https://raw.githubusercontent.com/mrreith/edinar/main/logo.png",
+      "decimals": 0,
+      "address": "PkwrevuR6k3QHAdPUHWWhdqMmjgnHUvdSun9GJmsRvk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Pole Aggregator Governance Token",
       "symbol": "POLE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
@@ -114117,6 +114152,23 @@
       ]
     },
     {
+      "name": "Test USD Coin (LP Finance Devnet)",
+      "symbol": "tUSDC",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/USDC.png",
+      "decimals": 9,
+      "address": "2Q1WAAgnpEox5Y4b6Y8YyXVwFNhDdGot467XfvdBJaPf",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "website": "https://www.lp.finance",
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "GENS",
       "symbol": "GENS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2U3Mf4umT4CpLhhdwpfmGiktyvhdrLrNNv4z4GgsXNMe/logo.png",
@@ -116524,6 +116576,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Test Bitcoin (LP Finance Devnet)",
+      "symbol": "tBTC",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/47faa0410931bbdee2164773bffa906060c45c82/BTC.svg",
+      "decimals": 9,
+      "address": "Hv96pk4HkhGcbNxkBvb7evTU88KzedvgVy2oddBB1ySB",
+      "chainId": 103,
+      "tags": [
+        "wrapped"
+      ],
+      "extensions": {
+        "website": "https://www.lp.finance",
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
     },
     {
       "name": "Cinovos",
