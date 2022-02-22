@@ -40817,6 +40817,17 @@
       }
     },
     {
+      "name": "LibertCoin",
+      "symbol": "LBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ezfbtjtkHZPCqiLiSUbAr1eyVfRreNGwWFfXJRuhAu1/logo.png",
+      "decimals": 5,
+      "address": "8ezfbtjtkHZPCqiLiSUbAr1eyVfRreNGwWFfXJRuhAu1",
+      "chainId": 101,
+      "tags": [
+        "security-token"
+      ]
+    },
+    {
       "name": "LOKI",
       "symbol": "LOKI",
       "logoURI": "https://raw.githubusercontent.com/lokiandshrody/crypto/main/logo.png",
@@ -62116,6 +62127,17 @@
       }
     },
     {
+      "name": "KARBAR TOKEN",
+      "symbol": "KBT",
+      "logoURI": "https://raw.githubusercontent.com/Karbar97/crypto/main/logo-min.png",
+      "decimals": 0,
+      "address": "BqT6xtDKXewmNFhf7E2bT6uzJvdwXJupgSurrnj2zt2z",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Muniy",
       "symbol": "MNY",
       "logoURI": "https://github.com/londonprojects/muniycoin/blob/main/logo.png",
@@ -63362,6 +63384,14 @@
       "extensions": {
         "website": "https://respectfuldevelopmentpanama.com"
       }
+    },
+    {
+      "name": "SolPensions",
+      "symbol": "SOLP",
+      "logoURI": "https://raw.githubusercontent.com/solpensions/token-list/main/assets/mainnet/C4ug39iNuqRPzN6SWvbmwi8frSfbVdhmXLagJUic8akZ/logo.png",
+      "decimals": 4,
+      "address": "C4ug39iNuqRPzN6SWvbmwi8frSfbVdhmXLagJUic8akZ",
+      "chainId": 101
     },
     {
       "name": "PreSale CHARM Token",
@@ -78550,6 +78580,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Amazon Tree Coin",
+      "symbol": "AMZ3",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EJuWBuoFjnrjKcgcgmegimSqS6RCyAh99EwMFfT2oo5/logo.png",
+      "decimals": 9,
+      "address": "EJuWBuoFjnrjKcgcgmegimSqS6RCyAh99EwMFfT2oo5",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
