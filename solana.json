@@ -25959,6 +25959,17 @@
       ]
     },
     {
+      "name": "YardCoin",
+      "symbol": "YDWK",
+      "logoURI": "https://raw.githubusercontent.com/d-smith/notes/master/solana/shovels.png",
+      "decimals": 0,
+      "address": "6HzndwRRT1Eamf8pFZxikuFPHcRkp6457fUcxFACZK7H",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Princess Amy",
       "symbol": "AMY",
       "logoURI": "https://raw.githubusercontent.com/inghong06/logos/main/princess.png",
@@ -68208,6 +68219,20 @@
       ]
     },
     {
+      "name": "Friends and Family Council Token",
+      "symbol": "cFAF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cfafd52FfHRA5FRkTXmMNyHZfhNkbaHpZ12ggmeTVEMw/logo.png",
+      "decimals": 0,
+      "address": "Cfafd52FfHRA5FRkTXmMNyHZfhNkbaHpZ12ggmeTVEMw",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://find-and-update.company-information.service.gov.uk/company/13753949"
+      }
+    },
+    {
       "name": "Rafac",
       "symbol": "RFC",
       "logoURI": "https://raw.githubusercontent.com/rafac-io/crypto/main/logo.png",
@@ -84204,6 +84229,20 @@
       "extensions": {
         "website": "http://www.quantum-coin.co",
         "twitter": "https://twitter.com/quantumQTC"
+      }
+    },
+    {
+      "name": "Friends and Family Community Token",
+      "symbol": "FAF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAFDfoUkaxoMqiNur9F1iigdBNrXFf4uNmS5XrhMewvf/logo.png",
+      "decimals": 6,
+      "address": "FAFDfoUkaxoMqiNur9F1iigdBNrXFf4uNmS5XrhMewvf",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://find-and-update.company-information.service.gov.uk/company/13753949"
       }
     },
     {
@@ -101275,6 +101314,25 @@
       "chainId": 101
     },
     {
+      "name": "GLORIOUS TOKEN",
+      "symbol": "GLORY",
+      "logoURI": "https://raw.githubusercontent.com/GloriousXican/ASSETS/main/coin-sglory.png",
+      "decimals": 6,
+      "address": "HmXgJwUzWfuvCZzUkbzVKYGggjjbq6qy1meKpPitj7Xu",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://gloriousgeckos.com/",
+        "twitter": "https://twitter.com/GeckosNFT"
+      }
+    },
+    {
       "name": "Peacetache Coin",
       "symbol": "PEACE",
       "logoURI": "https://raw.githubusercontent.com/bozga-andrei/crypto/main/logo.png",
@@ -106470,6 +106528,23 @@
       }
     },
     {
+      "name": "Skeleton Crew",
+      "symbol": "SKULL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SKu11EypaFU3gvr8VSAbi13zEC2CPvqbz9s83N3tWHM/logo.png",
+      "decimals": 0,
+      "address": "SKu11EypaFU3gvr8VSAbi13zEC2CPvqbz9s83N3tWHM",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://skeletoncrew.rip/",
+        "twitter": "https://twitter.com/skeletoncrewrip",
+        "discord": "https://discord.gg/skeletoncrewrip"
+      }
+    },
+    {
       "name": "Saber Wrapped Ethereum (Sollet) (8 decimals)",
       "symbol": "sETH-8",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj/icon.png",
@@ -110073,6 +110148,21 @@
       ],
       "extensions": {
         "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "name": "May 1 JFI Call",
+      "symbol": "JFICALL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/etCPUaMghWobVwxug5Vgxb6r3A7DEBdLKUywrnDrJeZ/logo.png",
+      "decimals": 0,
+      "address": "etCPUaMghWobVwxug5Vgxb6r3A7DEBdLKUywrnDrJeZ",
+      "chainId": 101,
+      "tags": [
+        "option-contract"
+      ],
+      "extensions": {
+        "website": "https://psyoptions.io/",
+        "description": "Psyoptions call option on the Jungle Finance token."
       }
     },
     {
@@ -115950,6 +116040,21 @@
       ],
       "extensions": {
         "website": "http://veracurrency.com"
+      }
+    },
+    {
+      "name": "GaGoats NFT Whitelist Token",
+      "symbol": "GAGO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWWjhM7bKQQGTJNbPGTfMYBdM8WkKgrePufgUKXzHqne/logo.png",
+      "decimals": 0,
+      "address": "CWWjhM7bKQQGTJNbPGTfMYBdM8WkKgrePufgUKXzHqne",
+      "chainId": 103,
+      "tags": [
+        "gagoats-nft",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GaGoatsNFT"
       }
     },
     {
