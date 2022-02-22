@@ -861,6 +861,24 @@
       }
     },
     {
+      "name": "Sol Visitors Beacon",
+      "symbol": "BEACON",
+      "logoURI": "https://raw.githubusercontent.com/gserafini/solvisitors/main/coin.png",
+      "decimals": 0,
+      "address": "24GFfEuzkowwZTZubpATywEhNYBqvPyAwmgRjBesEM4q",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solvisitors.com/",
+        "twitter": "https://twitter.com/SolVisitors",
+        "discord": "https://discord.gg/TF7zW5q9Ur",
+        "description": "Beacon is a utility token used in the Sol Visitors universe.",
+        "instagram": "https://www.instagram.com/solvisitors/"
+      }
+    },
+    {
       "name": "Solana Jindo Inu",
       "symbol": "JINDO",
       "logoURI": "https://cdn.jsdelivr.net/gh/soljindo/main/soljindoinulogo.png",
@@ -16603,6 +16621,21 @@
       }
     },
     {
+      "name": "BTCSEA Trademark SEAB",
+      "symbol": "SEAB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4g2V1EznZfv87Hip8XYGmtT59CKZEvwJUnde8HXAGL9z/logo.png",
+      "decimals": 9,
+      "address": "4g2V1EznZfv87Hip8XYGmtT59CKZEvwJUnde8HXAGL9z",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "HaleTownCoin",
       "symbol": "HTC",
       "logoURI": "https://raw.githubusercontent.com/j0hnboy75067/crypto2/main/Haletowncoinlogo.png",
@@ -23966,6 +23999,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark SEABT 2",
+      "symbol": "$SEABT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5wH8pmmyfFXJ95gWHC7MZpbJ4WjigKM2g2hiny6ckkCo/logo.png",
+      "decimals": 9,
+      "address": "5wH8pmmyfFXJ95gWHC7MZpbJ4WjigKM2g2hiny6ckkCo",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "Rehab",
@@ -58435,6 +58483,21 @@
       }
     },
     {
+      "name": "BTCSEA Trademark SEABC 2",
+      "symbol": "$SEABC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEq1jCvCUNETAEhhz2txCVKzRXzKPwCK1GmbnoSxbCNq/logo.png",
+      "decimals": 9,
+      "address": "BEq1jCvCUNETAEhhz2txCVKzRXzKPwCK1GmbnoSxbCNq",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "Pook",
       "symbol": "POOK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEya3zocofJYvAN8oSsoNgxkXQN9HwL1ShU4tdHjRsqL/logo.png",
@@ -81676,6 +81739,21 @@
       ]
     },
     {
+      "name": "BTCSEA Trademark SEABT",
+      "symbol": "SEABT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/En5yRm9njDZBVZn1mHdRrWv9UgxrHmF53MwgaF28eEe6/logo.png",
+      "decimals": 9,
+      "address": "En5yRm9njDZBVZn1mHdRrWv9UgxrHmF53MwgaF28eEe6",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_FFCB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EnC3T8r4ghh2Ck6dh9Ry5eXVPFi6WvxBZV7ZCcK8HtKr/logo.png",
@@ -90478,6 +90556,21 @@
       }
     },
     {
+      "name": "BTCSEA Trademark BCSEA 2",
+      "symbol": "$BCSEA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G6F2CBnm4zWb4QieAZkgw83Y19bMv3sBGMQjxt3Z62Qs/logo.png",
+      "decimals": 9,
+      "address": "G6F2CBnm4zWb4QieAZkgw83Y19bMv3sBGMQjxt3Z62Qs",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
+    },
+    {
       "name": "FamiLees",
       "symbol": "ORO",
       "logoURI": "https://raw.githubusercontent.com/arain11/crp/main/logo.png",
@@ -98390,6 +98483,21 @@
         "website": "https://godznft.com/",
         "twitter": "https://twitter.com/nft_godz",
         "discord": "https://discord.gg/C4WG3YZCbN"
+      }
+    },
+    {
+      "name": "BTCSEA Trademark SEABC",
+      "symbol": "SEABC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMJKrgLEsQKy4usVDWQRBABReBf9e9YLyxEk3TJEi6XJ/logo.png",
+      "decimals": 9,
+      "address": "HMJKrgLEsQKy4usVDWQRBABReBf9e9YLyxEk3TJEi6XJ",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
       }
     },
     {
@@ -110833,6 +110941,21 @@
         "De-Mu",
         "music-token"
       ]
+    },
+    {
+      "name": "BTCSEA Trademark SEAB 2",
+      "symbol": "$SEAB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mgJgz62i7d1iXK8ugT6a8XewrWo4s3QxcZt8pnzFtpr/logo.png",
+      "decimals": 9,
+      "address": "mgJgz62i7d1iXK8ugT6a8XewrWo4s3QxcZt8pnzFtpr",
+      "chainId": 101,
+      "tags": [
+        "btcnftsea-io",
+        "trademark"
+      ],
+      "extensions": {
+        "website": "https://btcnftsea.io/"
+      }
     },
     {
       "name": "KishhKoin",
