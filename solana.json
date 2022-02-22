@@ -85264,6 +85264,20 @@
       ]
     },
     {
+      "name": "SOI Finance",
+      "symbol": "SOI",
+      "logoURI": "https://soi.ink/soi-token-logo.png",
+      "decimals": 9,
+      "address": "FKckG972VE5yGEsHLwL9MfGEXTaYTvEn9KZ4Qf22dTgc",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://soi.ink"
+      }
+    },
+    {
       "name": "HARVEST",
       "symbol": "HVT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKkAyqqbcrSQiizKmNEFz64VWVct4H5VgFfJ7JA9wYY2/logo.png",
