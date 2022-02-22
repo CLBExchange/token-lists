@@ -32298,6 +32298,17 @@
       ]
     },
     {
+      "name": "Araucaria",
+      "symbol": "ARAUC",
+      "logoURI": "https://raw.githubusercontent.com/ffurtuoso/tree/main/token/araucaria.png",
+      "decimals": 9,
+      "address": "7M1E2H2nYZRnFApXmqJiX2hXYBnXh4PEFaUvcnrTgQ3J",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "TIS token",
       "symbol": "TIS",
       "logoURI": "https://raw.githubusercontent.com/KrisztianZagonyiTis/TISlogo/main/logo.png",
@@ -37923,6 +37934,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Cropper LP token (CRP/SOL)",
+      "symbol": "CRP/SOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Da82KXrqcUnv9oRcoKKUYRWM2yjPesi31GmrgMjZZ6h/logo.png",
+      "decimals": 8,
+      "address": "8C3CwsUB1ePoWrgxJ2wd76D9byGWviYuK1gcfSTNUbnV",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://cropper.finance/",
+        "twitter": "https://twitter.com/CropperFinance"
+      }
     },
     {
       "name": "Squirt Coin",
@@ -81753,6 +81779,18 @@
         "website": "https://graef.io/",
         "github": "https://github.com/segraef"
       }
+    },
+    {
+      "name": "Good Job Token",
+      "symbol": "GDJ",
+      "logoURI": "https://raw.githubusercontent.com/biogwen/goodjob/main/Done.png",
+      "decimals": 5,
+      "address": "EmaXkycuar2Ve2uXx6o1Gq5PVM3uPDuxaotW892VHxr4",
+      "chainId": 101,
+      "tags": [
+        "Community-token",
+        "utility-token"
+      ]
     },
     {
       "name": "BISCUITS",
