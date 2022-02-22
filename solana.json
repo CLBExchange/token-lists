@@ -2676,6 +2676,14 @@
       ]
     },
     {
+      "name": "M-test",
+      "symbol": "MT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2MpDzukPY4UEhrPVQFXWXKw5UMJZvhYjmsEqeNLkTxzQ/MT.png",
+      "decimals": 9,
+      "address": "2MpDzukPY4UEhrPVQFXWXKw5UMJZvhYjmsEqeNLkTxzQ",
+      "chainId": 101
+    },
+    {
       "name": "Wubba Inc Coin",
       "symbol": "WINC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2N79onHLPU2R3s1WGM9n7L2ABCk18CouP83mnbLpBEux/logo.png",
@@ -17819,6 +17827,17 @@
       "extensions": {
         "website": "https://woken-token.github.io/solanka-coin/"
       }
+    },
+    {
+      "name": "Fenix Coin",
+      "symbol": "A1C",
+      "logoURI": "https://raw.githubusercontent.com/Jacobb0319/cryptologo/main/A1CLogo.png",
+      "decimals": 0,
+      "address": "4qr4rD2w47LC2aYj1Dd1sjmEcf4r9VXLB3jvZYvu225i",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Fatura Coin",
@@ -68746,6 +68765,24 @@
       ],
       "extensions": {
         "website": "http://exp.trading/coase"
+      }
+    },
+    {
+      "name": "NEO-NINJA MINT TICKET",
+      "symbol": "NNTICKET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CkTT6bUw9DWtnrkhJmUPTgWB9TvVy4sHgX3mmFNw1v1C/logo.png",
+      "decimals": 0,
+      "address": "CkTT6bUw9DWtnrkhJmUPTgWB9TvVy4sHgX3mmFNw1v1C",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "social-token",
+        "NFTs",
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://neo.ninjaprotocol.io/"
       }
     },
     {
