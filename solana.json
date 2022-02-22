@@ -27082,6 +27082,22 @@
       ]
     },
     {
+      "name": "IMMORTAL Token",
+      "symbol": "IMMORTAL",
+      "logoURI": "https://raw.githubusercontent.com/DemonKingdomNFT/DemonKingdomN/main/DemonKingdomPFP.jpg",
+      "decimals": 9,
+      "address": "6VnsFohk6CQbaXoPTiQr5bHruEnuCqg94iwmnwrUj72M",
+      "chainId": 101,
+      "tags": [
+        "Community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://demonkingdom.com/",
+        "twitter": "https://twitter.com/demonkingdomnft"
+      }
+    },
+    {
       "name": "MUTT",
       "symbol": "MUTT",
       "logoURI": "https://arweave.net/YKl53d9y6oMzXfdCHugq49avMgRF3Y8etWRliDXZUWw",
@@ -78569,8 +78585,11 @@
       "extensions": {
         "website": "http://www.avocadocoin.com",
         "twitter": "https://twitter.com/avocadocoin",
+        "coingeckoId": "avocadocoin",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/avocadocoin/",
         "facebook": "https://www.facebook.com/avocadocoins/",
         "instagram": "https://www.instagram.com/avocadocoin",
+        "telegram": "https://t.me/AvocadoCoinOfficial",
         "youtube": "https://www.youtube.com/channel/UCnMds055w0M3-_4GDjJsUKw"
       }
     },
@@ -92292,6 +92311,17 @@
       ]
     },
     {
+      "name": "Frost",
+      "symbol": "FROST",
+      "logoURI": "https://raw.githubusercontent.com/nooballday8/tatocrypto/main/Frost.PNG",
+      "decimals": 0,
+      "address": "GKbCjKB7jLjUiSHPReXA6c7VkSRRt4iMeGqTqrSBMkPA",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Rawr Coin",
       "symbol": "RAWR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GKid2eL5bswPDvV4udcYpmuhBpE76a8AezniQV1HZ8CS/logo.png",
@@ -96061,6 +96091,24 @@
       "extensions": {
         "website": "https://fable.finance",
         "twitter": "https://twitter.com/fable_finance"
+      }
+    },
+    {
+      "name": "STRAY",
+      "symbol": "STY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GurTvmWDmaZmUTqMFsctZaKGVPocbDXyrT6UJiT5YR9X/Logo.png",
+      "decimals": 0,
+      "address": "GurTvmWDmaZmUTqMFsctZaKGVPocbDXyrT6UJiT5YR9X",
+      "chainId": 101,
+      "tags": [
+        "gaming-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://strayapesnft.com",
+        "twitter": "https://twitter.com/StrayApesNFT",
+        "discord": "https://discord.gg/strayapes"
       }
     },
     {
@@ -108470,6 +108518,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "MateysDAO 2/22 Whitelist token",
+      "symbol": "matE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLmzvH6aA31vA8hZ1bptVemSoiBc8fm6J4LRXzHZmCF/icon.png",
+      "decimals": 0,
+      "address": "WLmzvH6aA31vA8hZ1bptVemSoiBc8fm6J4LRXzHZmCF",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "whitelist"
       ]
     },
     {
