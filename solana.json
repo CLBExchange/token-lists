@@ -89902,6 +89902,26 @@
       ]
     },
     {
+      "name": "MetaHeaven Coin",
+      "symbol": "MHV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FvBZo7dEFasSB9vottYnuLvLy3br5pkbC1NXDdCVa4wQ/logo.png",
+      "decimals": 9,
+      "address": "FvBZo7dEFasSB9vottYnuLvLy3br5pkbC1NXDdCVa4wQ",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "metaheaven",
+        "NFT",
+        "metagod",
+        "metaheaven-coin",
+        "crypto"
+      ],
+      "extensions": {
+        "website": "https://metaheaven.land/",
+        "twitter": "https://twitter.com/metaheaven_"
+      }
+    },
+    {
       "name": "SVRY Coin",
       "symbol": "SVRY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FvHys7nD2kZMfk4DaNJwWTbQVdhFDkCP45tfsf5ZFgjX/logo.png",
@@ -102900,6 +102920,23 @@
         "twitter": "https://twitter.com/radiolazyclub1",
         "discord": "https://discord.com/invite/5jxtVqaG",
         "description": "Radio is the official token of Radio Lazy Club"
+      }
+    },
+    {
+      "name": "Drifting Hobo Co Token",
+      "symbol": "DHCO",
+      "logoURI": "https://raw.githubusercontent.com/DriftingHobo/Newcrypto/main/DHCOLogo.png",
+      "decimals": 0,
+      "address": "J47E3RbXNsUmFzYryWgjnVdTKqeTARW55NwYRVYZmQxm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.thedriftinghobo.com/",
+        "twitter": "https://twitter.com/DriftingHoboCo",
+        "facebook": "https://www.facebook.com/DriftingHoboCo/",
+        "instagram": "https://www.instagram.com/driftinghoboco/"
       }
     },
     {
