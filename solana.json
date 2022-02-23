@@ -20850,6 +20850,17 @@
       "chainId": 101
     },
     {
+      "name": "Camarena Coin",
+      "symbol": "CALEE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5PT5nXyWVnBH887PAGiCk95fEjgjRhkY5BjhgKNcTDdJ/logo.png",
+      "decimals": 9,
+      "address": "5PT5nXyWVnBH887PAGiCk95fEjgjRhkY5BjhgKNcTDdJ",
+      "chainId": 101,
+      "tags": [
+        "reasearch-token"
+      ]
+    },
+    {
       "name": "MANA Token",
       "symbol": "MANA",
       "logoURI": "https://raw.githubusercontent.com/Hotel-Six/Mana-Token/main/Logo.png",
@@ -28209,6 +28220,14 @@
       "extensions": {
         "website": "https://www.catchcoin.me/"
       }
+    },
+    {
+      "name": "Mulk Token",
+      "symbol": "MULKT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6dsacPDwBFppyBeybCqfEJ2zqkiFfwDPFtoRPsK9Zw5/logo.png",
+      "decimals": 2,
+      "address": "6dsacPDwBFppyBeybCqfEJ2zqkiFfwDPFtoRPsK9Zw5",
+      "chainId": 101
     },
     {
       "name": "Majesty",
@@ -70328,6 +70347,22 @@
       }
     },
     {
+      "name": "Eucalyptus",
+      "symbol": "EUCALYPTUS",
+      "logoURI": "https://raw.githubusercontent.com/KoalaHeroes/Cloud/bf5e2d5e61c386055e5fd28b97f2c77a55541c0a/ELogo.png",
+      "decimals": 2,
+      "address": "Cutm64TvBg4iWyao4tCZvNp8urMWhtTPhWxsbdwykuDn",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://koalaheroes.com"
+      }
+    },
+    {
       "name": "Smart Cow Token",
       "symbol": "SCOW",
       "logoURI": "https://cdn.jsdelivr.net/gh/KingsFourze/SmartCowToken@main/logo.png",
@@ -80155,6 +80190,14 @@
         "currency",
         "game-token"
       ]
+    },
+    {
+      "name": "USD stablecoin",
+      "symbol": "USD-T",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EQTyTPidQAoGJBRYS4mLpS8ej5sZrdt5TziRgwDkoVXX/logo.png",
+      "decimals": 9,
+      "address": "EQTyTPidQAoGJBRYS4mLpS8ej5sZrdt5TziRgwDkoVXX",
+      "chainId": 101
     },
     {
       "name": "Uleborn",
