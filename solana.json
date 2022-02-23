@@ -36572,7 +36572,10 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7yUFhJy4R2b3RLGqbB9JAHuN3kFw4DZyHLagSyRGEc71/logo.jpg",
       "decimals": 9,
       "address": "7yUFhJy4R2b3RLGqbB9JAHuN3kFw4DZyHLagSyRGEc71",
-      "chainId": 101
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.dynamic-warriors.com/"
+      }
     },
     {
       "name": "Coin98 Community Token",
@@ -50034,17 +50037,6 @@
       }
     },
     {
-      "name": "Metaballs Token",
-      "symbol": "Metaballs",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV/logo.png",
-      "decimals": 3,
-      "address": "A3Es8eAwmpoBHCsNwWC65s7nHrjYWQikGRARYJ34iThV",
-      "chainId": 101,
-      "tags": [
-        "NFT"
-      ]
-    },
-    {
       "name": "Luck",
       "symbol": "LCK",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lck-logo.png",
@@ -56758,7 +56750,7 @@
     {
       "name": "Prayer Token",
       "symbol": "PRAY",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AumBLHWYFrPsJn1yPj12XmTq19v4W8573zQ3Ja9zNm5v/praytoken.png",
+      "logoURI": "https://raw.githubusercontent.com/loktar00/prayertoken/master/praytoken.png",
       "decimals": 0,
       "address": "AumBLHWYFrPsJn1yPj12XmTq19v4W8573zQ3Ja9zNm5v",
       "chainId": 101,
@@ -61335,6 +61327,17 @@
       }
     },
     {
+      "name": "SunnySideUp Event Token",
+      "symbol": "AHA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BezfkxAoSXhTpdx2nuU5CoPVmVgmjNKAL4YThpY92VGw/logo.png",
+      "decimals": 9,
+      "address": "BezfkxAoSXhTpdx2nuU5CoPVmVgmjNKAL4YThpY92VGw",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Give",
       "symbol": "GIVE",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Give.png",
@@ -63220,14 +63223,6 @@
       "tags": [
         "social-token"
       ]
-    },
-    {
-      "name": "MetaMalls Token",
-      "symbol": "MetaBalls",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BvKybzGCJCGjXuhjcokbEZ5SPstsU8NoFjFnPabmni6S/logo.png",
-      "decimals": 9,
-      "address": "BvKybzGCJCGjXuhjcokbEZ5SPstsU8NoFjFnPabmni6S",
-      "chainId": 101
     },
     {
       "name": "YouBaby Coin",
@@ -67091,7 +67086,7 @@
     {
       "name": "Lazy Token",
       "symbol": "LAZY",
-      "logoURI": "https://github.com/KingpinFisk/lazytoken/blob/main/logo.png",
+      "logoURI": "https://arweave.net/-eAPfd93Q3-JeZ5dLyr5PfXo0TgC5n0ufI-LuFwxpcQ",
       "decimals": 9,
       "address": "CVoDGyg8cUebjpHUb7N7r32sg2gawXRG7JNQNqJFTAGR",
       "chainId": 101,
@@ -69423,6 +69418,7 @@
       "extensions": {
         "website": "https://konstellation.tech/",
         "medium": "https://konstellation.medium.com/",
+        "coingeckoId": "darcmatter-coin",
         "imageUrl": "https://raw.githubusercontent.com/Konstellation/DARC_token/main/256darctoken.png",
         "description": "Konstellation is a decentralized cross-chain capital markets protocol built on Cosmos. It is aimed to efficiently connect funds and the various components of the asset management industry with investors. Konstellation intends to be the financial services industry hub for Cosmos and other blockchain ecosystems through strategic inter-blockchain communications. The network is powered by DARC tokens, which are required for the Konstellation network’s governance and transactions.",
         "facebook": "https://www.facebook.com/Konstellation.tech/",
@@ -81198,6 +81194,31 @@
       }
     },
     {
+      "name": "POOOPY ",
+      "symbol": "$POOOOPY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EeHA7rkU2LauYCG8P6HJMTJq4qG38EokMfa6hDRDmdZt/logo.png",
+      "decimals": 0,
+      "address": "EeHA7rkU2LauYCG8P6HJMTJq4qG38EokMfa6hDRDmdZt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://google.com"
+      }
+    },
+    {
+      "name": "CRAFT COIN",
+      "symbol": "CRAFT",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/craft-token.png",
+      "decimals": 9,
+      "address": "EeLpRX4pgS4zPTQQfoHqqhBvoLzL83wPExmQoG5e1hnb",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "HEPENG",
       "symbol": "HEPG",
       "logoURI": "https://raw.githubusercontent.com/andiesanchez/crypto/main/HepengToken.png",
@@ -84109,6 +84130,17 @@
       ]
     },
     {
+      "name": "gib basc tigur",
+      "symbol": "GIBT",
+      "logoURI": "https://raw.githubusercontent.com/SolPatrol/SolPatrol/main/dab-island.png",
+      "decimals": 9,
+      "address": "F83hqnjNA2g6RZBPUovAA7n3U2CVnmxzacBcv9WJgirD",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "BTCNFT Trademark BITN",
       "symbol": "BITN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F8hWTmvFrXFK8V6HRS5CEvrHa5rMLbahTBsfnLqr2FRc/logo.png",
@@ -85191,6 +85223,20 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "PlebCoin",
+      "symbol": "PLEBCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH/PlebCoin.png",
+      "decimals": 9,
+      "address": "FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "A coin that Plebs can spend"
+      }
     },
     {
       "name": "Cyber Tribe Whitelist Token",
@@ -108967,7 +109013,7 @@
     {
       "name": "DireWolf",
       "symbol": "DIRE",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb/Direlogo.png",
       "decimals": 9,
       "address": "WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb",
       "chainId": 101,
@@ -116658,20 +116704,6 @@
       "tags": [
         "CHERRY"
       ]
-    },
-    {
-      "name": "PlebCoin",
-      "symbol": "PLEBCOIN",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH/PlebCoin.png",
-      "decimals": 9,
-      "address": "FGr4QMQBWju7tA373pLdH8q8kRpA4uSzwE4f63NGryqH",
-      "chainId": 103,
-      "tags": [
-        "social-token"
-      ],
-      "extensions": {
-        "description": "A coin that Plebs can spend"
-      }
     },
     {
       "name": "Inferno",
