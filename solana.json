@@ -35276,6 +35276,27 @@
       }
     },
     {
+      "name": "Booty Farm",
+      "symbol": "BOOTY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ/booty-logo.png",
+      "decimals": 9,
+      "address": "7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "NSFW",
+        "yield-farming",
+        "web3"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BootyFarmLive",
+        "medium": "https://medium.com/@bootyfarmxxx",
+        "discord": "https://discord.gg/aqKXxuVY7x",
+        "serumV3Usdc": "EHv2AXZuCapqseZCqRwzeJcVDgctzcuGu4JwRZenEv5g"
+      }
+    },
+    {
       "name": "Black Coin",
       "symbol": "BLC",
       "logoURI": "https://raw.githubusercontent.com/onahMo/crypt/main/logo.png",
@@ -47326,6 +47347,14 @@
         "website": "https://www.eggplantparty.com",
         "twitter": "https://twitter.com/theeggplantNFT"
       }
+    },
+    {
+      "name": "Vivian's New Tokens",
+      "symbol": "VIVE",
+      "logoURI": "https://raw.githubusercontent.com/saibaneer/solana-token/master/logo.jpg",
+      "decimals": 0,
+      "address": "9ceUNLrZa1D4zGrj7NaT2gh7FnBUmeBLf1MtXbqSRN3c",
+      "chainId": 101
     },
     {
       "name": "Belette",
@@ -63476,6 +63505,17 @@
       "extensions": {
         "twitter": "https://twitter.com/SolbotsDAO"
       }
+    },
+    {
+      "name": "Kitetoken",
+      "symbol": "Kito",
+      "logoURI": "https://raw.githubusercontent.com/jseras07/token/main/kitetok.png",
+      "decimals": 0,
+      "address": "BwPTX854gNfV4pyig33BVedPh2wAya5h3XvfC1Lc2wBh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Nairacoin",
