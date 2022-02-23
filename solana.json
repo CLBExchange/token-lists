@@ -59502,6 +59502,22 @@
       }
     },
     {
+      "name": "Blobbolution WL Token",
+      "symbol": "BLOBB",
+      "logoURI": "https://cdn.discordapp.com/attachments/754741118566137929/946037034269671444/Twitter_Discord_Profile_Picture_small.png",
+      "decimals": 0,
+      "address": "BLoBgdr2W7YEgzPioUbThYQwSFsaU7nPtFAgCQByM1gC",
+      "chainId": 101,
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://blobbolution.com/",
+        "twitter": "https://twitter.com/Blobbolution",
+        "discord": "https://discord.gg/2zx2EHTXBM"
+      }
+    },
+    {
       "name": "Convex Token (Wormhole)",
       "symbol": "CVX",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz/logo.png",
@@ -92451,6 +92467,17 @@
       }
     },
     {
+      "name": "OGPill",
+      "symbol": "$OGPILL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn/logo.png",
+      "decimals": 0,
+      "address": "GGe5nmdfJChxieXG9QUr94yLzgbAgV2ezrwbAgRjU3Hm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "AumKara",
       "symbol": "AUM",
       "logoURI": "https://github.com/ppbrahm/crypto/blob/main/logo.png",
@@ -109092,6 +109119,17 @@
         "twitter": "https://twitter.com/brainyapegang",
         "discord": "https://discord.gg/ptA8qAp7Gf"
       }
+    },
+    {
+      "name": "Pill",
+      "symbol": "$PILL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn/logo.png",
+      "decimals": 0,
+      "address": "WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "WLPrototype",
