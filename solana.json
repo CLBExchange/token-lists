@@ -4719,6 +4719,17 @@
       }
     },
     {
+      "name": "Make You Rich",
+      "symbol": "MYR",
+      "logoURI": "https://github.com/Soumya-Shekhar/Crypto/blob/main/logo.png",
+      "decimals": 6,
+      "address": "2mHdf1SxL39mmFLPHWKAwH1DQDhMNqfjA5v6qrV9MBCW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_4E5A",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2mJ63AfLKHn7eiqtQNgG2tGW78wBZbaHceouiyww8yEK/logo.png",
@@ -57452,6 +57463,25 @@
       }
     },
     {
+      "name": "MEGC-Ticket",
+      "symbol": "MEGC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B1N2zdRZn6FMCPsGjsB4cpmiygCoCcMedwjntrfvBPJ2/MEGCTicket.png",
+      "decimals": 0,
+      "address": "B1N2zdRZn6FMCPsGjsB4cpmiygCoCcMedwjntrfvBPJ2",
+      "chainId": 101,
+      "tags": [
+        "whitelist",
+        "megc",
+        "invite",
+        "monkey"
+      ],
+      "extensions": {
+        "website": "https://www.monkeygolfclub.com/",
+        "twitter": "https://twitter.com/MonkeyGolfClub",
+        "discord": "https://discord.gg/tkqe7RX4bb"
+      }
+    },
+    {
       "name": "DillyMacko",
       "symbol": "DMAC",
       "logoURI": "https://raw.githubusercontent.com/Dmac500/Crypto-/main/pic.png",
@@ -106851,6 +106881,20 @@
         "website": "https://app.saber.so",
         "coingeckoId": "bitcoin"
       }
+    },
+    {
+      "name": "BREECOIN",
+      "symbol": "BREE",
+      "logoURI": "https://raw.githubusercontent.com/notmafiosa/crypto/main/IMG_3189.jpg",
+      "decimals": 0,
+      "address": "SBbDNNbqGBtxuHDr9kjzxewwABYxmZq9NSSjyk25W3K",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "metaverse"
+      ]
     },
     {
       "name": "Sporting CP Fan Token",
