@@ -32776,6 +32776,17 @@
       ]
     },
     {
+      "name": "Face",
+      "symbol": "Face",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7QKhKEnUwx6icJotjh9qtC61EK9WpiXNrmMTPQw8AgSj/logo.png",
+      "decimals": 9,
+      "address": "7QKhKEnUwx6icJotjh9qtC61EK9WpiXNrmMTPQw8AgSj",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/longfacepunkz"
+      }
+    },
+    {
       "name": "AKELA",
       "symbol": "AKELA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7QTcx3LuVfPSZxVzFJcTmbpQCL35jkfoNSzx4qouX495/logo.svg",
@@ -80288,6 +80299,20 @@
       }
     },
     {
+      "name": "CRM",
+      "symbol": "CRM",
+      "logoURI": "https://raw.githubusercontent.com/iiizzzyyy/crm/main/logo.png",
+      "decimals": 9,
+      "address": "ESCrFrmy96EFyZQCEV1YPpCAqrbwGpy62yWU6cGXgtb4",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "INDCLOUDS COIN",
       "symbol": "INDC",
       "logoURI": "https://github.com/Git-Indclouds/cloud-engine/blob/e416de0263be6d9293d3ae01c0bc9d1a2f2c3c3e/Assets/mainnet/logosizedd.png?raw=true",
@@ -94189,6 +94214,14 @@
       "chainId": 101
     },
     {
+      "name": "AF Gold Ticket",
+      "symbol": "AFGT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWLFW6c6WtAyJZFSqbxaSr351H9s6Dskd44yQUtonWWq/logo.png",
+      "decimals": 0,
+      "address": "GWLFW6c6WtAyJZFSqbxaSr351H9s6Dskd44yQUtonWWq",
+      "chainId": 101
+    },
+    {
       "name": "Maho Genies Whitelist Token",
       "symbol": "MGWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWLT3Dh8MvXPD2iCCMCvxrbmVp2zNmyFBpyDpTZBq4Fi/logo.png",
@@ -107559,6 +107592,14 @@
         "serumV3Usdc": "8zPVSrun5AnePjXWjC4EgMdBaLdHtkSUtYbFNobzQHRN",
         "coingeckoId": "swanlana"
       }
+    },
+    {
+      "name": "AF Silver Ticket",
+      "symbol": "AFST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SWLmRezJbWb8SJKkHHAbGDfXneCWprXxc8iDNXBhM5q/logo.png",
+      "decimals": 0,
+      "address": "SWLmRezJbWb8SJKkHHAbGDfXneCWprXxc8iDNXBhM5q",
+      "chainId": 101
     },
     {
       "name": "anymous3",
