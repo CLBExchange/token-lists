@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-23T00:46:11.358Z",
+  "timestamp": "2022-02-23T01:36:33.033Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -176,7 +176,7 @@
     {
       "name": "Saber Wrapped Test WBTC (8 decimals)",
       "symbol": "sWBTC-8",
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/bitcoin/info/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/devnet/BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs/icon.png",
       "decimals": 8,
       "address": "BtceyXMo5kwg8u6es4NoukBWQuMwtcBCZpFWUfZgVuZs",
       "chainId": 103,
@@ -186,7 +186,6 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
-        "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
         ],
