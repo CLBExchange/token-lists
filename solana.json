@@ -40097,6 +40097,17 @@
       }
     },
     {
+      "name": "SPACCOIN",
+      "symbol": "SPCO",
+      "logoURI": "https://raw.githubusercontent.com/spaccoin1/SPACCOIN/main/spaccoin.png",
+      "decimals": 0,
+      "address": "8VLj4dYPEQSsQBcbopjBiwdStUUpVUkcLmUa5qWHE7AW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Japko Coin",
       "symbol": "JPKC",
       "logoURI": "https://raw.githubusercontent.com/maxisycode/crypto/main/japkocoin.jpg",
@@ -79948,6 +79959,20 @@
       }
     },
     {
+      "name": "ROAR",
+      "symbol": "ROAR",
+      "logoURI": "https://arweave.net/WPbvoC2Wx2obrPtJtMYLpenZqz31KJClHTSxGpcqesw",
+      "decimals": 9,
+      "address": "ES6xz8FR8a5fP31ePeeKGR7HcgtzjQAQdHfGmcR3Uer7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LostLionsNFT"
+      }
+    },
+    {
       "name": "INDCLOUDS COIN",
       "symbol": "INDC",
       "logoURI": "https://github.com/Git-Indclouds/cloud-engine/blob/e416de0263be6d9293d3ae01c0bc9d1a2f2c3c3e/Assets/mainnet/logosizedd.png?raw=true",
@@ -115929,6 +115954,17 @@
       "extensions": {
         "website": "https://devbeta.human.ag/address/HtnWUzGEAdi8c77T33wFbyZgw3s7ihr9bZMHD47q2u3j?src=token-list"
       }
+    },
+    {
+      "name": "SoBe",
+      "symbol": "SOBE",
+      "logoURI": "https://github.com/MattyMonk/sobe-swap/blob/master/sobe%20swap%20logo.png",
+      "decimals": 9,
+      "address": "BTyZwy5VVWBrgnppQR2wzmZeBwyct7EkTbuGt4L4epe8",
+      "chainId": 103,
+      "tags": [
+        "whitelist"
+      ]
     },
     {
       "name": "UST (devnet)",
