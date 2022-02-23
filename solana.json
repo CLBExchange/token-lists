@@ -21908,6 +21908,17 @@
       ]
     },
     {
+      "name": "Primate Academy",
+      "symbol": "PRIM",
+      "logoURI": "https://raw.githubusercontent.com/Phnmz/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "5Z8JqL2kaGYT7cPaxSoCPT18pKmRudxVNHV3ny6qyNXW",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "CFT Token",
       "symbol": "TCFT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5ZDkTmkX7z1VEufQHrkY3M4k1w1H8iEc7MvyePNSotZ8/logo.png",
@@ -28307,6 +28318,23 @@
       }
     },
     {
+      "name": "QUACK",
+      "symbol": "QUACK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GP9zY2D8CgMreoUdYQjyn7Fo7XCq9ubVnX3u4ot1wpgt/logo.png",
+      "decimals": 9,
+      "address": "6frkvZf72wiz3uqRWhBqLftNU4PS6XXYCoNrW9P4CFdK",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://duckpatrol.io/",
+        "twitter": "https://twitter.com/DuckPatrolNFT"
+      }
+    },
+    {
       "name": "PotCoin",
       "symbol": "POT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6g1VPx4L1U69qkAcQyRh9b9UtsT7FboA4maeBb62fCY4/logo.png",
@@ -31587,6 +31615,23 @@
       "chainId": 101,
       "extensions": {
         "website": "https://straitsx.com"
+      }
+    },
+    {
+      "name": "Chud Coin",
+      "symbol": "CHUD",
+      "logoURI": "https://raw.githubusercontent.com/rolandstudios/CHUD/main/logo.png",
+      "decimals": 0,
+      "address": "7BtSRTCk3BZkjmWvoLtP8igJTRcbACWrYHaNCv7ASRdt",
+      "chainId": 101,
+      "tags": [
+        "gaming-token",
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://rolandstudios.com",
+        "twitter": "https://twitter.com/roland_studios"
       }
     },
     {
@@ -103101,6 +103146,25 @@
       "tags": [
         "game-token"
       ]
+    },
+    {
+      "name": "Footprint Coin",
+      "symbol": "FPC",
+      "logoURI": "https://fpc-static.s3.amazonaws.com/logo/1024-main.png",
+      "decimals": 2,
+      "address": "J4zm9yxF7PtevLzjkreF2hebTEiazJUrW2ee1UNTqG8E",
+      "chainId": 101,
+      "tags": [
+        "Carbon-Footprint",
+        "Electric-Vehicle",
+        "greentech"
+      ],
+      "extensions": {
+        "website": "http://www.footprintcoin.io//",
+        "twitter": "https://twitter.com/footprintcoin",
+        "description": "We distribute Footprint Coin as a reward for driving electric vehicles.",
+        "facebook": "https://www.facebook.com/Footprintcoin-101162415827069"
+      }
     },
     {
       "name": "SquirrelCoin",
