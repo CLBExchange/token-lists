@@ -6234,6 +6234,18 @@
       ]
     },
     {
+      "name": "Metaverze Coin",
+      "symbol": "MC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3195WFU2ZdULUv4NJbVR3DKEimutMApZnCeJ8fo1CUyx/logo.png",
+      "decimals": 9,
+      "address": "3195WFU2ZdULUv4NJbVR3DKEimutMApZnCeJ8fo1CUyx",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "MC"
+      ]
+    },
+    {
       "name": "CaribbCoin",
       "symbol": "CARIBB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/31F4zwMSLnBt8WBke7Dr7vGq1Miq2VmexmTUKVcrcMuV/logo.png",
@@ -16112,6 +16124,20 @@
         "utility-token",
         "community-token",
         "NFT-Token"
+      ]
+    },
+    {
+      "name": "FulboStars",
+      "symbol": "FULBO",
+      "logoURI": "https://fulbostars.com/logotoken.png",
+      "decimals": 9,
+      "address": "4aertukCfmJpy7bf7rEx8JXvFi8ed8jNt3z9rLUjRjoV",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "gaming-token",
+        "nft-token",
+        "community-token"
       ]
     },
     {
@@ -56926,6 +56952,17 @@
       "logoURI": "https://raw.githubusercontent.com/mnarvaja/crypto/main/Screen%20Shot%202021-12-19%20at%201.57.19%20PM.png",
       "decimals": 0,
       "address": "AwyP3rbLxexvpbNRp3Zm7EM7htLDqzHmysCxfMyUk47g",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Aloo Coin",
+      "symbol": "JOCKY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ax6SeCjhCR8rnAPSR5VrT5K47XPQi4moRAF2oV2Fzknt/JLogo.png",
+      "decimals": 0,
+      "address": "Ax6SeCjhCR8rnAPSR5VrT5K47XPQi4moRAF2oV2Fzknt",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -99169,6 +99206,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Zezam Whitelist",
+      "symbol": "ZWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HQAxChVaeiESe9JN3LiRfLh1DM4g5MtGrbQTu3MwjjGa/zezam.png",
+      "decimals": 0,
+      "address": "HQAxChVaeiESe9JN3LiRfLh1DM4g5MtGrbQTu3MwjjGa",
+      "chainId": 101,
+      "tags": [
+        "whitelist"
       ]
     },
     {
