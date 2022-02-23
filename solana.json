@@ -51762,6 +51762,14 @@
       ]
     },
     {
+      "name": "SOBO",
+      "symbol": "SB",
+      "logoURI": "https://github.com/usman989899/Asset/blob/main/FHo7KkRUYAEmy8Q.jpg",
+      "decimals": 6,
+      "address": "AGM9wUVHy9qbzkRULF9pgHwuFUmZYD3oys9ooKEAUuRQ",
+      "chainId": 101
+    },
+    {
       "name": "TJs Lover",
       "symbol": "BRENDA",
       "logoURI": "https://raw.githubusercontent.com/tjslover/crypto/main/brendaheart%402x.png",
@@ -69986,8 +69994,7 @@
       "tags": [
         "utility-token",
         "game-token",
-        "game-currency",
-        "nft"
+        "game-currency"
       ],
       "extensions": {
         "website": "https://soldierxsolvivor.com",
@@ -114792,6 +114799,31 @@
         "description": "Singularity Online DAO Token",
         "blog": "https://blog.singularityonline.app",
         "whitepaper": "https://whitepaper.singularityonline.app"
+      }
+    },
+    {
+      "name": "GameYoo Token",
+      "symbol": "GYC",
+      "logoURI": "https://raw.githubusercontent.com/gameyoo/materials/main/gyc.png",
+      "decimals": 9,
+      "address": "JDJZRfUsyNVX6kY3z8orpvW61m6ESCmsQse5y6QiaFfA",
+      "chainId": 102,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming",
+        "metaverse",
+        "play-to-earn",
+        "play-to-contribute"
+      ],
+      "extensions": {
+        "website": "https://gameyoo.io",
+        "twitter": "https://twitter.com/GameYooOfficial",
+        "github": "https://github.com/gameyoo"
       }
     },
     {
