@@ -2716,6 +2716,17 @@
       }
     },
     {
+      "name": "Identigo",
+      "symbol": "IDNT",
+      "logoURI": "https://raw.githubusercontent.com/Rodnaf34/crypto/main/Logo_Blue_Green.png",
+      "decimals": 0,
+      "address": "2NQr8337ZRhcCcor6BLbgYKQvxrP22mhHXdMncbC1w5P",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Bois Coin",
       "symbol": "$BOIS",
       "logoURI": "https://cdn.discordapp.com/attachments/679118561649623070/942573815513354300/logo.png",
@@ -74273,6 +74284,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "RScoin",
+      "symbol": "RSC",
+      "logoURI": "https://raw.githubusercontent.com/NKMirzoyan/rscoin/main/logo.PNG",
+      "decimals": 0,
+      "address": "DXrpamQ5BPPDrrUTEVuwJdCT5Ut7eFPb79131xoYQHcs",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "gaming-token"
       ]
     },
     {
