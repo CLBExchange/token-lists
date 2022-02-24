@@ -27221,6 +27221,17 @@
       }
     },
     {
+      "name": "XBOX SIQER",
+      "symbol": "XSQR",
+      "logoURI": "https://raw.githubusercontent.com/cemdastan/xboxsiqer/main/xbox.png",
+      "decimals": 8,
+      "address": "6V39Vsa5epWyMYncpB6Yb3bjpYpoXURt2SLDCQ1UwdWU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SmashCoin",
       "symbol": "SMBX20",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6VAqGYWWiPbBMsKY2LpdE21ECNeoMooobTdtSsw7LGUX/logo3.png",
@@ -73358,6 +73369,17 @@
       }
     },
     {
+      "name": "Dino Jump Whitelist Token",
+      "symbol": "DJWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJTE14SD24SKmPv6pLt84173srwbBgt7YGyfHZ5oVhwp/logo.png",
+      "decimals": 0,
+      "address": "DJTE14SD24SKmPv6pLt84173srwbBgt7YGyfHZ5oVhwp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "12bar",
       "symbol": "12bar",
       "logoURI": "https://github.com/dbuster/12bar/blob/main/12barlogo200200.jpg",
@@ -78483,6 +78505,19 @@
       "extensions": {
         "twitter": "https://twitter.com/tamalerhino"
       }
+    },
+    {
+      "name": "SolSwines Whitelist",
+      "symbol": "SWNE",
+      "logoURI": "https://cdn.jsdelivr.net/gh/kakazgg/solswineslogo/SolSwines-WL_swiny.png",
+      "decimals": 0,
+      "address": "E5is2XpFQBn5HwoxZRRKszhJyHd4ofNPfGWSUwoHLRNE",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "game",
+        "utility-token"
+      ]
     },
     {
       "name": "Aldrin",
