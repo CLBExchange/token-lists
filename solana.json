@@ -53271,6 +53271,14 @@
       }
     },
     {
+      "name": "ARC Token",
+      "symbol": "$ARC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ARCtXLM9CEDfhCt1XeTXgKNqhSaqbeMKdJmhBdXNyF4g/logo.png",
+      "decimals": 6,
+      "address": "ARCtXLM9CEDfhCt1XeTXgKNqhSaqbeMKdJmhBdXNyF4g",
+      "chainId": 101
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_18AD",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ARHaNjDLfkxrE9SQNHuuUihEt8SsN5yRxjTPuzpgPXH4/logo.png",
@@ -84996,6 +85004,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Rocks",
+      "symbol": "PEBL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FB5kmTzvhn95n5HYL9MkGL3JbFDwUD9kMoHCFU4Zjsay/logo.png",
+      "decimals": 0,
+      "address": "FB5kmTzvhn95n5HYL9MkGL3JbFDwUD9kMoHCFU4Zjsay",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.fyhost.art/",
+        "twitter": "https://twitter.com/FyhostElli",
+        "instagram": "https://www.instagram.com/fyhostelli/"
+      }
     },
     {
       "name": "BTCSEA Trademark BTSEA 2",
