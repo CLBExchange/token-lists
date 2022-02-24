@@ -45479,6 +45479,18 @@
       }
     },
     {
+      "name": "SPLOIT",
+      "symbol": "NCST",
+      "logoURI": "https://raw.githubusercontent.com/SploitToken/Sploit-Token/main/ncst.png",
+      "decimals": 0,
+      "address": "9JtoHi7ZfTyzDPj43k688yGfMyzp4j9gpsnWswAKnnKD",
+      "chainId": 101,
+      "tags": [
+        "nft-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "ArtCoin",
       "symbol": "ARTJ",
       "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/ARTJ/logo.png",
@@ -113286,6 +113298,24 @@
       "chainId": 101
     },
     {
+      "name": "staked MMA",
+      "symbol": "sMMA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sMMAMLinw5aeQ1WzGp1RuJsufrEKKttMudt2e3SGgKE/logo.png",
+      "decimals": 9,
+      "address": "sMMAMLinw5aeQ1WzGp1RuJsufrEKKttMudt2e3SGgKE",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://mmagaming.io/",
+        "twitter": "https://twitter.com/MetaverseMining",
+        "medium": "https://medium.com/@MMAGaming",
+        "discord": "http://discord.gg/mmagaming",
+        "description": "Cross-chain Gaming SuperGuild building the tools of the future. Redeemable token to be redeemed for $MMA upon closure of the upcoming IDO"
+      }
+    },
+    {
       "name": "Draygon WL FCFS Mint Token",
       "symbol": "DRYGNWL",
       "logoURI": "https://raw.githubusercontent.com/benpazzo/draygontoken/main/assets/wlfcfs.png",
@@ -113536,6 +113566,24 @@
       ],
       "extensions": {
         "website": "https://www.hornsvshalosnft.com/"
+      }
+    },
+    {
+      "name": "staked redeemable MMA",
+      "symbol": "srMMA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/srMMACAiS4raGVmRDSuD7FqGM3B7tLZBxNVR3uZJRDC/logo.png",
+      "decimals": 9,
+      "address": "srMMACAiS4raGVmRDSuD7FqGM3B7tLZBxNVR3uZJRDC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://mmagaming.io/",
+        "twitter": "https://twitter.com/MetaverseMining",
+        "medium": "https://medium.com/@MMAGaming",
+        "discord": "http://discord.gg/mmagaming",
+        "description": "Cross-chain Gaming SuperGuild building the tools of the future. Redeemable token to be redeemed for $MMA upon closure of the upcoming IDO"
       }
     },
     {

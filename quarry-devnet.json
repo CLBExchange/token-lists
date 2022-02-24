@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-24T11:07:24.234Z",
+  "timestamp": "2022-02-24T12:13:38.700Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -3632,6 +3632,13 @@
       "symbol": "3QL1h",
       "decimals": 6,
       "address": "3QL1hWKSvsM9jF4VNDUGoSmsMZdiA7xt84gjkFaxWno8",
+      "chainId": 104
+    },
+    {
+      "name": "Token 3QMf",
+      "symbol": "3QMfW",
+      "decimals": 6,
+      "address": "3QMfW3qan7JHGFhpkKd3aVkSv22vrU2Hg3RsXWmYepBM",
       "chainId": 104
     },
     {
@@ -36894,6 +36901,13 @@
       "chainId": 104
     },
     {
+      "name": "Token HXSp",
+      "symbol": "HXSpW",
+      "decimals": 6,
+      "address": "HXSpWsdKQCGiyMvknfgAJFZSJqHKC8hs4MmSB1c8AWtn",
+      "chainId": 104
+    },
+    {
       "name": "Token HXfN",
       "symbol": "HXfNW",
       "decimals": 6,
@@ -37150,6 +37164,13 @@
       "symbol": "HbqEW",
       "decimals": 6,
       "address": "HbqEWea4Q54Qu89XHDfFaPEHFApbAQFqdvDaTuq9Td5Z",
+      "chainId": 104
+    },
+    {
+      "name": "Token HbtS",
+      "symbol": "HbtSF",
+      "decimals": 6,
+      "address": "HbtSFU1FnLjH2no2LPZ1xndBiU3ozGt4HUXzHszC4DZ9",
       "chainId": 104
     },
     {

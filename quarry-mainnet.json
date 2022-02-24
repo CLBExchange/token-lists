@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-24T11:07:23.081Z",
+  "timestamp": "2022-02-24T12:13:36.941Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -207,7 +207,7 @@
       }
     },
     {
-      "name": "Saros 1SOL-CASH LP",
+      "name": "Saros 1SOL-CASH Saros LP",
       "symbol": "1SOL-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/2kxbv7aSt3ieDXPwTBc6SM9DwwxY9WtLqu5WRf2ZTYq8/icon.png",
       "decimals": 2,
@@ -326,7 +326,7 @@
       }
     },
     {
-      "name": "Saros SNY-CASH LP",
+      "name": "Saros SNY-CASH Saros LP",
       "symbol": "SNY-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3EC7pn6pXDCm1BBuAXXwUUnhay6FVKZxHP7KZc1Z27nk/icon.png",
       "decimals": 2,
@@ -560,7 +560,7 @@
       }
     },
     {
-      "name": "Saros C98-CASH LP",
+      "name": "Saros C98-CASH Saros LP",
       "symbol": "C98-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/4g7DwZVn8edcSYR34zE4Dm13YLH6ZvtXCNnaUyQSFy9w/icon.png",
       "decimals": 2,
@@ -737,7 +737,7 @@
       }
     },
     {
-      "name": "Saros SONAR-CASH LP",
+      "name": "Saros SONAR-CASH Saros LP",
       "symbol": "SONAR-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5csZtCiN3Rap6vk8xwoj8bhHb1rwzdXDtrAkKq1TGRp4/icon.png",
       "decimals": 2,
@@ -1299,7 +1299,7 @@
       }
     },
     {
-      "name": "Saros GOD-CASH LP",
+      "name": "Saros GOD-CASH Saros LP",
       "symbol": "GOD-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/813D4afWKgjHfc65LiPtF1rodNreuJ6ZQH4tMhuFrX2k/icon.png",
       "decimals": 2,
@@ -2917,7 +2917,7 @@
       }
     },
     {
-      "name": "Saros IVN-CASH LP",
+      "name": "Saros IVN-CASH Saros LP",
       "symbol": "IVN-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/BqZEnXNMQWJS81Ps5NnSofh24d3ffwJWwwP2ZrKpNjcZ/icon.png",
       "decimals": 2,
@@ -2981,7 +2981,7 @@
       }
     },
     {
-      "name": "Saros STEP-CASH LP",
+      "name": "Saros STEP-CASH Saros LP",
       "symbol": "STEP-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/BteRTgfrrxyVwJAgAvv9GsLuyn4CWdBRYbBBqE3FM94z/icon.png",
       "decimals": 2,
@@ -3303,7 +3303,7 @@
       }
     },
     {
-      "name": "Saros ABR-CASH LP",
+      "name": "Saros ABR-CASH Saros LP",
       "symbol": "ABR-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s/icon.png",
       "decimals": 2,
@@ -3404,7 +3404,7 @@
       }
     },
     {
-      "name": "Saros BOT-CASH LP",
+      "name": "Saros BOT-CASH Saros LP",
       "symbol": "BOT-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Cyggmjx7iWios6jqrYRbZwFE3AYaqV5UfyVyYF5XgCYU/icon.png",
       "decimals": 2,
@@ -3504,7 +3504,7 @@
       }
     },
     {
-      "name": "Saros PORT-CASH LP",
+      "name": "Saros PORT-CASH Saros LP",
       "symbol": "PORT-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW/icon.png",
       "decimals": 2,
@@ -4056,7 +4056,7 @@
       }
     },
     {
-      "name": "Saros PRT-CASH LP",
+      "name": "Saros PRT-CASH Saros LP",
       "symbol": "PRT-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj/icon.png",
       "decimals": 2,
@@ -4133,7 +4133,7 @@
       }
     },
     {
-      "name": "Saros MIX-CASH LP",
+      "name": "Saros MIX-CASH Saros LP",
       "symbol": "MIX-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Ey8M9ZK6bqzXCSuvJFMaQMFNgWShn6aCahTvL1nbcFyk/icon.png",
       "decimals": 2,
@@ -4885,7 +4885,7 @@
       }
     },
     {
-      "name": "Saros IN-CASH LP",
+      "name": "Saros IN-CASH Saros LP",
       "symbol": "IN-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/GWAoMkDgnJbdUPphm76ZMmkm8KJvpqrde2ctXgfy1byD/icon.png",
       "decimals": 2,
@@ -4983,7 +4983,7 @@
       }
     },
     {
-      "name": "Saros POLE-CASH LP",
+      "name": "Saros POLE-CASH Saros LP",
       "symbol": "POLE-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD/icon.png",
       "decimals": 2,
@@ -5453,7 +5453,7 @@
       }
     },
     {
-      "name": "Saros COPE-CASH LP",
+      "name": "Saros COPE-CASH Saros LP",
       "symbol": "COPE-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/HwXQWncukjBwExBsYFofcuf5nLLvgfsg3tRLfpH7fh7G/icon.png",
       "decimals": 2,
@@ -6982,7 +6982,7 @@
       }
     },
     {
-      "name": "Saros DFL-CASH LP",
+      "name": "Saros DFL-CASH Saros LP",
       "symbol": "DFL-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/bcyfFCjEnHA9NXGm35Zb3bwSeiz4kpw7W1TvFwbQHa6/icon.png",
       "decimals": 2,
