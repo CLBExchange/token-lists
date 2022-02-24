@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-24T00:56:56.224Z",
+  "timestamp": "2022-02-24T03:08:14.507Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -7079,6 +7079,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 4zS3",
+      "symbol": "4zS3f",
+      "decimals": 6,
+      "address": "4zS3ftHiJMuiGHwxe77ozjsb7fXBhZMU2zDPXrMAMtkG",
+      "chainId": 104
+    },
+    {
       "name": "Token 4zWj",
       "symbol": "4zWjn",
       "decimals": 6,
@@ -8777,6 +8784,13 @@
       "symbol": "5mBwi",
       "decimals": 6,
       "address": "5mBwiguLjMXsz4aNYpvZfasp4u9xb3uaojGMDUK1oQPZ",
+      "chainId": 104
+    },
+    {
+      "name": "Token 5mC2",
+      "symbol": "5mC26",
+      "decimals": 6,
+      "address": "5mC26vAWxjmzZHqJZLvVvNK8fTirweBaF3JTDkU9RTug",
       "chainId": 104
     },
     {
@@ -17866,6 +17880,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 9XNv",
+      "symbol": "9XNvF",
+      "decimals": 6,
+      "address": "9XNvFqhcvVCSZYaDohL5VCfhPfpg7WWQmBgBygVdYvh4",
+      "chainId": 104
+    },
+    {
       "name": "Token 9XTz",
       "symbol": "9XTzz",
       "decimals": 6,
@@ -26063,6 +26084,13 @@
       "chainId": 104
     },
     {
+      "name": "Token D38L",
+      "symbol": "D38LV",
+      "decimals": 6,
+      "address": "D38LVSiDUCy1fQgs7a4LWRomSyYx3BXKmPPCU7vcTqw3",
+      "chainId": 104
+    },
+    {
       "name": "Token D3MY",
       "symbol": "D3MYu",
       "decimals": 6,
@@ -28030,6 +28058,13 @@
       "chainId": 104
     },
     {
+      "name": "Token Dqen",
+      "symbol": "Dqenr",
+      "decimals": 6,
+      "address": "DqenrTDCpeZAe9g1dbkuGWPyi9iEaDqMa3ohgyCyNaii",
+      "chainId": 104
+    },
+    {
       "name": "Token Dqf7",
       "symbol": "Dqf7f",
       "decimals": 6,
@@ -28391,6 +28426,13 @@
       "symbol": "DzX32",
       "decimals": 6,
       "address": "DzX32zEH1BW5XKeTCgAPQvdJ2fu1D9XbGkR7vcYGXaw5",
+      "chainId": 104
+    },
+    {
+      "name": "Token DzdT",
+      "symbol": "DzdTD",
+      "decimals": 6,
+      "address": "DzdTDRmoBAQtX78dx87EHB3GXvQdqJ3A4cZRLjoqCScu",
       "chainId": 104
     },
     {
