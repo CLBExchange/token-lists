@@ -14855,6 +14855,18 @@
       }
     },
     {
+      "name": "OXYCON",
+      "symbol": "OXYF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWnLjNL9Q5SaVnJkhhmueKGkvgfb4aXQAgKsVve3yL2/eyes.png",
+      "decimals": 9,
+      "address": "4LWnLjNL9Q5SaVnJkhhmueKGkvgfb4aXQAgKsVve3yL2",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Tucker",
       "symbol": "TKR",
       "logoURI": "https://raw.githubusercontent.com/mrshawntucker/crypto/main/logo.png",
@@ -37329,6 +37341,17 @@
       }
     },
     {
+      "name": "Hand Coin",
+      "symbol": "HAND",
+      "logoURI": "https://raw.githubusercontent.com/samfultonjr/scratches/main/logo500.png",
+      "decimals": 0,
+      "address": "844bzknocdtT5AMhqhoAGNDQnN9f2Yq8JP8J2bvgzU91",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SheeshCoin",
       "symbol": "SHE",
       "logoURI": "https://raw.githubusercontent.com/ll3macorn/sheeshcoin/main/logo.png",
@@ -55623,6 +55646,17 @@
         "twitter": "https://twitter.com/airflyersnft",
         "discord": "https://discord.gg/WKMFhNrxvS"
       }
+    },
+    {
+      "name": "SKULLS",
+      "symbol": "SSS",
+      "logoURI": "https://github.com/Apxrture/SSS/blob/main/pixil-frame-0%20(1).png",
+      "decimals": 6,
+      "address": "AiyQDVjnwg1phQRjCyyxyHdHvTBYhF8eXtmuBPRQrqRB",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Cars",
@@ -101551,6 +101585,17 @@
         "utility-token",
         "metaverse-blocks",
         "Community-Token"
+      ]
+    },
+    {
+      "name": "EMeow Cat Coin ",
+      "symbol": "EMEOW",
+      "logoURI": "https://raw.githubusercontent.com/jaccba/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "HhmqnYpvHa44EE4TfcAghoZrYKHwV1tGaHMNZAH4RAvr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
