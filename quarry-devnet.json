@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-24T07:08:07.923Z",
+  "timestamp": "2022-02-24T08:10:07.413Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -4311,6 +4311,13 @@
       "symbol": "3iNtb",
       "decimals": 6,
       "address": "3iNtbzpkVdu9je3mVWjMWetnbG7zSpoU87Bv8AXeRb4g",
+      "chainId": 104
+    },
+    {
+      "name": "Token 3iPJ",
+      "symbol": "3iPJr",
+      "decimals": 6,
+      "address": "3iPJrzb1uMrwoUkgn5Tng7n8rhzanGQ6b3zUkRyY1w9V",
       "chainId": 104
     },
     {
@@ -19770,6 +19777,13 @@
       "chainId": 104
     },
     {
+      "name": "Token ANA9",
+      "symbol": "ANA9U",
+      "decimals": 6,
+      "address": "ANA9UN5AJFyV4ATFvW69PJH5usL24XEki4uZRX5dHCGU",
+      "chainId": 104
+    },
+    {
       "name": "Token ANb4",
       "symbol": "ANb4g",
       "decimals": 6,
@@ -21923,6 +21937,13 @@
       "symbol": "BHyEE",
       "decimals": 6,
       "address": "BHyEEpA7QU8kWBrxL9Ffv9QrwifBujFz743WSYTr8Qfx",
+      "chainId": 104
+    },
+    {
+      "name": "Token BJ2e",
+      "symbol": "BJ2eN",
+      "decimals": 6,
+      "address": "BJ2eNDhckk4grt1h94Bb6ieSGQCgj68gZsaWwf1gy34q",
       "chainId": 104
     },
     {
@@ -25143,6 +25164,13 @@
       "symbol": "CcZq9",
       "decimals": 6,
       "address": "CcZq9KST7vZsfn2fhiqXmruiRsjV2BUWaiQ8GgxVjgGY",
+      "chainId": 104
+    },
+    {
+      "name": "Token Ccnn",
+      "symbol": "CcnnC",
+      "decimals": 6,
+      "address": "CcnnCMLwCyGXKUY8gu9ooqHcpz7jagRVHkWT29xtA64M",
       "chainId": 104
     },
     {
@@ -34185,6 +34213,13 @@
       "chainId": 104
     },
     {
+      "name": "Token GZhe",
+      "symbol": "GZheH",
+      "decimals": 6,
+      "address": "GZheHuYb6c1KoE6WbGU4dNNzoA6FoKAgTqrA16wF3gSA",
+      "chainId": 104
+    },
+    {
       "name": "Token GZjY",
       "symbol": "GZjYQ",
       "decimals": 6,
@@ -34819,6 +34854,13 @@
       "symbol": "Gsbnz",
       "decimals": 6,
       "address": "GsbnzicSZ2FU5SeQP6kW3tQeugnPGbxJCCiPRP8qDW2h",
+      "chainId": 104
+    },
+    {
+      "name": "Token Gshe",
+      "symbol": "Gshep",
+      "decimals": 6,
+      "address": "GshepcGKdyD5yJPnhq5Zs3RrowswZEvYanABmLKj4HeL",
       "chainId": 104
     },
     {
