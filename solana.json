@@ -11719,6 +11719,14 @@
       }
     },
     {
+      "name": "Scythe Token",
+      "symbol": "ST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3nTt9pj9Sn4cVrGB75kTCdUba6DQLVv2S3j4KUMY8RzE/logo.png",
+      "decimals": 9,
+      "address": "3nTt9pj9Sn4cVrGB75kTCdUba6DQLVv2S3j4KUMY8RzE",
+      "chainId": 101
+    },
+    {
       "name": "Urken Galleon",
       "symbol": "URK",
       "logoURI": "https://raw.githubusercontent.com/ebsmartin/Crypto_token_logo/main/logo.png?token=AQAF6VXMKXFD7RD65OYQRJLBYLKVS",
@@ -20310,6 +20318,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "RJ Coin",
+      "symbol": "RJ7",
+      "logoURI": "https://raw.githubusercontent.com/RJ079/Crypto/main/RJ.png",
+      "decimals": 0,
+      "address": "5J3LY8zMS3CVdLrn9QXVorstZGUbWZ4BrtM12U4mRPhR",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
       ]
     },
     {
@@ -65799,6 +65819,20 @@
       ]
     },
     {
+      "name": "CHIMPZ",
+      "symbol": "CHMPZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHMpZJw2ZsUryFX587vcTGvybDyKHaXVqvm379641fkh/logo.png",
+      "decimals": 0,
+      "address": "CHMpZJw2ZsUryFX587vcTGvybDyKHaXVqvm379641fkh",
+      "chainId": 101,
+      "tags": [
+        "Stake",
+        "CHIMPZ",
+        "NFT",
+        "Utility-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (KIN-RAY)",
       "symbol": "KIN-RAY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CHT8sft3h3gpLYbCcZ9o27mT5s3Z6VifBVbUiDvprHPW/logo.png",
@@ -73324,6 +73358,17 @@
         "coingeckoId": "rally-2",
         "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
       }
+    },
+    {
+      "name": "Zero Gravity",
+      "symbol": "ZROG",
+      "logoURI": "https://raw.githubusercontent.com/zerodev1/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "DLC4h3LeDq6qUKiaxqMfB9GQdFqg5ULkApAHT7LgiR6Y",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "SOLDAO",
@@ -106722,6 +106767,18 @@
       }
     },
     {
+      "name": "Rich Coin",
+      "symbol": "RICHES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RichAYwyL4p9UC9RgfzsLW6K6kG3iERo1Nce4kR2WQW/logo.png",
+      "decimals": 11,
+      "address": "RichAYwyL4p9UC9RgfzsLW6K6kG3iERo1Nce4kR2WQW",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://ostriches.io",
+        "twitter": "https://twitter.com/OstrichesNFT"
+      }
+    },
+    {
       "name": "Vienna token",
       "symbol": "VNA",
       "logoURI": "https://raw.githubusercontent.com/tenywa1/vienna-crypto/main/vienna-png.png",
@@ -107665,6 +107722,22 @@
         "facebook": "https://www.facebook.com/Scallop.io",
         "instagram": "https://www.instagram.com/scallop.io",
         "telegram": "https://t.me/scallop_io"
+      }
+    },
+    {
+      "name": "Sexy Kiwi Coin",
+      "symbol": "EXY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SexyzTVcKsB7m9CHDt2FgkJbhQK58pm7M73RynPWhCz/goldkiwi.png",
+      "decimals": 9,
+      "address": "SexyzTVcKsB7m9CHDt2FgkJbhQK58pm7M73RynPWhCz",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.sexybirdz.com/",
+        "twitter": "https://twitter.com/KiwiDAO",
+        "discord": "https://discord.com/invite/bzW9VAyHjW"
       }
     },
     {
@@ -113040,6 +113113,20 @@
         "twitter": "https://twitter.com/skatercatsoc",
         "discord": "https://discord.gg/QsJVtT3a8h"
       }
+    },
+    {
+      "name": "Germination Token",
+      "symbol": "Germ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sEEdWDz8CNhcgU3fPF4sgjjjNQ2jiS4boMXqix6pMGG/logo.png",
+      "decimals": 0,
+      "address": "sEEdWDz8CNhcgU3fPF4sgjjjNQ2jiS4boMXqix6pMGG",
+      "chainId": 101,
+      "tags": [
+        "Community-token",
+        "Germination",
+        "NFT",
+        "Social-token"
+      ]
     },
     {
       "name": "Gorito",
