@@ -27565,6 +27565,17 @@
       }
     },
     {
+      "name": "ConeyCoin",
+      "symbol": "CC",
+      "logoURI": "https://raw.githubusercontent.com/CIPC1826/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "6XfDGAhCbVmDGUYiAfCUPtfjQq1jgTvpVdyaSnxLoxt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "iShares MSCI EAFE ETF",
       "symbol": "EFA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Xj2NzAW437UUomaxFiVyJQPGvvup6YLeXFQpp4kqNaD/logo.svg",
@@ -33480,6 +33491,14 @@
         "instagram": "https://www.instagram.com/robertdenitro",
         "youtube": "https://www.youtube.com/channel/UCh-RZKbzquLB8oMsNiFZo5A"
       }
+    },
+    {
+      "name": "Star Light Token",
+      "symbol": "MATTER",
+      "logoURI": "https://raw.githubusercontent.com/Matthewfusco/starlightnft/main/logo.png",
+      "decimals": 0,
+      "address": "7VpRFwcWWg7EyuqVhFK5ZX1tjW45BsDUhQ6Q3Z9SfKBH",
+      "chainId": 101
     },
     {
       "name": "HOLY SHIT",
@@ -61887,6 +61906,17 @@
         "community",
         "Give",
         "cannabis"
+      ]
+    },
+    {
+      "name": "HAASCOIN",
+      "symbol": "HAAS",
+      "logoURI": "https://github.com/tenrandomdigits/HAASCOIN/blob/main/logo.png",
+      "decimals": 0,
+      "address": "BfECixANAExjiUYBYtQSMr7L3ik2pKizVpJUKaPJpTCH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -92908,6 +92938,17 @@
       ]
     },
     {
+      "name": "PillSyndromeOG",
+      "symbol": "$PILLOG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn/logo.png",
+      "decimals": 0,
+      "address": "GGASkW5PZWvNbHr4F8BVXYPbMWLdfhP96QmVbQpoEbX9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Jotonama",
       "symbol": "JTNM",
       "logoURI": "https://raw.githubusercontent.com/JonTron23/Jotonama/main/icon.png",
@@ -109744,6 +109785,17 @@
       }
     },
     {
+      "name": "PillSyndromeWL",
+      "symbol": "$WLPILL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn/logo.png",
+      "decimals": 0,
+      "address": "WLiu98oqYLrM1rkbew41QSPrqVteVn3h2wS4rNurv9v",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Big Brain Clique Alpha Whitelist Token",
       "symbol": "BBCA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLjDmpFkBe2eUunAit8h4pohYNQ243xYS1bv4wHz9Hi/logo.png",
@@ -118245,6 +118297,20 @@
       ],
       "extensions": {
         "website": "https://devbeta.human.ag/address/2F3szNSUNzRxHwx1arJahbs1XPa7sPUEp8i692mV2kwY?src=token-list"
+      }
+    },
+    {
+      "name": "souls for test",
+      "symbol": "souls0",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/jmsApix74A2RUJyw5XRCCL61MiCRP538yypQmemnCZd/logo.png",
+      "decimals": 6,
+      "address": "jmsApix74A2RUJyw5XRCCL61MiCRP538yypQmemnCZd",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aiko.io/"
       }
     },
     {
