@@ -4782,6 +4782,17 @@
       ]
     },
     {
+      "name": "CORE",
+      "symbol": "CORE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2x4fH7kWNgSLpBjCuFBKKKiNHMcJb6fHs8ahQZUWJj1p/Core.png",
+      "decimals": 9,
+      "address": "2maDvG9nXGVstjdnsCZoSsNtjoda1SsZTLrHBVRgLR5F",
+      "chainId": 101,
+      "tags": [
+        "utility"
+      ]
+    },
+    {
       "name": "PENGU COIN",
       "symbol": "PENGU",
       "logoURI": "https://raw.githubusercontent.com/CrazyLoafofBread/SolanaCryptoProject/main/PengToken.png",
@@ -5881,17 +5892,6 @@
         "coingeckoId": "chainlink",
         "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
       }
-    },
-    {
-      "name": "CORE",
-      "symbol": "CORE",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2x4fH7kWNgSLpBjCuFBKKKiNHMcJb6fHs8ahQZUWJj1p/Core.png",
-      "decimals": 0,
-      "address": "2x4fH7kWNgSLpBjCuFBKKKiNHMcJb6fHs8ahQZUWJj1p",
-      "chainId": 101,
-      "tags": [
-        "utility"
-      ]
     },
     {
       "name": "RunGoodKoin",
@@ -38818,6 +38818,17 @@
       }
     },
     {
+      "name": "KBeer coin",
+      "symbol": "KBEER",
+      "logoURI": "https://raw.githubusercontent.com/aagusti1974/kbeer/main/logo.png",
+      "decimals": 0,
+      "address": "8GT6u7FETgcr287xhWRA96GJnn65e3dadJRXf9gEH2V1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "7Realms",
       "symbol": "SVEN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Ggd9FGkA8q6YJaAMFL3PrBcFipKbU3HBtpUAGtd6EQP/logo.png",
@@ -58247,7 +58258,9 @@
       ],
       "extensions": {
         "website": "https://chimpd.com",
-        "description": "The #1 Decentralized meme token in Solana ecosystem."
+        "twitter": "https://twitter.com/tokenchimp",
+        "description": "The #1 Decentralized meme token in Solana ecosystem.",
+        "telegram": "https://t.me/TokenChimp"
       }
     },
     {
@@ -74528,22 +74541,6 @@
       }
     },
     {
-      "name": "MetaAge",
-      "symbol": "AGE",
-      "logoURI": "https://raw.githubusercontent.com/MetaAge/MetaAge/main/logo.png",
-      "decimals": 18,
-      "address": "DWiTEUxgqgQeE7SCsB9eqQh3quW8jZ7Kukw4uAa3ah2f",
-      "chainId": 101,
-      "tags": [
-        "Metaverse-Token",
-        "gaming-token",
-        "play-2-earn"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/metaagee"
-      }
-    },
-    {
       "name": "Tetracoin",
       "symbol": "TETRA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DWkd7xS3cDXJSMZqXHWN9oNgyCq49x7AdUqdadhTKW43/logo.png",
@@ -79175,7 +79172,11 @@
       "address": "EE5L8cMU4itTsCSuor7NLK6RZx6JhsBe8GGV3oaAHm3P",
       "chainId": 101,
       "tags": [
-        "security-token"
+        "utility-token",
+        "payment-token",
+        "hybrid-token",
+        "agro-token",
+        "IoT-token"
       ],
       "extensions": {
         "website": "http://www.avocadocoin.com",
@@ -104748,6 +104749,22 @@
       "extensions": {
         "website": "https://kashidragons.com",
         "twitter": "https://twitter.com/kashidragons"
+      }
+    },
+    {
+      "name": "MetaAge",
+      "symbol": "AGE",
+      "logoURI": "https://raw.githubusercontent.com/MetaAge/MetaAge/main/logo.png",
+      "decimals": 9,
+      "address": "KDQXUUqSCAYhMNxsaQLQNwt37AnZqfeo9SK9uiWeTsz",
+      "chainId": 101,
+      "tags": [
+        "Metaverse-Token",
+        "gaming-token",
+        "play-2-earn"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metaagee"
       }
     },
     {
