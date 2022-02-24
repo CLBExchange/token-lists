@@ -11079,6 +11079,20 @@
       }
     },
     {
+      "name": "MetaCrush",
+      "symbol": "CRUSH",
+      "logoURI": "https://raw.githubusercontent.com/santini23s/MetaCrush/main/logo.png",
+      "decimals": 6,
+      "address": "3hUt6kC4iMqVLCvDkq885YVCdqz2juwFu8pwL2VJDNUC",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "metaverse-token",
+        "Dating-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Cursed Coin",
       "symbol": "CURSE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3hWBSqyHrJMDkSuAQtBYHwgKmMbJ666we5xegfDmMzGd/logo.png",
@@ -24023,6 +24037,17 @@
         "website": "https://www.orca.so",
         "twitter": "https://twitter.com/orca_so"
       }
+    },
+    {
+      "name": "Culture",
+      "symbol": "CLT",
+      "logoURI": "https://raw.githubusercontent.com/NicholasGLambert/logo/main/Logo.png",
+      "decimals": 0,
+      "address": "5uVwCRDLPRX4xDkLKZbr8VEiGcqB7jav8DT4i6Pak116",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Walo Test",
@@ -39824,19 +39849,6 @@
         "social-token",
         "utility-token",
         "community-token"
-      ]
-    },
-    {
-      "name": "MetaCrush",
-      "symbol": "CRUSH",
-      "logoURI": "https://raw.githubusercontent.com/santini23s/MetaCrush/main/logo.png",
-      "decimals": 0,
-      "address": "8S4TAhdeGcH4tPZZ8nM6WrW6KKvXC1dS3E4GiRFVXpYa",
-      "chainId": 101,
-      "tags": [
-        "social-token",
-        "metaverse-token",
-        "Dating-token"
       ]
     },
     {
@@ -93147,9 +93159,7 @@
       "address": "GLapb5CUwQ5pbDy9RLuEctFEjZuoNKsRvc95MGpKimCf",
       "chainId": 101,
       "tags": [
-        "nft",
-        "metaverse",
-        "staking"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/sundayslab"
@@ -105619,9 +105629,7 @@
       "address": "MoscKLpTs9EV4ADTCGYATt1cHLdmybZ7215gKTdWAq7",
       "chainId": 101,
       "tags": [
-        "nft",
-        "metaverse",
-        "staking"
+        "utility-token"
       ],
       "extensions": {
         "website": "http://metazillas.io/",
@@ -117184,6 +117192,31 @@
       "decimals": 9,
       "address": "EW1fpr5t8rge8wSaxFztPjmNMBeb4knaW6pcHtrQhZSt",
       "chainId": 103
+    },
+    {
+      "name": "GameYoo Token",
+      "symbol": "GYC",
+      "logoURI": "https://raw.githubusercontent.com/gameyoo/materials/main/gyc.png",
+      "decimals": 9,
+      "address": "EWs78YdEMLNod4UpXomkWXJqEAQ3ehUV9oNS4RnVxLr6",
+      "chainId": 103,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming",
+        "metaverse",
+        "play-to-earn",
+        "play-to-contribute"
+      ],
+      "extensions": {
+        "website": "https://gameyoo.io",
+        "twitter": "https://twitter.com/GameYooOfficial",
+        "github": "https://github.com/gameyoo"
+      }
     },
     {
       "name": "Eternal Coin",
