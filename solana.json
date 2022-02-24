@@ -64994,6 +64994,17 @@
       }
     },
     {
+      "name": "Barnabium",
+      "symbol": "BRNB",
+      "logoURI": "https://raw.githubusercontent.com/Isembart/barnabium/main/logo.png",
+      "decimals": 0,
+      "address": "C9Gz2xLRviTg5FFD15F1TiTs5hjJe63n2GrqL94911M3",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "FleaCoin",
       "symbol": "FLEA",
       "logoURI": "https://raw.githubusercontent.com/Isaac-T-Hill/crypto/main/FleaCoin.png",
@@ -89869,6 +89880,25 @@
       }
     },
     {
+      "name": "Fish",
+      "symbol": "ISLDA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Forgp6AYPyCpMmd6o7PENRjwHjw2mcDeNB1Qx15DekLc/logo.png",
+      "decimals": 0,
+      "address": "Forgp6AYPyCpMmd6o7PENRjwHjw2mcDeNB1Qx15DekLc",
+      "chainId": 101,
+      "tags": [
+        "game-token",
+        "staking",
+        "gamble"
+      ],
+      "extensions": {
+        "website": "https://moomoons.io/",
+        "twitter": "https://twitter.com/IslandaNFT",
+        "discord": "https://discord.gg/7n9sFPFe9b",
+        "description": "Islanda is moving away from the copy and paste profile picture art and is expanding out to places where only few go..."
+      }
+    },
+    {
       "name": "Fortnite",
       "symbol": "FORT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FortJWoPT9EDfEdXUgoD9VdFzz5DARb6u5nfdLUZf8nK/logo.png",
@@ -95948,6 +95978,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Black Spade Utility Token",
+      "symbol": "BSUT",
+      "logoURI": "https://raw.githubusercontent.com/kmperkins85/BST/main/C5B956A9-289F-4084-BB0A-B050EB02BB61.PNG",
+      "decimals": 0,
+      "address": "Gj1E2PKCgnd1s5m8oAELGRSmqcDXc94ayWw7ncveRK9M",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
