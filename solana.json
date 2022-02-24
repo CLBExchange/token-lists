@@ -37454,6 +37454,18 @@
       }
     },
     {
+      "name": "THIRD",
+      "symbol": "THRD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWnLjNL9Q5SaVnJkhhmueKGkvgfb4aXQAgKsVve3yL2/eyes.png",
+      "decimals": 8,
+      "address": "84SAoSWPAXdaSkcoqsGcPVZ9vB2LrugY1N7AEgVopB3Z",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "TrickCoin",
       "symbol": "TRICK",
       "logoURI": "https://raw.githubusercontent.com/TrickCoin/Trick/main/logo.png",
@@ -51099,6 +51111,18 @@
       }
     },
     {
+      "name": "SECOND",
+      "symbol": "SCND",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWnLjNL9Q5SaVnJkhhmueKGkvgfb4aXQAgKsVve3yL2/eyes.png",
+      "decimals": 8,
+      "address": "AA6kSr673UmmAT8C8dHZGq3FTURYtRoYbyY5hWB1mPfH",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Dahlgren",
       "symbol": "DAHL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AAEgVwnimraKGcQDqBjtu5qyunAMTWgxGMKpUFME5Zrw/logo.png",
@@ -55691,6 +55715,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "STOMPP",
+      "symbol": "$STOMP",
+      "logoURI": "https://imgur.com/icCaYVN.png",
+      "decimals": 9,
+      "address": "Aj4mwrbwTeq6hoKSRZ6ZF7Agcy3zCu3Q9tesa3KHqWct",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/DopeDinoPC",
+        "instagram": "https://www.instagram.com/dopedinopc/"
+      }
     },
     {
       "name": "Cars",
@@ -77618,6 +77654,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "FIRST",
+      "symbol": "FRST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4LWnLjNL9Q5SaVnJkhhmueKGkvgfb4aXQAgKsVve3yL2/eyes.png",
+      "decimals": 8,
+      "address": "DxN75FUqcazmzyW6gMbHXC2VGhwRhMe1UmwPYbXqKJRb",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
       ]
     },
     {
