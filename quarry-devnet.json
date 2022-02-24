@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-24T06:10:11.358Z",
+  "timestamp": "2022-02-24T07:08:07.923Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -4979,6 +4979,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 41Xk",
+      "symbol": "41Xkq",
+      "decimals": 6,
+      "address": "41XkqjyxArqAmZXeqdyEH54DYqLiyMEGd2B8ca9tXjYD",
+      "chainId": 104
+    },
+    {
       "name": "Token 41cM",
       "symbol": "41cMs",
       "decimals": 6,
@@ -7695,6 +7702,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 5Get",
+      "symbol": "5Getq",
+      "decimals": 6,
+      "address": "5GetquKJJdEiAtQ4iHW9ewq18JxH2VPo4nukCHo2kF8z",
+      "chainId": 104
+    },
+    {
       "name": "Token 5Gmx",
       "symbol": "5Gmxe",
       "decimals": 6,
@@ -8406,6 +8420,13 @@
       "symbol": "5agBY",
       "decimals": 6,
       "address": "5agBYC5wxX7iGLN5KaSQghiv9tMpttJvahpGCJJduhSz",
+      "chainId": 104
+    },
+    {
+      "name": "Token 5ao1",
+      "symbol": "5ao1M",
+      "decimals": 6,
+      "address": "5ao1Mim6MyjKFP6WqV2xJ4BKqng7irxoqMcbZnnmbjui",
       "chainId": 104
     },
     {
@@ -18300,6 +18321,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 9inm",
+      "symbol": "9inmR",
+      "decimals": 6,
+      "address": "9inmRzox6e4XCcSqvL6mT3Km4ZRqkZAzZbK8te6fKpRD",
+      "chainId": 104
+    },
+    {
       "name": "Token 9iok",
       "symbol": "9iokP",
       "decimals": 6,
@@ -22038,6 +22066,13 @@
       "chainId": 104
     },
     {
+      "name": "Token BP8V",
+      "symbol": "BP8Vm",
+      "decimals": 6,
+      "address": "BP8Vm85JXPAqTSS4YepXXNz4SL5eUsD2RbmyXmcepYLw",
+      "chainId": 104
+    },
+    {
       "name": "Token BPVK",
       "symbol": "BPVKk",
       "decimals": 6,
@@ -22196,6 +22231,13 @@
       "symbol": "BSrit",
       "decimals": 6,
       "address": "BSritkVEhidc4x8G38R6ftr69mncswnWJ8yzr96L8Mzb",
+      "chainId": 104
+    },
+    {
+      "name": "Token BStS",
+      "symbol": "BStS3",
+      "decimals": 6,
+      "address": "BStS3TnRCjyzUTcPny7WCoJ5k5UxowePJrNJno1b4Qk3",
       "chainId": 104
     },
     {
@@ -26924,6 +26966,13 @@
       "chainId": 104
     },
     {
+      "name": "Token DNT5",
+      "symbol": "DNT5F",
+      "decimals": 6,
+      "address": "DNT5FMbzMgMF1QKSPdUq6ffEzfavkjc9JeH3Yz4g5mrK",
+      "chainId": 104
+    },
+    {
       "name": "Token DNxN",
       "symbol": "DNxN6",
       "decimals": 6,
@@ -28282,6 +28331,13 @@
       "chainId": 104
     },
     {
+      "name": "Token DtGS",
+      "symbol": "DtGSm",
+      "decimals": 6,
+      "address": "DtGSm8o4EHDzVx87iW6arjUPoGozw1MpwnV2VXhNTpZm",
+      "chainId": 104
+    },
+    {
       "name": "Token DtyA",
       "symbol": "DtyA6",
       "decimals": 6,
@@ -29308,6 +29364,13 @@
       "symbol": "ELLEn",
       "decimals": 6,
       "address": "ELLEnaxpEU4EHBNDiuXyUTJPxCbrQkpf915TaZzDAhWG",
+      "chainId": 104
+    },
+    {
+      "name": "Token ELNa",
+      "symbol": "ELNaR",
+      "decimals": 6,
+      "address": "ELNaRbS6AdL5cytnjW4V34cjkFdzcQYQ89PSDXkuMfvP",
       "chainId": 104
     },
     {

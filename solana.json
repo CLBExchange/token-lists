@@ -56703,6 +56703,20 @@
       }
     },
     {
+      "name": "FOOFY COIN ",
+      "symbol": "FOOFY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsnXmPL8redwti7bFRXMWpfuBgHn1Yve6YK3vEvnjTnz/logo.png",
+      "decimals": 6,
+      "address": "AsnXmPL8redwti7bFRXMWpfuBgHn1Yve6YK3vEvnjTnz",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://google.com"
+      }
+    },
+    {
       "name": "BRAWNDO",
       "symbol": "BRWNDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/At5j3zhbEj8mfFsSy1MPbjVhrX2uNmRMPEDZiyFcETNX/logo.png",
