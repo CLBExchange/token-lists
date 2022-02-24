@@ -31277,6 +31277,17 @@
       }
     },
     {
+      "name": "Trucken",
+      "symbol": "TRCK",
+      "logoURI": "https://raw.githubusercontent.com/efsoleth/crypto/main/GoTruckCA__1_-removebg-preview.png",
+      "decimals": 0,
+      "address": "76QxaXxTnhkmNWRcDiqPU6HnNXqJMB4LgBuWXGBoRvG7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "GrowwCoin",
       "symbol": "groww",
       "logoURI": "https://growwcoin.com/public/groww-logo.png",
@@ -109639,6 +109650,14 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTDpT8E9TY6jCQQhdamjs7SieUza68JpmCzaayWY6D/logo.png",
       "decimals": 0,
       "address": "WLTDpT8E9TY6jCQQhdamjs7SieUza68JpmCzaayWY6D",
+      "chainId": 101
+    },
+    {
+      "name": "R&M Whitelist token",
+      "symbol": "RMWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g/logo.png",
+      "decimals": 0,
+      "address": "WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g",
       "chainId": 101
     },
     {
