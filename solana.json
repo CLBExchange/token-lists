@@ -13345,6 +13345,17 @@
       ]
     },
     {
+      "name": "Glass Barbie",
+      "symbol": "GLSBBQ",
+      "logoURI": "https://raw.githubusercontent.com/asterixx00/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "45FKxaoC28XvpWnYe1GRkgfnxWEYSoQ11juGxsCLLpX4",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Monster Inu",
       "symbol": "INU",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/45HfvXJHY9msY2i4EmUpume1mSMLUvdaWsJRbctAobQM/logo.png",
@@ -27028,6 +27039,29 @@
       ],
       "extensions": {
         "discord": "https://discord.gg/QBTpckzaTx"
+      }
+    },
+    {
+      "name": "Piqsol",
+      "symbol": "PQL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TXTxd67i2218CW9uN9H9gSqa4N6oWHUNSA7PFUZronv/logo.png",
+      "decimals": 9,
+      "address": "6TXTxd67i2218CW9uN9H9gSqa4N6oWHUNSA7PFUZronv",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Piqsol",
+        "medium": "https://medium.com/@social_91523",
+        "discord": "https://discord.gg/TmKBmyrGHY",
+        "description": "Fractional Solana NFT Marketplace",
+        "facebook": "https://www.facebook.com/piqsol",
+        "instagram": "https://www.instagram.com/piqsol.art",
+        "reddit": "https://www.reddit.com/user/Piqsol_NFT",
+        "telegram": "https://t.me/Piqsol"
       }
     },
     {
@@ -61473,6 +61507,17 @@
       "logoURI": "https://raw.githubusercontent.com/g0dpain/crypto/main/DDC.png",
       "decimals": 18,
       "address": "Bc24bCVJLC1ugySyRoH9MNExW8VWxN1MZ3XJLsNgzjCe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "LEV4E",
+      "symbol": "LEV",
+      "logoURI": "https://raw.githubusercontent.com/Lev4e/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "Bc9vUedRBx6Mu1fYk9rhC6ug2BnyDJSLj1Ji12rjbLcn",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -115388,6 +115433,18 @@
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
       }
+    },
+    {
+      "name": "TMkIIN",
+      "symbol": "TMK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2HCeYJWocEzTS5GJiCCznR4s5ca6aWRuLafNCpVNmakc/logo.png",
+      "decimals": 9,
+      "address": "2HCeYJWocEzTS5GJiCCznR4s5ca6aWRuLafNCpVNmakc",
+      "chainId": 103,
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
     },
     {
       "name": "DevToken",
