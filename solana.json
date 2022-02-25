@@ -36008,6 +36008,17 @@
       ]
     },
     {
+      "name": "cDragonCoin",
+      "symbol": "CDC",
+      "logoURI": "https://raw.githubusercontent.com/benjaminiyou/crypto/main/cDragonLogo.png",
+      "decimals": 0,
+      "address": "7qSqFjxZCAwrGe9QyR4755f1CJowcZRNoP519TVfJ5z2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "RainerNFT",
       "symbol": "RAINR",
       "logoURI": "https://raw.githubusercontent.com/R4cc/mjuzes78fh3/main/rainer.png",
@@ -59345,6 +59356,20 @@
         "website": "https://www.babyelephantsol.com/",
         "twitter": "https://twitter.com/BabyElephantSol",
         "discord": "http://discord.gg/JH8jAQ9THa"
+      }
+    },
+    {
+      "name": "TOXIN",
+      "symbol": "$TOXIN",
+      "logoURI": "https://raw.githubusercontent.com/CMHayden/crypto/master/toxin.png",
+      "decimals": 9,
+      "address": "BEf5BZxd5w2paiX6GnyBDBHUihfNMRUy8Dpek8X4rjBy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/galactic_snakes"
       }
     },
     {
@@ -90701,6 +90726,17 @@
       }
     },
     {
+      "name": "Shoot",
+      "symbol": "STKL",
+      "logoURI": "https://raw.githubusercontent.com/A6BH/crypto/main/Logo.jpg",
+      "decimals": 0,
+      "address": "FtYtDBJxMcCUdoJqrhxmDpXQiExknSR3WAsRU6B41FrB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BAYAN COIN",
       "symbol": "BYN",
       "logoURI": "https://github.com/chadananda/bayancoin/blob/main/icon.png?raw=true",
@@ -93656,6 +93692,19 @@
         "community-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "PixelPrezs MINT Token",
+      "symbol": "PREZSMINT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GLBvhzpnQApaDAJ5g5Cgw5713JsZkm2DWKFDgjzpTrft/logo.png",
+      "decimals": 0,
+      "address": "GLBvhzpnQApaDAJ5g5Cgw5713JsZkm2DWKFDgjzpTrft",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://pixelprezs.xyz",
+        "twitter": "https://twitter.com/PixelPrezs",
+        "discord": "https://discord.gg/J7YwjVEzgc"
+      }
     },
     {
       "name": "Twinkycoin",
@@ -106540,6 +106589,17 @@
       }
     },
     {
+      "name": "BabyMenace",
+      "symbol": "MENACE",
+      "logoURI": "https://github.com/BabyMenace/BabyMenace-Token/blob/main/%24Menace.png",
+      "decimals": 6,
+      "address": "NfZUsY5ZqdJFxcKjYxA3KgibKEP5wTUDNdCXJ43dtVo",
+      "chainId": 101,
+      "tags": [
+        "Utility-token"
+      ]
+    },
+    {
       "name": "Yuanbao Coin",
       "symbol": "YUANBAO",
       "logoURI": "https://raw.githubusercontent.com/joelshu1/frenchclass/main/logo-yuanbao.png",
@@ -116221,6 +116281,17 @@
       "tags": [
         "aggie",
         "aggie-token"
+      ]
+    },
+    {
+      "name": "WillCoin",
+      "symbol": "WILLC",
+      "logoURI": "https://raw.githubusercontent.com/chunghooman/crypto1/main/logo.png",
+      "decimals": 0,
+      "address": "4BE8tjtSWcCrXCdkx4wyzX84XNGkGrNzoxovcftkt7qK",
+      "chainId": 103,
+      "tags": [
+        "social-token"
       ]
     },
     {
