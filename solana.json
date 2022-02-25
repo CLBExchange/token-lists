@@ -33863,6 +33863,24 @@
       }
     },
     {
+      "name": "FRAYDEY COIN",
+      "symbol": "FRAYDEY",
+      "logoURI": "https://github.com/cyberspyde/fraydey-coin/blob/main/logo.png",
+      "decimals": 0,
+      "address": "7XhyezvAxuEV43hm7iLfYyCR4DuweEsi2oGN84TxBNNc",
+      "chainId": 101,
+      "tags": [
+        "Social-Token",
+        "Community-Token"
+      ],
+      "extensions": {
+        "website": "https://fraydey.uz",
+        "description": "Fraydey Token is used for specific applications only, as rewards and/or advertisement balance for Fraydey app",
+        "telegram": "https://t.me/fraydeyuz",
+        "youtube": "https://www.youtube.com/channel/UCgB3d4-Oa6Q6OdeM0QTd72A"
+      }
+    },
+    {
       "name": "BTCSEA Trademark SEABTC 2",
       "symbol": "$SEABTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7XjqFj9B7NuTmnVqMtWb1fFg62bMTVAosnHuvavYotgs/logo.png",
@@ -47207,6 +47225,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Juggernaut Coin",
+      "symbol": "JUGC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/95de7bb40d847ed838a2f8156efdee55800b26d0/assets/mainnet/9WhjFakVRAfRvZ8X5m5LFHD3Gvh7JkibmZjAs5BxHzFZ/Jlogo.png",
+      "decimals": 0,
+      "address": "9WhjFakVRAfRvZ8X5m5LFHD3Gvh7JkibmZjAs5BxHzFZ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://soljuggernauts.000webhostapp.com/",
+        "twitter": "https://twitter.com/Sol_Juggernauts",
+        "discord": "https://discord.gg/TFD7bmujJR"
+      }
     },
     {
       "name": "Molly Klint",
@@ -95725,7 +95759,7 @@
     {
       "name": "Quantum Bit",
       "symbol": "QuBit",
-      "logoURI": "https://github.com/kazyon/Network30/blob/5642deecf0095feca360a6502e144ee2ddf80aac/sourceimg/QuBit_Logo.png",
+      "logoURI": "https://raw.githubusercontent.com/kazyon/Tokens_Images/main/Qubit/QuBit.png",
       "decimals": 6,
       "address": "GbUPueKeCvsQzVWtmwaAFSf94HALJX2PgSw54DH42ECC",
       "chainId": 101,
@@ -95738,6 +95772,7 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/TheNetwork_30",
+        "discord": "https://discord.com/invite/KVndwCqEHR",
         "description": "QuBit Tokens are the official tokens for the Network 3.0 Blockchain",
         "facebook": "https://www.facebook.com/nettwork3.0/"
       }
@@ -100265,6 +100300,22 @@
         "community",
         "Mortgage"
       ]
+    },
+    {
+      "name": "SL Bath WL Token",
+      "symbol": "LNFTxSLSKIN1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMWEz1fMBSaCEFVqM7ZFvpNKm4kbPpEYamkt27eQX51U/logo.png",
+      "decimals": 0,
+      "address": "HMWEz1fMBSaCEFVqM7ZFvpNKm4kbPpEYamkt27eQX51U",
+      "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "website": "https://www.liqnft.com/solanaland",
+        "twitter": "https://twitter.com/liqnft",
+        "discord": "https://discord.gg/PYZWRHgVwM"
+      }
     },
     {
       "name": "HMKs Whitelist Token ",
