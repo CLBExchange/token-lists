@@ -2529,6 +2529,17 @@
       ]
     },
     {
+      "name": "Goliath",
+      "symbol": "GLTH",
+      "logoURI": "https://raw.githubusercontent.com/austinyk1/crypto/main/unknown.png",
+      "decimals": 0,
+      "address": "2Ky3WvFzcQQP8cHNAxfGgeNmEvXS1He66t9wEgaTbBMt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Uzbek Coin",
       "symbol": "UZB",
       "logoURI": "https://github.com/sanjarbek1807/Uzbekcrypto/blob/main/msg453275494-436158.jpg",
@@ -68440,6 +68451,18 @@
       }
     },
     {
+      "name": "Alleycats Collective Tokens",
+      "symbol": "PURR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/h4XNYWyefydaNiEZmECeutJtxQbyopZUSeWPFDJZtaL/purr_coin.png",
+      "decimals": 9,
+      "address": "Cbi6U8C8mC1ENvskYBqyYzmy1Q5wB5bk9YzUcF6ZVomQ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "DragonSouls",
       "symbol": "$DSOULS",
       "logoURI": "https://raw.githubusercontent.com/Soulsdragon/SoulsIcon-v2/main/%24DSOUL.png",
@@ -115973,6 +115996,14 @@
       "extensions": {
         "website": "https://devbeta.human.ag/address/2MeA5pogprKa1Jyx3k1caTyZgHbBwsvb1w5mq6z4Ht3L?src=token-list"
       }
+    },
+    {
+      "name": "Hotline Token",
+      "symbol": "HTLN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3fX2LgjZkoAsxGJLx75pLdWqP9kY5QJtqmhDzVTJwqvJ/logo.png",
+      "decimals": 6,
+      "address": "3fX2LgjZkoAsxGJLx75pLdWqP9kY5QJtqmhDzVTJwqvJ",
+      "chainId": 103
     },
     {
       "name": "Xesque Dele",
