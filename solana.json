@@ -17016,6 +17016,19 @@
       }
     },
     {
+      "name": "Pila",
+      "symbol": "PILA",
+      "logoURI": "https://raw.githubusercontent.com/Allenbrd/Pila/main/logo.png",
+      "decimals": 0,
+      "address": "4i2yu5iFvxyPDgbRPbn449gz4As9D9q1BaUS6nsuQf7B",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "governance-token"
+      ]
+    },
+    {
       "name": "Gallery Token",
       "symbol": "BOHEM",
       "logoURI": "https://www.arweave.net/5abqgGa3kuMhCdQ09OOtmw7EzQbk-Fsa_tBt000JAg8?ext=gif",
