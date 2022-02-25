@@ -2857,6 +2857,17 @@
       }
     },
     {
+      "name": "CryptoStrapsWL",
+      "symbol": "GUNWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Pyc8DkCgPohR1o3ExMx84fLxU8ti1eQnySUwJMh5E6d/logo.png",
+      "decimals": 0,
+      "address": "2Pyc8DkCgPohR1o3ExMx84fLxU8ti1eQnySUwJMh5E6d",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
       "name": "Afro",
       "symbol": "$AFRO",
       "logoURI": "https://raw.githubusercontent.com/Texaglo/afro/main/logo.png",
@@ -10494,6 +10505,17 @@
       "logoURI": "https://raw.githubusercontent.com/vikriyah/crypto/main/logo.png",
       "decimals": 0,
       "address": "3bBzthYLDgF58nE5khLJ88Ub7MAehsZPAD5V1uxS17Tg",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Urjcoin",
+      "symbol": "URJK",
+      "logoURI": "https://raw.githubusercontent.com/kueurj/urjkue-logo/main/circle-U-ou1.jpg",
+      "decimals": 0,
+      "address": "3bCJzDhVXDTf8Tph4xcLw8iogUK6WgHGzk6RLgW21UTN",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -75528,6 +75550,17 @@
         "social-token",
         "utility-token",
         "community-token"
+      ]
+    },
+    {
+      "name": "Mises Coin",
+      "symbol": "LVM",
+      "logoURI": "https://raw.githubusercontent.com/ki2tech/crypto/main/Misescoinlogo2.png",
+      "decimals": 0,
+      "address": "DdFDHUTNUVAfmwUj7hkdSkuee14TkHMAacoCFijAudX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
