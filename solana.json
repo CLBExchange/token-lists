@@ -10973,6 +10973,17 @@
       }
     },
     {
+      "name": "Fastik Coin",
+      "symbol": "FSTK",
+      "logoURI": "https://raw.githubusercontent.com/frozenBranch/fastik/main/fastik.png",
+      "decimals": 0,
+      "address": "3fwNEvk4WZnB6RCJwgp9HazXqX8sKD8qcNx2ckx5Rct2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Nyquist",
       "symbol": "NYQ",
       "logoURI": "https://raw.githubusercontent.com/anticausal/crypto/main/nyquist/logo.png",
@@ -37483,6 +37494,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Diamond Hands Mint Token",
+      "symbol": "DHMT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84CGueN92MKdNRhpgciRmWZhnD8xv65k6K6zFX5e4Lwq/logo.png",
+      "decimals": 0,
+      "address": "84CGueN92MKdNRhpgciRmWZhnD8xv65k6K6zFX5e4Lwq",
+      "chainId": 101,
+      "tags": [
+        "mint-token"
+      ],
+      "extensions": {
+        "website": "https://www.cprodiamond.io/",
+        "twitter": "https://twitter.com/cprodiamond",
+        "instagram": "https://www.instagram.com/cprodiamond/"
+      }
     },
     {
       "name": "HaDaT3ch",
@@ -102631,6 +102658,17 @@
       }
     },
     {
+      "name": "Ohms2law",
+      "symbol": "HVAC",
+      "logoURI": "https://raw.githubusercontent.com/Ohms2law/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "Hoh887H72GFaPqG8yBqTA8GWeVbWsnbCxDyAZyRHXMvc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "HONEY",
       "symbol": "$HONEY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HonyeYAaTPgKUgQpayL914P6VAqbQZPrbkGMETZvW4iN/logo.svg",
@@ -102909,6 +102947,20 @@
         "community-token",
         "altcoin"
       ]
+    },
+    {
+      "name": "BCBY Crops",
+      "symbol": "$CROPS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hrs8H2FfWLxUa7kFV53vXPE2RGx5uZuUPCrKSUNZ99yU/logo.png",
+      "decimals": 9,
+      "address": "Hrs8H2FfWLxUa7kFV53vXPE2RGx5uZuUPCrKSUNZ99yU",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.bcbarnyard.info/"
+      }
     },
     {
       "name": "Unknown Coin",
