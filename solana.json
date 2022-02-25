@@ -21735,6 +21735,17 @@
       ]
     },
     {
+      "name": "CheF'N",
+      "symbol": "CHF",
+      "logoURI": "https://raw.githubusercontent.com/Chriscoins/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "5W5vGGnpfU6PykJuexUPbbgcs2mJQ7ywq8s7GWEqb2c9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Sol Merge AI",
       "symbol": "SOLMERGE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5WLNynnq9pVio8Rj8XnqdZLYZSsaKzzAzS4aFvUK1tU2/logo.png",
@@ -84509,6 +84520,17 @@
       "logoURI": "https://raw.githubusercontent.com/cfjps/crypto/main/logo.JPG",
       "decimals": 0,
       "address": "F2sMWsxnKjtejFHchYtvMrmyMkFFR6Pg3n2SZQihemLN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "SmoothCoin",
+      "symbol": "SMTH",
+      "logoURI": "https://raw.githubusercontent.com/mabo31/crypto/main/Logo.png",
+      "decimals": 0,
+      "address": "F2scmWCGyhefxcdzSYAVdZjBVwocri7DJDAhBiVgNcTR",
       "chainId": 101,
       "tags": [
         "social-token"
