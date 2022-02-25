@@ -29820,6 +29820,21 @@
       }
     },
     {
+      "name": "Barge Profit",
+      "symbol": "BARGE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6sV2WL6pYjN1fHGhjtQQ4QxpCjtpvH7HrMjng3B6ARCy/captain.png",
+      "decimals": 0,
+      "address": "6sV2WL6pYjN1fHGhjtQQ4QxpCjtpvH7HrMjng3B6ARCy",
+      "chainId": 101,
+      "tags": [
+        "Barge-profit",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://www.blocksto.ne/barge-profit/"
+      }
+    },
+    {
       "name": "Cat Cash",
       "symbol": "CATZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6sZdGff2HusNB4M4yqQxmfZicdwSMzjTF8axXeW4nQ2N/logo.png",
@@ -66917,6 +66932,22 @@
       "decimals": 0,
       "address": "CMa2oZ98xdsDFVdQpKKzgAJLJUq2HBiUCMi9y3u5S3uo",
       "chainId": 101
+    },
+    {
+      "name": "NXTDMNSN INDUSTRIES Token",
+      "symbol": "NXDM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CMcSwpe5WarHDkE64Yxasz4poxNz3jjpum45xYrcxtpi/logo.png",
+      "decimals": 9,
+      "address": "CMcSwpe5WarHDkE64Yxasz4poxNz3jjpum45xYrcxtpi",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/NXT_DMNSN_IND",
+        "discord": "https://discord.gg/gaZMrd3Qjb",
+        "description": "NXDM is a physical NFT verification utility token and product design token."
+      }
     },
     {
       "name": "AGX Coin",
@@ -104729,6 +104760,21 @@
       ]
     },
     {
+      "name": "Barge Bond",
+      "symbol": "BARGE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J968KD1xJx3X29Zg1yGWRa8EMDHWthHFZMkY7egr6ARp/captain.png",
+      "decimals": 0,
+      "address": "J968KD1xJx3X29Zg1yGWRa8EMDHWthHFZMkY7egr6ARp",
+      "chainId": 101,
+      "tags": [
+        "Barge-bond",
+        "Blockstone"
+      ],
+      "extensions": {
+        "website": "https://www.blocksto.ne/barge-bond"
+      }
+    },
+    {
       "name": "iShares MSCI Emerging Markets ETF",
       "symbol": "EEM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J9GVpBChXZ8EK7JuPsLSDV17BF9KLJweBQet3L6ZWvTC/logo.svg",
@@ -111182,6 +111228,17 @@
         "website": "https://stake.solblaze.org/",
         "twitter": "https://twitter.com/solblaze_org",
         "github": "https://github.com/SolBlazeOrg"
+      }
+    },
+    {
+      "name": "Social Squids",
+      "symbol": "SSS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/bZiNzQpzMEvhCGG722aKR2LrPaHA9AfAK2EpAwsy7yv/logo.jpg",
+      "decimals": 0,
+      "address": "bZiNzQpzMEvhCGG722aKR2LrPaHA9AfAK2EpAwsy7yv",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/SoSquidSociety"
       }
     },
     {
