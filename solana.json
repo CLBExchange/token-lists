@@ -18321,6 +18321,25 @@
       ]
     },
     {
+      "name": "KAI",
+      "symbol": "KAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tUUpzPsSCzSasdRueA3J2phAvLD9cqRbzFCCNQAJpt4/logo.png",
+      "decimals": 0,
+      "address": "4tUUpzPsSCzSasdRueA3J2phAvLD9cqRbzFCCNQAJpt4",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "staking"
+      ],
+      "extensions": {
+        "website": "https://kaimetaverse.cloud",
+        "twitter": "https://twitter.com/kaimetaverse",
+        "discord": "https://discord.gg/kaimetaverse",
+        "description": "KAI is the native token within the kaimetaverse - It supports several utility cases in which users are sent KAI via rewards as well as enabling DeFi features within it's ecosystem"
+      }
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_F6FB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4tVV3AaapvszL6LrWiHoBVYue9h6Hb9wmQ4DYnTYVWeT/logo.png",
@@ -39715,6 +39734,23 @@
         "assetContract": "https://etherscan.io/address/0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
         "coingeckoId": "union-protocol-governance-token",
         "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D"
+      }
+    },
+    {
+      "name": "PATACOIN",
+      "symbol": "PTCOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8N48SUqtnrUyJtzU8iLpmUPMg3mm5su5uRh5tStVqHnD/logo.png",
+      "decimals": 2,
+      "address": "8N48SUqtnrUyJtzU8iLpmUPMg3mm5su5uRh5tStVqHnD",
+      "chainId": 101,
+      "tags": [
+        "Community-Token",
+        "Utility-Token",
+        "Social-Token",
+        "DAO-Token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/axbaquero"
       }
     },
     {
@@ -108353,6 +108389,14 @@
       "extensions": {
         "website": "https://twitter.com/southparkdegens"
       }
+    },
+    {
+      "name": "Tanuki WL",
+      "symbol": "TNK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SPLw2X9175YhXUAaQuf8cvZ9mX8hpYF5X4B1esHPcNS/logo.png",
+      "decimals": 0,
+      "address": "SPLw2X9175YhXUAaQuf8cvZ9mX8hpYF5X4B1esHPcNS",
+      "chainId": 101
     },
     {
       "name": "Sponsor",
