@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-25T09:09:05.169Z",
+  "timestamp": "2022-02-25T10:08:53.251Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -4909,6 +4909,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 3wSi",
+      "symbol": "3wSiq",
+      "decimals": 6,
+      "address": "3wSiqJH31QqbHyZk6RGjWfjD4ad3nfk3isyMFwGBHhCr",
+      "chainId": 104
+    },
+    {
       "name": "Token 3wUR",
       "symbol": "3wURC",
       "decimals": 6,
@@ -6313,6 +6320,13 @@
       "symbol": "4XHLs",
       "decimals": 6,
       "address": "4XHLsjVxSBubCPwYSQbGavGgvSa4ZZCk7ByBbFZU1tCP",
+      "chainId": 104
+    },
+    {
+      "name": "Token 4XMd",
+      "symbol": "4XMd9",
+      "decimals": 6,
+      "address": "4XMd9pQQZBT7GHRvwsxiJhfmhxBXBanuE5vw6whhW9hD",
       "chainId": 104
     },
     {
@@ -17646,6 +17660,13 @@
       "symbol": "9JFEd",
       "decimals": 6,
       "address": "9JFEdaJ3WdgWuJUDcvgDea4uSSLgMJ1LZT7Nbf3xoCS7",
+      "chainId": 104
+    },
+    {
+      "name": "Token 9JKC",
+      "symbol": "9JKCu",
+      "decimals": 6,
+      "address": "9JKCunHmezFa6uhUUXxBQdiXDgrrmcpjxm7ve5feEPo9",
       "chainId": 104
     },
     {
@@ -30916,6 +30937,13 @@
       "chainId": 104
     },
     {
+      "name": "Token Eobs",
+      "symbol": "EobsE",
+      "decimals": 6,
+      "address": "EobsEHxvmYzYaC8rVv9YeegJHS4eWFK1VhTZATCBxhQm",
+      "chainId": 104
+    },
+    {
       "name": "Token Eocs",
       "symbol": "EocsL",
       "decimals": 6,
@@ -31620,6 +31648,13 @@
       "symbol": "F74wK",
       "decimals": 6,
       "address": "F74wKyp1BF9b6736aN5t7dYQkoFyCVL3g5Kr1sEL7Wxs",
+      "chainId": 104
+    },
+    {
+      "name": "Token F7BR",
+      "symbol": "F7BRc",
+      "decimals": 6,
+      "address": "F7BRcyDrXHc1NZ3NtQLhZViSkryMYztusUoycaNchary",
       "chainId": 104
     },
     {
@@ -37066,6 +37101,13 @@
       "symbol": "HThon",
       "decimals": 6,
       "address": "HThonjr2Rme5AL7o4tee9kyYz4zdt1HuSBQDr9sUjoP6",
+      "chainId": 104
+    },
+    {
+      "name": "Token HTvn",
+      "symbol": "HTvnK",
+      "decimals": 6,
+      "address": "HTvnKiLVwsUibdRdiCFAYiQkAitEjo3ut9GNV44hdUJu",
       "chainId": 104
     },
     {
