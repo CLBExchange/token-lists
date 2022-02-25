@@ -1218,6 +1218,17 @@
       }
     },
     {
+      "name": "TheNFT Token",
+      "symbol": "TNT",
+      "logoURI": "https://raw.githubusercontent.com/Onni3000/crypto/main/token.png",
+      "decimals": 0,
+      "address": "28d4sqhGuvbV63DpEptTkj26umw3DyLy6NB8u6vdGTuh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DairyCow",
       "symbol": "DCW",
       "logoURI": "https://cdn.jsdelivr.net/gh/CarbonFarm/DCWtoken/logo.png",
@@ -57474,6 +57485,21 @@
       }
     },
     {
+      "name": "PewPew",
+      "symbol": "PEWPEW",
+      "logoURI": "https://solgats.io/wp-content/uploads/2022/02/pew-1.png",
+      "decimals": 10,
+      "address": "AvYRFjk4imoGSAYxcwfm4dM6qQigR6DZJt3vDatdgPeP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solgats.io",
+        "twitter": "https://twitter.com/solgats"
+      }
+    },
+    {
       "name": "Macfor Coin",
       "symbol": "MFTK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AvfTV1GztEciuYWsbJ2bDxxcPt1ZbyLe6tMPk7bmw7WM/Logo.png",
@@ -76063,6 +76089,17 @@
       ]
     },
     {
+      "name": "Eliga Services",
+      "symbol": "ES",
+      "logoURI": "https://github.com/Bernardvdv/nft/blob/main/cropped-eliga-services-favicon-32x32.png",
+      "decimals": 0,
+      "address": "DgeYFKF199fxQQhYf3xiEZoYLoTANN8vq3kU7jSrM3eS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Solana Orietnal Rug",
       "symbol": "SORP",
       "logoURI": "https://raw.githubusercontent.com/SolSeltzer/Solana-Oriental-Rug/main/Untitled-3.png",
@@ -76379,6 +76416,27 @@
       ],
       "extensions": {
         "website": "https://www.intertin.com"
+      }
+    },
+    {
+      "name": "CryptoClaw",
+      "symbol": "CLAW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DirhEoLS5cgHc2DnDtvFhNusp4dWr3WNK6i2ssect1Zi/logo.png",
+      "decimals": 9,
+      "address": "DirhEoLS5cgHc2DnDtvFhNusp4dWr3WNK6i2ssect1Zi",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://pixelprezs.xyz",
+        "twitter": "https://twitter.com/PixelPrezs",
+        "discord": "https://discord.gg/J7YwjVEzgc"
       }
     },
     {
@@ -92973,6 +93031,23 @@
         "social-token",
         "oxy-token"
       ]
+    },
+    {
+      "name": "GOATZ",
+      "symbol": "GOATZ",
+      "logoURI": "https://solaboy.github.io/images/goatz.png",
+      "decimals": 2,
+      "address": "GEWm7pTN5jH1LND1LgiWkrTDCusQbC8JbL55vmxeq7Ne",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "crypto",
+        "rewards"
+      ],
+      "extensions": {
+        "website": "https://www.goatz.io",
+        "telegram": "https://t.me/goatz_world"
+      }
     },
     {
       "name": "POTATO",
