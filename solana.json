@@ -14134,6 +14134,18 @@
       ]
     },
     {
+      "name": "Weedy's",
+      "symbol": "WDY",
+      "logoURI": "https://raw.githubusercontent.com/Olieboll/crypto/main/Weedy's.png",
+      "decimals": 0,
+      "address": "4CEmorYMVkPad5XrS7p4gqhwwUT4jgBTzcF2d6LTEZ6R",
+      "chainId": 101,
+      "tags": [
+        "nft-token",
+        "solana"
+      ]
+    },
+    {
       "name": "Orca Aquafarm Token (PORT/USDC)",
       "symbol": "PORT/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4CGxvZdwiZgVMLXiTdJHTkJRUTpTSJCtmtCRbSkAxerE/logo.svg",
@@ -62211,6 +62223,17 @@
       }
     },
     {
+      "name": "Open Data Coin",
+      "symbol": "OPDC",
+      "logoURI": "https://raw.githubusercontent.com/frozenBranch/fastik/main/opendatalogo.png",
+      "decimals": 9,
+      "address": "BdnaZ5yDCjXWXXt37s8fFUJ3afpTEvvoo8c77CHSDopC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Cherry",
       "symbol": "CHERRY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BdtBaw3u9bBiBLjF9unbPDhXTWaWqz6ngSDXo16yXcT9/logo.png",
@@ -96701,6 +96724,17 @@
       "extensions": {
         "website": "https://www.blocksto.ne/it-sol"
       }
+    },
+    {
+      "name": "Markka",
+      "symbol": "MK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GiktSMDhz9U7Nxs7fH5LSAVna3quv6giFdJrJ4WD3uHx/logo.png",
+      "decimals": 0,
+      "address": "GiktSMDhz9U7Nxs7fH5LSAVna3quv6giFdJrJ4WD3uHx",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "DouchaCoin",
