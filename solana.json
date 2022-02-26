@@ -32503,6 +32503,17 @@
       ]
     },
     {
+      "name": "PhotonCoin",
+      "symbol": "PHOC",
+      "logoURI": "https://raw.githubusercontent.com/Unitech357/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "7HRrtvKKn2vEYJuFaD9ijwmkdrdQmEe13KmBoYstqD85",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "NaDcoin",
       "symbol": "NAD",
       "logoURI": "https://raw.githubusercontent.com/grachenova/crypto/main/coin_pic.jpg",
