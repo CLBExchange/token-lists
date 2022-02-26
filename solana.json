@@ -102329,6 +102329,17 @@
       ]
     },
     {
+      "name": "Kawaii Animals Mint Pass",
+      "symbol": "KAMP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HhXYhtFqfjxe5iBuBQ3RedmmAbgFrjW2DBzPak14ejQq/logo.png",
+      "decimals": 0,
+      "address": "HhXYhtFqfjxe5iBuBQ3RedmmAbgFrjW2DBzPak14ejQq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wayne Coin",
       "symbol": "WAYNE",
       "logoURI": "https://raw.githubusercontent.com/WayneChattillon/token-list/488a6b70aba807ab8902477b6ec01fef578aaddc/assets/mainnet/wayne2.jpg",
@@ -110353,6 +110364,14 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g/logo.png",
       "decimals": 0,
       "address": "WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g",
+      "chainId": 101
+    },
+    {
+      "name": "SSS WhiteList Token",
+      "symbol": "WLSSS",
+      "logoURI": "https://github.com/CryptoPique/token-list/tree/main/assets/mainnet/WLTdgwdNi91RGojhM6Wk5rXNKsVgLA5cZbgL7XGTETX/logowhite.png",
+      "decimals": 0,
+      "address": "WLTdgwdNi91RGojhM6Wk5rXNKsVgLA5cZbgL7XGTETX",
       "chainId": 101
     },
     {

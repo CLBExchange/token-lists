@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-25T23:08:32.202Z",
+  "timestamp": "2022-02-26T00:29:53.997Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -4962,6 +4962,26 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Saber FRAX-UST LP (Replica)",
+      "symbol": "qrFRAX-UST",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
+      "decimals": 8,
+      "address": "GqLcJdCkLgk5AsJ2gBadYpPRNHxoYFWpwb7csJ2ED176",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "saber-lp-wormhole-v2",
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/frax_ust",
+        "underlyingTokens": [
+          "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD"
+        ],
+        "source": "quarry-merge-mine-replica"
       }
     },
     {
