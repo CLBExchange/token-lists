@@ -33472,6 +33472,21 @@
       }
     },
     {
+      "name": "Good Vibes",
+      "symbol": "GV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7TQTpG1qBvE9ui7J9yQWKFAYpQahkaKPKqGTsqSm1wUv/logo.png",
+      "decimals": 9,
+      "address": "7TQTpG1qBvE9ui7J9yQWKFAYpQahkaKPKqGTsqSm1wUv",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "http://www.thesolarmy.com",
+        "twitter": "https://twitter.com/The_Sol_Army"
+      }
+    },
+    {
       "name": "SRM tee-shirt",
       "symbol": "SRM tee-shirt",
       "decimals": 0,
@@ -57204,6 +57219,14 @@
       "extensions": {
         "website": "https://google.com"
       }
+    },
+    {
+      "name": "AstroToken",
+      "symbol": "ASRO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AstPCW5xTv5EG22qPE81CeKVZ6y9jv8SooivuCYsCMSu/logo.png",
+      "decimals": 9,
+      "address": "AstPCW5xTv5EG22qPE81CeKVZ6y9jv8SooivuCYsCMSu",
+      "chainId": 101
     },
     {
       "name": "BRAWNDO",
