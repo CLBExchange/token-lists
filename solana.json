@@ -28957,6 +28957,17 @@
       }
     },
     {
+      "name": "Golden Ticket Token",
+      "symbol": "GTT",
+      "logoURI": "https://raw.githubusercontent.com/DEM-Lion/GoldenTicketToken/64141cb7d7af46295c9ec9525a179506948f25b3/logo.PNG",
+      "decimals": 0,
+      "address": "6hwvPWpszUc1KeLgRmR1CcmT3uSkGqeaXXR45HpHYECH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Thimp Coin",
       "symbol": "THMP",
       "logoURI": "https://raw.githubusercontent.com/Thimp-com/uploads/main/logo.png",
@@ -64844,6 +64855,17 @@
       "logoURI": "https://raw.githubusercontent.com/hinchingyuen/Digital-Silicon/main/logo.png",
       "decimals": 0,
       "address": "C2APzN3zNXsW3Mfufp2EYpwGPwGU1MXjrFo7A2csiAza",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "LOTROSE",
+      "symbol": "LTRSE",
+      "logoURI": "https://raw.githubusercontent.com/lotrose1/crypto/main/LOTROSE.png",
+      "decimals": 0,
+      "address": "C2JftZnC852McYwDePmm3ZQTrpPuXT1gA3Cm9oW4NRuA",
       "chainId": 101,
       "tags": [
         "social-token"
