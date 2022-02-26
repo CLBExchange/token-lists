@@ -67784,6 +67784,22 @@
       }
     },
     {
+      "name": "SL Garden WL Token",
+      "symbol": "LNFTxSLSKIN3",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CSTVeXB1oBAfRz3JsJmHz37ViJ2uRRv7qHnWRPnF2fQG/logo.png",
+      "decimals": 0,
+      "address": "CSTVeXB1oBAfRz3JsJmHz37ViJ2uRRv7qHnWRPnF2fQG",
+      "chainId": 101,
+      "tags": [
+        "liqnft-wl-token"
+      ],
+      "extensions": {
+        "website": "https://www.liqnft.com/solanaland",
+        "twitter": "https://twitter.com/liqnft",
+        "discord": "https://discord.gg/PYZWRHgVwM"
+      }
+    },
+    {
       "name": "Grow East Point Vegging",
       "symbol": "GEPV",
       "logoURI": "https://raw.githubusercontent.com/cpatt2015/Crypto/main/vegging.png",
@@ -84880,6 +84896,17 @@
       "logoURI": "https://raw.githubusercontent.com/rrgrow/crypto/main/logo.png",
       "decimals": 0,
       "address": "F31ccScAXyf39DzSpRYKdEGyZmPihqGEtKhmvLddYD11",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "W-Club Token",
+      "symbol": "WC",
+      "logoURI": "https://raw.githubusercontent.com/yanivberg/WCTOKEN/main/WClogo.png",
+      "decimals": 0,
+      "address": "F32SqCgfvxi2z4EWirzQ3DATpQo3dK75LoRUvZBjeeSe",
       "chainId": 101,
       "tags": [
         "social-token"
