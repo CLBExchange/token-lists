@@ -8084,6 +8084,25 @@
       }
     },
     {
+      "name": "Dozy Panda Club",
+      "symbol": "DPC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FzFyEk3NRvA2EKtSW2FSrGp67R8cnDoEWTZQ36AiUxE/logo.png",
+      "decimals": 0,
+      "address": "3FzFyEk3NRvA2EKtSW2FSrGp67R8cnDoEWTZQ36AiUxE",
+      "chainId": 101,
+      "tags": [
+        "game-token",
+        "staking",
+        "gamble"
+      ],
+      "extensions": {
+        "website": "http://dozypandaclub.com/",
+        "twitter": "https://twitter.com/DozyPandaClub",
+        "discord": "https://discord.gg/Q22K998ra9",
+        "description": "A Unique Collection Of 3333 Dozy Pandas Sleeping On The Solana Blockchain."
+      }
+    },
+    {
       "name": "PIXIEDUST",
       "symbol": "PIXIE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3G2oiYqzx6r3SAY8zdioQ6v21HvrMJtwGoQ7SywS8AVY/logo.png",
@@ -8696,7 +8715,7 @@
     {
       "name": "Odyssey Coin",
       "symbol": "ODSY",
-      "logoURI": "https://raw.githubusercontent.com/soutrikdeylive/odyssey_logo/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/soutrikdeylive/odyssey_logo_solchain/main/new_logo.png",
       "decimals": 9,
       "address": "3LDDeRpEW45HAyUUiyCysDKsYRQanXnEXd9Yjfr5mxZ5",
       "chainId": 101,
@@ -31261,7 +31280,7 @@
       ],
       "extensions": {
         "website": "https://myquantex.com",
-        "twitter": "https://twitter.com/cryptiswap",
+        "twitter": "https://twitter.com/Quantex_Global",
         "description": "QTX is the native exchange token on the Quantex (formerly Cryptiswap), which is a global crypto exchange featuring an instant swap platform & an advanced trading platform. Customers choose between taking custody of their own funds on the non-custodial swap platform, or allow us to take custody on the trading platform.",
         "blog": "https://blog.myquantex.com",
         "reddit": "https://www.reddit.com/user/CryptiSwap",
@@ -33178,7 +33197,7 @@
     },
     {
       "name": "LlamaCoin",
-      "symbol": "LlamaCoin",
+      "symbol": "LLAMA",
       "logoURI": "https://solgats.io/wp-content/uploads/2022/02/llamacoin.png",
       "decimals": 10,
       "address": "7Pe63gqDvC62U5YiLnL92zDkcQwFb2Gn51WYmKfrc3eY",
@@ -49551,6 +49570,24 @@
       ]
     },
     {
+      "name": "MARS Coin",
+      "symbol": "$MARS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9rfJFmAa3eynZ6mNMaPmTks2JDSQ3YCnCg3Y2LokWegJ/logo.png",
+      "decimals": 0,
+      "address": "9rfJFmAa3eynZ6mNMaPmTks2JDSQ3YCnCg3Y2LokWegJ",
+      "chainId": 101,
+      "tags": [
+        "currency",
+        "game-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.martianarmy.space",
+        "discord": "https://discord.com/channels/932827372464513085/943416696964780132"
+      }
+    },
+    {
       "name": "John343",
       "symbol": "JOHN",
       "logoURI": "https://raw.githubusercontent.com/John34344/crypto/main/logo.png",
@@ -62701,7 +62738,8 @@
       "extensions": {
         "website": "https://www.shibana.io/",
         "twitter": "https://twitter.com/ShibanaCoin",
-        "discord": "https://discord.com/invite/X8tKR52E32"
+        "discord": "https://discord.com/invite/X8tKR52E32",
+        "coingeckoId": "shibana"
       }
     },
     {
@@ -109376,8 +109414,8 @@
       }
     },
     {
-      "name": "STIMMY",
-      "symbol": "STIMMY",
+      "name": "SER",
+      "symbol": "SER",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StiMWryqUXqFfQUBX51bbxhMJqS9RqJqsAvrsuh2aYi/logo.png",
       "decimals": 9,
       "address": "StiMWryqUXqFfQUBX51bbxhMJqS9RqJqsAvrsuh2aYi",
@@ -109913,6 +109951,14 @@
         "twitter": "https://twitter.com/Ghost_Beat_",
         "discord": "https://discord.gg/kzPBdWtbrK"
       }
+    },
+    {
+      "name": "My Test SPL Token",
+      "symbol": "MTSPL",
+      "logoURI": "https://raw.githubusercontent.com/mean-training/spl_token/main/images-1.png",
+      "decimals": 0,
+      "address": "TokeZFFFFmeWFEEGiXy9DYszxKz5yYT2WqBSc4uVrge",
+      "chainId": 101
     },
     {
       "name": "Tok Coin",
@@ -112204,7 +112250,7 @@
     },
     {
       "name": "MooseCoin",
-      "symbol": "MooseCoin",
+      "symbol": "MOOSE",
       "logoURI": "https://solgats.io/wp-content/uploads/2022/02/moosecoin.png",
       "decimals": 10,
       "address": "dR9WzcdHTXrW57eM9kkVmkP7CpZGmTQq834JyTRxGjw",
