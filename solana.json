@@ -103616,6 +103616,17 @@
       ]
     },
     {
+      "name": "EffektFuture Fund",
+      "symbol": "FXFUND",
+      "logoURI": "https://raw.githubusercontent.com/pyrexxx/effektfuturefund/main/eff_logo3.png",
+      "decimals": 9,
+      "address": "HtquMwfDXagEkYYC9NJVKmv1sUrp4PTHLo4piDNf3sMm",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "ATHENA",
       "symbol": "ATHENA",
       "logoURI": "https://raw.githubusercontent.com/eliotos/crypto/main/logo.png",
