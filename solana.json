@@ -26778,6 +26778,17 @@
       ]
     },
     {
+      "name": "VladCoinG66",
+      "symbol": "G666",
+      "logoURI": "https://raw.githubusercontent.com/Jordann26PC/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "6P3U9HzGUitrCxSXX4PzEU8uc1QqBsZuZNULyKUGgfvN",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "TokenStore World",
       "symbol": "TSW",
       "logoURI": "https://raw.githubusercontent.com/admin5505/tsw/main/logo.png",
@@ -29547,6 +29558,22 @@
       "extensions": {
         "website": "https://escoin.company/",
         "twitter": "https://twitter.com/coin_esc"
+      }
+    },
+    {
+      "name": "BeNFT Token",
+      "symbol": "BeNFT",
+      "logoURI": "https://raw.githubusercontent.com/BeNFT2022/images/main/logo.png",
+      "decimals": 2,
+      "address": "6oQnWHy3XsQKLi8CNpq4UVFY1SA7sGirEm6zmbge2ZU4",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "website": "https://www.benft.solutions",
+        "twitter": "https://twitter.com/benft"
       }
     },
     {
@@ -41984,6 +42011,14 @@
         "reddit": "https://www.reddit.com/user/goekdln",
         "telegram": "https://t.me/goekdln"
       }
+    },
+    {
+      "name": "Tanukisan WL",
+      "symbol": "TNKWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fhixNskWPGsQprN28pCwDqx11p1VTJGVQ6a7NBv9nwe/logo.png",
+      "decimals": 0,
+      "address": "8fhixNskWPGsQprN28pCwDqx11p1VTJGVQ6a7NBv9nwe",
+      "chainId": 101
     },
     {
       "name": "SnakeChain",
@@ -90274,6 +90309,17 @@
         "telegram": "https://t.me/monkeyball_official",
         "whitepaper": "https://steadd.com/assets/pdfs/whitepaperWeb.pdf",
         "youtube": "https://www.youtube.com/channel/UCKhU0YnQHs2-Hovjs2cLWmw"
+      }
+    },
+    {
+      "name": "6rims WL Token",
+      "symbol": "6RIMS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FmjycwWoV2iVjE5EinWTdMTdQgrV3tANECnEdqeCtqAC/logo.png",
+      "decimals": 0,
+      "address": "FmjycwWoV2iVjE5EinWTdMTdQgrV3tANECnEdqeCtqAC",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://6rims.io/"
       }
     },
     {
