@@ -8982,7 +8982,7 @@
     {
       "name": "JACKED",
       "symbol": "JRGC",
-      "logoURI": "https://raw.githubusercontent.com/ThomasClous/Crypto/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ThomasClous/CryptoUpdate/main/logo.png",
       "decimals": 9,
       "address": "3NfqXM9i7NvxxRD23FJoF6sX1q8jRLRJU2b8BLsUrUDu",
       "chainId": 101,
@@ -23494,7 +23494,7 @@
     {
       "name": "CupcakeSwap",
       "symbol": "CUPCAKE",
-      "logoURI": "https://raw.githubusercontent.com/Njoni/CupcakeSwap/main/CupcakeSwap.png",
+      "logoURI": "https://raw.githubusercontent.com/Njoni/CupcakeSwapLogo-1/main/CupcakeSwap-png-24-1.png",
       "decimals": 6,
       "address": "5nBVVMJrG8NXNTgUV8NbydLGxF1G6HATAzYRXBfuinLL",
       "chainId": 101
@@ -70390,14 +70390,15 @@
       "address": "Code7hV6DaK5Werof8c7vPwBxLvhmEWVUbU2AfhBZArB",
       "chainId": 101,
       "tags": [
-        "nft",
         "defi",
         "currency",
         "social-token",
         "community-token"
       ],
       "extensions": {
+        "website": "https://www.codenjobs.com",
         "twitter": "https://twitter.com/codenjobs",
+        "discord": "https://discord.com/invite/pSCsYD5x",
         "telegram": "https://t.me/codenjobsgroup"
       }
     },
@@ -92199,6 +92200,26 @@
       "tags": [
         "general-token"
       ]
+    },
+    {
+      "name": "Metacraze",
+      "symbol": "MTZ",
+      "logoURI": "https://raw.githubusercontent.com/metacraze/assets/main/inverse.png",
+      "decimals": 4,
+      "address": "G2uWAcSQJRJigA81e7hx9zoMrN4YryEJg7JHJdxuG6sr",
+      "chainId": 101,
+      "tags": [
+        "metaverse-token",
+        "staking-token",
+        "nft-token",
+        "staking-token"
+      ],
+      "extensions": {
+        "website": "https://metacraze.io",
+        "twitter": "https://twitter.com/Metacraze_io",
+        "description": "Metaverse talent contests and wealth generation with blockchain validation",
+        "telegram": "https://t.me/Metacraze_Official"
+      }
     },
     {
       "name": "VICION GROUP COIN",
