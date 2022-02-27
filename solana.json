@@ -18338,6 +18338,17 @@
       }
     },
     {
+      "name": "Matty Ram",
+      "symbol": "MRAM",
+      "logoURI": "https://raw.githubusercontent.com/mattesser/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "4shVDxvcyFvGznMh3fWD95W72KczvR9x8A1rKhJ48wnX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "rafaleomanny",
       "symbol": "RLM",
       "logoURI": "https://raw.githubusercontent.com/Rafinix/Crypto/main/Logo.png",
@@ -115776,6 +115787,22 @@
         "website": "https://degen-nation69.com/",
         "twitter": "https://twitter.com/DegenNation69",
         "discord": "https://discord.gg/DegenNation69"
+      }
+    },
+    {
+      "name": "Vithril",
+      "symbol": "VITH",
+      "logoURI": "https://www.vivendell.com/images/icon-vithril.png",
+      "decimals": 9,
+      "address": "viTh4TyQqxAdLBbnLJ7K1uRJrz7riyMCEfAjRcXQV3V",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.vivendell.com/",
+        "twitter": "https://twitter.com/vivendell",
+        "discord": "https://discord.gg/KR28XfjtYQ"
       }
     },
     {
