@@ -36430,6 +36430,17 @@
       ]
     },
     {
+      "name": "Happy Akedo Token",
+      "symbol": "$HAT",
+      "logoURI": "https://raw.githubusercontent.com/hikaric-io/hikari/main/HappiAkedoToken-256.png",
+      "decimals": 0,
+      "address": "7qFv2mV6Kc7AmGkvaEo5kS2Zy7Z6ofCGdhRk6v3oDQMG",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "cDragonCoin",
       "symbol": "CDC",
       "logoURI": "https://raw.githubusercontent.com/benjaminiyou/crypto/main/cDragonLogo.png",
@@ -58426,6 +58437,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Official Blue Terra WL Token",
+      "symbol": "BTWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AyDDpSg7Q6icGx7RAntSDAuwxdMkEsRWkL4QkeqoQF1H/logo.png",
+      "decimals": 0,
+      "address": "AyDDpSg7Q6icGx7RAntSDAuwxdMkEsRWkL4QkeqoQF1H",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://blueterra.land/"
+      }
     },
     {
       "name": "JupiterCoin",
