@@ -4896,6 +4896,17 @@
       ]
     },
     {
+      "name": "SunLight",
+      "symbol": "SUNL",
+      "logoURI": "https://raw.githubusercontent.com/SunLight-SUNL/assets/main/sunlight.jpg",
+      "decimals": 4,
+      "address": "2nGhdv7MmvGprJUg68MMPMUEWG8zwePy8XcgzmodeSLe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SOOCY Token",
       "symbol": "SOOCY",
       "logoURI": "https://raw.githubusercontent.com/soocyme/coin/main/Logo_Final.png",
@@ -42034,6 +42045,17 @@
       "logoURI": "https://raw.githubusercontent.com/darek4you/crypto/main/logo.png",
       "decimals": 0,
       "address": "8dPFrSN4oVnMFZoAYnoTvufz6cFerJAw32aiWCtBvXWy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "METAPHOR COIN",
+      "symbol": "MTPR",
+      "logoURI": "https://raw.githubusercontent.com/metaphor-token/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "8dPtoBrsL8YAcTs3nmibwy5QTNk6p3SoPZGtP5QCTbhM",
       "chainId": 101,
       "tags": [
         "social-token"
