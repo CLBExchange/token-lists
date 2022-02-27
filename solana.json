@@ -3626,6 +3626,18 @@
       ]
     },
     {
+      "name": "NeuRon",
+      "symbol": "NR",
+      "logoURI": "https://raw.githubusercontent.com/PopusoiIonut/NeuRon/main/Logo.png",
+      "decimals": 9,
+      "address": "2YdQtVb48TFFegZQqJTnFBdtLT7bZsMioAAXuuBnwDc7",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Ahome",
       "symbol": "BLOCKSTONE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2YjFA4xNN3qaxpnVAciF7VvnzuF4GzbiNziu2uxRY9Wm/blockstonePNG.png",
