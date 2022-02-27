@@ -12101,6 +12101,19 @@
       }
     },
     {
+      "name": "ROYAL EBANK TOKEN",
+      "symbol": "RBT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3onFNex9u7DdhLoeYVskfamBBdLWRJkwy1RaP4VjwfQQ/logo.png",
+      "decimals": 4,
+      "address": "3onFNex9u7DdhLoeYVskfamBBdLWRJkwy1RaP4VjwfQQ",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Wrapped BTC (Allbridge from BSC)",
       "symbol": "abBTCB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
@@ -37872,6 +37885,17 @@
         "twitter": "https://twitter.com/synthetify",
         "coingeckoId": "usd-coin"
       }
+    },
+    {
+      "name": "DOME",
+      "symbol": "DOME",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/83Mme81p8fbNGaiRmNJMTx9wn5o6RezHq5ztvN1pYpdf/logo.png",
+      "decimals": 0,
+      "address": "83Mme81p8fbNGaiRmNJMTx9wn5o6RezHq5ztvN1pYpdf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Galaxy Pets",
@@ -118842,6 +118866,17 @@
       ]
     },
     {
+      "name": "UNIVERS REPUBLIK",
+      "symbol": "UREP",
+      "logoURI": "https://github.dev/POPE001/token-list/blob/a59c01f6fdf9ef7a4b9603f72e8d811a0ee8a830/assets/mainnet/ByEWiEXkwMXzHTT5FkuWzcHY3MzkYT814jFxxN1QLh3g/unilever.jpg",
+      "decimals": 9,
+      "address": "ByEWiEXkwMXzHTT5FkuWzcHY3MzkYT814jFxxN1QLh3g",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DEXGM",
       "symbol": "DXDGM",
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmQiNfkoXXHtnuWL1rmuRTfQ92RVypGsvjKs4WGsaT61yt",
@@ -118991,6 +119026,14 @@
       "tags": [
         "LUNA"
       ]
+    },
+    {
+      "name": "PURR Coin",
+      "symbol": "PURR",
+      "logoURI": "https://raw.githubusercontent.com/Edli-AW422/aw-solana-token/main/aw-logo.png",
+      "decimals": 9,
+      "address": "Cjx3nM3AzhECVCkaGPp5GXcEG4JQiGaNR9iYWxTuyFp5",
+      "chainId": 103
     },
     {
       "name": "Based Department",
