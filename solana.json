@@ -36275,6 +36275,20 @@
       }
     },
     {
+      "name": "CHAOS",
+      "symbol": "CHAOS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7pJ3ov6LZTgc4pxkWg8vopGEvYvjjYmfiZUjygMhQxKh/chaoslogo.png",
+      "decimals": 9,
+      "address": "7pJ3ov6LZTgc4pxkWg8vopGEvYvjjYmfiZUjygMhQxKh",
+      "chainId": 101,
+      "tags": [
+        "Utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BabyMenaceNft"
+      }
+    },
+    {
       "name": "Ipa Belgium Beer Project",
       "symbol": "IBBP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2cUiM1QyKoTTMb5xssJ2dBx8jbGaKK8NPNnyVdLdtfCw/logo.png",
@@ -41550,6 +41564,18 @@
         "twitter": "https://twitter.com/robotmafiaclub",
         "discord": "https://discord.gg/cN4qECwt68"
       }
+    },
+    {
+      "name": "THE HOPE COIN",
+      "symbol": "THC",
+      "logoURI": "https://raw.githubusercontent.com/thehopecoin/thehopecoin/main/logo.png",
+      "decimals": 9,
+      "address": "8ZxnzfnonFDuB1WBm6P3ESdrPZccn6KnAqiEdkBxMupb",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     },
     {
       "name": "SIM CRYPTO",
@@ -47485,6 +47511,17 @@
       }
     },
     {
+      "name": "Bagsyb",
+      "symbol": "BBR",
+      "logoURI": "https://raw.githubusercontent.com/Bagsybrawlers/Crypto/main/Bagsyb-logos.png",
+      "decimals": 0,
+      "address": "9VhWwUGcgws9ZeBSKdDSmw1CwbYxZS1qER8KkmJX2iRV",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (ETH-SRM)",
       "symbol": "ETH-SRM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9VoY3VERETuc2FoadMSYYizF26mJinY514ZpEzkHMtwG/logo.png",
@@ -47886,6 +47923,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9YoiEstQbAgQscqN4xeSsWk1S5yENwRHP74kgvAMGVjQ/FC.KE.png",
       "decimals": 0,
       "address": "9YoiEstQbAgQscqN4xeSsWk1S5yENwRHP74kgvAMGVjQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "RENEKoin",
+      "symbol": "RENE",
+      "logoURI": "https://raw.githubusercontent.com/RENEcat/crypto/main/RENECOIN.png",
+      "decimals": 0,
+      "address": "9Yt9TgPeqNoWJDinGSr1qjz2ou5H3A7Fo6Ks2Edqmmb7",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -99849,6 +99897,17 @@
         "medium": "https://medium.com/@mimo_3408",
         "discord": "https://discord.com/invite/rznuTnenPJ"
       }
+    },
+    {
+      "name": "PancakeCoin",
+      "symbol": "PANCAKE",
+      "logoURI": "https://raw.githubusercontent.com/InfernalGG/PANCAKE-assets/master/PANCAKE-COIN.jpg",
+      "decimals": 4,
+      "address": "HAevQUdCf52P4XzKTozt75aurAn8ZfHeveVQrtDjG79D",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "ICON",
