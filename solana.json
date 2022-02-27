@@ -6179,6 +6179,21 @@
       ]
     },
     {
+      "name": "MetaSuite-Whitelist",
+      "symbol": "MSWL",
+      "logoURI": "https://raw.githubusercontent.com/HarshitChari/Image-classifier/master/pics/WLCoin.png",
+      "decimals": 0,
+      "address": "2yqrNM6D2SoqHpJpHYGBAhk8rkbMR8z7TrED19W6JaHh",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://metasuitenft.com",
+        "twitter": "https://twitter.com/MetaSuiteNFT"
+      }
+    },
+    {
       "name": "MeepleCoin",
       "symbol": "MEEP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2z9RV8Zr3cAtcXnkFXqP5dtwpsxAgAvJHCkYjETvmM5z/logo.png",
@@ -27031,6 +27046,17 @@
       "logoURI": "https://raw.githubusercontent.com/Aradhya-B/huge/main/logo.png",
       "decimals": 0,
       "address": "6QYe2Mea4b1cH9dk3C8g29e95Bah9R4CmTGdSpjajumr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Alka Sweephy",
+      "symbol": "ALKA",
+      "logoURI": "https://raw.githubusercontent.com/abdullahalkakandilli/alkasweephy/main/logo.png",
+      "decimals": 0,
+      "address": "6QpsdCum7B8HhonzsrK1XCsJmrsB6kr3A8mzB1nomZb2",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -76057,6 +76083,22 @@
       }
     },
     {
+      "name": "Wezesha",
+      "symbol": "WEZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcjXyCeXRuVcRoR1LEsL33qLbTL374mCeE1dLbcdyv2B/logo.png",
+      "decimals": 9,
+      "address": "DcjXyCeXRuVcRoR1LEsL33qLbTL374mCeE1dLbcdyv2B",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.wezesha.co",
+        "twitter": "https://twitter.com/wezesha_"
+      }
+    },
+    {
       "name": "Cartel DRUGS",
       "symbol": "DRUGS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcqWM1BdgfUFktSKw8XC6qLAo2Ki2dUFXc1YYe67c8kD/logo.png",
@@ -81763,6 +81805,22 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "Toonie Token",
+      "symbol": "TOONIE",
+      "logoURI": "https://raw.githubusercontent.com/VortexHowl/ToonieToken/main/ToonieLogo.png",
+      "decimals": 6,
+      "address": "EWkFXyfTKYbjGFmmYJ8mtogMmwsZJrfZSJmLGHPSLZrg",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/VortexHowl"
+      }
     },
     {
       "name": "SQUAD2 COIN",
@@ -106868,6 +106926,17 @@
       }
     },
     {
+      "name": "Majin Genies Whitelist Token",
+      "symbol": "MGWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MGTt6Cj6Brg3mHmDSe6NnJhmAvwqoibNBt7xrj92RNu/logo.png",
+      "decimals": 0,
+      "address": "MGTt6Cj6Brg3mHmDSe6NnJhmAvwqoibNBt7xrj92RNu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Quarkore",
       "symbol": "QKOR",
       "logoURI": "https://raw.githubusercontent.com/agx93/1stoken/main/logo.png",
@@ -117024,6 +117093,14 @@
       "chainId": 103
     },
     {
+      "name": "Bongo Bear Token",
+      "symbol": "BONG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3KTvv2xvLxeVwgLYed5JVpnwpLzmqKjcxeZv1n29bYLp/logo.png",
+      "decimals": 9,
+      "address": "3KTvv2xvLxeVwgLYed5JVpnwpLzmqKjcxeZv1n29bYLp",
+      "chainId": 103
+    },
+    {
       "name": "Shmurda Coin",
       "symbol": "SHMRD",
       "logoURI": "https://raw.githubusercontent.com/marcus-kielman/SHMRD-Logo/main/Shmurda_Coin.png",
@@ -118777,6 +118854,17 @@
       "extensions": {
         "website": "https://www.sofven.com"
       }
+    },
+    {
+      "name": "AW Coin",
+      "symbol": "AW",
+      "logoURI": "https://raw.githubusercontent.com/Edli-AW422/aw-solana-token/main/aw-logo.png",
+      "decimals": 9,
+      "address": "Ddoy8we5iFxPomFnLVXHxXY7ZAdQsCnFxnW8G2rxYTQF",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Flame",
