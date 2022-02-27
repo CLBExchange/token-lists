@@ -3844,6 +3844,17 @@
       ]
     },
     {
+      "name": "MolleCoin",
+      "symbol": "MLCN",
+      "logoURI": "https://github.com/MMarleen/crypto/blob/main/Logo.png",
+      "decimals": 0,
+      "address": "2at5mSqehrvw6qZF97JrAaw5FRGVRnDJvJhygHenXHbE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Lexas",
       "symbol": "LEX",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2bH4zPEedsVQufAwfzsXrydDbmNhvtu9DHEp8aN2f6kJ/logo.png",
@@ -52089,12 +52100,13 @@
     {
       "name": "Acumen Governance Token",
       "symbol": "ACM",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo3.svg",
       "decimals": 9,
       "address": "ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB",
       "chainId": 101,
       "extensions": {
-        "website": "https://acumen.network/"
+        "website": "https://acumen.network/",
+        "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw"
       }
     },
     {
@@ -107039,6 +107051,20 @@
       }
     },
     {
+      "name": "Murphiez Whiskey",
+      "symbol": "WHISK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MURjLjujBn6A8Q1fDx96b9f3ftdoqS2FVoLKhpvN6jn/whisk.png",
+      "decimals": 9,
+      "address": "MURjLjujBn6A8Q1fDx96b9f3ftdoqS2FVoLKhpvN6jn",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/murphiezclub"
+      }
+    },
+    {
       "name": "Mushroom Racers WL",
       "symbol": "MUSH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MUSH7gnYdrr9PHrfSq8VyfehwUX9v9tqGqLNdKYRUrv/logo.png",
@@ -118756,6 +118782,17 @@
       ],
       "extensions": {
         "website": "https://devbeta.human.ag/address/2kZYqyAGZ8c9Ud1cdhoEqPipnmd8BS6pBZ8oEem3oPae?src=token-list"
+      }
+    },
+    {
+      "name": "Bulldog Billionaires Whitelist Token",
+      "symbol": "BULLDOG",
+      "logoURI": "https://user-images.githubusercontent.com/99852311/155863295-f74e3dfe-d49d-46f7-b77b-3b4a0b0a5ba5.png",
+      "decimals": 0,
+      "address": "DBKKTjyzJ6C5p9byNKfUtGMUp7TVeihZ2KxJL4taaXrn",
+      "chainId": 103,
+      "extensions": {
+        "website": "http://bulldogbillionaires.com"
       }
     },
     {
