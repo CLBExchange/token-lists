@@ -3857,7 +3857,7 @@
     {
       "name": "MolleCoin",
       "symbol": "MLCN",
-      "logoURI": "https://github.com/MMarleen/crypto/blob/main/Logo.png",
+      "logoURI": "https://raw.githubusercontent.com/MMarleen/crypto/main/Logo.png",
       "decimals": 0,
       "address": "2at5mSqehrvw6qZF97JrAaw5FRGVRnDJvJhygHenXHbE",
       "chainId": 101,
@@ -22231,6 +22231,19 @@
       }
     },
     {
+      "name": "UPGRADE",
+      "symbol": "UPGRADE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5X6AuKY8QF2xzYUEYYCxf9t9FXhuG76hHJNAB8qUbKqz/logo.png",
+      "decimals": 9,
+      "address": "5X6AuKY8QF2xzYUEYYCxf9t9FXhuG76hHJNAB8qUbKqz",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "stake-pool",
+        "stake-pool-token"
+      ]
+    },
+    {
       "name": "Rosecoin",
       "symbol": "RCOIN",
       "logoURI": "https://raw.githubusercontent.com/fizztune/rosecoin/main/logo.png",
@@ -34197,7 +34210,7 @@
     {
       "name": "FRAYDEY COIN",
       "symbol": "FRAYDEY",
-      "logoURI": "https://github.com/cyberspyde/fraydey-coin/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/cyberspyde/fraydey-coin/main/logo.png",
       "decimals": 0,
       "address": "7XhyezvAxuEV43hm7iLfYyCR4DuweEsi2oGN84TxBNNc",
       "chainId": 101,
@@ -35058,6 +35071,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Rmi",
+      "symbol": "$",
+      "logoURI": "https://raw.githubusercontent.com/farhan067/richmonkeyisland/main/logo.png",
+      "decimals": 9,
+      "address": "7eDhcd5zo6Dg3LAdezLvGMYE9xHWTzr2ayKzAhQp8DHy",
+      "chainId": 101
     },
     {
       "name": "SolanaLite",
@@ -61270,6 +61291,17 @@
       }
     },
     {
+      "name": "Lost Skollz Token",
+      "symbol": "SKLZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BSL5GUsceBaKTTijp5ppszeV2xHHzaihSDdL1kQtNnjU/logo.png",
+      "decimals": 0,
+      "address": "BSL5GUsceBaKTTijp5ppszeV2xHHzaihSDdL1kQtNnjU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Selanthelas",
       "symbol": "SATL",
       "logoURI": "https://raw.githubusercontent.com/MasterDianite/crypto/main/logo.png",
@@ -75116,6 +75148,17 @@
       ]
     },
     {
+      "name": "Brawl Shards",
+      "symbol": "SHRD",
+      "logoURI": "https://raw.githubusercontent.com/strongestbrawler/cryptowork/main/logo.png",
+      "decimals": 0,
+      "address": "DQDYyw71uRM5QBZdXK2wEDkqqRAox2d5jBdVrLxeXaA8",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Droid Dude Coin",
       "symbol": "DDC",
       "logoURI": "https://raw.githubusercontent.com/ArberKadriu/CryptoCoin/main/logo.png",
@@ -76420,7 +76463,7 @@
       ],
       "extensions": {
         "website": "https://www.wezesha.co",
-        "twitter": "https://twitter.com/wezesha_"
+        "twitter": "https://twitter.com/WezeshaCoin"
       }
     },
     {
