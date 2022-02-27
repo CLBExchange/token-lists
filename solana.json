@@ -3006,8 +3006,7 @@
       "address": "2RXSV7qPvPoPz7djG5fTT7teb61EJ1VRiC6ysHWm8F6c",
       "chainId": 101,
       "tags": [
-        "utility-token",
-        "nft"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/TheMetanoids"
@@ -11904,8 +11903,7 @@
       "address": "3nH3vsMyAWPxwRdbwT2tcmXGiYm6eYGf1Mi8bTXGt8CF",
       "chainId": 101,
       "tags": [
-        "utility-token",
-        "nft"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/ProjectAkira_"
@@ -16552,8 +16550,7 @@
       "address": "4bgRUBC4gPoTs38TytDwujhcdn7reRoKynecvK7fJ5VW",
       "chainId": 101,
       "tags": [
-        "utility-token",
-        "nft"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/RCollectorsClub"
@@ -44121,6 +44118,22 @@
       }
     },
     {
+      "name": "NFT Wives WL",
+      "symbol": "WIFE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8w2PWW9XddU28eqAS3ig9E7m8hqWWGKELhUqqyJSUugz/logo.png",
+      "decimals": 0,
+      "address": "8w2PWW9XddU28eqAS3ig9E7m8hqWWGKELhUqqyJSUugz",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.thenftwives.com",
+        "twitter": "https://twitter.com/thenftwives"
+      }
+    },
+    {
       "name": "SECTACOIN",
       "symbol": "SECTACOIN",
       "logoURI": "https://raw.githubusercontent.com/mrhili/SECTACOIN/main/secta.png",
@@ -50035,6 +50048,17 @@
       "logoURI": "https://raw.githubusercontent.com/MartinDarko/MartinDarko-Token/main/MDarkoToken-logo.png",
       "decimals": 0,
       "address": "9sjzeVEBMaT7jmD3hroYGg6bD6MCyHpUQ9Rps7ocbwbQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "SambuCoin",
+      "symbol": "SMBC",
+      "logoURI": "https://github.com/alexserra/crypto/blob/main/logo.png",
+      "decimals": 0,
+      "address": "9t6F4UJXr9B4xzoSmgC9LwYHb87maYeM58PsoXgNjyVW",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -57306,6 +57330,17 @@
         "website": "https://www.metaland.place",
         "discord": "https://discord.gg/MRvfvpGvXq"
       }
+    },
+    {
+      "name": "YOADcoin",
+      "symbol": "YOAD",
+      "logoURI": "https://raw.githubusercontent.com/yoadib/crypto/main/%D7%9E%D7%99%D7%96%D7%9D%20%D7%97%D7%93%D7%A9%20(1).jpg",
+      "decimals": 0,
+      "address": "AqMikDiApiwrHEwusrqaWZ1uBH182WUXsHwp4CS1UMaD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "NO Utility Token",
@@ -81873,13 +81908,17 @@
     {
       "name": "GoobyQuest",
       "symbol": "GBYQ",
-      "logoURI": "https://raw.githubusercontent.com/theNetworkChuck/crypto/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/GoobyFRS/GoobyQuest-SolCoin/main/logo.png",
       "decimals": 0,
       "address": "EURHdYFwnvZRKvggooS8Wgmp34L5L7T16kmN5971da71",
       "chainId": 101,
       "tags": [
         "social-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://mattfaulkner.net/",
+        "description": "GoobyQuest - Matts Mini-Crypto Project"
+      }
     },
     {
       "name": "ShipToken",
@@ -84962,8 +85001,7 @@
       "address": "Exz2u9EhSXzGDef4v8bfXVjcUbsFm4kMKoXxn58fDUSa",
       "chainId": 101,
       "tags": [
-        "utility-token",
-        "nft"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/MonkeCrew"
@@ -87077,6 +87115,17 @@
       "logoURI": "https://raw.githubusercontent.com/waxjock/Vic-Chaos-Coin/main/logo.png",
       "decimals": 0,
       "address": "FGtAoCT3Lpy7eecLSQhQ9oFnb9rRJtL5bjpmbbDaQwg7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "LilMissy",
+      "symbol": "LMY",
+      "logoURI": "https://raw.githubusercontent.com/lokie861/LYM_logo/main/logo.png",
+      "decimals": 0,
+      "address": "FGtc75KTsueEXeRKRaQXPqUybH6zhszn3cth8PkTFxr5",
       "chainId": 101,
       "tags": [
         "social-token"
