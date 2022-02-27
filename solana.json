@@ -14321,6 +14321,17 @@
       }
     },
     {
+      "name": "THERMOMED",
+      "symbol": "THMD",
+      "logoURI": "https://raw.githubusercontent.com/cemdastan/thermomed/main/thermomed-logo.png",
+      "decimals": 8,
+      "address": "4D7mdfqiQ7G8XMcTnk5gRBxE4m7V7HPaRbGqouxjKfyq",
+      "chainId": 101,
+      "tags": [
+        "business-token"
+      ]
+    },
+    {
       "name": "Matic Token (Wormhole v1)",
       "symbol": "wMATIC_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4DHywS5EjUTF5AYisPZiJbWcCV4gfpH98oKxpgyKRnnQ/logo.png",
