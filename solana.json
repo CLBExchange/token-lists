@@ -22521,6 +22521,19 @@
       }
     },
     {
+      "name": "FINCOIN",
+      "symbol": "FIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5a7VDPje5YJrVF5XMUCM7CxPu7FGVifiTEsxpyFc3rSP/logo.png",
+      "decimals": 0,
+      "address": "5a7VDPje5YJrVF5XMUCM7CxPu7FGVifiTEsxpyFc3rSP",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Maff coin",
       "symbol": "Maff",
       "logoURI": "https://raw.githubusercontent.com/conthegreat/crypto/main/maffcoin.png",
@@ -27765,7 +27778,7 @@
         "utility-token"
       ],
       "extensions": {
-        "website": "https://demonkingdom.com/",
+        "website": "https://demonkingdomnft.com/",
         "twitter": "https://twitter.com/demonkingdomnft"
       }
     },
@@ -46656,6 +46669,17 @@
       }
     },
     {
+      "name": "Astra Galactic DAO",
+      "symbol": "CREDO",
+      "logoURI": "https://raw.githubusercontent.com/astragalactic/assets/main/logo-Astra%20Galactic-credo.jpg",
+      "decimals": 8,
+      "address": "9MkwWhJvRJwaXu9ffQjRgNyHUYWvp42KtchxyGQwkkfP",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Bit Rocket",
       "symbol": "OBSD",
       "logoURI": "https://raw.githubusercontent.com/kooroshjo/logo.p/main/logo.jpg",
@@ -55420,8 +55444,7 @@
       "address": "AYv1MnM75ayDkRBxBoAMhdXULKfUAQN3JWxkDGS4gT1Q",
       "chainId": 101,
       "tags": [
-        "utility-token",
-        "nft"
+        "utility-token"
       ],
       "extensions": {
         "twitter": "https://twitter.com/nuttynarwhals"
@@ -78299,6 +78322,17 @@
       }
     },
     {
+      "name": "LifeLosAngelesco",
+      "symbol": "LIFE",
+      "logoURI": "https://raw.githubusercontent.com/lifelosangelescompany/crypto/main/lifelosangeleslogo.png",
+      "decimals": 0,
+      "address": "DsCP3hKzcpNgpuce9GYqshiq4UNhHHRhr7e75itr8se2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Unistake (Wormhole v1)",
       "symbol": "wUNISTAKE_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DsGbyCHbG4vSWBqAprR2eWuUAg8fXAgYkWL9psgvYZn5/logo.png",
@@ -88308,6 +88342,17 @@
       "chainId": 101,
       "tags": [
         "metaverse-token"
+      ]
+    },
+    {
+      "name": "Astra Galactic",
+      "symbol": "ASTRAL",
+      "logoURI": "https://raw.githubusercontent.com/astragalactic/assets/main/logo-Astro%20Galactic-token.jpg",
+      "decimals": 8,
+      "address": "FRr6TJLRzGiuCSscmqj7CSr35BQRaJeBewNDu2yYtDPh",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
