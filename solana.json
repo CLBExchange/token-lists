@@ -26613,6 +26613,17 @@
       }
     },
     {
+      "name": "Standard Galactic Credit",
+      "symbol": "CRED",
+      "logoURI": "https://raw.githubusercontent.com/Diamond-Hands-Studio/token-images/main/StandardGalacticCredit.png",
+      "decimals": 0,
+      "address": "6JKdix5WeqhB87hAZxgTfCfR27gcD28PnE8roLaw1T1v",
+      "chainId": 101,
+      "tags": [
+        "game-token"
+      ]
+    },
+    {
       "name": "Alurser",
       "symbol": "ALURS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6JTroKNLnJqheMhGwpoENfCDXRN1zosCnmpt2ZpHT3qE/logo.png",
@@ -32000,6 +32011,19 @@
       ]
     },
     {
+      "name": "Space Civilians Alpha Squad Pass",
+      "symbol": "PASS",
+      "logoURI": "https://raw.githubusercontent.com/Diamond-Hands-Studio/token-images/main/AlphaSquad.png",
+      "decimals": 0,
+      "address": "77QtZwSAsV9jP6CaS7GoETpboRZ6Gm1gkebxHEybBmvN",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "Golden-ticket",
+        "NFT"
+      ]
+    },
+    {
       "name": "MR F",
       "symbol": "F",
       "logoURI": "https://raw.githubusercontent.com/ARO-coder/logo/main/2021-11-21_13-54-41_UTC_profile_pic.jpg",
@@ -33011,6 +33035,24 @@
         "website": "http://atcoin.club",
         "twitter": "https://twitter.com/atworldcoin",
         "telegram": "https://t.me/atworldcoin"
+      }
+    },
+    {
+      "name": "WORKS",
+      "symbol": "WORKS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7KG5WNqNbUdXY5MBX7TUVZMTSD5cGoYxwYwry96GD1sM/logo.png",
+      "decimals": 9,
+      "address": "7KG5WNqNbUdXY5MBX7TUVZMTSD5cGoYxwYwry96GD1sM",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.works.so",
+        "twitter": "https://twitter.com/gigwrks",
+        "facebook": "https://www.facebook.com/officialgigworks",
+        "instagram": "https://www.instagram.com/officialgigworks/",
+        "linkedin": "https://www.linkedin.com/company/officialgigworks"
       }
     },
     {
@@ -44333,6 +44375,23 @@
       "decimals": 9,
       "address": "8wfzPPnT2GvRD5Hhf7YG8Ge8xENCGfcoKQXCDx4wkjVi",
       "chainId": 101
+    },
+    {
+      "name": "LUCY",
+      "symbol": "LUCY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8wpsWoW6bNsnXPpNgVwXRoghHhwBnUWP2DNCRYqBtn3W/logo.svg",
+      "decimals": 1,
+      "address": "8wpsWoW6bNsnXPpNgVwXRoghHhwBnUWP2DNCRYqBtn3W",
+      "chainId": 101,
+      "tags": [
+        "community",
+        "staking"
+      ],
+      "extensions": {
+        "website": "https://419.so",
+        "twitter": "https://twitter.com/419NFT",
+        "discord": "https://discord.gg/dJRVh7nXYb"
+      }
     },
     {
       "name": "renLUNA",
@@ -80173,6 +80232,19 @@
       }
     },
     {
+      "name": "Space Civilian Space Whales",
+      "symbol": "DONATE",
+      "logoURI": "https://raw.githubusercontent.com/Diamond-Hands-Studio/token-images/main/SpaceWhale.png",
+      "decimals": 0,
+      "address": "E8VwNHRvPR1DBNfTpJdh2dysTDGfsAippyviP7owgY6h",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "NFT"
+      ]
+    },
+    {
       "name": "THE HOLY BIBLE",
       "symbol": "BIBLE",
       "logoURI": "https://arweave.net/99YuLHYGxRGxLHLsX_z8WuzXRAPHZ0YAY_3B3MqesqE",
@@ -100369,6 +100441,17 @@
       "decimals": 9,
       "address": "HBiYxV9W4SAX4YS6JHHozGDDM62CdcMakiToed5rSZR",
       "chainId": 101
+    },
+    {
+      "name": "Space Civilians Whitelist",
+      "symbol": "SCWL",
+      "logoURI": "https://raw.githubusercontent.com/Diamond-Hands-Studio/token-images/main/Whitelist.png",
+      "decimals": 0,
+      "address": "HBteHRLoj7ANfbfxKPhHMvWLMfUg1xz69uhi6C3hfcfo",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
     },
     {
       "name": "SzymixCoin",
