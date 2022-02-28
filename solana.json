@@ -68337,6 +68337,17 @@
       }
     },
     {
+      "name": "EuroSpeed",
+      "symbol": "EUSP",
+      "logoURI": "https://raw.githubusercontent.com/RubenYordano/EuroSpeed/main/274885725_528552265260738_524344753350750781_n.png",
+      "decimals": 0,
+      "address": "CRKzmPtn1jW8SbQjTiEok4tzrEGqgFcTjY6G1943d23C",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GMSC Token",
       "symbol": "GMSC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRNcN3kpTNiJ9Bb1jfR4MzAavP9tU2vsBJFRHcHPtSzm/logo.png",
@@ -82307,6 +82318,18 @@
       ],
       "extensions": {
         "website": "https://raydium.io/"
+      }
+    },
+    {
+      "name": "Gem Block",
+      "symbol": "GEM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB/logo.png",
+      "decimals": 9,
+      "address": "EVR1MYMZ929kwEFt9rNgHYkAsjCY8oKFN7svddZXavTB",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://gemblock.co",
+        "whitepaper": "https://gemblock.co/wp/GEM_Whitepaper.pdf"
       }
     },
     {
