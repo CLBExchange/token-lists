@@ -14879,6 +14879,18 @@
       }
     },
     {
+      "name": "Schola",
+      "symbol": "SCHOLA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4J4XAtCWWVrb4FBM4JySPWX3YWix2bTpZNtAAHH4UEba/logo.png",
+      "decimals": 3,
+      "address": "4J4XAtCWWVrb4FBM4JySPWX3YWix2bTpZNtAAHH4UEba",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.schola.education",
+        "twitter": "https://twitter.com/ScholaEducation"
+      }
+    },
+    {
       "name": "NICO Coin",
       "symbol": "NICO",
       "logoURI": "https://raw.githubusercontent.com/ralli-5/crypto/main/NICO.png",
@@ -89170,6 +89182,21 @@
       ]
     },
     {
+      "name": "Dapper Ducks BONES",
+      "symbol": "$BONES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FWRVAvoQQ6DWXypAnZojQTwfwvEiBV2jyGFyx9uE2o8x/logo.png",
+      "decimals": 9,
+      "address": "FWRVAvoQQ6DWXypAnZojQTwfwvEiBV2jyGFyx9uE2o8x",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://thedapperducks.com",
+        "twitter": "https://twitter.com/dapper_ducksnft"
+      }
+    },
+    {
       "name": "IssaAI",
       "symbol": "ISSA",
       "logoURI": "https://raw.githubusercontent.com/marco2meyer/crypto/main/Coin%20logo%20small.png",
@@ -113389,6 +113416,21 @@
         "sex",
         "xxx"
       ]
+    },
+    {
+      "name": "Dapper Ducks Bread",
+      "symbol": "BRE4D",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/foG7mADNFZoy2nQt4XWc3Jrhrdu65KZekKWLBvpZyk2/logo.png",
+      "decimals": 1,
+      "address": "foG7mADNFZoy2nQt4XWc3Jrhrdu65KZekKWLBvpZyk2",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://thedapperducks.com",
+        "twitter": "https://twitter.com/dapper_ducksnft"
+      }
     },
     {
       "name": "AtlasFOOOOD",

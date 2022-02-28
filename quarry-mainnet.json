@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-28T08:10:14.407Z",
+  "timestamp": "2022-02-28T09:08:52.790Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -7555,6 +7555,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 7voN",
+      "symbol": "7voNR",
+      "decimals": 2,
+      "address": "7voNRFtsU82M9REEuvQoB8y8HWKjBpdwjhZPSxKq4eQJ",
+      "chainId": 104
+    },
+    {
       "name": "Token 852S",
       "symbol": "852Sf",
       "decimals": 6,
@@ -7590,6 +7597,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 96fv",
+      "symbol": "96fvs",
+      "decimals": 2,
+      "address": "96fvspWgCVSaa1sknpJEbsHA9USnabtAag4Zajg7wSzq",
+      "chainId": 104
+    },
+    {
       "name": "Token 9812",
       "symbol": "9812J",
       "decimals": 6,
@@ -7622,6 +7636,20 @@
       "symbol": "9tux5",
       "decimals": 2,
       "address": "9tux5ZXkWtgJU1YjjBTmPwvMceP8tE6W9NkVphrBHJYU",
+      "chainId": 104
+    },
+    {
+      "name": "Token 9vA3",
+      "symbol": "9vA3X",
+      "decimals": 2,
+      "address": "9vA3X2yi5FKV1dGDcDUnfywoLgnQd3b12zJi4jApzDmk",
+      "chainId": 104
+    },
+    {
+      "name": "Token ALBy",
+      "symbol": "ALByp",
+      "decimals": 2,
+      "address": "ALBypkkwhqma6AbgmByRumHZHh3yfkkar8NcKvpmHuE3",
       "chainId": 104
     },
     {
@@ -7671,6 +7699,13 @@
       "symbol": "BwpW4",
       "decimals": 6,
       "address": "BwpW4A96EG1Wamq2jDRzQf9UVuy4We8u7qZyawaGkDw3",
+      "chainId": 104
+    },
+    {
+      "name": "Token C4k4",
+      "symbol": "C4k4G",
+      "decimals": 2,
+      "address": "C4k4Gk63eaZ2exxYsoY9pzG2YZLU1aro38UxDab7ywxZ",
       "chainId": 104
     },
     {
@@ -7751,6 +7786,13 @@
       "chainId": 104
     },
     {
+      "name": "Token ERpp",
+      "symbol": "ERppQ",
+      "decimals": 2,
+      "address": "ERppQRi69aShLMVPUJeYogrAK3yTdT5XV7ax2vRenz5t",
+      "chainId": 104
+    },
+    {
       "name": "Token FCUp",
       "symbol": "FCUpJ",
       "decimals": 6,
@@ -7769,6 +7811,13 @@
       "symbol": "FqkMq",
       "decimals": 2,
       "address": "FqkMqpDJc6iAKhHTUXCHpsKfv4CURVVxkwY72Pc5Sv8Z",
+      "chainId": 104
+    },
+    {
+      "name": "Token G6PJ",
+      "symbol": "G6PJU",
+      "decimals": 2,
+      "address": "G6PJUoThXgeB48Rb5yZvfpCghXLXFLLuDP6YE3qbQcUp",
       "chainId": 104
     },
     {
