@@ -22132,6 +22132,19 @@
       ]
     },
     {
+      "name": "DISPLAY COIN",
+      "symbol": "DSPY",
+      "logoURI": "https://raw.githubusercontent.com/displayclub/displaytoken/main/assets/IMP%20TOKEN%20DSPY.png",
+      "decimals": 6,
+      "address": "5WckfuLPnEamS8VwCJoRUyT6J8C6PE6Ru5kTz6J8ft9f",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Universe Pass",
       "symbol": "UPASS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Wddj4FevPALWn655YTC5wGktWM7vViQTzLJLr2dhGFF/logo.png",
@@ -89085,6 +89098,23 @@
       ],
       "extensions": {
         "website": "https://www.madori.tech/"
+      }
+    },
+    {
+      "name": "GoatZ",
+      "symbol": "GoatZ",
+      "logoURI": "https://solaboy.github.io/images/goatz.png",
+      "decimals": 2,
+      "address": "FXTifEbpv8sMA7TuQb3jm2EvKHMGLyhpBDvAHrzt7V6d",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "crypto",
+        "rewards"
+      ],
+      "extensions": {
+        "website": "https://www.goatz.io",
+        "telegram": "https://t.me/goatz_world"
       }
     },
     {
