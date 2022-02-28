@@ -114343,6 +114343,21 @@
       }
     },
     {
+      "name": "Invoker",
+      "symbol": "IV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/invSTFnhB1779dyku9vKSmGPxeBNKhdf7ZfGL1vTH3u/logo.png",
+      "decimals": 9,
+      "address": "invSTFnhB1779dyku9vKSmGPxeBNKhdf7ZfGL1vTH3u",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/invokersnft",
+        "discord": "https://discord.gg/invokers"
+      }
+    },
+    {
       "name": "Invoke",
       "symbol": "INV",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/invYVY53mcmBtf2RbVudoqKDyAgZGofkLYodvnQwQep/logo.png",
