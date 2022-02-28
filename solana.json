@@ -20901,6 +20901,17 @@
       }
     },
     {
+      "name": "Ronin",
+      "symbol": "RONIN",
+      "logoURI": "https://raw.githubusercontent.com/RoninFisher/Ronin/main/EagleCircle.png",
+      "decimals": 0,
+      "address": "5KLMunWFYRRWxHtwk7gE6C4LzmUgnF6LNuj4XPfxCumd",
+      "chainId": 101,
+      "tags": [
+        "social-tokens"
+      ]
+    },
+    {
       "name": "Kugle GU",
       "symbol": "GU",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ/logo.png",
@@ -60488,6 +60499,17 @@
         "assetContract": "https://etherscan.io/address/0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
         "coingeckoId": "aave-ren-v1",
         "address": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C"
+      }
+    },
+    {
+      "name": "The Deadly Skulls",
+      "symbol": "$TDS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BHsev9KAEjheM5We6Zew7uYavPcUpXrNr35NBWMJmqVj/logo.png",
+      "decimals": 5,
+      "address": "BHsev9KAEjheM5We6Zew7uYavPcUpXrNr35NBWMJmqVj",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/DeadlyTds"
       }
     },
     {
