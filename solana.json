@@ -16500,6 +16500,17 @@
       ]
     },
     {
+      "name": "Liberum",
+      "symbol": "LIBER",
+      "logoURI": "https://raw.githubusercontent.com/Liberumx/crypto/main/Logo.png",
+      "decimals": 0,
+      "address": "4agZJaNSecPG8vueyn8cqK8x7sPoU2NeD4kKScRxP7WC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Eyes on Gaming Coin",
       "symbol": "EOGC",
       "logoURI": "https://raw.githubusercontent.com/karldermarx/eogtoken/main/logo.jpg",
@@ -106209,6 +106220,23 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "Hassanat (Islam Token)",
+      "symbol": "$ITKN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8ZXjuor6nWYnvsYXKRHPZmEFepZt96dMjeKMfD7qZA2/logo.png",
+      "decimals": 0,
+      "address": "J8ZXjuor6nWYnvsYXKRHPZmEFepZt96dMjeKMfD7qZA2",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hassanat_itkn",
+        "discord": "https://discord.gg/qEfCZuJHsu",
+        "description": "Hassanat ($ITKN) is the token of Islam, utility token for Muslims who can open the gates of paradise by doing good deeds."
+      }
     },
     {
       "name": "Coin Flip Kingz",
