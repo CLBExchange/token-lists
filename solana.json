@@ -52867,6 +52867,21 @@
       ]
     },
     {
+      "name": "Brawl Shard",
+      "symbol": "bSHARD",
+      "logoURI": "https://raw.githubusercontent.com/strongestbrawler/brawlshard/main/logo.png",
+      "decimals": 9,
+      "address": "AEcFA1cq4Mtz568HL8sd7tQ9EyTYFNV6EHw6KrqYT785",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bitbrawlio",
+        "description": "This is the utility token for BitBrawl."
+      }
+    },
+    {
       "name": "KujiBet",
       "symbol": "KUJIBET",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AEkmazvpQEs6ZKs6yuv7akiJBbpmAfJquvaem4rsQ7oL/logo.png",
@@ -61880,6 +61895,17 @@
         "coingeckoId": "ampleforth",
         "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
       }
+    },
+    {
+      "name": "Jab Coin",
+      "symbol": "JABS",
+      "logoURI": "https://raw.githubusercontent.com/adiquet/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "BVH95rvjK4mnBiCTioYg7rCnVqxfpHkFvYREJ6A2q4Ka",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Kristapaas_lv Coin",
@@ -93159,6 +93185,17 @@
       "chainId": 101,
       "tags": [
         "general-token"
+      ]
+    },
+    {
+      "name": "Kumpel Coin",
+      "symbol": "KUMPEL",
+      "logoURI": "https://raw.githubusercontent.com/S1adem4n/crypto/main/E7284313-B475-4543-B2E9-03CA46F541A2.png",
+      "decimals": 0,
+      "address": "G2q99gPeUhTdMMtGuMvfq7xn3SpVzUL5d7VPcVXEzFct",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
