@@ -95759,6 +95759,17 @@
       }
     },
     {
+      "name": "The Succoth Coin",
+      "symbol": "SUTH",
+      "logoURI": "https://raw.githubusercontent.com/thesuccoth/The-Succoth-coin/main/succoth.png",
+      "decimals": 9,
+      "address": "GSfjUZ5pN1Ab7RpYsvUX2UiNXxg4zVssGtpCaf8B36hr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Aave Interest bearing UniUSDCETH (Wormhole v1)",
       "symbol": "waUniUSDCETH_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GSv5ECZaMfaceZK4WKKzA4tKVDkqtfBASECcmYFWcy4G/logo.svg",
