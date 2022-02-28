@@ -45543,6 +45543,21 @@
       ]
     },
     {
+      "name": "Crypto Beach",
+      "symbol": "Blockstone",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/98MkjJ2nDgSGeYf56DYCzymGpMNTV7iQceHGcfBZ6PdT/beach.png",
+      "decimals": 0,
+      "address": "98MkjJ2nDgSGeYf56DYCzymGpMNTV7iQceHGcfBZ6PdT",
+      "chainId": 101,
+      "tags": [
+        "Crypto-Beach",
+        "Holdiday-homes"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/crypto-beach/"
+      }
+    },
+    {
       "name": "Vroxcoin",
       "symbol": "VRXC",
       "logoURI": "https://raw.githubusercontent.com/LukasVrox/PBcrypto/main/Vroxcoin.png",
@@ -58927,6 +58942,25 @@
       ]
     },
     {
+      "name": "Gizmo Rebels Token",
+      "symbol": "$GIZMO",
+      "logoURI": "https://eager-dubinsky-9aa533.netlify.app/token/gizmo_token_logo.png",
+      "decimals": 9,
+      "address": "B21QKFnx6PKPvr56VWwCuMG9EovsLWG6tuhHpmCawtEa",
+      "chainId": 101,
+      "tags": [
+        "nft",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://gizmorebels.io/",
+        "twitter": "https://twitter.com/GizmoRebels",
+        "discord": "https://discord.gg/4JAwZNP58x",
+        "description": "Utility token of the Gizmo Rebels NFT collection.",
+        "whitepaper": "https://gizmorebels.notion.site/gizmorebels/Gizmo-Rebels-Litepaper-bd8f0ede26cf4603888bd90c54529ffb"
+      }
+    },
+    {
       "name": "BAZ",
       "symbol": "BAZ",
       "logoURI": "https://www.arthurr.co.uk/baz/logo.png",
@@ -67913,6 +67947,17 @@
       "extensions": {
         "website": "http://veracurrency.com"
       }
+    },
+    {
+      "name": "Ehecatl Dragon Souls Token",
+      "symbol": "EDST",
+      "logoURI": "https://raw.githubusercontent.com/Chirryrth/EDST/main/Dragon_Soul.png",
+      "decimals": 0,
+      "address": "CN4bGnSdNDD3A6kLTBKffF4ocN3AMg8ZQCrzoRyEZ4Yw",
+      "chainId": 101,
+      "tags": [
+        "social-tokens"
+      ]
     },
     {
       "name": "OFF-COIN",
@@ -91172,16 +91217,16 @@
         "Gaming"
       ],
       "extensions": {
-        "website": "https://www.monkeyball.com",
-        "twitter": "https://twitter.com/MonkeyBallGame",
-        "medium": "https://medium.com/@MonkeyBall",
-        "discord": "https://discord.gg/monkeyball",
+        "website": "https://www.monkeyleague.io/",
+        "twitter": "https://twitter.com/TheMonkeyLeague",
+        "medium": "https://medium.com/@MonkeyLeague",
+        "discord": "https://discord.gg/monkeyleague",
         "coingeckoId": "monkeyball",
-        "description": "MonkeyBall is the next-gen esports metaverse empowering players to create, play, compete, and earn.",
-        "facebook": "https://facebook.com/monkeyballgames",
-        "instagram": "https://www.instagram.com/monkeyball_game",
+        "description": "MonkeyLeague is the next-gen esports metaverse empowering players to create, play, compete, and earn.",
+        "facebook": "https://www.facebook.com/TheMonkeyLeague",
+        "instagram": "https://www.instagram.com/themonkeyleague/",
         "reddit": "https://www.reddit.com/r/MonkeyBallGame",
-        "telegram": "https://t.me/monkeyball_official"
+        "telegram": "https://t.me/MonkeyLeague_Official"
       }
     },
     {
@@ -107231,6 +107276,17 @@
         "website": "https://kirin-kingdom.com",
         "twitter": "https://twitter.com/Kirin_Kingdom"
       }
+    },
+    {
+      "name": "Komoverse",
+      "symbol": "KOMO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Komoh63FFuxxMHKuAtpEpL2fYJLooicXKyqDqmPa54n/logo.png",
+      "decimals": 2,
+      "address": "Komoh63FFuxxMHKuAtpEpL2fYJLooicXKyqDqmPa54n",
+      "chainId": 101,
+      "tags": [
+        "game-token"
+      ]
     },
     {
       "name": "Family Token",
