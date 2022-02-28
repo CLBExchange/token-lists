@@ -51187,6 +51187,18 @@
       ]
     },
     {
+      "name": "Vibe",
+      "symbol": "JV",
+      "logoURI": "https://raw.githubusercontent.com/JakesterMt/SolToken/main/J.png",
+      "decimals": 0,
+      "address": "9zeGo62tsX4HG4RepuhczBgBNaBbDuQ2tyaKjqDgaSor",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token"
+      ]
+    },
+    {
       "name": "Solster",
       "symbol": "STR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9zoqdwEBKWEi9G5Ze8BSkdmppxGgVv1Kw4LuigDiNr9m/logo.png",
