@@ -12545,6 +12545,17 @@
       }
     },
     {
+      "name": "FROTH",
+      "symbol": "$FROTH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3tYsZEAAfpUBWQt6TShpo6JSuVjPrpx6GruR4BHFHV7J/logo.png",
+      "decimals": 0,
+      "address": "3tYsZEAAfpUBWQt6TShpo6JSuVjPrpx6GruR4BHFHV7J",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Forgebot Electrogems",
       "symbol": "EGEMS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3th4wtEfsK3HmGYn1uEdv9718YaebGMBW5PAPP26Te9x/logo.png",
@@ -55115,6 +55126,17 @@
       }
     },
     {
+      "name": "Jaguar Society Coin",
+      "symbol": "JSCTC",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/AVKwBcNTBzLa3t24W37yTQKQumaK7E8vrmZHiYDYfX4t/logo.jpg?raw=true",
+      "decimals": 9,
+      "address": "AVKwBcNTBzLa3t24W37yTQKQumaK7E8vrmZHiYDYfX4t",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Swell Travel Coin",
       "symbol": "SWTR",
       "logoURI": "https://raw.githubusercontent.com/ScottSwell/token/main/swell_logo_token.png",
@@ -78882,6 +78904,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Solana Storm",
+      "symbol": "SST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DuxDz1K3npjMYT6ZoH628pK3zJYjUzDMGT3ZQHKz1VYb/logo.png",
+      "decimals": 0,
+      "address": "DuxDz1K3npjMYT6ZoH628pK3zJYjUzDMGT3ZQHKz1VYb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solanastorm.io/"
+      }
     },
     {
       "name": "XAmore",
