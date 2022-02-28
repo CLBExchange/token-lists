@@ -22920,6 +22920,17 @@
       }
     },
     {
+      "name": "colourcoin",
+      "symbol": "coc",
+      "logoURI": "https://raw.githubusercontent.com/MaximilianPrestage/crypto-/main/Colorful_Background_3_RF_RMPL-01.png",
+      "decimals": 0,
+      "address": "5eU1Wy8QhYkYtLBoUDGEqDjT3vH5RVdKsLCp995KG6VJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Marcum Coin",
       "symbol": "MRCM",
       "logoURI": "https://raw.githubusercontent.com/XeleX101/crypto/main/MarcumCoin.png",
@@ -67239,6 +67250,23 @@
       "extensions": {
         "imageUrl": "https://arweave.net/gD0M3bryfWOUudcTeat924dKTf45nt1PrQwNWOT_xq8",
         "description": "This Non-Fungible Token is made to keep the word of jesus alive and accessible to everyone around the world. EACH NFT is associated with a full copy of the New Testament archived on blockchain - https://arweave.net/Ov5sBcSgKOL0AASs4TyOnwz6ReIJ3MyIX9j90zvfOd8"
+      }
+    },
+    {
+      "name": "Meta Chimp Whitelist Token",
+      "symbol": "CHWL",
+      "logoURI": "https://arweave.net/pIWAkKG0Zd14USGL1sc3LCF7x18qDpytvvCv7JGJx78",
+      "decimals": 0,
+      "address": "CHWLyMqU4w6nprba4FE6g6E5muUEgS5BmHhaMb3FaBjU",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://linktr.ee/rationalasfuck",
+        "twitter": "https://twitter.com/rationalasf",
+        "discord": "https://discord.gg/W8fra6bABu",
+        "youtube": "https://www.youtube.com/c/RationalAF"
       }
     },
     {
@@ -116114,6 +116142,22 @@
       "extensions": {
         "website": "http://www.airbox-token.acomdir.com/",
         "blog": "https://jenka-nauta.com"
+      }
+    },
+    {
+      "name": "Fox Dynasty",
+      "symbol": "$FOX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/u8am3pjJ6poZrpwgerGyAmPYHfg7AmQyR8YNaG39onS/logo.png",
+      "decimals": 9,
+      "address": "u8am3pjJ6poZrpwgerGyAmPYHfg7AmQyR8YNaG39onS",
+      "chainId": 101,
+      "tags": [
+        "community",
+        "staking"
+      ],
+      "extensions": {
+        "website": "https://www.foxdynastynft.com/",
+        "twitter": "https://twitter.com/FoxDynastyNFT"
       }
     },
     {
