@@ -27584,29 +27584,6 @@
       }
     },
     {
-      "name": "Piqsol",
-      "symbol": "PQL",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TXTxd67i2218CW9uN9H9gSqa4N6oWHUNSA7PFUZronv/logo.png",
-      "decimals": 9,
-      "address": "6TXTxd67i2218CW9uN9H9gSqa4N6oWHUNSA7PFUZronv",
-      "chainId": 101,
-      "tags": [
-        "social-token",
-        "community-token",
-        "utility-token"
-      ],
-      "extensions": {
-        "twitter": "https://twitter.com/Piqsol",
-        "medium": "https://medium.com/@social_91523",
-        "discord": "https://discord.gg/TmKBmyrGHY",
-        "description": "Fractional Solana NFT Marketplace",
-        "facebook": "https://www.facebook.com/piqsol",
-        "instagram": "https://www.instagram.com/piqsol.art",
-        "reddit": "https://www.reddit.com/user/Piqsol_NFT",
-        "telegram": "https://t.me/Piqsol"
-      }
-    },
-    {
       "name": "TridentToken",
       "symbol": "AIF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TYE9KyyEHJtMhznhXHetip55yWpCzBMzMMYAY4zTEfw/logo.png",
@@ -33292,7 +33269,7 @@
     {
       "name": "Araucaria",
       "symbol": "ARAUC",
-      "logoURI": "https://raw.githubusercontent.com/ffurtuoso/tree/main/token/araucaria.png",
+      "logoURI": "https://raw.githubusercontent.com/ffurtuoso/tree/main/token/araucaria2.png",
       "decimals": 9,
       "address": "7M1E2H2nYZRnFApXmqJiX2hXYBnXh4PEFaUvcnrTgQ3J",
       "chainId": 101,
@@ -36497,6 +36474,7 @@
         "Utility-token"
       ],
       "extensions": {
+        "website": "https://www.babymenace.com/",
         "twitter": "https://twitter.com/BabyMenaceNft"
       }
     },
@@ -77222,7 +77200,7 @@
     {
       "name": "Eliga Services",
       "symbol": "ES",
-      "logoURI": "https://github.com/Bernardvdv/nft/blob/main/cropped-eliga-services-favicon-32x32.png",
+      "logoURI": "https://raw.githubusercontent.com/Bernardvdv/nft/main/cropped-eliga-services-favicon-32x32.png",
       "decimals": 0,
       "address": "DgeYFKF199fxQQhYf3xiEZoYLoTANN8vq3kU7jSrM3eS",
       "chainId": 101,
@@ -96360,6 +96338,31 @@
       ]
     },
     {
+      "name": "Piqsol",
+      "symbol": "PQL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVvSwwQDpqWTQu739vqatKyyCXan7G1fibU9d5cXvXeX/piqsol.png",
+      "decimals": 9,
+      "address": "GVvSwwQDpqWTQu739vqatKyyCXan7G1fibU9d5cXvXeX",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "nft-market"
+      ],
+      "extensions": {
+        "website": "https://piqsol.com",
+        "twitter": "https://twitter.com/Piqsol",
+        "medium": "https://medium.com/@social_91523",
+        "discord": "https://discord.gg/TmKBmyrGHY",
+        "description": "Fractional Solana NFT Marketplace",
+        "facebook": "https://www.facebook.com/piqsol",
+        "instagram": "https://www.instagram.com/piqsol.art",
+        "reddit": "https://www.reddit.com/user/Piqsol_NFT",
+        "telegram": "https://t.me/Piqsol"
+      }
+    },
+    {
       "name": "WINKIE KOIN",
       "symbol": "WNK",
       "logoURI": "https://raw.githubusercontent.com/Fishbone5150/Solana_Crypto/main/Wink_Logo.png",
@@ -108374,15 +108377,19 @@
       }
     },
     {
-      "name": "BabyMenace",
+      "name": "MENACE",
       "symbol": "MENACE",
-      "logoURI": "https://github.com/BabyMenace/BabyMenace-Token/blob/main/%24Menace.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NfZUsY5ZqdJFxcKjYxA3KgibKEP5wTUDNdCXJ43dtVo/menacelogo.png",
       "decimals": 6,
       "address": "NfZUsY5ZqdJFxcKjYxA3KgibKEP5wTUDNdCXJ43dtVo",
       "chainId": 101,
       "tags": [
         "Utility-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.babymenace.com/",
+        "twitter": "https://twitter.com/BabyMenaceNft"
+      }
     },
     {
       "name": "Yuanbao Coin",
