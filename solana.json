@@ -86553,6 +86553,19 @@
       ]
     },
     {
+      "name": "MindKind",
+      "symbol": "MIKI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F9ZDLuTiRJwrmeP5zystepNofya4CvDpWpoVkbZbZwi1/logo.png",
+      "decimals": 4,
+      "address": "F9ZDLuTiRJwrmeP5zystepNofya4CvDpWpoVkbZbZwi1",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "IZUNO Token",
       "symbol": "IZU",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F9ZsJAyX4SaqMbFqiixDk1RXRUkJ9d9zeC5tYjyn4v5z/logo.png",
