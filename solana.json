@@ -38658,6 +38658,18 @@
       }
     },
     {
+      "name": "TSINACOIN",
+      "symbol": "TSNKC",
+      "logoURI": "https://raw.githubusercontent.com/kareklas123/kareklaicon/main/unknown.png",
+      "decimals": 0,
+      "address": "88FwzFbRopWuTmZQKhVLTgr7XhEHrpmHQVtjatJtP1j8",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "karekla-token"
+      ]
+    },
+    {
       "name": "Wrapped BTC (Allbridge from Ethereum)",
       "symbol": "aeWBTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
@@ -104816,6 +104828,20 @@
       }
     },
     {
+      "name": "iVIDI",
+      "symbol": "iVIDI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HwK5VcHmByX7u3oSM8TrVeECaQPVLFVKr2CtvygvBUMC/logo.png",
+      "decimals": 6,
+      "address": "HwK5VcHmByX7u3oSM8TrVeECaQPVLFVKr2CtvygvBUMC",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://vidi.art/",
+        "twitter": "https://twitter.com/Vidi_Art",
+        "medium": "https://medium.com/@vidiart",
+        "discord": "http://discord.gg/vidiart"
+      }
+    },
+    {
       "name": "DAD COIN",
       "symbol": "DAD",
       "logoURI": "https://raw.githubusercontent.com/davethecloud/crypto/main/D.png",
@@ -117994,6 +118020,17 @@
         "Auction",
         "Cupon",
         "Perks"
+      ]
+    },
+    {
+      "name": "Test Age",
+      "symbol": "TAGE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5xRyUaUVDguVC5uCfZsTv9fHKLQrX5meZshBpnuGEPzY/logo.png",
+      "decimals": 3,
+      "address": "5xRyUaUVDguVC5uCfZsTv9fHKLQrX5meZshBpnuGEPzY",
+      "chainId": 103,
+      "tags": [
+        "future-token"
       ]
     },
     {
