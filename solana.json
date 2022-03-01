@@ -57333,6 +57333,21 @@
       }
     },
     {
+      "name": "SolQ",
+      "symbol": "Blockstone",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AnFP69EqWTZqYEuYiTu5ThhHb87mNSFvtGjyctJmhJxT/Blockstone.png",
+      "decimals": 9,
+      "address": "AnFP69EqWTZqYEuYiTu5ThhHb87mNSFvtGjyctJmhJxT",
+      "chainId": 101,
+      "tags": [
+        "SolQ",
+        "Guaranteed-SOL"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/solq/"
+      }
+    },
+    {
       "name": "PromiseCoin",
       "symbol": "BAOP",
       "logoURI": "https://raw.githubusercontent.com/justcallmetk/cryptotokenexperiment/main/logo.png",
@@ -71700,6 +71715,21 @@
       "extensions": {
         "website": "https://www.sol80s.com",
         "twitter": "https://twitter.com/SolEighties"
+      }
+    },
+    {
+      "name": "SolMax",
+      "symbol": "Blockstone",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrSofpzMjwgwTJVjgRG6ctfjNrntSuZTD5fqSqRTAWbd/Blockstone.png",
+      "decimals": 9,
+      "address": "CrSofpzMjwgwTJVjgRG6ctfjNrntSuZTD5fqSqRTAWbd",
+      "chainId": 101,
+      "tags": [
+        "SolMax",
+        "Guarantee"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/solmax/"
       }
     },
     {
