@@ -8481,7 +8481,7 @@
       ]
     },
     {
-      "name": "Djib Decentralized Storage On Solana",
+      "name": "Djib",
       "symbol": "DJIB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
       "decimals": 9,
@@ -8491,7 +8491,13 @@
         "utility-token"
       ],
       "extensions": {
-        "website": "https://djib.io"
+        "website": "https://djib.io",
+        "twitter": "https://twitter.com/Djibchain",
+        "github": "https://github.com/Djib-io",
+        "discord": "https://discord.gg/PpZgKJkKpb",
+        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+        "description": "Universal Data Storage Parachain",
+        "telegram": "https://t.me/DjibTech"
       }
     },
     {
@@ -90921,6 +90927,21 @@
       }
     },
     {
+      "name": "Vladimir-VS-Volodymyr",
+      "symbol": "VVV",
+      "logoURI": "https://raw.githubusercontent.com/VladVSVolod/Assets/main/VladVSVolod.png",
+      "decimals": 6,
+      "address": "Fg3NLKzwfnhtiEjnbn86wcZiGckuL5bzf61JGSqFi4ot",
+      "chainId": 101,
+      "tags": [
+        "Vlad-VS-Volod",
+        "Charity"
+      ],
+      "extensions": {
+        "website": "https://www.vladimir-volodymyr.com/"
+      }
+    },
+    {
       "name": "SCARAB",
       "symbol": "SCARAB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FgGSSyWTof35tPwZi8CZ7uoH2tD6y1ezWcMiw38Cmoat/logo.png",
@@ -100204,6 +100225,14 @@
         "coingeckoId": "armor",
         "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a"
       }
+    },
+    {
+      "name": "Ted prueba",
+      "symbol": "TED",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H3eTgBUXAdcssxY7Cz496PEg3scxakYsxC4Q4JTTf5SF/logo.png",
+      "decimals": 3,
+      "address": "H3eTgBUXAdcssxY7Cz496PEg3scxakYsxC4Q4JTTf5SF",
+      "chainId": 101
     },
     {
       "name": "Hermez Network Token (Wormhole v1)",
