@@ -22083,6 +22083,20 @@
       ]
     },
     {
+      "name": "King's token",
+      "symbol": "KING",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN/logo.png",
+      "decimals": 6,
+      "address": "5VQnKaTu522jRQyaawDNBKZjBa5SZoeetyDXEwocYxXN",
+      "chainId": 101,
+      "tags": [
+        "meme-coin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/kings_dao"
+      }
+    },
+    {
       "name": "Free Time Coin",
       "symbol": "FREE",
       "logoURI": "https://freetimecoin.com/images/freelogo.png",
@@ -87697,6 +87711,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Century Token",
+      "symbol": "CENS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FGEDRBaMtigF13ReDs562F3T3CkVvBmorzED3zBufCpC/logo.png",
+      "decimals": 8,
+      "address": "FGEDRBaMtigF13ReDs562F3T3CkVvBmorzED3zBufCpC",
+      "chainId": 101,
+      "tags": [
+        "gamefi",
+        "metaverse",
+        "create-to-earn",
+        "play-to-earn",
+        "parallel-world"
+      ],
+      "extensions": {
+        "website": "https://century.luxe",
+        "twitter": "https://twitter.com/CensWorldnft",
+        "telegram": "https://t.me/censworldgroup"
+      }
     },
     {
       "name": "Boomer Koin",
