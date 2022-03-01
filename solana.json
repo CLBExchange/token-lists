@@ -106244,6 +106244,17 @@
       "chainId": 101
     },
     {
+      "name": "Orinoco Coin",
+      "symbol": "ORI",
+      "logoURI": "https://raw.githubusercontent.com/orinocof/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "J4qwFUNTtCtyW8fjAHtgiUXBLgNeJcuRoeXiLc18bdJL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "GRUNT Token",
       "symbol": "GRUNT",
       "logoURI": "https://raw.githubusercontent.com/derysendiry/orang/main/logo.png",
