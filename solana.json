@@ -1977,6 +1977,24 @@
       }
     },
     {
+      "name": "MineKoin",
+      "symbol": "MKI",
+      "logoURI": "https://github.dev/nexnux/token-list/blob/18ead90d889940cff3e7b2a233bf7800f292bdf9/assets/mainnet/2EXNrLeEH91HXK1hah4jT51153jE7hFSDKaYah7HBK6J/minecoin.png",
+      "decimals": 0,
+      "address": "2EXNrLeEH91HXK1hah4jT51153jE7hFSDKaYah7HBK6J",
+      "chainId": 101,
+      "tags": [
+        "minecraft-coin",
+        "gaming-token",
+        "mineable",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://minekoin.net/",
+        "twitter": "https://twitter.com/KoinsMine"
+      }
+    },
+    {
       "name": "Decentralized Finance Investment",
       "symbol": "DFI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2EfoEpSDRwax4vC3sV7GQMw5fcdvvzf5owjtLE6fFWG8/logo.png",
@@ -3474,6 +3492,17 @@
       ]
     },
     {
+      "name": "SunLight",
+      "symbol": "SUNL",
+      "logoURI": "https://raw.githubusercontent.com/SunLight-SUNL/assets/main/logo.jpg",
+      "decimals": 4,
+      "address": "2XGcH9UUvn7vk8B4xxZaRBqf38Qyrz5W9GyifUwx72FD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "NewberrySolToken",
       "symbol": "NBPL",
       "logoURI": "https://github.com/iNewberry/soltoken/blob/main/newberry_white_225_250.png",
@@ -4712,6 +4741,17 @@
       ]
     },
     {
+      "name": "The Kingdom of Saudi Arabia",
+      "symbol": "KSA",
+      "logoURI": "https://raw.githubusercontent.com/nawrasco/Crypto/main/2.jpg",
+      "decimals": 6,
+      "address": "2kGvWxSUn8carzriNzyaotLLVrojzYTV6DMkjizJwN8b",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BPCoin",
       "symbol": "BPCoin",
       "decimals": 9,
@@ -4904,17 +4944,6 @@
       "logoURI": "https://raw.githubusercontent.com/ospinooo/solana-crypto/main/logo.png",
       "decimals": 0,
       "address": "2mxAyT6KcaWzS2a3gJjE9zZL6VyXWY8Ut1PUtsF5Kp7e",
-      "chainId": 101,
-      "tags": [
-        "social-token"
-      ]
-    },
-    {
-      "name": "SunLight",
-      "symbol": "SUNL",
-      "logoURI": "https://raw.githubusercontent.com/SunLight-SUNL/assets/main/sunlight.jpg",
-      "decimals": 4,
-      "address": "2nGhdv7MmvGprJUg68MMPMUEWG8zwePy8XcgzmodeSLe",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -8487,6 +8516,22 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "EuroQ",
+      "symbol": "Blockstone",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3J2KopdK7UwKK83socwHCgFoUPpp2AmyAob6XCnbH4VB/Blockstone.png",
+      "decimals": 2,
+      "address": "3J2KopdK7UwKK83socwHCgFoUPpp2AmyAob6XCnbH4VB",
+      "chainId": 101,
+      "tags": [
+        "EuroQ",
+        "Guaranteed-euro"
+      ],
+      "extensions": {
+        "website": "https://blocksto.ne/euroq/",
+        "linkedin": "https://www.linkedin.com/company/blockstone-online/"
+      }
     },
     {
       "name": "Rasta Rabbits",
@@ -18419,7 +18464,12 @@
         "energy-token",
         "community-token",
         "recycling-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://reotoken.com/",
+        "twitter": "https://twitter.com/reotoken",
+        "instagram": "https://www.instagram.com/reo_token"
+      }
     },
     {
       "name": "Ovecon Token",
@@ -41269,7 +41319,7 @@
     {
       "name": "Coins",
       "symbol": "COINS",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Udw2dVYLq9vjieo26znz98GrRb548aqfr35mNwsRwsF/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Udw2dVYLq9vjieo26znz98GrRb548aqfr35mNwsRwsF/logo.svg",
       "decimals": 9,
       "address": "8Udw2dVYLq9vjieo26znz98GrRb548aqfr35mNwsRwsF",
       "chainId": 101
@@ -59959,6 +60009,20 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/brainyapegang"
+      }
+    },
+    {
+      "name": "SEED Coin",
+      "symbol": "SEED",
+      "logoURI": "https://raw.githubusercontent.com/charliebakerr/psy-token/398ad3c190c33e21ef2187113ebabc70dba95d1d/HFSeedCoin.png",
+      "decimals": 9,
+      "address": "BAHCdK2PNwQ15jgUqB9L3Gn78XdeNkXj4gT1ixxVaqyF",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://highflyerz.io/",
+        "twitter": "https://twitter.com/highflyerzNFT",
+        "discord": "https://discord.gg/3AGKpS9cfR",
+        "description": "Powering the HighFlyerZ economy and beyond"
       }
     },
     {
@@ -96290,6 +96354,17 @@
       }
     },
     {
+      "name": "Protection of the Ukrainian people",
+      "symbol": "UKR",
+      "logoURI": "https://raw.githubusercontent.com/nawrasco/Crypto/main/UKR.png",
+      "decimals": 6,
+      "address": "GT2EtnDCN5sUWCf12P3hjA4QiNjeztLHf8FL1J1PBypa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Lagrange WBRZ-USDL LP",
       "symbol": "WBRZ-USDL",
       "logoURI": "https://raw.githubusercontent.com/cavidk/lp-token/main/lp-logo.png",
@@ -108262,6 +108337,17 @@
       ]
     },
     {
+      "name": "MinerMice Whitelist Token",
+      "symbol": "MMWLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MMWjJmjppSH8wmoRzi9bZZavRXzWqkG4YYJEreo4zrU/logo.png",
+      "decimals": 0,
+      "address": "MMWjJmjppSH8wmoRzi9bZZavRXzWqkG4YYJEreo4zrU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Marinade",
       "symbol": "MNDE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
@@ -113130,6 +113216,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Billi Brothers",
+      "symbol": "TBBC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aUNZ2RVAfrPy5Q3aGUp3skJJJ938fn6GW8sG6pQCHrS/logo.jpg",
+      "decimals": 9,
+      "address": "aUNZ2RVAfrPy5Q3aGUp3skJJJ938fn6GW8sG6pQCHrS",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
