@@ -19124,6 +19124,17 @@
       }
     },
     {
+      "name": "Ferguson",
+      "symbol": "FERGIE",
+      "logoURI": "https://raw.githubusercontent.com/SuperFergie/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "51D28d7vte67dPtcvX6bnw3V67VVPAUf6HpBhVfhx6cV",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Giveon the Doyen",
       "symbol": "GVTD",
       "logoURI": "https://raw.githubusercontent.com/haroonmoh/doyentokenimages/main/giveon.png",
@@ -81403,6 +81414,17 @@
       }
     },
     {
+      "name": "Yaku",
+      "symbol": "YAKU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EK58dp4mxsKwwuySWQW826i3fwcvUK69jPph22VUcd2H/logo.png",
+      "decimals": 0,
+      "address": "EK58dp4mxsKwwuySWQW826i3fwcvUK69jPph22VUcd2H",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "renBTC (Wormhole v1)",
       "symbol": "wrenBTC_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EK6iyvvqvQtsWYcySrZVHkXjCLX494r9PhnDWJaX1CPu/logo.png",
@@ -86827,6 +86849,7 @@
         "github": "https://github.com/Phantasia-Sports",
         "medium": "https://medium.com/@phantasia",
         "discord": "https://t.co/Vskz9PkBBC?amp=1",
+        "coingeckoId": "phantasia",
         "coinmarketcap": "https://coinmarketcap.com/currencies/phantasia/"
       }
     },
