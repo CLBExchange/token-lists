@@ -1310,18 +1310,6 @@
       ]
     },
     {
-      "name": "TERPENES",
-      "symbol": "TERPS",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/29MpnFsGVVnsoxCt4f4TjShuzTSgbEh5UrVeSNEFFBsF/logo.png",
-      "decimals": 0,
-      "address": "29MpnFsGVVnsoxCt4f4TjShuzTSgbEh5UrVeSNEFFBsF",
-      "chainId": 101,
-      "tags": [
-        "social-token",
-        "utility-token"
-      ]
-    },
-    {
       "name": "Need for Speed",
       "symbol": "Need for Speed",
       "decimals": 9,
@@ -27460,6 +27448,26 @@
       ]
     },
     {
+      "name": "Zombieverse Whitelist",
+      "symbol": "WLZVC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cvzwk5dvHu67n2b4BDMNQ7VTQ4G2XRQ6hN3uDBPmD9vt/logo.png",
+      "decimals": 0,
+      "address": "6RUV3rfx3q4n7UEJcARs9gCibB3TD5pgrxha1LmQwptV",
+      "chainId": 101,
+      "tags": [
+        "WriteToEarn",
+        "Zombieverse",
+        "Whitelist",
+        "MintPass"
+      ],
+      "extensions": {
+        "website": "https://www.zombieversecomics.com/",
+        "twitter": "https://twitter.com/ZombVerseNFT",
+        "discord": "https://discord.com/invite/Fu5zxU6Y8X",
+        "instagram": "https://www.instagram.com/zombieversecomics/"
+      }
+    },
+    {
       "name": "Biank Coin",
       "symbol": "BNK",
       "logoURI": "https://raw.githubusercontent.com/MattiaBianchini/BiankCoin/main/logo.png",
@@ -41741,17 +41749,6 @@
       }
     },
     {
-      "name": "CRECK",
-      "symbol": "CRECK",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8YLVNaqXNL77NrW8J56SgT2ibUk1nekXAARz2TtBrenS/logo.png",
-      "decimals": 9,
-      "address": "8YLVNaqXNL77NrW8J56SgT2ibUk1nekXAARz2TtBrenS",
-      "chainId": 101,
-      "tags": [
-        "social-token"
-      ]
-    },
-    {
       "name": "Royal Goats",
       "symbol": "RGT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8YNpPhbPabeZqHTdZsh5miXNqj4WFGPL1DwZbmb7AaxK/logo.png",
@@ -50537,6 +50534,17 @@
       ]
     },
     {
+      "name": "WPScreators",
+      "symbol": "WPSC",
+      "logoURI": "https://raw.githubusercontent.com/wpscreatros/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "9uGQwUDHErypQa317fherN2tmTbGh9L9My16t2eEVomS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "TyCoin",
       "symbol": "TYCN",
       "logoURI": "https://raw.githubusercontent.com/samwarlock/tycoin/main/logo.png",
@@ -52228,6 +52236,18 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "TERPS TOKEN",
+      "symbol": "TERPS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9bQVYHePdN4LaW7BAXm1aL69SMGZ62LqLkeyPjP3rpN/logo.png",
+      "decimals": 0,
+      "address": "A9bQVYHePdN4LaW7BAXm1aL69SMGZ62LqLkeyPjP3rpN",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://kryptokronic.io/",
+        "twitter": "https://twitter.com/KryptoKronicNFT"
+      }
     },
     {
       "name": "Bliiink Token",
@@ -63590,7 +63610,7 @@
     {
       "name": "Enum Coin",
       "symbol": "ENUM",
-      "logoURI": "https://github.com/chrismengle/crypto/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/chrismengle/crypto/main/logo.png",
       "decimals": 0,
       "address": "Bhjc5ezhrKnZrLbMGahuY5rBYJ3ViKNFMsa7kNBnpacw",
       "chainId": 101,
@@ -72336,26 +72356,6 @@
         "website": "https://www.wildwestverse.com/",
         "twitter": "https://twitter.com/wildwestverse",
         "discord": "https://discord.com/invite/EgkyvyrNNT"
-      }
-    },
-    {
-      "name": "Zombieverse Whitelist",
-      "symbol": "WLZVC",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3x4DKbtWYkw9SigBp7LbeT96MLw68wpWVC4ZUtCp1Gvz/logo.png",
-      "decimals": 0,
-      "address": "Cvzwk5dvHu67n2b4BDMNQ7VTQ4G2XRQ6hN3uDBPmD9vt",
-      "chainId": 101,
-      "tags": [
-        "WriteToEarn",
-        "Zombieverse",
-        "Whitelist",
-        "MintPass"
-      ],
-      "extensions": {
-        "website": "https://www.zombieversecomics.com/",
-        "twitter": "https://twitter.com/ZombVerseNFT",
-        "discord": "https://discord.com/invite/Fu5zxU6Y8X",
-        "instagram": "https://www.instagram.com/zombieversecomics/"
       }
     },
     {
