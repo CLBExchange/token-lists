@@ -76931,6 +76931,21 @@
       "chainId": 101
     },
     {
+      "name": "Dark Energy",
+      "symbol": "DET",
+      "logoURI": "https://raw.githubusercontent.com/thefalseshad0w/crpt-token-/main/DarkRc495tLsH1ULeXtP2tShUG4iFMDw6dv55oG6AwjZ/dark.png",
+      "decimals": 6,
+      "address": "DarkRc495tLsH1ULeXtP2tShUG4iFMDw6dv55oG6AwjZ",
+      "chainId": 101,
+      "tags": [
+        "Community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://babychimps.xyz/"
+      }
+    },
+    {
       "name": "ZSK Coin",
       "symbol": "ZSK",
       "logoURI": "https://raw.githubusercontent.com/Henzelix/lucky-number/master/logo-zsk.png",
@@ -100446,6 +100461,20 @@
         "discord": "https://discord.gg/Wn6UYeQQGv",
         "telegram": "https://t.me/shibalana"
       }
+    },
+    {
+      "name": "JP Token",
+      "symbol": "JP",
+      "logoURI": "https://raw.githubusercontent.com/algr0n/JPTOKEN/main/JP.png",
+      "decimals": 6,
+      "address": "H4Gu5KgyZhHFjDHJ6dqS8pLiACbumkMwpS9ywRqGGZqL",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "MEME",
+        "MEME-TOKEN",
+        "Jordan-Peterson"
+      ]
     },
     {
       "name": "dNb Coin",

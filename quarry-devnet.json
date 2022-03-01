@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-01T22:08:16.224Z",
+  "timestamp": "2022-03-01T23:08:31.506Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -12837,6 +12837,13 @@
       "symbol": "7HWf3",
       "decimals": 6,
       "address": "7HWf3g6kfRJ5DiiEN6ckbmfxgoVSDgTqyro37UtXvsTx",
+      "chainId": 104
+    },
+    {
+      "name": "Token 7Hhd",
+      "symbol": "7HhdW",
+      "decimals": 8,
+      "address": "7HhdWJLQsy6x1cTfpLWh2BW6oubyojR1rwDXCgheBHUm",
       "chainId": 104
     },
     {
