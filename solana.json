@@ -15390,6 +15390,22 @@
       }
     },
     {
+      "name": "BOUNCER",
+      "symbol": "BNCE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4NJ1L4LHSbJpk4h4rHQnJNKZbRSYticS8sQVPbGHsj33/logo.png",
+      "decimals": 9,
+      "address": "4NJ1L4LHSbJpk4h4rHQnJNKZbRSYticS8sQVPbGHsj33",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://theparlaynft.com/",
+        "twitter": "https://twitter.com/parlaynft",
+        "discord": "https://discord.gg/parlay"
+      }
+    },
+    {
       "name": "Black Label",
       "symbol": "KLB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX/logo.svg",
