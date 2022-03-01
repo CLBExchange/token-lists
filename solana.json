@@ -52480,6 +52480,17 @@
       }
     },
     {
+      "name": "PissCoin",
+      "symbol": "PISS",
+      "logoURI": "https://github.com/JarSittel/PissCoin/blob/master/PissCoin.png",
+      "decimals": 0,
+      "address": "ABaeZ4AJ91Qu2DDZH9yvJD6KrPGkFAUZ7uDycTZwCotH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "XSOL Token",
       "symbol": "XSOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ABxCiDz4jjKt1t7Syu5Tb37o8Wew9ADpwngZh6kpLbLX/logo.png",
@@ -69149,6 +69160,17 @@
       "logoURI": "https://raw.githubusercontent.com/Schindlermc/Bluefire-crypto/main/logo.png",
       "decimals": 0,
       "address": "CWW1FBQ97EXhXBHqVzw82QawJR5bSaMS2KCwLx1jjwP2",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "NxtTek",
+      "symbol": "NXTK",
+      "logoURI": "https://raw.githubusercontent.com/phaktor/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "CWy42AVkx8jj39Jnb6A2ChupCNcsoqdsiRCYHh3XuREj",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -101833,6 +101855,14 @@
       }
     },
     {
+      "name": "Haughty Monkee Token",
+      "symbol": "HMKS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HMKSrb4Nb894wEmwYveACs3y7wHy7TKzf3kqPeiHjaqa/logo.png",
+      "decimals": 6,
+      "address": "HMKSrb4Nb894wEmwYveACs3y7wHy7TKzf3kqPeiHjaqa",
+      "chainId": 101
+    },
+    {
       "name": "Mortgage",
       "symbol": "MORT",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Mortgage.png",
@@ -116387,6 +116417,25 @@
         "twitter": "https://twitter.com/pandacoin_fi",
         "discord": "https://discord.gg/nPSXvdJpvz",
         "telegram": "https://t.me/pandacoin_announcements"
+      }
+    },
+    {
+      "name": "Phantasia Staking Token",
+      "symbol": "sFANT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/stmnJnBt9kNdjYWrcQSj6ZdLeLvzvrXd8hSKCHHhJ5U/logo.png",
+      "decimals": 6,
+      "address": "stmnJnBt9kNdjYWrcQSj6ZdLeLvzvrXd8hSKCHHhJ5U",
+      "chainId": 101,
+      "tags": [
+        "stake-pool-token",
+        "staking-token"
+      ],
+      "extensions": {
+        "website": "https://phantasia.app/",
+        "twitter": "https://twitter.com/PhantasiaSports",
+        "github": "https://github.com/Phantasia-Sports",
+        "medium": "https://medium.com/@phantasia",
+        "discord": "https://t.co/Vskz9PkBBC?amp=1"
       }
     },
     {
