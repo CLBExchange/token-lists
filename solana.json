@@ -19014,6 +19014,17 @@
       }
     },
     {
+      "name": "KCOIN",
+      "symbol": "KNC",
+      "logoURI": "https://raw.githubusercontent.com/Kameania/crypto/main/KNC.png",
+      "decimals": 0,
+      "address": "4xiH8pUEe5u9vs2rNKqbVATePjFEL5er34Qm5spxQxWH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "The Dojo Master",
       "symbol": "GDX9902",
       "logoURI": "https://raw.githubusercontent.com/Adrizcorp/siu/main/derick.png",
@@ -112207,6 +112218,20 @@
       }
     },
     {
+      "name": "OG Atadian WL",
+      "symbol": "ATWL",
+      "logoURI": "https://raw.githubusercontent.com/KKQanT/token-list/main/assets/mainnet/WLZAGA9jnK7o5nTgkDTDngSsSuiyegb1p7Ch5DDoQEe/logo.png",
+      "decimals": 0,
+      "address": "WLZAGA9jnK7o5nTgkDTDngSsSuiyegb1p7Ch5DDoQEe",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.atadia.io/"
+      }
+    },
+    {
       "name": "Haughty Monkee WL Token",
       "symbol": "HMWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLcpHjuqSZQjxmPhnF5fEkfC1MKqZ5voHNops9EGCS7/logo.png",
@@ -118488,6 +118513,22 @@
       }
     },
     {
+      "name": "Test Raydium (LP Finance Devnet)",
+      "symbol": "tRAY",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/RAY.png",
+      "decimals": 9,
+      "address": "3bsvftcGX66jB39fLJ2a9ipPgVGWsxEopgJxBfdjar3D",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "Hotline Token",
       "symbol": "HTLN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3fX2LgjZkoAsxGJLx75pLdWqP9kY5QJtqmhDzVTJwqvJ/logo.png",
@@ -118626,6 +118667,22 @@
       "decimals": 9,
       "address": "4XQxzNWwgqU1YDaAvUSjJHZKy4mJZUfcKG7pKurvXLLf",
       "chainId": 103
+    },
+    {
+      "name": "Test Avalanche (LP Finance Devnet)",
+      "symbol": "tAVAX",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/AVAX.png",
+      "decimals": 9,
+      "address": "4fBcqkaR9CpaYkXQGqP6bkkfbSDiuGLD6DDoi6LiuowX",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
     },
     {
       "name": "SEED PET TOKEN",
@@ -119109,6 +119166,22 @@
       }
     },
     {
+      "name": "Test FTX Token (LP Finance Devnet)",
+      "symbol": "tFTT",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/FTT.png",
+      "decimals": 9,
+      "address": "86opZkLhi6V7B5oVgBT1yGvXdKzi6MfTs65M3gHeha4p",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "Hatch Group Coin",
       "symbol": "HGC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/86x8r57bTMmaU7i5SqsY9gwiuxqddt8vPA7WXuR6Bhx1/logo.png",
@@ -119426,6 +119499,22 @@
       }
     },
     {
+      "name": "Test Ethereum (LP Finance Devnet)",
+      "symbol": "tETH",
+      "logoURI": "https://github.com/LP-Finance-Inc/token-image/blob/main/ETH.png",
+      "decimals": 9,
+      "address": "AAd8oQcBCk2TBvXXzQ77DheoNTNPJSYUxhH6yYGrwLWV",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "Master of Circles (AAhe)",
       "symbol": "KGG",
       "logoURI": "https://devbeta.human.ag/api/profile/FKabzds8w3k7ZQRkPS6duTZJDhCiHiaR64Vq9AkCtsgP/picture?src=token-list",
@@ -119730,6 +119819,22 @@
       }
     },
     {
+      "name": "Test Terra (LP Finance Devnet)",
+      "symbol": "tLUNA",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/wLUNA.png",
+      "decimals": 9,
+      "address": "BRaoLCWn5Y2oEN97j4kmxt7zz1ezjFQjDp2iAC4J8pMc",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "SoBe",
       "symbol": "SOBE",
       "logoURI": "https://github.com/MattyMonk/sobe-swap/blob/master/sobe%20swap%20logo.png",
@@ -119827,6 +119932,22 @@
       }
     },
     {
+      "name": "Test TerraUSD (LP Finance Devnet)",
+      "symbol": "tUST",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/ust.png",
+      "decimals": 9,
+      "address": "Bi775t6MHNDn4hoG3kZr9QDjMUEP6WeD8SNqyAuekQsM",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "USDC-USDT LP",
       "symbol": "USDC-USDT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BkpqyoDe5mwN6DiH1MYSJ1G4AbhPuiZsycjjYfQcWK9P/logo.png",
@@ -119892,6 +120013,22 @@
       ]
     },
     {
+      "name": "Test Chainlink (LP Finance Devnet)",
+      "symbol": "tLINK",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/LINK.png",
+      "decimals": 9,
+      "address": "Bwxtq3dx3PiH9t5wKuDPwVNpYoUXSiZyEGkbD7iNGMe",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "UNIVERS REPUBLIK",
       "symbol": "UREP",
       "logoURI": "https://github.dev/POPE001/token-list/blob/a59c01f6fdf9ef7a4b9603f72e8d811a0ee8a830/assets/mainnet/ByEWiEXkwMXzHTT5FkuWzcHY3MzkYT814jFxxN1QLh3g/unilever.jpg",
@@ -119912,6 +120049,38 @@
       "tags": [
         "DXDGM"
       ]
+    },
+    {
+      "name": "LP Finance USD",
+      "symbol": "lpUSD",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpUSD.png",
+      "decimals": 9,
+      "address": "C6DHbFE8eFmiiZPcY1mTPaG928q6cXuE9vD2NHuDL5TH",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
+      "name": "LP Finance Solana",
+      "symbol": "lpSOL",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/lpSOL-min.png",
+      "decimals": 9,
+      "address": "CCFfxDcVY6iCd4EiocQNymZRhZapuGrxVP4TK1PJrVqh",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
     },
     {
       "name": "Wonderland",
@@ -120244,6 +120413,22 @@
       ]
     },
     {
+      "name": "Test Serum (LP Finance Devnet)",
+      "symbol": "tSRM",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/srm.png",
+      "decimals": 9,
+      "address": "DeYee8csjXSngSSc9PhgyvkQYMPDyUSEXirs9pLVAGst",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
+    },
+    {
       "name": "Flame",
       "symbol": "FTK",
       "logoURI": "https://raw.githubusercontent.com/Hariienesh1901/Flame/main/logo.png",
@@ -120291,6 +120476,22 @@
         "community-token",
         "meta-verse"
       ]
+    },
+    {
+      "name": "Test Marinade Staked SOL (LP Finance Devnet)",
+      "symbol": "tmSOL",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/msol.png",
+      "decimals": 9,
+      "address": "EJ94TwhddyUAra7i3qttQ64Q1wExJYb8GmACbHbAnvKF",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
+      }
     },
     {
       "name": "USDT (Saber Devnet)",
@@ -120826,6 +121027,22 @@
       ],
       "extensions": {
         "website": "https://dev.ratio.finance/"
+      }
+    },
+    {
+      "name": "Test Tether (LP Finance Devnet)",
+      "symbol": "tUSDT",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/usdt.png",
+      "decimals": 9,
+      "address": "HY6uvCfBQhKANRxBcYLBK7aUva8mT7mLP2SjrLLmipza",
+      "chainId": 103,
+      "tags": [
+        "stablecoin",
+        "LP-Finance"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LPFinance_",
+        "telegram": "https://t.me/LP_Defi_Official_group"
       }
     },
     {
