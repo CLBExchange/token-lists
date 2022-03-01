@@ -47999,7 +47999,7 @@
     {
       "name": "Juggernaut Coin",
       "symbol": "JUGC",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/95de7bb40d847ed838a2f8156efdee55800b26d0/assets/mainnet/9WhjFakVRAfRvZ8X5m5LFHD3Gvh7JkibmZjAs5BxHzFZ/Jlogo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9WhjFakVRAfRvZ8X5m5LFHD3Gvh7JkibmZjAs5BxHzFZ/J2logo.png",
       "decimals": 0,
       "address": "9WhjFakVRAfRvZ8X5m5LFHD3Gvh7JkibmZjAs5BxHzFZ",
       "chainId": 101,
@@ -72203,7 +72203,7 @@
     {
       "name": "PARTS",
       "symbol": "PRTS",
-      "logoURI": "https://raw.githubusercontent.com/PARTS-PRTS/PARTS-Token/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CvRjLqr3fwtQEe3RETTQCqX2CJAvMzKf613yC6DfyBDM/logo.png",
       "decimals": 2,
       "address": "CvRjLqr3fwtQEe3RETTQCqX2CJAvMzKf613yC6DfyBDM",
       "chainId": 101,
@@ -105861,6 +105861,24 @@
         "twitter": "https://twitter.com/teslainu_coin",
         "discord": "https://discord.io/teslainu_coin",
         "telegram": "https://t.me/teslainu_coin"
+      }
+    },
+    {
+      "name": "Jungle DeFi Raydium LP Token",
+      "symbol": "JFI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4/logo.png",
+      "decimals": 9,
+      "address": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://jungledefi.io/",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "medium": "https://medium.com/@JungleDeFi",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "description": "The Jungle Finance Raydium LP token."
       }
     },
     {
