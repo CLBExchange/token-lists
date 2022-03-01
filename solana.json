@@ -1953,6 +1953,17 @@
       }
     },
     {
+      "name": "Kat Koin",
+      "symbol": "KNIP",
+      "logoURI": "https://raw.githubusercontent.com/kombatkat/crypto/main/kombatkat.png",
+      "decimals": 0,
+      "address": "2EKoef9nDjJGtLBtXuWCTMyRuB4iidYSThCmoVvQyK3B",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "lilium",
       "symbol": "LILI",
       "logoURI": "https://raw.githubusercontent.com/hamdielhamdi/token-list/main/assets/mainnet/2EKzQjEbEBqygpy7sqBk7E9Bj7NFsFJp9PDqqxTzVA2E/lilium.png",
@@ -22715,6 +22726,17 @@
       ]
     },
     {
+      "name": "Walkoin",
+      "symbol": "WKN",
+      "logoURI": "https://raw.githubusercontent.com/FardMan69420/crypto/master/logo.png",
+      "decimals": 0,
+      "address": "5bBDXm92dDqqnpmiLPE7ZMFYdLhyhNMLwzotPSar3sLY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Corgi Coin",
       "symbol": "CORGI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5bJPS9PqzeH8JNzvGqw2nYi5VXyB7Cch6UYeUKkoHQeJ/logo.png",
@@ -30235,6 +30257,19 @@
       "extensions": {
         "website": "https://www.bongweedcoin.com/",
         "twitter": "https://twitter.com/bongweedcoins"
+      }
+    },
+    {
+      "name": "Pre-Racers WL token",
+      "symbol": "PreRacers$",
+      "logoURI": "https://imagedelivery.net/aAmca-Po70V1nH4n9cT-uA/8a63a599-2b2b-4261-b12e-19f5cfe24b00/public",
+      "decimals": 0,
+      "address": "6sKbBU1ECSokaBeh7jKvhBu2i1ZyDhDUQz8d2FoRpdrC",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://spideyeden.com/",
+        "twitter": "https://twitter.com/Spidey_Eden",
+        "discord": "https://discord.gg/YhjYHSJDu5"
       }
     },
     {
@@ -62590,6 +62625,19 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Hyper Complex Project",
+      "symbol": "HCP",
+      "logoURI": "https://raw.githubusercontent.com/HyperComplexProject/HCPtoken/main/logo.png",
+      "decimals": 8,
+      "address": "BZhA4kJHMCEzDxreHKSVEogLWt5hBHfq1A9Aoa64Kb9d",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "NFT"
       ]
     },
     {
@@ -111175,6 +111223,22 @@
       }
     },
     {
+      "name": "DAREdu Whitelist Token",
+      "symbol": "DAREDUWL",
+      "logoURI": "https://raw.githubusercontent.com/bradbalogh/DAREdu-assets/main/DAREDUWL.jpg",
+      "decimals": 0,
+      "address": "ToiQNrFfF7eP9DdtDPhzTLZJvAPDT5yvQqBDEU9FkUn",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://daredu.io/",
+        "twitter": "https://twitter.com/DAREdu_NFT",
+        "discord": "https://discord.gg/sbsJFhGh"
+      }
+    },
+    {
       "name": "My Test SPL Token",
       "symbol": "MTSPL",
       "logoURI": "https://raw.githubusercontent.com/mean-training/spl_token/main/images-1.png",
@@ -114709,6 +114773,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Kasa",
+      "symbol": "KASA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kasaU22JExTfVikDPKqV4yd2W46nAbJcAkz8AK1kxGF/logo.png",
+      "decimals": 9,
+      "address": "kasaU22JExTfVikDPKqV4yd2W46nAbJcAkz8AK1kxGF",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "tokenized-stock",
+        "solana",
+        "kasa",
+        "real-estate"
+      ],
+      "extensions": {
+        "website": "https://kasa.finance",
+        "twitter": "https://twitter.com/thekasaproject",
+        "description": "Bridging the worlds of crypto and real-estate"
+      }
     },
     {
       "name": "Knightdom coin",
@@ -120412,6 +120496,14 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "Camp Coin",
+      "symbol": "CMP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FovRJ61rWzbasfX46Zv8HQgzEz7t8VWXezMpRckjU4BM/logo.png",
+      "decimals": 9,
+      "address": "FovRJ61rWzbasfX46Zv8HQgzEz7t8VWXezMpRckjU4BM",
+      "chainId": 103
     },
     {
       "name": "SolBucks",
