@@ -2409,6 +2409,21 @@
       ]
     },
     {
+      "name": "Shady",
+      "symbol": "$Shady",
+      "logoURI": "https://raw.githubusercontent.com/Ken-tech-max/ShadyTigsToken/main/photo_2022-02-28_06-40-46.jpg",
+      "decimals": 3,
+      "address": "2JfA8r8eSAxkjXP9LxGoj8MTe1vCiSCxwesY8ZPyiNoS",
+      "chainId": 101,
+      "tags": [
+        "rewards"
+      ],
+      "extensions": {
+        "website": "https://shadytigs.com",
+        "description": "Metaverse talent contests and wealth generation with blockchain validation"
+      }
+    },
+    {
       "name": "Solana Monke Rejects Whitelist Token",
       "symbol": "SMR",
       "logoURI": "https://raw.githubusercontent.com/milorue/token-assets/master/logo.png",
@@ -103418,6 +103433,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "FIG Token",
+      "symbol": "FIG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hd65ZzpmXaXgmjRy7QrVPmSqiWzZDRFkLCTBfoBM6XAz/logo.png",
+      "decimals": 9,
+      "address": "Hd65ZzpmXaXgmjRy7QrVPmSqiWzZDRFkLCTBfoBM6XAz",
+      "chainId": 101,
+      "tags": [
+        "fig-token",
+        "game-token",
+        "GameFi",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "http://projectfigtoken.com/",
+        "twitter": "https://twitter.com/figs71969430"
+      }
     },
     {
       "name": "Upsilon",

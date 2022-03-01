@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-01T04:10:49.936Z",
+  "timestamp": "2022-03-01T05:07:56.425Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -5532,6 +5532,24 @@
       }
     },
     {
+      "name": "Jungle DeFi Raydium LP Token",
+      "symbol": "JFI-USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4/logo.png",
+      "decimals": 9,
+      "address": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://jungledefi.io/",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "medium": "https://medium.com/@JungleDeFi",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "description": "The Jungle Finance Raydium LP token."
+      }
+    },
+    {
       "name": "Sencha CASH-COW LP",
       "symbol": "sCASH-COW",
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/J8Le9FqYK12xadDw3Mm8k37rWj4tLtHZaWs65fgFjf4F/icon.png",
@@ -7874,13 +7892,6 @@
       "symbol": "HXYeg",
       "decimals": 6,
       "address": "HXYegsp9dA5D7KeTm4bxkMdDGGy4R5TyErX1mw2gVNr2",
-      "chainId": 104
-    },
-    {
-      "name": "Token J2hG",
-      "symbol": "J2hGH",
-      "decimals": 9,
-      "address": "J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4",
       "chainId": 104
     },
     {
