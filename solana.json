@@ -6166,6 +6166,23 @@
       ]
     },
     {
+      "name": "Kind Token",
+      "symbol": "KIND",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2y2NXKk6vAa3oCmrTuQqnt2CXvcUcqYjcqLqEuHYhQ3U/logo.png",
+      "decimals": 6,
+      "address": "2y2NXKk6vAa3oCmrTuQqnt2CXvcUcqYjcqLqEuHYhQ3U",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/worthynfts",
+        "instagram": "http://instagram.com/worthynfts",
+        "telegram": "https://t.me/worthynfts"
+      }
+    },
+    {
       "name": "PSYn",
       "symbol": "$PSYn",
       "logoURI": "https://github.com/charliebakerr/psy-token/blob/main/photo_2022-01-30%2012.23.01.jpeg",
@@ -15069,6 +15086,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Worthy",
+      "symbol": "WORTH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4K8wPaVSqDwTeMvTrN9twHZhdnvXTYoqBuw4F8aFkFVg/logo.png",
+      "decimals": 6,
+      "address": "4K8wPaVSqDwTeMvTrN9twHZhdnvXTYoqBuw4F8aFkFVg",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/worthynfts",
+        "instagram": "http://instagram.com/worthynfts",
+        "telegram": "https://t.me/worthynfts"
+      }
     },
     {
       "name": "Sangga Token",
