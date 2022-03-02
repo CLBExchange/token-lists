@@ -98976,6 +98976,18 @@
       ]
     },
     {
+      "name": "Skarbucks",
+      "symbol": "SKB",
+      "logoURI": "https://raw.githubusercontent.com/d0nt-by/crypto/main/Body5.png",
+      "decimals": 0,
+      "address": "Gj8tg2wwUYqk6MWd21jGgzcSiAumMHaBEfB3VSo5FKoF",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "ACES Mint Token",
       "symbol": "ACESMINT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gj9GCwBoVwR2wqaKHCkrAYQtTpyPSfwLU4WjsoJMqQ8m/logo.png",
