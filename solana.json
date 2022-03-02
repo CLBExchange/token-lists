@@ -39928,6 +39928,22 @@
       ]
     },
     {
+      "name": "Feet Tokens",
+      "symbol": "HFT",
+      "logoURI": "https://raw.githubusercontent.com/Karfearsw/HeatFeet-Token/main/hft.jpg",
+      "decimals": 5,
+      "address": "8E46KTad6wrB1TdFnozAjX8BLvL6pnFaADqGL3KFMtX",
+      "chainId": 101,
+      "tags": [
+        "minecraft-coin",
+        "gaming-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://Heatfeet401.com/"
+      }
+    },
+    {
       "name": "Apple Fruit",
       "symbol": "APPLE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h/logo.png",
@@ -70398,6 +70414,18 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Digital Knights Token",
+      "symbol": "DGKT",
+      "logoURI": "https://raw.githubusercontent.com/DigitalKnightsGA/crypto/main/logo.jpg",
+      "decimals": 0,
+      "address": "CbBcr2RnpycCceMMCDRmNXcsqYxDLW4TqfGN6CD3CP9d",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
       ]
     },
     {
