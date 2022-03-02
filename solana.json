@@ -29777,6 +29777,18 @@
       }
     },
     {
+      "name": "vBOW",
+      "symbol": "vBOW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6isPCSZf1ZQdwHMTuRMG9q4DZPKsjFog5o3HM4XCuCc9/logo.png",
+      "decimals": 9,
+      "address": "6isPCSZf1ZQdwHMTuRMG9q4DZPKsjFog5o3HM4XCuCc9",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://bobosofwar.com/",
+        "twitter": "https://twitter.com/bobosofwar"
+      }
+    },
+    {
       "name": "Angel Coin",
       "symbol": "ANGC",
       "logoURI": "https://raw.githubusercontent.com/SirSimon04/angel-coin/main/logo.png",
@@ -118566,6 +118578,17 @@
       }
     },
     {
+      "name": "WORM",
+      "symbol": "WORM",
+      "logoURI": "https://raw.githubusercontent.com/SnootyRavens/logo/main/logo.png",
+      "decimals": 9,
+      "address": "wrmAVPTbvznVe5LDbL7uRXZCppeyq3LNqacyKswtQqJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Zeeland Homes shares",
       "symbol": "SHARES",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wyM6zDsEjuNrKmLHQtxfXADgwwDxbyxUKG2zd3ch7GN/blockstonePNG.png",
@@ -121259,6 +121282,26 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Djib",
+      "symbol": "DJIB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+      "decimals": 9,
+      "address": "B4fAv9ru7oHX2HuQzTq8XDkwas3xwnokYa4kgzEQEpcm",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://djib.io",
+        "twitter": "https://twitter.com/Djibchain",
+        "github": "https://github.com/Djib-io",
+        "discord": "https://discord.gg/PpZgKJkKpb",
+        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+        "description": "Universal Data Storage Parachain",
+        "telegram": "https://t.me/DjibTech"
+      }
     },
     {
       "name": "Builder",
