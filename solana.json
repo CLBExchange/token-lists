@@ -60475,6 +60475,23 @@
       }
     },
     {
+      "name": "Metaball",
+      "symbol": "MTBL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BALLimbbj8tUo76Ksv6ESyNNNR2SKtcfDPeCuLiwpUeE/logo.png",
+      "decimals": 0,
+      "address": "BALLimbbj8tUo76Ksv6ESyNNNR2SKtcfDPeCuLiwpUeE",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.metaballnft.io",
+        "twitter": "https://twitter.com/MetaballNFT",
+        "discord": "https://discord.com/invite/Rbj9ezcxnC"
+      }
+    },
+    {
       "name": "FRESH808",
       "symbol": "FRESH",
       "logoURI": "https://raw.githubusercontent.com/breezy2472be/crypto2/main/logo.png",
@@ -83647,6 +83664,20 @@
       "tags": [
         "community-token"
       ]
+    },
+    {
+      "name": "Message Bottle",
+      "symbol": "BOTTLE",
+      "logoURI": "https://dd6jvny7gn5elomvxk6uqibfvsdtpfiid7rxvparqrqaq4kz.arweave.net/GPyatx8zekW5lbq9SCAlrI_c3lQgf43q8EYRgCHFZ_U?ext=png",
+      "decimals": 0,
+      "address": "EYZMoSHaVmULt3AnujorGweJ6NPqzDaUbLrTiCwZeJYu",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BohemiaArtFair"
+      }
     },
     {
       "name": "Uni Casino Token",
