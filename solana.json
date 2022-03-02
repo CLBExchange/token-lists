@@ -7612,6 +7612,17 @@
       ]
     },
     {
+      "name": "Knowledge",
+      "symbol": "KNO",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/kno-logo.png",
+      "decimals": 9,
+      "address": "3B7BHTB3AyZfb2teKirnEZCeUmnvJ5asRkfLJpYoSGq6",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Sharki Inu",
       "symbol": "SHARKI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3BQCm29nq5TincBd3bGrJGu5GJxyxoi43fMUsKfdmBTX/logo.png",
@@ -13775,6 +13786,17 @@
         "website": "https://inu.monster",
         "twitter": "https://twitter.com/inumonster"
       }
+    },
+    {
+      "name": "Massage",
+      "symbol": "RUB",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/rub-logo.png",
+      "decimals": 9,
+      "address": "45Pt8dSXr59TbB7ZgBXJpycYGkkwdqHYkTcWkpqtNttE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "SOL Playground Coin",
@@ -26609,6 +26631,17 @@
       }
     },
     {
+      "name": "Poker Chip",
+      "symbol": "GMBL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/gmbl-logo.png",
+      "decimals": 9,
+      "address": "6DkU5mszGEVWta5G25536m6uH2kQGVkwQGo2JswWkWLG",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "ARTE",
       "symbol": "ARTE",
       "logoURI": "https://raw.githubusercontent.com/ArtPunks/ARTE-token/main/assets/token_512.png",
@@ -31103,6 +31136,17 @@
       "logoURI": "https://raw.githubusercontent.com/xTaromarux/crypto/main/coin-image.png",
       "decimals": 0,
       "address": "6vmmDgU9YNCSUsnEpYekPW8GnG4zFYKH9g8KRQTnSdzo",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Expertise",
+      "symbol": "XPRT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/xprt-logo.png",
+      "decimals": 9,
+      "address": "6vt26AmQr4jciA8S8RP9CJAwxquapdzwPHxkCCFpEENs",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -105612,6 +105656,17 @@
       ]
     },
     {
+      "name": "Pledge",
+      "symbol": "PLDG",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/pldg-logo.png",
+      "decimals": 9,
+      "address": "HnYu5Tfqgcp7uvYH8degPpX5eicNjL7JEMVFq3nj7tP6",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Such Shiba",
       "symbol": "SUCH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnZiKrSKYQkEfzjQs6qkvuGbBmrBP9YzjB1SMM7tiGZ1/logo.png",
@@ -118303,6 +118358,23 @@
         "discord": "https://discord.com/invite/alienrappersclub",
         "description": "The Coin for Alien Rappers NFT for Whitelist.",
         "instagram": "https://www.instagram.com/alienrappersclub/"
+      }
+    },
+    {
+      "name": "Wrapped BTC (Player 2)",
+      "symbol": "wrBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/wrBTCqVjkpqktbqN3CeGVSzQ9PFiPonHN98uwEpwMsy/logo_wrBTC.png",
+      "decimals": 6,
+      "address": "wrBTCqVjkpqktbqN3CeGVSzQ9PFiPonHN98uwEpwMsy",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/player2world",
+        "github": "https://github.com/player2world",
+        "discord": "https://discord.gg/player2",
+        "reddit": "https://www.reddit.com/r/player2world"
       }
     },
     {
