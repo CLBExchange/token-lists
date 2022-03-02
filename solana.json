@@ -61407,6 +61407,23 @@
       ]
     },
     {
+      "name": "PXL",
+      "symbol": "PXL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BHT9o8W1FuG2wBRxbKVQoAyANo1pZPVkrpNWTdGaYwVP/logo.png",
+      "decimals": 9,
+      "address": "BHT9o8W1FuG2wBRxbKVQoAyANo1pZPVkrpNWTdGaYwVP",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://pixel.cryptotraplordzclub.com/",
+        "twitter": "https://twitter.com/SenseiTrapLord"
+      }
+    },
+    {
       "name": "Opensource",
       "symbol": "OPEN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BHamA7cqt2ZSTqzGagamALprsmFnzQRPJfgx65VcRyZU/logo.png",
@@ -108546,6 +108563,18 @@
       ]
     },
     {
+      "name": "Flowin Wallet LP Token",
+      "symbol": "FLWT",
+      "logoURI": "https://somosflow.in/static/media/flowLine.25a310d8.png",
+      "decimals": 0,
+      "address": "JEBexgRE4xdNHeNAv7c3GCSC7wg3DUwXJybxUNEgiUzD",
+      "chainId": 101,
+      "tags": [
+        "permission-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "Saber Wrapped USD Coin (9 decimals)",
       "symbol": "sUSDC-9",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1/icon.png",
@@ -110740,6 +110769,22 @@
       ],
       "extensions": {
         "website": "https://www.racepoker.app/"
+      }
+    },
+    {
+      "name": "Racer",
+      "symbol": "RACER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RACEKYC7jTn98bEyG8xWFyMJZj9XDXHPfYRsCMoaM33/logo.png",
+      "decimals": 6,
+      "address": "RACEKYC7jTn98bEyG8xWFyMJZj9XDXHPfYRsCMoaM33",
+      "chainId": 101,
+      "tags": [
+        "currency",
+        "Utility-Token",
+        "NFT-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/DraceNft"
       }
     },
     {
