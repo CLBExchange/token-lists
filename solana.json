@@ -7211,6 +7211,21 @@
       ]
     },
     {
+      "name": "24x7 /dev",
+      "symbol": "24x7",
+      "logoURI": "https://raw.githubusercontent.com/24x7-Development/crypto/main/800.png",
+      "decimals": 6,
+      "address": "37iajCoaDpmduwmFCQ25AFpC6WjfTjyMVVkwWGb7Q1oZ",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/9yUjFtcFqP"
+      }
+    },
+    {
       "name": "Dogelon Mars",
       "symbol": "ELON",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/37mG5XYuwMSutQnvERDUZqxumes5hYp89X2gpBbedpZ2/logo.png",
@@ -12384,6 +12399,17 @@
       }
     },
     {
+      "name": "Crazy Monkeys Club",
+      "symbol": "CRM",
+      "logoURI": "https://raw.githubusercontent.com/crazymonkeysclub/CRM-LOGO/main/CRM_TOKEN_LOGO.png",
+      "decimals": 0,
+      "address": "3pVGSD3L4n35kcC6m6Z8rmG5j4q7Uq8NvEVPmc9CwrxZ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SolChick",
       "symbol": "Chicks",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3pX59cis3ZXnX6ZExPoUQjpvJVspmj4YavtUmpTpkB33/logo.png",
@@ -16145,6 +16171,17 @@
         "coinmarketcap": "https://coinmarketcap.com/currencies/1sol/",
         "telegram": "https://t.me/onesolcommunity"
       }
+    },
+    {
+      "name": "JoyCoin",
+      "symbol": "JC",
+      "logoURI": "https://raw.githubusercontent.com/djTiTanZ/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "4TzFbsSpDKfZCyaSHP92ktyEUiCZ5hGbGwNhWFbzs6rM",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CARDASOL",
@@ -71073,6 +71110,17 @@
       "extensions": {
         "website": "https://livingfreely.on.fleek.co"
       }
+    },
+    {
+      "name": "rakeshsh",
+      "symbol": "rakeshsh",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CedGzCs94g69Qjpe4KWWfhwQc5ViGx4oDB6K7daQdL28/logo.png",
+      "decimals": 0,
+      "address": "CedGzCs94g69Qjpe4KWWfhwQc5ViGx4oDB6K7daQdL28",
+      "chainId": 101,
+      "tags": [
+        "rakshpma-token"
+      ]
     },
     {
       "name": "Weiss token",
