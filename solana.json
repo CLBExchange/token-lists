@@ -58958,6 +58958,17 @@
       }
     },
     {
+      "name": "ZEL Token",
+      "symbol": "ZELT",
+      "logoURI": "https://raw.githubusercontent.com/kmperkins85/ZEL/main/ZEL_TOKEN_LOGO_3.png",
+      "decimals": 0,
+      "address": "AuHBUtTsD2uU5MTSZFwZ9d63Ug78pZ3JxCH7cRNcRxcK",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
       "name": "Wedding",
       "symbol": "IDO",
       "logoURI": "https://raw.githubusercontent.com/BlockchainWizard/Crypto/main/Wedding.png",
@@ -68289,6 +68300,17 @@
         "website": "https://www.barebonesnft.com/",
         "twitter": "https://twitter.com/BareBonesNFT"
       }
+    },
+    {
+      "name": "Cacao",
+      "symbol": "CAOS",
+      "logoURI": "https://raw.githubusercontent.com/buymesalmon3/crypto/main/logo.png",
+      "decimals": 5,
+      "address": "CJ8icYUpMiPNEnxtfqUnDsHEtJA6tqvag9LDNRzzbZRF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Gekz Arena",
@@ -117560,6 +117582,21 @@
         "twitter": "https://twitter.com/SeedSocietyNFT",
         "discord": "https://discord.gg/tA8J3fM6pq",
         "description": "Seed Society Genesis Collection"
+      }
+    },
+    {
+      "name": "Scalp Empire FMT",
+      "symbol": "SEFMT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/senWz5Nzt73xvDdk1Qbh3BLL1995xppr52dL8ti4gEo/logo.png",
+      "decimals": 0,
+      "address": "senWz5Nzt73xvDdk1Qbh3BLL1995xppr52dL8ti4gEo",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.scalp-empire.com/",
+        "twitter": "https://twitter.com/ScalpEmpireNFT"
       }
     },
     {
