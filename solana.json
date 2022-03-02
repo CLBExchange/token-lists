@@ -4347,6 +4347,19 @@
       ]
     },
     {
+      "name": "DEGA",
+      "symbol": "DEGA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ekksitUHfghpkwfnEBcD385YBXwGL75tPwcS1i3b3Vw/logo.png",
+      "decimals": 0,
+      "address": "2ekksitUHfghpkwfnEBcD385YBXwGL75tPwcS1i3b3Vw",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "metaverse"
+      ]
+    },
+    {
       "name": "Pack Coin",
       "symbol": "PKC",
       "logoURI": "https://raw.githubusercontent.com/FreemoX/PKC-Pack-Coin/main/PKC-Pack-Coins-Icon.png",
@@ -25991,6 +26004,26 @@
       "tags": [
         "NFT"
       ]
+    },
+    {
+      "name": "ProtoReality Games Token",
+      "symbol": "PRGC",
+      "logoURI": "https://www.protorealitygames.com/images/PRGC_Token.png",
+      "decimals": 9,
+      "address": "66edZnAPEJSxnAK4SckuupssXpbu5doV57FUcghaqPsY",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "gaming"
+      ],
+      "extensions": {
+        "website": "https://www.protorealitygames.com",
+        "twitter": "https://twitter.com/ProtoRealityGmz",
+        "discord": "https://discord.com/invite/7pjQxtUc5F",
+        "telegram": "https://t.me/PRG_and_DO119",
+        "youtube": "https://www.youtube.com/channel/UCfSBSgEnTOZfSCOkY5pGqLg"
+      }
     },
     {
       "name": "WonTooFree",
