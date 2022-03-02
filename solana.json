@@ -13298,6 +13298,21 @@
       ]
     },
     {
+      "name": "Qi Coin VIP",
+      "symbol": "QVIP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/41FRcQJzjupZe8MNVcNfYoCCJLtr31aUHVSBwH2zvALd/logo.png",
+      "decimals": 0,
+      "address": "41FRcQJzjupZe8MNVcNfYoCCJLtr31aUHVSBwH2zvALd",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://hitbalm.com/",
+        "twitter": "https://twitter.com/hitbalm"
+      }
+    },
+    {
       "name": "MyEgg",
       "symbol": "MyEgg",
       "logoURI": "https://cdn.jsdelivr.net/gh/BrightTechnologies1/myeggs--logo@master/logo.png",
@@ -37203,6 +37218,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Goop Coin",
+      "symbol": "GOOP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7rxkKVPwD7ddXuEryeC7mwHyBscz3eqxmgeYhaeySRnF/logo.png",
+      "decimals": 8,
+      "address": "7rxkKVPwD7ddXuEryeC7mwHyBscz3eqxmgeYhaeySRnF",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://goop.house/",
+        "twitter": "https://twitter.com/TheLickIn13Keys"
+      }
     },
     {
       "name": "CERT",
@@ -109612,6 +109644,17 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "Token of Glory",
+      "symbol": "TyTokn",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/NoRDquauNev8h7syCd5zxgNZaYZBqcy2j8YYCDBEa3r/logo.png",
+      "decimals": 0,
+      "address": "NoRDquauNev8h7syCd5zxgNZaYZBqcy2j8YYCDBEa3r",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.tylermcnair.com/nordic-glory-nft"
+      }
     },
     {
       "name": "My NFT Space",
