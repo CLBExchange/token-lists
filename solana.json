@@ -1288,6 +1288,17 @@
       }
     },
     {
+      "name": "Crypto Dubloon",
+      "symbol": "CDUB",
+      "logoURI": "https://raw.githubusercontent.com/officialmigueltorres/Crypto/main/Dubloon-logo-min.png",
+      "decimals": 0,
+      "address": "29FWnmKQTpBfZX5M2TZnxrgLVHBEdLWgkcuke9XM8RWr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Bittywood BittyBucks",
       "symbol": "PLEB",
       "logoURI": "https://raw.githubusercontent.com/Luckyshotthegreat/Crypto-Bitty/main/logo.png",
@@ -3248,6 +3259,17 @@
         "website": "https://www.solanadino.com",
         "twitter": "https://twitter.com/solanadino"
       }
+    },
+    {
+      "name": "Birthday",
+      "symbol": "BDAY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/bday-logo.png",
+      "decimals": 9,
+      "address": "2U7AMRZBMFqNeCpDRnSzVeyvDTTKunssxHUj1twD4oSE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Saltire",
@@ -5545,6 +5567,17 @@
       ]
     },
     {
+      "name": "Vote",
+      "symbol": "VOTE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/vote-logo.png",
+      "decimals": 9,
+      "address": "2sbn1jfZUzj8VJutfmsPxtwevZpBDiBWsXJj2owjX3vn",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "XriZ Coin",
       "symbol": "XRIZ",
       "logoURI": "https://raw.githubusercontent.com/ChrisX33/crypto/main/logo.png",
@@ -5758,6 +5791,17 @@
       "logoURI": "https://raw.githubusercontent.com/bellasar/Spite/main/logo.png",
       "decimals": 0,
       "address": "2upsex3K1RLcsokoUA4CNcerV6aWTTja3LH5bS9626vR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Donation",
+      "symbol": "DONATE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/donate-logo.png",
+      "decimals": 9,
+      "address": "2urksvP5mopRd1kxmbR93tUWadqq3eSoZjjoFzZYU1Pp",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -12447,6 +12491,17 @@
       ]
     },
     {
+      "name": "Prestige",
+      "symbol": "TIGE",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/tige-logo.png",
+      "decimals": 9,
+      "address": "3qYpt9J7XYDDbH882W9uT9wTZiT3i4kKFfR3u87xot47",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wisdom",
       "symbol": "WIS",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wis-logo.png",
@@ -18822,6 +18877,17 @@
       }
     },
     {
+      "name": "Character",
+      "symbol": "CHTR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/chtr-logo.png",
+      "decimals": 9,
+      "address": "4tu2y9ymeNFyQSFJbRmgZ411yiXv1oye9Kkvt29RstLY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Vibing Cat",
       "symbol": "VCT",
       "logoURI": "https://raw.githubusercontent.com/fpetruololo/cat2/main/logo.png",
@@ -19712,6 +19778,17 @@
       "logoURI": "https://github.com/Aceboone011/cryptoZKB/blob/9232cad70e918c9f02b46f4d2b287af0dc6dffa3/logo.png",
       "decimals": 0,
       "address": "55EZVKbY9u9vdouob88QiKQ4g9nfYUoAu7aWQUiuQ8pc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Control",
+      "symbol": "CTRL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ctrl-logo.png",
+      "decimals": 9,
+      "address": "55WUsHhhCPNrUDCzakT1m1h8XhdT2pNNbHwd2EVG3qRX",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -25596,6 +25673,17 @@
         "website": "https://ifu.pt",
         "description": "Incognitfigure Unipessoal Lda investment token."
       }
+    },
+    {
+      "name": "Leadership",
+      "symbol": "LEAD",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lead-logo.png",
+      "decimals": 9,
+      "address": "647wdbz4VJQ9WXTFNHaNsJrd6gSSHQYeYtvdiLVCSiS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Keep Network (Wormhole)",
@@ -32208,6 +32296,17 @@
       }
     },
     {
+      "name": "Skill",
+      "symbol": "SKIL",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/skil-logo.png",
+      "decimals": 9,
+      "address": "76esUJEVL47TkVj4NFAptPyvx6MNPiVYEVy3EyZ5pk9J",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Dad Oldman token",
       "symbol": "OLDMAN",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/76f4Q85ZamR7LhFwjQmw8nLc7cg1WjGYTLFLTxFWtAJ2/logo.png",
@@ -36136,6 +36235,17 @@
       ]
     },
     {
+      "name": "Data",
+      "symbol": "DATA",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/data-logo.png",
+      "decimals": 9,
+      "address": "7j6XzCsyiGBm9UNAHeU3BRtehEHeRYHds7mgW44amdxK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SolRazr",
       "symbol": "SOLR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7j7H7sgsnNDeCngAPjpaCN4aaaru4HS7NAFYSEUyzJ3k/SOLR.png",
@@ -36287,6 +36397,17 @@
         "telegram": "https://t.me/maticnetwork",
         "youtube": "https://youtube.com/c/PolygonTV"
       }
+    },
+    {
+      "name": "CLUE",
+      "symbol": "CLU",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/clu-logo.png",
+      "decimals": 9,
+      "address": "7kCXRxhESYfc2cAf5ZQ3NcAfeVPiFCk1aheULz8tvtc1",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "DodoCoin",
@@ -38891,6 +39012,17 @@
       "logoURI": "https://raw.githubusercontent.com/Moerbius/SWPT/main/logo.png",
       "decimals": 0,
       "address": "86mtV2nWTrheDGKjPnyomczehBLsLZrGjSMkTu4VWGqi",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Band",
+      "symbol": "BAND",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/band-logo.png",
+      "decimals": 9,
+      "address": "86vhTivj5ubLUe9ehUpH78EFATmXfbYxSd3iexqGLb7w",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -47043,6 +47175,17 @@
       ]
     },
     {
+      "name": "Story",
+      "symbol": "STRY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/stry-logo.png",
+      "decimals": 9,
+      "address": "9Lk76j7TkpqRtD4P4VyZWsbVEXb5pMwR8ATzqSDfRkuq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Flimsy Fox Coin",
       "symbol": "FFOX",
       "logoURI": "https://raw.githubusercontent.com/Flimsy-Fox/FFOX/main/Flimsy_Fox_Coin275x275.png",
@@ -51774,6 +51917,17 @@
       }
     },
     {
+      "name": "Privacy",
+      "symbol": "PVCY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/pvcy-logo.png",
+      "decimals": 9,
+      "address": "A39EVs7VWp9Ei7xgk5TA8FqKtH4pNogD75xCc4qJ5gJQ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Luck",
       "symbol": "LCK",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/lck-logo.png",
@@ -54614,6 +54768,21 @@
       }
     },
     {
+      "name": "EXP",
+      "symbol": "EXP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/APbULJeHRq1w7bzXcTJ4CXQQcuYg9u7rYQnc8J4k5Cdh/EXP-logo.png",
+      "decimals": 0,
+      "address": "APbULJeHRq1w7bzXcTJ4CXQQcuYg9u7rYQnc8J4k5Cdh",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "Game-token"
+      ],
+      "extensions": {
+        "website": "https://bitmon.io"
+      }
+    },
+    {
       "name": "SIGN token",
       "symbol": "SIGN",
       "logoURI": "https://raw.githubusercontent.com/calebkow/sign-solana/main/logo.png",
@@ -57058,6 +57227,17 @@
       "extensions": {
         "twitter": "https://twitter.com/tamalerhino"
       }
+    },
+    {
+      "name": "Voice",
+      "symbol": "VOIC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/voic-logo.png",
+      "decimals": 9,
+      "address": "AhV8mqAENrbvh6WY5n27uiBWwhcG5CaaYHmBRhuTuSNc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Nightlife Coin",
@@ -61078,6 +61258,17 @@
       "logoURI": "https://raw.githubusercontent.com/staurakis/thodoscoin/main/thodocoin.png",
       "decimals": 0,
       "address": "BJRESWVMtcAKAFoDzz3D7wnfxbhiuKJUZ81cVDukwusd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Beard",
+      "symbol": "BEARD",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/beard-logo.png",
+      "decimals": 9,
+      "address": "BJSYRWwxzFJZTfMyUt8eDuV16bkagTLpdbHA6rDCFkmj",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -65232,6 +65423,17 @@
       "chainId": 101
     },
     {
+      "name": "Technician",
+      "symbol": "TEC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/tec-logo.png",
+      "decimals": 9,
+      "address": "Bswfb9zBz2WPbfm4zNPqkxCKfmM9A5Y4TLDtyq5Zq9YJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Promort",
       "symbol": "PRMT",
       "logoURI": "https://raw.githubusercontent.com/doubled1105/promort/main/IMG_2026.jpg",
@@ -68372,6 +68574,17 @@
         "meme-token",
         "work-token",
         "gamma"
+      ]
+    },
+    {
+      "name": "Service",
+      "symbol": "SRVC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/srvc-logo.png",
+      "decimals": 9,
+      "address": "CMWRswKHCyd4dsUXjfc4VVr533niNo5QhGjdN795ETaT",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -81150,6 +81363,17 @@
       }
     },
     {
+      "name": "Stock",
+      "symbol": "STOK",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/stok-logo.png",
+      "decimals": 9,
+      "address": "EBKeCBPNh6A76o2VrrrqACsKMXLwGgpJXp7QjnYkZ7QJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Lund Coin",
       "symbol": "LUND",
       "logoURI": "https://raw.githubusercontent.com/arkalon76/token-lund/main/assets/logo.png",
@@ -81723,6 +81947,17 @@
         "discord": "https://discord.gg/UxX7FFV577",
         "description": "$SKULL is the whitelist community token for the Skull Invasion NFT collection."
       }
+    },
+    {
+      "name": "Staff",
+      "symbol": "STAF",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/staf-logo.png",
+      "decimals": 9,
+      "address": "EHjN5vK18PepUwuX7pm3HTRQPUrMM9FmfEigTzj5ydQz",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Orca LP Token (MAPS/SOL)",
@@ -82809,6 +83044,17 @@
       ]
     },
     {
+      "name": "Supervisor",
+      "symbol": "SUP",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/sup-logo.png",
+      "decimals": 9,
+      "address": "EU3AeXjCZgnsKHqXzfrSNMxHjF62aUGPXmT64PdbLU2B",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Biochip token",
       "symbol": "BIOCHIP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EU71mB7Vsk8onvMdZ5wPtWGS2nRt1rEdfxzHW42PFPqb/logo.png",
@@ -83569,6 +83815,17 @@
       "extensions": {
         "twitter": "https://twitter.com/MoanaWhalesNFT"
       }
+    },
+    {
+      "name": "Support",
+      "symbol": "SUPPORT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/support-logo.png",
+      "decimals": 9,
+      "address": "EbeLsKdwKPHJm5FhBTSE7a6tC7w9Y4sDFMACqQFxaXSP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Cards Cash",
@@ -84676,6 +84933,17 @@
       "extensions": {
         "website": "https://solbody.io"
       }
+    },
+    {
+      "name": "Associate",
+      "symbol": "ASSOC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/assoc-logo.png",
+      "decimals": 9,
+      "address": "EkYLxLUfZ5gQ1rFc9yHTrrdL3v6Lt9kr1UrdXxnGLiF5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Monkey Fucker",
@@ -87725,6 +87993,17 @@
       }
     },
     {
+      "name": "Manager",
+      "symbol": "MGR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/mgr-logo.png",
+      "decimals": 9,
+      "address": "FDmQXuuLVSWMWGZSC4v3r563rkX5y678RTH5jK8tb3JL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MHAC MILEZ",
       "symbol": "MILEZ",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDrvNJHhLPMCrRe3oPzkXi3ug3S5dQ84hYAGUTjyjrqQ/logo.png",
@@ -88502,6 +88781,17 @@
       }
     },
     {
+      "name": "Director",
+      "symbol": "DIR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/dir-logo.png",
+      "decimals": 9,
+      "address": "FKd5geCZS6eNRegp91nWVq2SME5Sxv1S6e93q1ukRPfE",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "HARVEST",
       "symbol": "HVT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FKkAyqqbcrSQiizKmNEFz64VWVct4H5VgFfJ7JA9wYY2/logo.png",
@@ -89010,6 +89300,17 @@
       "logoURI": "https://raw.githubusercontent.com/devSLAVUS/crypto/main/logo.png",
       "decimals": 0,
       "address": "FPUo3gkLJKDw3QHoHQWwG9NEDZyDteDAGspNCNMkQtcW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Officer",
+      "symbol": "OFCR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/ofcr-logo.png",
+      "decimals": 9,
+      "address": "FPZ93ZC5GJkLZXPrjGP26dRX4yo9uq5R3UXYimKJ82Ym",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -93612,6 +93913,17 @@
       }
     },
     {
+      "name": "Treasurer",
+      "symbol": "TRES",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/tres-logo.png",
+      "decimals": 9,
+      "address": "G1i5oFXWpjYsu5JeAPEvAQysN5RiE9PtBNYoT8aUdbQ9",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "CSEBets",
       "symbol": "CBETS",
       "logoURI": "https://raw.githubusercontent.com/CSEBets/crypto/main/csebetslogo.jpg",
@@ -95220,6 +95532,17 @@
       "chainId": 101,
       "tags": [
         "MANAGEMENT"
+      ]
+    },
+    {
+      "name": "Secretary",
+      "symbol": "SECR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/secr-logo.png",
+      "decimals": 9,
+      "address": "GF26aQDP13R1Ha3SXv5bXh9Wm4Kvq4duVH6xUnzyEHjX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
@@ -98666,6 +98989,17 @@
       }
     },
     {
+      "name": "Vice President",
+      "symbol": "VP",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/vp-logo.png",
+      "decimals": 9,
+      "address": "GkLmtLYTe3Kc8hBW9hH6kXh9uijJyRJeFgTrLcnyFqKX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "AmongSus",
       "symbol": "SUS",
       "logoURI": "https://raw.githubusercontent.com/AmongusSuspect/Crypto/main/logo.png",
@@ -100005,6 +100339,17 @@
       "extensions": {
         "website": "https://orca.so"
       }
+    },
+    {
+      "name": "President",
+      "symbol": "PRES",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/pres-logo.png",
+      "decimals": 9,
+      "address": "GyGZZS2ZgPdx5pshRCfxGiCJPU9yM26749e6QZhQps7n",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Key Nodes",
@@ -104075,6 +104420,22 @@
       ]
     },
     {
+      "name": "Ball",
+      "symbol": "$Ball",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HdsHqjH4fvaSfBuByoM6ijT8hTibdnfXHytJVMvUwoJu/logo.png",
+      "decimals": 0,
+      "address": "HdsHqjH4fvaSfBuByoM6ijT8hTibdnfXHytJVMvUwoJu",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://apenba.com/",
+        "twitter": "https://twitter.com/ape_nba"
+      }
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_FB20",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hdu7gvU8s48wE9HKRnUkpnjFeWAebNHghCGehUMGJPib/logo.png",
@@ -104115,6 +104476,17 @@
       "extensions": {
         "twitter": "https://twitter.com/solana_race"
       }
+    },
+    {
+      "name": "Executive",
+      "symbol": "EXEC",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/exec-logo.png",
+      "decimals": 9,
+      "address": "HeX8qsnwPyPNnCmKstissYDm3J6cDUb6ScrAD1Ls5sEL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Tartalon Token",
