@@ -25765,6 +25765,26 @@
       ]
     },
     {
+      "name": "blockfilesystem",
+      "symbol": "BFS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/64ExnkDhpVwKzEjuqnkGgWVEtWZvWTG7JRyqQgzTWtFV/logo.png",
+      "decimals": 9,
+      "address": "64ExnkDhpVwKzEjuqnkGgWVEtWZvWTG7JRyqQgzTWtFV",
+      "chainId": 101,
+      "tags": [
+        "governance-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.blockfilesystem.com/",
+        "medium": "https://medium.com/@blockfilesystem",
+        "discord": "https://discord.gg/3cUwfJW8C4",
+        "description": "Create as many NFTs as you want from pictures, music, json file and more. Use BFS-Acces features to retrieve data and login to your accounts with NFTs.",
+        "telegram": "https://t.me/BlockFileSystem"
+      }
+    },
+    {
       "name": "Keep Network (Wormhole)",
       "symbol": "KEEP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh/logo.png",
@@ -31723,6 +31743,22 @@
         "multiverse-token",
         "metaverse-token"
       ]
+    },
+    {
+      "name": "OG WL Token",
+      "symbol": "OG",
+      "logoURI": "https://raw.githubusercontent.com/virdagreat147/Pepe-army-Logo/main/purple-heart.png",
+      "decimals": 0,
+      "address": "6zPZniWEfM1KcuhEUAQCzrfgpkzmD8LD2zoyxo4biUG",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://goblinmetaverse.io",
+        "twitter": "https://twitter.com/GoblinArmyNFT",
+        "discord": "https://discord.gg/goblinarmy"
+      }
     },
     {
       "name": "Floki Shiba Solana",
@@ -50967,7 +51003,7 @@
     {
       "name": "SambuCoin",
       "symbol": "SMBC",
-      "logoURI": "https://github.com/alexserra/crypto/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/alexserra/crypto/main/logo.png",
       "decimals": 0,
       "address": "9t6F4UJXr9B4xzoSmgC9LwYHb87maYeM58PsoXgNjyVW",
       "chainId": 101,
@@ -92985,6 +93021,17 @@
       "logoURI": "https://raw.githubusercontent.com/nmclaren/crypto-bnta/main/logo.png",
       "decimals": 0,
       "address": "FpxVovi3t3ACw2sDCCXMTy7X5E9ZaA5jLvUHroz48Dtf",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Foisy Coin",
+      "symbol": "FOISY",
+      "logoURI": "https://raw.githubusercontent.com/MichaelFoisy12/crypto/main/logo.png.JPG",
+      "decimals": 0,
+      "address": "Fq6fRLQ8LrwxtTER6om1wZsuzVjpGZrtL8Bjy3vzSJre",
       "chainId": 101,
       "tags": [
         "social-token"
