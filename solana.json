@@ -63947,6 +63947,17 @@
       ]
     },
     {
+      "name": "Vice Club Token",
+      "symbol": "V1CE",
+      "logoURI": "https://raw.githubusercontent.com/CyberDes1gner/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "Betaza9WsCg2L2PBmqd8QnWBFkMwcxQjGK1rssY6HGWY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Grow East Point Germination",
       "symbol": "GEPG",
       "logoURI": "https://raw.githubusercontent.com/cpatt2015/Crypto/main/Germ.png",
@@ -107036,6 +107047,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Solana Treehouse Club",
+      "symbol": "THC",
+      "logoURI": "https://raw.githubusercontent.com/solanatreehouseclub/token/main/FMiJoG6VgAI0xUc.png",
+      "decimals": 6,
+      "address": "J2BWMK44sjgM2dApxMX4Xpst4jCJBBUvaBXj6AbXGdad",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/TreehouseNFT",
+        "discord": "https://t.co/RS56JPQAz3"
+      }
     },
     {
       "name": "1USD1 COIN",
