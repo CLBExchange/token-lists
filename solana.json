@@ -50272,6 +50272,20 @@
       }
     },
     {
+      "name": "Neon Game CREDZ",
+      "symbol": "$CREDZ",
+      "logoURI": "https://rxvwsth6k2wkjbpgqixi4db3ekvlailhvm2xa4pcmqzl6dtctqwa.arweave.net/jetpTP5WrKSF5oIujgw7IqqwIWerNXBx4mQyvw5inCw",
+      "decimals": 0,
+      "address": "9nT91mYnAjdJYmgDBqa4jY4p6RpHXJKNj7Yz7KyqmZjv",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://neon.game"
+      }
+    },
+    {
       "name": "Dashsnipe WL Token",
       "symbol": "DASH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ndWJZRvFN36rJPd6Xe4HzWjFrEKUG4RFVFyyaCttuaX/logo.jpg",
@@ -70013,6 +70027,17 @@
         "coingeckoId": "terrausd",
         "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD"
       }
+    },
+    {
+      "name": "rakshpma",
+      "symbol": "rakshpma",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXNPQApndJ3Wo7bfu43GdA3y1fXuvYGLtodnbvUAJPSY/logo.png",
+      "decimals": 2,
+      "address": "CXNPQApndJ3Wo7bfu43GdA3y1fXuvYGLtodnbvUAJPSY",
+      "chainId": 101,
+      "tags": [
+        "rakshpma-token"
+      ]
     },
     {
       "name": "Frog Fork",
