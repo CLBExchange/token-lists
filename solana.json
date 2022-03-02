@@ -62969,6 +62969,18 @@
       ]
     },
     {
+      "name": "Solitaires Mint Pass",
+      "symbol": "AKQJ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BYHvqH47A1UrUDZnPhE94X9LLg2ChrxwmkXfabbxy43A/logo512.png",
+      "decimals": 0,
+      "address": "BYHvqH47A1UrUDZnPhE94X9LLg2ChrxwmkXfabbxy43A",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT"
+      ]
+    },
+    {
       "name": "Messi Token",
       "symbol": "MESSI",
       "logoURI": "https://raw.githubusercontent.com/ilov-eu/assets/main/messi-001.png",
@@ -91454,6 +91466,17 @@
       ]
     },
     {
+      "name": "Byte Buddies",
+      "symbol": "BYTE",
+      "logoURI": "https://raw.githubusercontent.com/Kennyaldez/assets/main/assets/token%20logo.png",
+      "decimals": 6,
+      "address": "FezCBjaR6ZRnwpYuZ8dL2h7kqPWXnwBHcBACzV2B8kRT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "HammyCoin",
       "symbol": "HAMM",
       "logoURI": "https://raw.githubusercontent.com/nledevil/hammycrypto/master/logo.png",
@@ -113529,6 +113552,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "GMG Whitelist",
+      "symbol": "GMGWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Wi7m4DQFLwz226a3RJeTkPeY6C9rov4hsUvnFxNf2WC/logo.jpg",
+      "decimals": 0,
+      "address": "Wi7m4DQFLwz226a3RJeTkPeY6C9rov4hsUvnFxNf2WC",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
       ]
     },
     {
