@@ -7766,6 +7766,18 @@
       }
     },
     {
+      "name": "REE COIN",
+      "symbol": "RECO",
+      "logoURI": "https://github.com/seankyusunlee/ReeCrypto/blob/main/RcoinLogo1.png",
+      "decimals": 0,
+      "address": "3CFHkKtuep49nYndy37LXoQGmLgrKjuD9Q13jEpw6mMH",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token"
+      ]
+    },
+    {
       "name": "BARGE BOND",
       "symbol": "BARGE",
       "logoURI": "https://raw.githubusercontent.com/Barge-Simone/BARGE/main/bargePNG.png",
