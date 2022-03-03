@@ -15321,6 +15321,20 @@
       }
     },
     {
+      "name": "Kibble",
+      "symbol": "KIBB",
+      "logoURI": "https://raw.githubusercontent.com/Jonathanriddle/Kibble/main/Lily%201.jpg",
+      "decimals": 4,
+      "address": "4Juifs2fUxN1h2FM8S9HZRsqyQ2qkLXcE9V9xTvKs2GA",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "Rescue-Dogs"
+      ]
+    },
+    {
       "name": "Shrimpo Token",
       "symbol": "SHRIMPO",
       "logoURI": "https://raw.githubusercontent.com/shrimpotoken/logo/main/logo.jpg",
@@ -22860,6 +22874,26 @@
       ]
     },
     {
+      "name": "Putin Khuylo",
+      "symbol": "PNH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5XFJAEyKtGUruRnjwzKZzDVwjzyyBtLw5TUhyZKyqUbk/logo.png",
+      "decimals": 9,
+      "address": "5XFJAEyKtGUruRnjwzKZzDVwjzyyBtLw5TUhyZKyqUbk",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "war-token",
+        "ukraine"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Ukraine",
+        "description": "Send these tokens to all Russian invaders",
+        "facebook": "https://www.facebook.com/UkraineUA.MFA",
+        "reddit": "https://www.reddit.com/r/ukraine/",
+        "telegram": "https://t.me/mintsyfra"
+      }
+    },
+    {
       "name": "Rosecoin",
       "symbol": "RCOIN",
       "logoURI": "https://raw.githubusercontent.com/fizztune/rosecoin/main/logo.png",
@@ -29730,6 +29764,17 @@
         "website": "https://duckpatrol.io/",
         "twitter": "https://twitter.com/DuckPatrolNFT"
       }
+    },
+    {
+      "name": "SOLautos Coupon",
+      "symbol": "SOLCOU",
+      "logoURI": "https://solautos.io/images/SolLogo-768x484.png",
+      "decimals": 0,
+      "address": "6fxKAgb4CYUacmcQueCcjUDrV9R3B2HMSwjxgmk5BaAa",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "PotCoin",
@@ -43898,6 +43943,17 @@
       ]
     },
     {
+      "name": "Metaversol Loyalty Token",
+      "symbol": "METAL",
+      "logoURI": "https://metaversol.com/coinlogo.png",
+      "decimals": 0,
+      "address": "8kWgPei6KkkcnoDZGtXGXxAvUkNmug7qbeNnm2zx3xgp",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Orca Aquafarm Token (pSOL/USDC)",
       "symbol": "pSOL/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8kWk6CuCAfaxhWQZvQva6qkB1DkWNHq9LRKKN6n9joUG/logo.svg",
@@ -56371,6 +56427,22 @@
       "extensions": {
         "website": "https://www.sbfcoin.org/",
         "twitter": "https://twitter.com/sbfcoin"
+      }
+    },
+    {
+      "name": "Awful Waffles Presale Token",
+      "symbol": "AWWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWWL88eXNREJaT1KFvdTWmGnVSSXqxjbYhFUjJ978eFn/awwl.png",
+      "decimals": 0,
+      "address": "AWWL88eXNREJaT1KFvdTWmGnVSSXqxjbYhFUjJ978eFn",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://awfulwaffles.io",
+        "twitter": "https://twitter.com/awfulwafflesnft",
+        "discord": "https://discord.gg/w3hMaaPvtG"
       }
     },
     {
@@ -100855,6 +100927,17 @@
       }
     },
     {
+      "name": "SOLautos Whitelist",
+      "symbol": "SAWL",
+      "logoURI": "https://solautos.io/images/SolLogo-768x484.png",
+      "decimals": 0,
+      "address": "GtMieQ5MpEqKWEJEWjp4HbGxDnYCRAps3W8tQ55YVRyj",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token (LIQ-SOL)",
       "symbol": "LIQ-SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKJHspCwDhABucCxNLXUSfEzb7Ny62RqFtC9uNjJi4fq/logo.png",
@@ -115137,6 +115220,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "ErosXT",
+      "symbol": "EXT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aEvgNv5DVznzHrmJaqDHVuExH2nbLCGbyfhsNfgCYBS/logo.png",
+      "decimals": 8,
+      "address": "aEvgNv5DVznzHrmJaqDHVuExH2nbLCGbyfhsNfgCYBS",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/eroticissima",
+        "github": "https://github.com/eroticissima",
+        "discord": "https://discord.gg/NH6jx7JsKE"
+      }
     },
     {
       "name": "ChainMyth",
