@@ -67671,6 +67671,17 @@
       }
     },
     {
+      "name": "Bullionaires",
+      "symbol": "BULLION",
+      "logoURI": "https://github.com/K3AMZ/crypto/blob/main/5E34C72F-00EA-4EF1-AB5C-97301E139DA2_4_5005_c.png",
+      "decimals": 6,
+      "address": "CB6T9KSCtLqPnuVA37g43tCWyic7q2MJLe1Cgi8PadtT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Bosschester Coin",
       "symbol": "BOSS",
       "logoURI": "https://raw.githubusercontent.com/jwood91/bosschester-coin/main/bosschester.png",
@@ -109633,6 +109644,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "MG High Council Coin",
+      "symbol": "MGHC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MHC4pzYWfctfF23WRYXfPTJZEoLp1bCt3KjpCjDcnek/logo.png",
+      "decimals": 0,
+      "address": "MHC4pzYWfctfF23WRYXfPTJZEoLp1bCt3KjpCjDcnek",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.mahogenies.io/",
+        "twitter": "https://twitter.com/mahogenies"
+      }
     },
     {
       "name": "Quarkore",
