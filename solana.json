@@ -19085,6 +19085,20 @@
       ]
     },
     {
+      "name": "Fleece",
+      "symbol": "Fleece",
+      "logoURI": "https://raw.githubusercontent.com/dispnft/token-list/main/assets/mainnet/4utgA7JVGbpazbZcTA4H1pN3ZCTmRxmGyuphe1BKs66S/logo.png",
+      "decimals": 0,
+      "address": "4utgA7JVGbpazbZcTA4H1pN3ZCTmRxmGyuphe1BKs66S",
+      "chainId": 101,
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "description": "A Game Token"
+      }
+    },
+    {
       "name": "InfectedCoin",
       "symbol": "INF",
       "logoURI": "https://raw.githubusercontent.com/infectedw/infectoin/main/wp3014779-radioactive-wallpapers-modified.png",
@@ -45511,6 +45525,17 @@
         "twitter": "https://twitter.com/cryptodsps",
         "discord": "https://t.co/j1ljROSuoJ"
       }
+    },
+    {
+      "name": "Cogi Coin",
+      "symbol": "COGS",
+      "logoURI": "https://raw.githubusercontent.com/mateo-cogeanu/cogs/main/logo.png",
+      "decimals": 0,
+      "address": "8ywCnyNNZDPMdc7nWPdMn1qASxaMJh6MuRPV4GMCUDLW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Bored Rockstar Club",
