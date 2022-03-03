@@ -18173,6 +18173,20 @@
       ]
     },
     {
+      "name": "YOLK TOKEN",
+      "symbol": "YLKT",
+      "logoURI": "https://user-images.githubusercontent.com/98852228/156415259-09e7d785-8ee4-4398-a906-f8f211a59d15.png",
+      "decimals": 8,
+      "address": "4ncSzoxBDMRPFy8Mx7QsGRtGNYey4uQc8Ydfg9ErRz3X",
+      "chainId": 101,
+      "tags": [
+        "nft"
+      ],
+      "extensions": {
+        "description": "The Official Token For The Egg Heads Club"
+      }
+    },
+    {
       "name": "SCAM TOKEN PLEASE IGNORE",
       "symbol": "SCAM_1491",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4nfhEh4K2UY6SWY7HkoSLZLerFJCUsyBiQqiEkxqXn6N/logo.png",
@@ -53284,6 +53298,14 @@
       }
     },
     {
+      "name": "SNAPSHOTS",
+      "symbol": "SNAP",
+      "logoURI": "https://raw.githubusercontent.com/ZvsK4/snapshotslogo/main/logo.png",
+      "decimals": 9,
+      "address": "AAoJ5eYd61QsUBRBxjCcAdsQZpQYxrob2wS4Hzoaeoas",
+      "chainId": 101
+    },
+    {
       "name": "Wrapped WBTC (Allbridge from Polygon)",
       "symbol": "apWBTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
@@ -60335,6 +60357,24 @@
         "website": "https://jetdevs.com",
         "facebook": "https://facebook.com/jetdevs",
         "linkedin": "https://linkedin.com/company/jet-devs"
+      }
+    },
+    {
+      "name": "FuegoAmericano",
+      "symbol": "FUEGO",
+      "logoURI": "https://raw.githubusercontent.com/CarlosGyael/FuegoAmericano/main/FuegoToken.png",
+      "decimals": 6,
+      "address": "B4eowLak7eJPo3XStE35EqEN7QU4L66PBJ2Jzgf1PMgB",
+      "chainId": 101,
+      "tags": [
+        "Currency"
+      ],
+      "extensions": {
+        "website": "https://thefuegoamericanollc.com/",
+        "twitter": "https://twitter.com/FuegoAmericano",
+        "discord": "https://discord.gg/QmxAAzxg",
+        "instagram": "https://www.instagram.com/fuegoamericano/",
+        "telegram": "https://t.me/fuegoamericano"
       }
     },
     {
@@ -88403,6 +88443,19 @@
       }
     },
     {
+      "name": "Kurai Bats WL",
+      "symbol": "KBWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FBXoa1cW6h4QYaM15dXjmDQXqjsg3ZqqsZr1qAJNESQS/logo.png",
+      "decimals": 0,
+      "address": "FBXoa1cW6h4QYaM15dXjmDQXqjsg3ZqqsZr1qAJNESQS",
+      "chainId": 101,
+      "tags": [
+        "White-List",
+        "Utility-Token",
+        "NFT"
+      ]
+    },
+    {
       "name": "Krenium",
       "symbol": "KRENIUM",
       "logoURI": "https://raw.githubusercontent.com/playsoulstone/logos/main/krenium.png",
@@ -96503,6 +96556,22 @@
       "extensions": {
         "website": "https://www.solkongz.net/",
         "twitter": "https://twitter.com/SolKongz"
+      }
+    },
+    {
+      "name": "Glitched Gorilla WL Token 1",
+      "symbol": "GGWL1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGWL1v6aRnjRFAxi7j2ArQBDRxb1maZz4XGqMsxkdYbt/GGToken.png",
+      "decimals": 0,
+      "address": "GGWL1v6aRnjRFAxi7j2ArQBDRxb1maZz4XGqMsxkdYbt",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://milehighmultiverse.io",
+        "twitter": "https://twitter.com/MH_Multiverse",
+        "discord": "https://discord.gg/WtpzxsBTGF"
       }
     },
     {
@@ -122312,6 +122381,20 @@
         "Metaverse",
         "Game-Fi"
       ]
+    },
+    {
+      "name": "KEN COIN",
+      "symbol": "KEN",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSP9dLN9fvTvoBAf4ao3nSRz2bVhXYUct6r663GHFUpU3",
+      "decimals": 0,
+      "address": "CE2GVFioduYefyV2xzbihpH7WZRyZ8om2i8xYWhP2hmT",
+      "chainId": 103,
+      "tags": [
+        "game-token"
+      ],
+      "extensions": {
+        "description": "Ken's Test Token on DevNet"
+      }
     },
     {
       "name": "Balancana NFT",
