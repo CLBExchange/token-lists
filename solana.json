@@ -4447,6 +4447,27 @@
       }
     },
     {
+      "name": "Juiced BTC Carton Token",
+      "symbol": "JUBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2fRCnvb2Gcgz8MvDxK4R1EV8Ax2qN8MkdeDPWALL45Zy/logo.png",
+      "decimals": 6,
+      "address": "2fRCnvb2Gcgz8MvDxK4R1EV8Ax2qN8MkdeDPWALL45Zy",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://www.juiced.fi",
+        "twitter": "https://twitter.com/JuicedProtocol",
+        "medium": "https://www.medium.com/@juicedfinance",
+        "discord": "https://discord.gg/ZXBRGXccR2",
+        "description": "Juiced BTC Carton Token",
+        "instagram": "https://www.instagram.com/juicedfi",
+        "linkedin": "https://www.linkedin.com/company/juicedfi",
+        "whitepaper": "https://juiced.fi/whitepaper.pdf"
+      }
+    },
+    {
       "name": "PixieCat",
       "symbol": "PXE",
       "logoURI": "https://raw.githubusercontent.com/DavidJKTofan/pixie-crypto-token/main/logo.png",
@@ -62292,6 +62313,20 @@
       }
     },
     {
+      "name": "SolNode",
+      "symbol": "Soul",
+      "logoURI": "https://raw.githubusercontent.com/SolNodeAdmin/Crypto/main/lollipop.png",
+      "decimals": 9,
+      "address": "BP3H2mTnkT4yPSR1z8RTf2VTQ192FXvvfXPsGRQBGcR6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Soul is a utility token."
+      }
+    },
+    {
       "name": "Sinder Coin",
       "symbol": "SNDR",
       "logoURI": "https://raw.githubusercontent.com/ddhoch/cryptoSNDR/main/SinderCoin.png",
@@ -71801,6 +71836,27 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Juiced SOL Carton Token",
+      "symbol": "JUSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CipcAcgVCPc7duEi633s7nbGvgb1PdJiTs136vrFfEjE/logo.png",
+      "decimals": 6,
+      "address": "CipcAcgVCPc7duEi633s7nbGvgb1PdJiTs136vrFfEjE",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://www.juiced.fi",
+        "twitter": "https://twitter.com/JuicedProtocol",
+        "medium": "https://www.medium.com/@juicedfinance",
+        "discord": "https://discord.gg/ZXBRGXccR2",
+        "description": "Juiced SOL Carton Token",
+        "instagram": "https://www.instagram.com/juicedfi",
+        "linkedin": "https://www.linkedin.com/company/juicedfi",
+        "whitepaper": "https://juiced.fi/whitepaper.pdf"
+      }
     },
     {
       "name": "Doogle Coin",
@@ -114497,6 +114553,22 @@
       }
     },
     {
+      "name": "Your",
+      "symbol": "YOUR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Your3JebQKoJHUPWNJ2LJLT6rHkLbPEq8FVGzFcs23q/logo.svg",
+      "decimals": 6,
+      "address": "Your3JebQKoJHUPWNJ2LJLT6rHkLbPEq8FVGzFcs23q",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://www.yournetwork.io/",
+        "twitter": "https://twitter.com/yourtokens",
+        "github": "https://github.com/your-network",
+        "medium": "https://medium.com/@yourofficial",
+        "discord": "https://discord.gg/8deTbfAsdW",
+        "telegram": "https://t.me/your_community"
+      }
+    },
+    {
       "name": "Charactbit",
       "symbol": "CHB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6D4aGWykMymkFaeVzDS6MiH6QEujsHUze2pPGbJEyh7y/logo.png",
@@ -122046,6 +122118,17 @@
         "twitter": "https://twitter.com/LPFinance_",
         "telegram": "https://t.me/LP_Defi_Official_group"
       }
+    },
+    {
+      "name": "Alphax",
+      "symbol": "ALPHAX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C9Gbj8yfWF82D5op3JWw3eW5147fzQ7jUnBisZXerzUE/logo.png",
+      "decimals": 6,
+      "address": "C9Gbj8yfWF82D5op3JWw3eW5147fzQ7jUnBisZXerzUE",
+      "chainId": 103,
+      "tags": [
+        "stablecoin"
+      ]
     },
     {
       "name": "LP Finance Solana",
