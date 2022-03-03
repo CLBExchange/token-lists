@@ -82742,6 +82742,20 @@
       ]
     },
     {
+      "name": "Kompas X - Stakeholder Coin",
+      "symbol": "KOMX",
+      "logoURI": "https://raw.githubusercontent.com/mtorpdev/cryptoX/main/KompasX-Silver-Coin.png",
+      "decimals": 0,
+      "address": "EKDrve7QKF2iz6tr9J6Zy5LmNN8biT2uQZ3rg9zoE6Cz",
+      "chainId": 101,
+      "tags": [
+        "investment-token"
+      ],
+      "extensions": {
+        "description": "A token for investment in Kompas X"
+      }
+    },
+    {
       "name": "Simp",
       "symbol": "SIMP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKEjv7VJTsKsfyZMNgPfoKkdk7pYNSgb3tg2h3zUe4PT/logo.png",
@@ -109474,6 +109488,20 @@
         "website": "https://succuverse.com",
         "twitter": "https://twitter.com/succuverse",
         "discord": "https://discord.gg/succuverse"
+      }
+    },
+    {
+      "name": "Luxnode WL Token",
+      "symbol": "LUXWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUXiTyV4h7rXpgvAYSAVPa2TPB3cjABvdenkWTGQEZa/logo.png",
+      "decimals": 0,
+      "address": "LUXiTyV4h7rXpgvAYSAVPa2TPB3cjABvdenkWTGQEZa",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/LuxnodeNFT"
       }
     },
     {
