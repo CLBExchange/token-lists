@@ -6172,6 +6172,17 @@
       }
     },
     {
+      "name": "Tilak",
+      "symbol": "Kalit",
+      "logoURI": "https://raw.githubusercontent.com/Kalifather/Crypto/main/panda.jpg",
+      "decimals": 0,
+      "address": "2xUnwVS4xMb8ZkWn1nvkrgbrDX5BC7dfETfQ5GwXStvv",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wrapped TRYB (Allbridge from Ethereum)",
       "symbol": "aeTRYB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2xZzszs2FeTffckT5WhvHXzuXbM94bvp31vC7BRdXWhE/logo.png",
@@ -58062,6 +58073,17 @@
       }
     },
     {
+      "name": "Metg",
+      "symbol": "METG",
+      "logoURI": "https://raw.githubusercontent.com/BiaDN/metgglogo/main/64.png",
+      "decimals": 9,
+      "address": "AmxkHjjbHVeBRM6CA4sTXVY8Zy8PybHosMFM9gnUpmnh",
+      "chainId": 101,
+      "tags": [
+        "metg-token"
+      ]
+    },
+    {
       "name": "Artchive-Coin",
       "symbol": "ART",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/An4iSjm5RtWMAeUGrbbkZ7EJNCaQutmkoSKjXNMKZSyE/logo.png",
@@ -81819,6 +81841,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "RowdyRex Token",
+      "symbol": "ROMP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EAYneKaMNLsf52xerf5Bq9Q7PDuLttieXj9jupbvgsEK/logo.png",
+      "decimals": 0,
+      "address": "EAYneKaMNLsf52xerf5Bq9Q7PDuLttieXj9jupbvgsEK",
+      "chainId": 101,
+      "tags": [
+        "rowdyrex",
+        "utlity-token"
+      ],
+      "extensions": {
+        "website": "https://rowdyrex.com"
+      }
     },
     {
       "name": "DTCoin",
@@ -117199,6 +117236,20 @@
       "extensions": {
         "website": "https://www.billym2k.net/",
         "twitter": "https://twitter.com/BillyM2k"
+      }
+    },
+    {
+      "name": "OSARU Coin",
+      "symbol": "OSARU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/osaRUfE6ccwNMWfdY8X29auM8W4LtyDzaEU4EAHKBhR/logo.png",
+      "decimals": 9,
+      "address": "osaRUfE6ccwNMWfdY8X29auM8W4LtyDzaEU4EAHKBhR",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "OSARU is a utility token."
       }
     },
     {
