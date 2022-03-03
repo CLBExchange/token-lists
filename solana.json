@@ -55280,6 +55280,17 @@
       ]
     },
     {
+      "name": "Piggish Token",
+      "symbol": "$PIGG",
+      "logoURI": "https://raw.githubusercontent.com/ingdavidavila/cryptologo/main/logo.png",
+      "decimals": 0,
+      "address": "AQnSh5nv9dzm2AfPWLvASo9AA7TTbnnHFd9HboNane5n",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Clip Finance",
       "symbol": "CLIP",
       "logoURI": "https://i.ibb.co/M19crq9/gallery-1.png",
@@ -109552,6 +109563,19 @@
       "extensions": {
         "twitter": "https://twitter.com/KKQanTT"
       }
+    },
+    {
+      "name": "Monkey Crown",
+      "symbol": "MC",
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/MCL9utLXFvUMdWLou4jk13BBgTu2XRGM983eZ24RsTP/logo.png",
+      "decimals": 0,
+      "address": "MCL9utLXFvUMdWLou4jk13BBgTu2XRGM983eZ24RsTP",
+      "chainId": 101,
+      "tags": [
+        "TMDC",
+        "THEMONKEYDESIGNCLUB",
+        "metaverse"
+      ]
     },
     {
       "name": "MEAN",
