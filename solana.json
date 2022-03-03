@@ -390,6 +390,20 @@
       ]
     },
     {
+      "name": "Deep Value Investments",
+      "symbol": "DVI",
+      "logoURI": "https://raw.githubusercontent.com/DeepValueInvestments/DVI-Token/main/Logo.png",
+      "decimals": 6,
+      "address": "14HfP7zWiNdUPiE6CvyUPC9YWmSc7UsmaqiWcpkcBVFg",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Deep Value Investments (DVI) is developing a multi-asset digital marketplace built from the ground up for Cryptocurrency, NFTs, Equities, Fixed Income, Commodities, and FOREX. DVI is a first-to-market solution delivering a singular platform designed to encompass all cryptocurrency and investment needs for retail investors, institutional prime services (SaaS, TAMP, Operations, etc.), and RIA SaaS offerings."
+      }
+    },
+    {
       "name": "RJO Token",
       "symbol": "RJOT",
       "logoURI": "https://raw.githubusercontent.com/rjorgan/cryptocurrency/main/RJOT.png",
@@ -34333,6 +34347,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Dino Lite",
+      "symbol": "DLITE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q9YbR4jPPaDsWsEngubW2z9PGfmWK7xn7AeewMm3qbT/Logo.png",
+      "decimals": 0,
+      "address": "7Q9YbR4jPPaDsWsEngubW2z9PGfmWK7xn7AeewMm3qbT",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://dinolabs.gg/",
+        "twitter": "https://twitter.com/DinoLabsNFT",
+        "discord": "https://discord.gg/dinolabs"
+      }
     },
     {
       "name": "Face",
@@ -82307,6 +82337,17 @@
       ]
     },
     {
+      "name": "Cla_Bo",
+      "symbol": "ClaBo",
+      "logoURI": "https://raw.githubusercontent.com/collectivtwo/logo/main/alteredlogo.png",
+      "decimals": 6,
+      "address": "EDubeD9UZYFvbGLq8w9JF5o9AaT5WzY9W6CjcrtYvDaw",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/ClaToken"
+      }
+    },
+    {
       "name": "JerseyCityCoin",
       "symbol": "JCC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EE2u4wHdyFZsSe3hdVhTSLCPjRsqG8Uc4SX8iSYEucQk/logo.png",
@@ -82965,6 +83006,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Skelly Gang Utillity Token",
+      "symbol": "SKELLY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EKrEmPnaNzgGixE61ERsTNn5oMoMqACJf3GniFpgGPbp/SkellyCoin.png",
+      "decimals": 9,
+      "address": "EKrEmPnaNzgGixE61ERsTNn5oMoMqACJf3GniFpgGPbp",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://skellygang.com",
+        "twitter": "https://twitter.com/SkellyGangNFT",
+        "discord": "https://discord.gg/3T3jVtac",
+        "description": "The skelly gang utility token earned through staking your skelly gang NFTs."
+      }
     },
     {
       "name": "Emmanuel BRUNEAU NFTs",
@@ -116822,6 +116881,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "JU",
+      "symbol": "JU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/judTED8D9sPVX87UUajnDh2bwdG9MDFUVPzJdGnFYkS/logo.png",
+      "decimals": 0,
+      "address": "judTED8D9sPVX87UUajnDh2bwdG9MDFUVPzJdGnFYkS",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "staking",
+        "staking-reward",
+        "Gaming"
+      ],
+      "extensions": {
+        "website": "https://jujudevils.com",
+        "twitter": "https://twitter.com/jujudevilsarmy",
+        "medium": "https://medium.com/@jujudevils",
+        "discord": "https://discord.gg/jujudevils",
+        "instagram": "https://www.instagram.com/jujudevils"
+      }
     },
     {
       "name": "Solana Bitcoin",
