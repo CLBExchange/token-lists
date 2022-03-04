@@ -12548,6 +12548,18 @@
       ]
     },
     {
+      "name": "Divina-Lux",
+      "symbol": "DV",
+      "logoURI": "https://raw.githubusercontent.com/Ahzu-Direct-Tech/mmmc/main/logo.png",
+      "decimals": 9,
+      "address": "3paMrtwA8pEspcKYHNrWNjxG36oL9BTTG7JKNwYUud4i",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Pinsky",
       "symbol": "PNK",
       "logoURI": "https://raw.githubusercontent.com/pinmymind/cryptotoken/main/pinsky.png",
@@ -15744,6 +15756,17 @@
       "extensions": {
         "website": "https://www.soldev.app/"
       }
+    },
+    {
+      "name": "Solana Cyclopes",
+      "symbol": "SHEEP",
+      "logoURI": "https://raw.githubusercontent.com/Robby3082/test-token/main/cyclopes.png",
+      "decimals": 6,
+      "address": "4P4jjC6KjwVTCxhpfj4pQGBC1ohUaNin8QaWwPyge9ML",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Justo",
@@ -23054,6 +23077,17 @@
       "extensions": {
         "website": "https://www.digitalassets.ag/UnderlyingDetails?ETHE"
       }
+    },
+    {
+      "name": "Daveru",
+      "symbol": "VERU",
+      "logoURI": "https://raw.githubusercontent.com/ktabong/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "5YU1m4qUFrTnedrM29BDmBD8cmAkrVSqiRPKbfhPvFRt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Pixel Slime",
@@ -86186,6 +86220,17 @@
         "website": "https://graef.io/",
         "github": "https://github.com/segraef"
       }
+    },
+    {
+      "name": "TTcoin",
+      "symbol": "TTc",
+      "logoURI": "https://raw.githubusercontent.com/xTTLegend/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "EmXeQPjrZf99SnGfd8oSFr6VeVWJtU7FcxJmzfr1cMzX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Good Job Token",
