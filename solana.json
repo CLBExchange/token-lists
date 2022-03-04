@@ -26815,6 +26815,17 @@
       }
     },
     {
+      "name": "FoodStamp",
+      "symbol": "FDST",
+      "logoURI": "https://raw.githubusercontent.com/FoodStampCoins/Stamps/main/logo.png",
+      "decimals": 0,
+      "address": "6BxLMs9ggwKUU7c6VUJ9WWH5o7q8UyvZbXMNFg7ivgMq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Design",
       "symbol": "Des",
       "logoURI": "https://raw.githubusercontent.com/owens33/crypto/main/designn.png",
@@ -87726,6 +87737,14 @@
       ]
     },
     {
+      "name": "Hay Bale",
+      "symbol": "HAY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F1utinCFGALViGVnFmACcmCRooV4PLTcUCc5gL2HExu8/logo.png",
+      "decimals": 9,
+      "address": "F1utinCFGALViGVnFmACcmCRooV4PLTcUCc5gL2HExu8",
+      "chainId": 101
+    },
+    {
       "name": "Bats Coin",
       "symbol": "BATS",
       "logoURI": "https://raw.githubusercontent.com/Jonkolander/batscoin/main/Doge-with-a-Baseball-Bat.jpg",
@@ -113440,6 +113459,24 @@
       "extensions": {
         "website": "https://tigerclubsol.com",
         "twitter": "https://twitter.com/TigersClub_NFT"
+      }
+    },
+    {
+      "name": "Club 420 Token",
+      "symbol": "THC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/THCBB791xLFhRhxPHMDVN9m5KDeBBjwh6dfBbnTuPe9/Logo.png",
+      "decimals": 6,
+      "address": "THCBB791xLFhRhxPHMDVN9m5KDeBBjwh6dfBbnTuPe9",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "nft-staking"
+      ],
+      "extensions": {
+        "website": "https://club420nft.com/",
+        "twitter": "https://twitter.com/Club420_NFT",
+        "discord": "https://discord.gg/PzJpxNkHNf"
       }
     },
     {
