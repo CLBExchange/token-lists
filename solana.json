@@ -12213,6 +12213,23 @@
       }
     },
     {
+      "name": "Research Token",
+      "symbol": "TGRT",
+      "logoURI": "https://metaversol.com/research.png",
+      "decimals": 0,
+      "address": "3nP1SUoA9XWL5qDam7BKWd8QnLtRHDtfZuSmwgfTnBe2",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://testguys.fail/",
+        "twitter": "https://twitter.com/MxMetaversol",
+        "discord": "https://discord.gg/metaversol",
+        "description": "Research token used to power and perform research in the Test Guys Lab"
+      }
+    },
+    {
       "name": "Scythe Token",
       "symbol": "ST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3nTt9pj9Sn4cVrGB75kTCdUba6DQLVv2S3j4KUMY8RzE/logo.png",
@@ -111836,6 +111853,17 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RRf92wqDcax85HH6YbRpPJV7Gj1qVAeEqiNouY4mRWw/logo.png",
       "decimals": 0,
       "address": "RRf92wqDcax85HH6YbRpPJV7Gj1qVAeEqiNouY4mRWw",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
+    },
+    {
+      "name": "Rave Review Pre Mint Token",
+      "symbol": "RR-PRE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RRpPtGKTBRuawbvqGqAPPtu81Gmhhg4LZww4BDarXZv/logo.png",
+      "decimals": 0,
+      "address": "RRpPtGKTBRuawbvqGqAPPtu81Gmhhg4LZww4BDarXZv",
       "chainId": 101,
       "tags": [
         "whitelist-token"
