@@ -27056,6 +27056,17 @@
       }
     },
     {
+      "name": "Future Token",
+      "symbol": "FUTR",
+      "logoURI": "https://raw.githubusercontent.com/azvaliev/token-icons/master/IYC9z9eDvBthkfOIVPMI.jpg",
+      "decimals": 0,
+      "address": "6EYX7x2SMbvnUEK18XXzdSeVxeH1yMdh7yBsnSvKkjCD",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
       "name": "ByteToken",
       "symbol": "BYT",
       "logoURI": "https://github.com/HadiMorrow/Byte-Token/blob/main/byte-logo-png-transparent.png",
@@ -92496,6 +92507,17 @@
       }
     },
     {
+      "name": "Space Token",
+      "symbol": "SPCE",
+      "logoURI": "https://raw.githubusercontent.com/azvaliev/token-icons/master/3dQIR2cTzqBPcbvf1d2a.jpg",
+      "decimals": 0,
+      "address": "Fdju8iLbXXiM9QFz7xSZudtwUQuKHC1ecEQDNTeHPFBk",
+      "chainId": 101,
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
       "name": "Gold Doge Solana",
       "symbol": "GDoge",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdnEZ71hjabwo6Eo6XHGyK4QrE1tVQtBoTGMmgWYAuDn/logo.png",
@@ -97415,6 +97437,22 @@
       "chainId": 101,
       "extensions": {
         "website": "https://hdoki.com/"
+      }
+    },
+    {
+      "name": "Meta Ape Elite Club WL",
+      "symbol": "MAEC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJUQB41W77dHbK1JU7oEP7UBP4gmj8uPSMfao8UGn2hu/logo.png",
+      "decimals": 9,
+      "address": "GJUQB41W77dHbK1JU7oEP7UBP4gmj8uPSMfao8UGn2hu",
+      "chainId": 101,
+      "tags": [
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://metaapeeliteclub.com/",
+        "twitter": "https://twitter.com/MetaApeEC",
+        "discord": "https://discord.com/invite/2nxeZFf7Jw"
       }
     },
     {
