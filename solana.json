@@ -21377,6 +21377,23 @@
       }
     },
     {
+      "name": "BUD",
+      "symbol": "$BUD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5JNEb6GzBY1VrfXCugU5bBQ5mEo9G7g3ySnE6cMzZSGC/logo.png",
+      "decimals": 9,
+      "address": "5JNEb6GzBY1VrfXCugU5bBQ5mEo9G7g3ySnE6cMzZSGC",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.kryptokronikz.co.uk/",
+        "twitter": "https://twitter.com/KryptoKronikz",
+        "discord": "https://discord.com/invite/krypto-kronikz",
+        "instagram": "https://www.instagram.com/kryptokronikz"
+      }
+    },
+    {
       "name": "Experience",
       "symbol": "EXPR",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/expr-logo.png",
@@ -26025,6 +26042,17 @@
         "website": "https://ifu.pt",
         "description": "Incognitfigure Unipessoal Lda investment token."
       }
+    },
+    {
+      "name": "Benevolent Order of The Slice",
+      "symbol": "SLICE",
+      "logoURI": "https://raw.githubusercontent.com/Rajyyan/Slice/main/logo.png",
+      "decimals": 0,
+      "address": "646YeDRsCEnRNYoDa5hLogGroBcCrtc3wwEUwQEAv73X",
+      "chainId": 101,
+      "tags": [
+        "membership-token"
+      ]
     },
     {
       "name": "Leadership",
@@ -47102,6 +47130,17 @@
       "extensions": {
         "website": "https://solible.com/"
       }
+    },
+    {
+      "name": "MedicalBlockchain",
+      "symbol": "MEDIBLOCK",
+      "logoURI": "https://raw.githubusercontent.com/WHug0/crypto/main/logo2.png",
+      "decimals": 0,
+      "address": "9Cn5bRH8KaCpk91zZyLQDF6AFkp6ycZyP7TDMDWps1uc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "WOLF GANG TOKEN",
