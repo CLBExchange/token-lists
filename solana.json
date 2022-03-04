@@ -48326,6 +48326,17 @@
       ]
     },
     {
+      "name": "UFuture Coin",
+      "symbol": "UFC",
+      "logoURI": "https://raw.githubusercontent.com/danielmahech/crypto1/main/poi-min.png",
+      "decimals": 0,
+      "address": "9Q1qB6pJCksvBZFwwMssD4P6yt67o6SPJhnE6KCjzmJr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "BiLira (Wormhole)",
       "symbol": "TRYB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj/logo.png",
@@ -122371,6 +122382,17 @@
       "extensions": {
         "website": "https://devbeta.human.ag/address/89ZBi4ejzTs2oZS2YqnRRdYKxdzPxTLvy9XqfbzCrZmz?src=token-list"
       }
+    },
+    {
+      "name": "MedicalBlockchain",
+      "symbol": "MEDIBLOCK",
+      "logoURI": "https://raw.githubusercontent.com/WHug0/crypto/main/logo2.png",
+      "decimals": 0,
+      "address": "9Cn5bRH8KaCpk91zZyLQDF6AFkp6ycZyP7TDMDWps1uc",
+      "chainId": 103,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Amethyst",
