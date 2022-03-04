@@ -76728,6 +76728,20 @@
       ]
     },
     {
+      "name": "Degen Moon Council Token",
+      "symbol": "DMC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMC8y7kpeBYfkbM3MmLREKeSGnw1sdWSv68aDUfH97Bu/logo.png",
+      "decimals": 9,
+      "address": "DMC8y7kpeBYfkbM3MmLREKeSGnw1sdWSv68aDUfH97Bu",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.degenmooncouncil.xyz/"
+      }
+    },
+    {
       "name": "UncleMine",
       "symbol": "UM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMCUFm2ZAnSU7UgsdVq23gRogMU3MEBjPgQF1gK53rEn/logo.png",
@@ -84669,6 +84683,14 @@
         "discord": "https://discord.gg/y42pXAFFVH",
         "instagram": "https://www.instagram.com/SlimeySnakeClub"
       }
+    },
+    {
+      "name": "Sealand Dollar",
+      "symbol": "XSD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EZjzDwkNYWhpprD1thHaGZvJDh8U5WJV86JX9erS6ovD/logo.png",
+      "decimals": 3,
+      "address": "EZjzDwkNYWhpprD1thHaGZvJDh8U5WJV86JX9erS6ovD",
+      "chainId": 101
     },
     {
       "name": "CHAN Token",
@@ -109899,6 +109921,20 @@
       ]
     },
     {
+      "name": "24K Gorilla Club Token",
+      "symbol": "LFGOLD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LFGqoEMMPUDkeWHRHeZucsiAtgudgDw9DaLjvxXMEmn/logo.png",
+      "decimals": 9,
+      "address": "LFGqoEMMPUDkeWHRHeZucsiAtgudgDw9DaLjvxXMEmn",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.24kgorillaclub.io/"
+      }
+    },
+    {
       "name": "Launchlabs Holder Token",
       "symbol": "LHT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LHTZ1E5tcZRK786zwrpcUsGivU6vemQaKBeXuiVD6tP/logo.png",
@@ -111793,6 +111829,17 @@
         "website": "https://rly.network",
         "coingeckoId": "rally-solana"
       }
+    },
+    {
+      "name": "Rave Review Free Mint Token",
+      "symbol": "RR-FREE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RRf92wqDcax85HH6YbRpPJV7Gj1qVAeEqiNouY4mRWw/logo.png",
+      "decimals": 0,
+      "address": "RRf92wqDcax85HH6YbRpPJV7Gj1qVAeEqiNouY4mRWw",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ]
     },
     {
       "name": "Real USD",
