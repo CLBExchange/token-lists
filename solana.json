@@ -73465,6 +73465,23 @@
       }
     },
     {
+      "name": "CHIQUITA Token",
+      "symbol": "CHIQUITA",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/HonkugaToken/main/honkuga.png",
+      "decimals": 6,
+      "address": "CtvD16P3aziZZaamHEyLHVnFN7UpXD9rcziShg2JAuQJ",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HonkugaApes",
+        "discord": "https://discord.com/3DxXbqHeBH"
+      }
+    },
+    {
       "name": "Hunt Crypto Rewards",
       "symbol": "HCR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cu1mWsE3JeEzMz1AzHezDJ99a45KheQWxWpLPkHKtsxu/logo.png",
@@ -75500,6 +75517,17 @@
       "logoURI": "https://raw.githubusercontent.com/mustacheman6000/GSKoin/main/logo.png",
       "decimals": 0,
       "address": "DBpegaZtddc9ux5HcRaTz1JRzGpQAYVxuMNrmYfXeMYP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Alinea",
+      "symbol": "alen",
+      "logoURI": "https://raw.githubusercontent.com/sumpter32/Cryto/main/alinea.png",
+      "decimals": 0,
+      "address": "DBtvzWi1UVyojuwDkKc1a4s56jLquJdZzwgunMYbq3xc",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -83998,6 +84026,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "KZN Token",
+      "symbol": "KZN",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/kuzuryutoken/main/kuzuryu.png",
+      "decimals": 6,
+      "address": "ETsqjC4pUFPBAbjNxHExc1soRodVhCv3sFE3PT19t8S3",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/KuzuryuNinja",
+        "discord": "https://discord.gg/APBqNFXNJB"
+      }
     },
     {
       "name": "BandOfGoonies",
