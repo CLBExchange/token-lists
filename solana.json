@@ -33598,6 +33598,20 @@
       }
     },
     {
+      "name": "TownCoin",
+      "symbol": "TOCO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7FntsntzGjK9PzPBbHLDJAFcKQVU14d2SbQZhgMUf2KA/logo.png",
+      "decimals": 2,
+      "address": "7FntsntzGjK9PzPBbHLDJAFcKQVU14d2SbQZhgMUf2KA",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solanatown.com"
+      }
+    },
+    {
       "name": "Cropper LP token (HAMS/USDC)",
       "symbol": "HAMS/USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Da82KXrqcUnv9oRcoKKUYRWM2yjPesi31GmrgMjZZ6h/logo.png",
