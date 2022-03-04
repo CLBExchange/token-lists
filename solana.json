@@ -21348,6 +21348,20 @@
       ]
     },
     {
+      "name": "Blockchain expo",
+      "symbol": "BCEI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5JYKZTxKqAaT6ADyCyD2zdyihg4xB6TQ2DSAKh9DKn1m/logo.png",
+      "decimals": 9,
+      "address": "5JYKZTxKqAaT6ADyCyD2zdyihg4xB6TQ2DSAKh9DKn1m",
+      "chainId": 101,
+      "tags": [
+        "BCEI"
+      ],
+      "extensions": {
+        "website": "http://www.blockchainexpoindia.com/"
+      }
+    },
+    {
       "name": "Research Lab Token",
       "symbol": "RLAB",
       "logoURI": "https://raw.githubusercontent.com/LouisWhit/socialspreadinggames/main/virus-token.png",
@@ -89609,6 +89623,17 @@
       ]
     },
     {
+      "name": "Vegas Token",
+      "symbol": "VEGAS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FHeU7e7Tyw5bNcCNiM1jNVoT5UUims7zRi3o76Kdz4f6/logo.png",
+      "decimals": 9,
+      "address": "FHeU7e7Tyw5bNcCNiM1jNVoT5UUims7zRi3o76Kdz4f6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Choptimu5 Coin",
       "symbol": "CHOP",
       "logoURI": "https://raw.githubusercontent.com/Choptimu5/crypto/main/ChopTokenLogo.png",
@@ -93985,6 +94010,20 @@
       ]
     },
     {
+      "name": "TA Fragments",
+      "symbol": "FRAG",
+      "logoURI": "https://raw.githubusercontent.com/tavernadventures/token-logo/8eb01cf46ad02ab584f9190db5a1d432b677a98f/img/frag.png",
+      "decimals": 0,
+      "address": "Frag4ZMMivXrM4YAufTA8z5NpsrTNcXFNSDmz1FhrY43",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tavernadventure"
+      }
+    },
+    {
       "name": "Nexo (Wormhole v1)",
       "symbol": "wNEXO_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FrhQauNRm7ecom9FRprNcyz58agDe5ujAbAtA9NG6jtU/logo.png",
@@ -97724,6 +97763,18 @@
         "website": "https://www.primebech.app",
         "twitter": "https://twitter.com/doesitxz"
       }
+    },
+    {
+      "name": "Divina Lux",
+      "symbol": "DVL",
+      "logoURI": "https://raw.githubusercontent.com/Ahzu-Direct-Tech/mmmc/main/logo.png",
+      "decimals": 9,
+      "address": "GPHNiEkx7bWW1ZQWddqqevJ7X5fpGX1LcTwoAdC1NHKg",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
     },
     {
       "name": "PureParagon Coin",
