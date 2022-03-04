@@ -29314,6 +29314,8 @@
       ],
       "extensions": {
         "website": "https://fanitrade.com/",
+        "coingeckoId": "fanitrade",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/fanitrade",
         "instagram": "https://www.instagram.com/fanitrade/"
       }
     },
@@ -49758,6 +49760,17 @@
         "website": "https://cropper.finance/",
         "twitter": "https://twitter.com/CropperFinance"
       }
+    },
+    {
+      "name": "Green coin",
+      "symbol": "GNC",
+      "logoURI": "https://raw.githubusercontent.com/kostasbekis/green-coin/main/GCN.png",
+      "decimals": 0,
+      "address": "9dEi5k9tT8RNKuYhGbskKBoPxK8mwGAufqCDXGbw6EHp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CatBnKatt",
@@ -70595,7 +70608,7 @@
       }
     },
     {
-      "name": "Lazy Token",
+      "name": "Lazy",
       "symbol": "LAZY",
       "logoURI": "https://arweave.net/-eAPfd93Q3-JeZ5dLyr5PfXo0TgC5n0ufI-LuFwxpcQ",
       "decimals": 9,
