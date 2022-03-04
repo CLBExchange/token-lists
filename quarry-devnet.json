@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-04T00:36:45.873Z",
+  "timestamp": "2022-03-04T02:11:56.210Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -8227,6 +8227,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 5NSH",
+      "symbol": "5NSHN",
+      "decimals": 6,
+      "address": "5NSHNdvbVTbiQbRDkViJHjYAH2gpc4vppyqFGDaGvoje",
+      "chainId": 104
+    },
+    {
       "name": "Token 5NZu",
       "symbol": "5NZuS",
       "decimals": 6,
@@ -11048,6 +11055,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 6Ur3",
+      "symbol": "6Ur3k",
+      "decimals": 6,
+      "address": "6Ur3kukLVUHVpxBuQFf5tK89kBwPjENdWRRxLnpGWDRv",
+      "chainId": 104
+    },
+    {
       "name": "Token 6V89",
       "symbol": "6V89n",
       "decimals": 6,
@@ -11129,6 +11143,13 @@
       "symbol": "6Xhd3",
       "decimals": 6,
       "address": "6Xhd3xe7djBxPYz2GEX7fRcDwesi1c49S3EUgocAdwyi",
+      "chainId": 104
+    },
+    {
+      "name": "Token 6Xyy",
+      "symbol": "6Xyyg",
+      "decimals": 6,
+      "address": "6XyygxFmUeemaTvA9E9mhH9FvgpynZqARVyG3gUdCMt7",
       "chainId": 104
     },
     {

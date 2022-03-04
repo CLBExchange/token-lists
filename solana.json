@@ -55135,6 +55135,17 @@
       }
     },
     {
+      "name": "JUNK",
+      "symbol": "JUNKz",
+      "logoURI": "https://raw.githubusercontent.com/XAGBack/JUNKToken1/main/JunkToken.png",
+      "decimals": 9,
+      "address": "AMzmwvDRKdt5AQ3m1m28tWjzBxmQNe1PsmHnYitVZwzp",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Cuckoo",
       "symbol": "CUCKOO",
       "logoURI": "https://raw.githubusercontent.com/CuckooDex/static/main/favicon-32x32.png",
@@ -57340,6 +57351,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Paella Token",
+      "symbol": "PAELLA",
+      "logoURI": "https://raw.githubusercontent.com/ESR20/Crypto/main/logo.png",
+      "decimals": 9,
+      "address": "AdAPHuuPvidvcXEoYC4MqwHX2zQHRrHrggQwfgDCTHQQ",
+      "chainId": 101
     },
     {
       "name": "Camel Aggregate Ecological Network",
@@ -88774,6 +88793,24 @@
       ]
     },
     {
+      "name": "TRUST NO 1 TOKEN",
+      "symbol": "$TN1",
+      "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/TRUST-NO-1-TOKEN/main/logo.png",
+      "decimals": 9,
+      "address": "FCJ3e3aEXVpoeua6m6oLyB5J2TCgn1Ldc2WbHudC4S75",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "SOLANA"
+      ],
+      "extensions": {
+        "website": "https://trustno1.onuniverse.com",
+        "twitter": "https://twitter.com/trustno1_nft",
+        "discord": "https://discord.com/invite/8zzXHaEZF2",
+        "instagram": "https://www.instagram.com/trustno1_nft"
+      }
+    },
+    {
       "name": "FC Porto Fan Token",
       "symbol": "FCP",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCPtL4RqWGLjstUxWpniCkHHNYuYFnVY7po2hoWgFEhT/logo.png",
@@ -115476,6 +115513,22 @@
         "website": "https://apeson.space",
         "twitter": "https://twitter.com/aos_NFT",
         "discord": "https://discord.gg/cmUJSVqK"
+      }
+    },
+    {
+      "name": "APN",
+      "symbol": "APN",
+      "logoURI": "https://static.apn.gg/token/apn-signet.png",
+      "decimals": 9,
+      "address": "apnggFw6CdVzxjdVC3KbfT6qVYfNi4VgQBuW7hVM9us",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://apn.gg",
+        "twitter": "https://twitter.com/apngg_",
+        "discord": "https://discord.gg/D2ktsbMd6d"
       }
     },
     {
