@@ -14416,6 +14416,17 @@
       ]
     },
     {
+      "name": "UNMUTEX",
+      "symbol": "UNMT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/49uThnJWEoBjqYZaVXd6L9KKBR288Z1oXoLH7SUFyBJT/logo.png",
+      "decimals": 9,
+      "address": "49uThnJWEoBjqYZaVXd6L9KKBR288Z1oXoLH7SUFyBJT",
+      "chainId": 101,
+      "tags": [
+        "UNMUTEX"
+      ]
+    },
+    {
       "name": "Solana Mafia Token",
       "symbol": "MAFIA",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4A2us4kJfbMcBfJCmBiec8vMmahivRJQuLkreKEDrnsX/logo.png",
@@ -34137,6 +34148,17 @@
       "logoURI": "https://raw.githubusercontent.com/ffurtuoso/tree/main/token/araucaria2.png",
       "decimals": 9,
       "address": "7M1E2H2nYZRnFApXmqJiX2hXYBnXh4PEFaUvcnrTgQ3J",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
+      "name": "MindSet",
+      "symbol": "MINDSET",
+      "logoURI": "https://raw.githubusercontent.com/thesummitoftheworld/solana.mindset_token/main/logo.png",
+      "decimals": 5,
+      "address": "7MJctMEzbs4VCN7Phu5d2rdg2qAN8cFDCMSR5pXnEAJu",
       "chainId": 101,
       "tags": [
         "utility-token"
