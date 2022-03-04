@@ -35573,6 +35573,20 @@
       ]
     },
     {
+      "name": "FLY GUYS MINT PASS",
+      "symbol": "FLG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ZoFUd5CkcU4fQnhvpAYWSPV7wkHtxKm2Q9R5W733CKd/logo.png",
+      "decimals": 0,
+      "address": "7ZoFUd5CkcU4fQnhvpAYWSPV7wkHtxKm2Q9R5W733CKd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.flyguys.xyz/"
+      }
+    },
+    {
       "name": "Luna Yield",
       "symbol": "LUNY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7a4cXVvVT7kF6hS5q5LDqtzWfHfys4a9PoK6pf87RKwf/logo.png",
@@ -104705,6 +104719,22 @@
       }
     },
     {
+      "name": "Byte Buddies Chip",
+      "symbol": "Byte",
+      "logoURI": "https://media.discordapp.net/attachments/949172481690861598/949267442562113586/token_logo_Cropped.jpg",
+      "decimals": 9,
+      "address": "HTy2Go2xA5BtGrnAyoVUPHsLyUKnLXkqucuAYYvQoLS6",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "nft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bytebuddiesnft",
+        "discord": "https://discord.gg/qRw9yN4qFr"
+      }
+    },
+    {
       "name": "Dope Pirates Token",
       "symbol": "BOOTY",
       "logoURI": "https://raw.githubusercontent.com/Dopepirate/Dopepirate/main/bootycoin.PNG",
@@ -118765,6 +118795,20 @@
       "decimals": 2,
       "address": "rvjXnhXCwaZD2b4mZA321khA959yAg1GT9YWTqr6jTN",
       "chainId": 101
+    },
+    {
+      "name": "OG Atadian RWL",
+      "symbol": "ATRWL",
+      "logoURI": "https://raw.githubusercontent.com/KKQanT/token-list/main/assets/mainnet/rwLH899ZJpjdWb2si3213HMHSvH4yMJdCj6Ne3HrkN4/logo.png",
+      "decimals": 0,
+      "address": "rwLH899ZJpjdWb2si3213HMHSvH4yMJdCj6Ne3HrkN4",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.atadia.io/"
+      }
     },
     {
       "name": "Slambert Coupons",
