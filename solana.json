@@ -16474,6 +16474,17 @@
       ]
     },
     {
+      "name": "RareCoin",
+      "symbol": "RARECOIN",
+      "logoURI": "https://raw.githubusercontent.com/Player172/RareCoin-Logo/main/logo.png",
+      "decimals": 0,
+      "address": "4WRkRD4Pom8bFyhxyoCJtykaXoXZh2WX2KP9KGx6qy7a",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Automatic Get Coin",
       "symbol": "AGC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4WSv4nmFA8JRKWkV84DHRFWbwaUhaGjNbXibitXQiYGS/logo.png",
@@ -59616,6 +59627,17 @@
       }
     },
     {
+      "name": "BREAD Token",
+      "symbol": "BREAD",
+      "logoURI": "https://arweave.net/czwVBNRqXrCthS1R-XH_AoJWPqwDj7DiCxv5tNnyxrQ",
+      "decimals": 9,
+      "address": "Avc1X8iAWLVrsnRtDK6aTyPDichkqe8YAn6ePGTuPAKH",
+      "chainId": 101,
+      "tags": [
+        "DunkinDucksToken"
+      ]
+    },
+    {
       "name": "Macfor Coin",
       "symbol": "MFTK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AvfTV1GztEciuYWsbJ2bDxxcPt1ZbyLe6tMPk7bmw7WM/Logo.png",
@@ -87995,6 +88017,17 @@
       "extensions": {
         "website": "https://solible.com/"
       }
+    },
+    {
+      "name": "Jo Jo Token",
+      "symbol": "JJT",
+      "logoURI": "https://raw.githubusercontent.com/CREpto90/Crypto/main/logo.png",
+      "decimals": 0,
+      "address": "F6X6hs6whSrTPTuvgdtEfG2B1LvsWWQ4qSDyii3ntuQ7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "BloodRose86 Cion",
