@@ -65026,6 +65026,22 @@
       }
     },
     {
+      "name": "CHA CHING",
+      "symbol": "CHING",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bfsrs1qLiuooamkSuG9tcF66SXXFefWbur86RkHDuxQS/logo.png",
+      "decimals": 9,
+      "address": "Bfsrs1qLiuooamkSuG9tcF66SXXFefWbur86RkHDuxQS",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://theparlaynft.com/",
+        "twitter": "https://twitter.com/parlaynft",
+        "discord": "https://discord.gg/parlay"
+      }
+    },
+    {
       "name": "Bingo Star Token",
       "symbol": "BGSC",
       "logoURI": "https://raw.githubusercontent.com/changman/bingostarcoin/main/logo.png",
@@ -123915,6 +123931,20 @@
       ],
       "extensions": {
         "website": "https://raydium.io/"
+      }
+    },
+    {
+      "name": "Horseshit High Club",
+      "symbol": "HHC",
+      "logoURI": "https://raw.githubusercontent.com/alaydin/HHC_Test/master/logo.png",
+      "decimals": 9,
+      "address": "DNLzdgaE3LUWoBxHasY9j8skCv8sBA9PBcD2DtYTjtaL",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/tNvMvzjMxGhttps://realms.today/dao/6iBBtiZDb14Y4xRRcJ6uchaRXoFG2PxiQggPooYTPZuS"
       }
     },
     {
