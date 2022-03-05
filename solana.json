@@ -76584,6 +76584,17 @@
       ]
     },
     {
+      "name": "Dino Jump WL Token",
+      "symbol": "DJWLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJTE14SD24SKmPv6pLt84173srwbBgt7YGyfHZ5oVhwp/logo.png",
+      "decimals": 0,
+      "address": "DJTMxBZDpjFv27o4QzTSkSBb2TZPFTsAnXaAWPrJept6",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "12bar",
       "symbol": "12bar",
       "logoURI": "https://github.com/dbuster/12bar/blob/main/12barlogo200200.jpg",
@@ -98882,6 +98893,17 @@
       }
     },
     {
+      "name": "GatePass Whitelist Token",
+      "symbol": "GPWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GWLtBqEcnSsPWS8Sj79BJETGoEAGbCZKRy9LQbsCveLJ/logo.png",
+      "decimals": 0,
+      "address": "GWLtBqEcnSsPWS8Sj79BJETGoEAGbCZKRy9LQbsCveLJ",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "SHBL-USDC Cropper LP",
       "symbol": "SHBL LP token",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz/logo.png",
@@ -118228,6 +118250,17 @@
       }
     },
     {
+      "name": "Oblivion City X Whitelist Token",
+      "symbol": "OCXWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/obtF8YwHn2g7uhmtziqVn4wvD2r99e3DPcQo4rFaN1G/logo.png",
+      "decimals": 0,
+      "address": "obtF8YwHn2g7uhmtziqVn4wvD2r99e3DPcQo4rFaN1G",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Expense",
       "symbol": "XPS",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/xps-logo.png",
@@ -121702,6 +121735,24 @@
       "chainId": 103
     },
     {
+      "name": "Synthetic Doge (devnet)",
+      "symbol": "fDOGE_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/12cd1cf4-f68a-4b32-355e-b40053725300/public",
+      "decimals": 8,
+      "address": "4XZhhTtMQ2SXmBSKucQ28PtseRtwBGpc4AVej37kuTTv",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
       "name": "Test Avalanche (LP Finance Devnet)",
       "symbol": "tAVAX",
       "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/AVAX.png",
@@ -121766,6 +121817,24 @@
       ],
       "extensions": {
         "website": "https://www.uown.co"
+      }
+    },
+    {
+      "name": "Synthetic Bitcoin Cash (devnet)",
+      "symbol": "fBCH_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/17e71390-758e-4355-bae1-5b0fb6afed00/public",
+      "decimals": 8,
+      "address": "4qr9SiYyi4E3k6DT9ycD6CQh8m5E82gNkoUWNvTxZefj",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
       }
     },
     {
@@ -122306,6 +122375,24 @@
       ]
     },
     {
+      "name": "Synthetic Ruble (devnet)",
+      "symbol": "fRUB_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/2fc3c060-058b-40f7-d0c4-f0cda2028a00/public",
+      "decimals": 8,
+      "address": "8Pb8DVqFpHZjs9gr3C6EaALRaLihsMaFjNFYnHcuBYAN",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
       "name": "FABRIC (devnet)",
       "symbol": "FAB_d",
       "logoURI": "https://dex.fsynth.io/logo.png",
@@ -122565,6 +122652,24 @@
       "decimals": 0,
       "address": "A1nQA6t11dUW3JfmzoRf4LAc69UNZMt7eXw1N7imDWjh",
       "chainId": 103
+    },
+    {
+      "name": "Synthetic Cardano (devnet)",
+      "symbol": "fADA_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/a6d47d98-ea35-47ec-cf43-eb95ac94d500/public",
+      "decimals": 8,
+      "address": "A6QvgEnaFf2ftq35M5kztaxRufpeiryWuPXEXM71AjmA",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
     },
     {
       "name": "Starlight coin",
@@ -122959,6 +123064,24 @@
       ]
     },
     {
+      "name": "Synthetic Euro (devnet)",
+      "symbol": "fEUR_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/1ed84129-6754-4668-7e4b-2cf143f5a100/public",
+      "decimals": 8,
+      "address": "BWc6VuazzHxJ8yRrWocjLZfKjfEkMEr8grYMhT8jLQWK",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
       "name": "AKAYA_Bistro_NFT_Test",
       "symbol": "AKAYA",
       "logoURI": "https://musa.fyi/images/akaya.jpg",
@@ -123113,6 +123236,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Synthetic Bitcoin (devnet)",
+      "symbol": "fBTC_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/ec84365d-c9a9-45b6-afeb-4ca5ca831600/public",
+      "decimals": 8,
+      "address": "BwhbNiZRwTKB7rz6n95SUQcMwkFYbb9cx2h6FPDHstwU",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
     },
     {
       "name": "Test Chainlink (LP Finance Devnet)",
@@ -123805,6 +123946,42 @@
       ]
     },
     {
+      "name": "Synthetic Luna (devnet)",
+      "symbol": "fLUNA_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/8bf381db-f096-4d6f-3397-e9224a012c00/public",
+      "decimals": 8,
+      "address": "FE9KLJTUyd2jSnpKRmnxoJB2CQhTFLTmhc8D5Szdpxue",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
+      "name": "Synthetic GB Pound (devnet)",
+      "symbol": "fGBP_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/b00332ce-5694-4d33-09fc-d523b63bbe00/public",
+      "decimals": 8,
+      "address": "FK12Vfus9VH4kasYe7d7R6syEcuTbS8JCJtk9ZmesT5q",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
       "name": "Inferno",
       "symbol": "INT",
       "logoURI": "https://raw.githubusercontent.com/Hariienesh1901/Inferno/main/logo.png",
@@ -123889,6 +124066,24 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "name": "Synthetic Fantom (devnet)",
+      "symbol": "fFTM_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/875a80a0-4ae6-4d76-bc8b-3f2eee6b5b00/public",
+      "decimals": 8,
+      "address": "FgsHQ2TdFokDuEVGYdhkrwoxD1Y8bg5HcTRCmD7KEpgb",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
     },
     {
       "name": "Camp Coin",
@@ -124276,6 +124471,24 @@
       }
     },
     {
+      "name": "Synthetic Avax (devnet)",
+      "symbol": "fAVAX_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/aa894435-4e95-4af0-e4ff-5faefbc65b00/public",
+      "decimals": 8,
+      "address": "J9nzLNpbc8vfvyV45RDAgjH2LkYH1KnegGfDXKmKbdMT",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
+      }
+    },
+    {
       "name": "Kafe",
       "symbol": "KAFE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KAFE5ivWfDPP3dek2m36xvdU2NearVsnU5ryfCSAdAW/logo.png",
@@ -124484,6 +124697,24 @@
       ],
       "extensions": {
         "website": "https://devbeta.human.ag/address/33psYCJC3ESZzhzEpxm8vgAVcsP2BJ6Wp4fQZ19kTrdH?src=token-list"
+      }
+    },
+    {
+      "name": "Synthetic Near (devnet)",
+      "symbol": "fNEAR_d",
+      "logoURI": "https://imagedelivery.net/9NaZ0y3QBjls8_Ib2N2gQw/86dbb0ed-4918-4495-ded2-b8ed1ee2d000/public",
+      "decimals": 8,
+      "address": "r7KZ6SgMCPeA6MU7bjtxgV1xageYcstYzmw4Ed2UQZz",
+      "chainId": 103,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
       }
     },
     {
