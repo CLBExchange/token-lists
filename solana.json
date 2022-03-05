@@ -18098,6 +18098,20 @@
       ]
     },
     {
+      "name": "Kids Matter",
+      "symbol": "KIDS",
+      "logoURI": "https://raw.githubusercontent.com/KidsMatterNFT/crypto/main/KidsMatter_Final1_NoBG-min.jpg",
+      "decimals": 0,
+      "address": "4mD1WxMTjtSQZ2oEPF56Nve5tBF9h82fCTHCzkQ5fhrq",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "charity-token",
+        "nft-staking",
+        "nft-marketplace"
+      ]
+    },
+    {
       "name": "Kelvin Zhang Coin",
       "symbol": "KZC",
       "logoURI": "https://raw.githubusercontent.com/kelvin-wenjie-zhang/kz-coin-crypto/main/logo.png",
@@ -35191,6 +35205,20 @@
       "decimals": 9,
       "address": "7Um17c1Bo2MEETUcbbFk8oaTXQFUpLcnSwBG2FNLb7AQ",
       "chainId": 101
+    },
+    {
+      "name": "PsilocyBits",
+      "symbol": "PSCYB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7UqGHhzUcjss4bxKDxjy5GPHTRPn2HyCYcAfhx8hpe2K/logo.png",
+      "decimals": 0,
+      "address": "7UqGHhzUcjss4bxKDxjy5GPHTRPn2HyCYcAfhx8hpe2K",
+      "chainId": 101,
+      "tags": [
+        "psilocybin"
+      ],
+      "extensions": {
+        "website": "http://psilocybits.com/"
+      }
     },
     {
       "name": "Bristol Coin",
