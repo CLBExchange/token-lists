@@ -15583,6 +15583,17 @@
       ]
     },
     {
+      "name": "Ms Token",
+      "symbol": "MsT",
+      "logoURI": "https://raw.githubusercontent.com/MeherTrident/crypto/main/logo.png",
+      "decimals": 4,
+      "address": "4MG83Q5NfZp7tecbaURs3zS5LbXjAXhwTHffrv49xLGX",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Mofogasy Token",
       "symbol": "MGT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4MRVPdN41888CwKSpY37K8HtN2FM9Bc3xTnhf9EDdcou/logo.png",
