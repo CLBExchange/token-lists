@@ -30337,6 +30337,14 @@
       }
     },
     {
+      "name": "Mad Ghosts WL",
+      "symbol": "MGWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6jXNdXMrg8GUiSsgLc2DmkeoEC1NMGkDej4cYJ1zmvvj/logo.png",
+      "decimals": 9,
+      "address": "6jXNdXMrg8GUiSsgLc2DmkeoEC1NMGkDej4cYJ1zmvvj",
+      "chainId": 101
+    },
+    {
       "name": "ProjectMedusa",
       "symbol": "Medusa",
       "logoURI": "https://raw.githubusercontent.com/Qalander/medusatoken/main/Crypto_red.png",
@@ -39708,6 +39716,19 @@
         "twitter": "https://twitter.com/Fearless_Bulls",
         "discord": "https://discord.com/invite/xbVtrqjZcc"
       }
+    },
+    {
+      "name": "GROWL",
+      "symbol": "GROWL",
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/sabretoothsyndicate/main/tiger.png",
+      "decimals": 3,
+      "address": "86hKMv2gmGJ1xKKDRHvjEE7sSbGpRfgaBgNrWHAo4uuN",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
     },
     {
       "name": "softWEB Production Token",
@@ -49132,6 +49153,21 @@
       ],
       "extensions": {
         "description": "Dyno is a token I developed for fun. Maybe will be purposed eventually, but invest if you'd like. -Dev"
+      }
+    },
+    {
+      "name": "Jelly",
+      "symbol": "JELLY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9WMwGcY6TcbSfy9XPpQymY3qNEsvEaYL3wivdwPG2fpp/logo.png",
+      "decimals": 6,
+      "address": "9WMwGcY6TcbSfy9XPpQymY3qNEsvEaYL3wivdwPG2fpp",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/JellyBabiesNFT",
+        "discord": "https://discord.com/invite/wzEfUjmpFw"
       }
     },
     {
@@ -96126,6 +96162,20 @@
         "twitter": "https://twitter.com/eyeznft",
         "discord": "https://discord.gg/mfAvPq9v"
       }
+    },
+    {
+      "name": "Projekt Paradise",
+      "symbol": "CHI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G7nv4MSWXatvdcx7t4oPsg9sDCtxg8bbVcDA454wQkgh/token.png",
+      "decimals": 9,
+      "address": "G7nv4MSWXatvdcx7t4oPsg9sDCtxg8bbVcDA454wQkgh",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "nft-staking",
+        "social-token"
+      ]
     },
     {
       "name": "CoreStarter",
