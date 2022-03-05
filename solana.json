@@ -25218,6 +25218,17 @@
       }
     },
     {
+      "name": "VeLeTok",
+      "symbol": "VLTK",
+      "logoURI": "https://raw.githubusercontent.com/veletech/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "5tbRhXYgsNKZG9E2Z4PJfcbQpoxabpVYmaqRY1XmTkJL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Authentic",
       "symbol": "AUTH",
       "logoURI": "https://raw.githubusercontent.com/AUTHTeam/crypto/main/Auth_Token.jpg",
@@ -98313,6 +98324,23 @@
       ]
     },
     {
+      "name": "Lost At Sea WAVE",
+      "symbol": "WAVE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GS6E87SLTioRDG3uSVRwQmuKKMxDmWU7fktCTJ5xkEM8/logo.png",
+      "decimals": 9,
+      "address": "GS6E87SLTioRDG3uSVRwQmuKKMxDmWU7fktCTJ5xkEM8",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token",
+        "nft-staking"
+      ],
+      "extensions": {
+        "website": "https://lostatseanft.com/",
+        "twitter": "https://twitter.com/lostatseanft"
+      }
+    },
+    {
       "name": "LEX CLOUD DATA",
       "symbol": "LXCD",
       "logoURI": "https://raw.githubusercontent.com/lexthoms411/Lex-cloud-Data/main/logo.png",
@@ -124767,6 +124795,17 @@
         "twitter": "https://twitter.com/StepFinance_",
         "waterfallbot": "https://bit.ly/STEPwaterfall"
       }
+    },
+    {
+      "name": "Genieverse",
+      "symbol": "GENIE",
+      "logoURI": "https://raw.githubusercontent.com/Genieverse/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "zYLhfZpn6zLF1nGkq9A6kr2ufLeEnUEJ25um4zFijDr",
+      "chainId": 103,
+      "tags": [
+        "metaverse-token"
+      ]
     },
     {
       "name": "VDC Coin",
