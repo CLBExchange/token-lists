@@ -35217,6 +35217,23 @@
       ]
     },
     {
+      "name": "Valhall Crowns",
+      "symbol": "VAL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VeFS95G5WApQgaAgZUejwRgV8pbWDDCSiL3kQKkyFrd/logo.png",
+      "decimals": 0,
+      "address": "7VeFS95G5WApQgaAgZUejwRgV8pbWDDCSiL3kQKkyFrd",
+      "chainId": 101,
+      "tags": [
+        "metaverse-token",
+        "community-token",
+        "social-token",
+        "nft-staking"
+      ],
+      "extensions": {
+        "website": "https://valhall.site/"
+      }
+    },
+    {
       "name": "Nitro Coin",
       "symbol": "NTR",
       "logoURI": "https://raw.githubusercontent.com/SolanaTokenMerger/Nitro-Coin/main/logo.png",
@@ -37936,6 +37953,14 @@
         "website": "https://identicert.com/",
         "twitter": "https://twitter.com/identicert"
       }
+    },
+    {
+      "name": "Gear Token",
+      "symbol": "GEAR",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g/logo.png?raw=true",
+      "decimals": 9,
+      "address": "7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g",
+      "chainId": 101
     },
     {
       "name": "Galaxy",
@@ -75929,6 +75954,14 @@
       ]
     },
     {
+      "name": "DBS",
+      "symbol": "DBS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DBsDkTdAxQEiSDeqfE48eMmc1vGXWjcum7hjRAf6zxza/logo.jpg",
+      "decimals": 0,
+      "address": "DBsDkTdAxQEiSDeqfE48eMmc1vGXWjcum7hjRAf6zxza",
+      "chainId": 101
+    },
+    {
       "name": "Alinea",
       "symbol": "alen",
       "logoURI": "https://raw.githubusercontent.com/sumpter32/Cryto/main/alinea.png",
@@ -107427,6 +107460,22 @@
       }
     },
     {
+      "name": "DEWATOKN",
+      "symbol": "DTOKN",
+      "logoURI": "https://raw.githubusercontent.com/dewacorp/dewatokn/main/logo.png",
+      "decimals": 9,
+      "address": "Hog8VTQ8fuaMKqbj426cZ9skfs6Dw9b6AW9h5qMb3akb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://theparlaynft.com/",
+        "twitter": "https://twitter.com/parlaynft",
+        "discord": "https://discord.gg/parlay"
+      }
+    },
+    {
       "name": "Ohms2law",
       "symbol": "HVAC",
       "logoURI": "https://raw.githubusercontent.com/Ohms2law/crypto/main/logo.png",
@@ -113927,6 +113976,14 @@
       "extensions": {
         "website": "https://bountyhunterspaceguild.com"
       }
+    },
+    {
+      "name": "The Syndicate Token",
+      "symbol": "TST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TSTeJQaJ68jmS9vvooq9iDCmQETggC8ibb3ofeDkQUa/logo.png",
+      "decimals": 5,
+      "address": "TSTeJQaJ68jmS9vvooq9iDCmQETggC8ibb3ofeDkQUa",
+      "chainId": 101
     },
     {
       "name": "Burk Token",
