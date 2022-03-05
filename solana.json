@@ -12761,6 +12761,23 @@
       }
     },
     {
+      "name": "FamilySOL",
+      "symbol": "FamSOL",
+      "logoURI": "https://raw.githubusercontent.com/solodevo/FamilySOL/main/LOGOFamilySOL.png",
+      "decimals": 9,
+      "address": "3rH1toffQAELHo5vyRKdwEFxhPTZA7ocfRdJK2c8txoJ",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://familysolnft.com/",
+        "twitter": "https://twitter.com/FamilySolNft",
+        "discord": "https://discord.gg/tSXnjNJEhT"
+      }
+    },
+    {
       "name": "AmeriKen",
       "symbol": "ATPK",
       "logoURI": "https://raw.githubusercontent.com/ekledzik/atpx/main/icon.png",
@@ -32215,6 +32232,20 @@
         "website": "http://flokisol.tech/",
         "twitter": "https://twitter.com/floki_solana",
         "discord": "https://discord.gg/QDfXeXhkqR"
+      }
+    },
+    {
+      "name": "Joey",
+      "symbol": "JOEY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6zTqGvQRaxQo9mmz3mgv2MiEYcMpxhGVkp8CimKgS1M7/logo1.jpg",
+      "decimals": 9,
+      "address": "6zTqGvQRaxQo9mmz3mgv2MiEYcMpxhGVkp8CimKgS1M7",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "http://joeydiaz.net"
       }
     },
     {
@@ -86911,6 +86942,18 @@
       ]
     },
     {
+      "name": "Cheeze Coin",
+      "symbol": "CHZE",
+      "logoURI": "https://raw.githubusercontent.com/moxlongg/crypto/main/logo.png",
+      "decimals": 5,
+      "address": "EpLKTiSVy9R5cFpwgp9FjHY6M2B3ZKoKuVgMSW59ts3d",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "very-addictive"
+      ]
+    },
+    {
       "name": "BassCoin",
       "symbol": "BassC",
       "logoURI": "https://raw.githubusercontent.com/noeljbass/basscoin/main/basscoin.png",
@@ -116738,6 +116781,14 @@
         "website": "https://www.solanacum.com/",
         "twitter": "https://twitter.com/SolanaCum"
       }
+    },
+    {
+      "name": "Creative Points",
+      "symbol": "CP",
+      "logoURI": "https://github.com/Boxib/CP/blob/main/ic-removebg-preview.png?raw=true",
+      "decimals": 0,
+      "address": "cvF1vU4WXL1px9qqTcCCRhtBvyrLp2P7jPeh9qZCic9",
+      "chainId": 101
     },
     {
       "name": "Catalina Whale Mixer Droplet",
