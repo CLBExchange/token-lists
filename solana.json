@@ -10810,6 +10810,17 @@
       }
     },
     {
+      "name": "Rocket",
+      "symbol": "RKT",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/rkt-logo.png",
+      "decimals": 9,
+      "address": "3aTpYgEDSUgX2VLSPm2z2CE5zrhtWZ9jtXsCs7MXsP5z",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "DJ CandyFlip",
       "symbol": "DJCF",
       "logoURI": "https://raw.githubusercontent.com/CandyCode-CC/crypto/main/logo.png",
@@ -28339,6 +28350,17 @@
       }
     },
     {
+      "name": "Minute",
+      "symbol": "MIN",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/min-logo.png",
+      "decimals": 9,
+      "address": "6S4fgP6UpWwuDg1S4FyV3BSoxoECm9nZuGLLxwaSQVDu",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Heaven Sevens Token",
       "symbol": "HST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6SBmEB9MuGBYdmCzsWXdqB1fT68Vdkn2prkRQrAEnASr/logo.png",
@@ -38611,6 +38633,17 @@
       ]
     },
     {
+      "name": "Hour",
+      "symbol": "HR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/hr-logo.png",
+      "decimals": 9,
+      "address": "7xYwLhYFDPNNHRkWBwZgUZrrLdzUuxZYkbBjyBzTCZFB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Tiki Tix",
       "symbol": "TIT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xZgeMkxKocj8wBBKdEFTaF25j4kUHVJbUZjvRqkdrsE/logo.png",
@@ -42970,6 +43003,17 @@
       "extensions": {
         "github": "https://github.com/SIMCrypto"
       }
+    },
+    {
+      "name": "Day",
+      "symbol": "DAY",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/day-logo.png",
+      "decimals": 9,
+      "address": "8a5GgBPUnZNv546q8DBVhz7zSRC35scHR44mKRiq8Hs8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Exchg",
@@ -52164,6 +52208,17 @@
       "logoURI": "https://github.com/spenserbuck/crypto/blob/main/InstantCoin.png",
       "decimals": 0,
       "address": "9xST7WVW9m92rojrv7tQk3NDeLmvzTiRzMErJvKBqWTM",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Week",
+      "symbol": "WK",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/wk-logo.png",
+      "decimals": 9,
+      "address": "9xSqFFHH8kq928NuvLNBLntd9LfCW9NwhZ94wcD4dedp",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -71988,6 +72043,21 @@
       ]
     },
     {
+      "name": "Honey Badges Presale Token",
+      "symbol": "HB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CfNkADyvwg66yLtctbuDo381s6VqVC8583ur7uvooE43/logo.png",
+      "decimals": 0,
+      "address": "CfNkADyvwg66yLtctbuDo381s6VqVC8583ur7uvooE43",
+      "chainId": 101,
+      "tags": [
+        "presale-token"
+      ],
+      "extensions": {
+        "website": "https://www.honeybadges.xyz/",
+        "twitter": "https://twitter.com/HoneyBadgesNFT"
+      }
+    },
+    {
       "name": "Friends and Family Council Token",
       "symbol": "cFAF",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cfafd52FfHRA5FRkTXmMNyHZfhNkbaHpZ12ggmeTVEMw/logo.png",
@@ -77612,6 +77682,22 @@
       ],
       "extensions": {
         "website": "https://www.mercurial.finance/"
+      }
+    },
+    {
+      "name": "Anime-U",
+      "symbol": "ANU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSqR1btEch7YGmpFXhwuboRV5QNuqrrSCnPTLjfnrdCS/logo.png",
+      "decimals": 9,
+      "address": "DSqR1btEch7YGmpFXhwuboRV5QNuqrrSCnPTLjfnrdCS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/EliteWorldMeta",
+        "facebook": "https://www.facebook.com/EliteWorldMetaverse",
+        "telegram": "https://t.me/EliteWorldMetaverse"
       }
     },
     {
@@ -109487,6 +109573,17 @@
       }
     },
     {
+      "name": "Month",
+      "symbol": "MO",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/mo-logo.png",
+      "decimals": 9,
+      "address": "JC5TC9CJNvf9DQiCCTP236obnipzRhVo5LH5QYrXiYFm",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Promenix Coin",
       "symbol": "PXC",
       "logoURI": "https://raw.githubusercontent.com/reverdemoi/crypto/main/logo.png",
@@ -119752,6 +119849,17 @@
         "website": "http://www.airbox-token.acomdir.com/",
         "blog": "https://jenka-nauta.com"
       }
+    },
+    {
+      "name": "Year",
+      "symbol": "YR",
+      "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/yr-logo.png",
+      "decimals": 9,
+      "address": "tvsmkrUKwW952YZHqDPMj9at39XY1nDXi6bF5JcAmaa",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Fox Dynasty",
