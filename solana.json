@@ -62795,6 +62795,22 @@
       }
     },
     {
+      "name": "DRACULA GAME BLOOD",
+      "symbol": "BLOOD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLAAD2QLUgRSbQ9AB9jqAoHh55cGVcSBaCH9JGBh2zDX/logo.png",
+      "decimals": 0,
+      "address": "BLAAD2QLUgRSbQ9AB9jqAoHh55cGVcSBaCH9JGBh2zDX",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.dracula.game",
+        "twitter": "https://twitter.com/draculagame_nft",
+        "discord": "https://discord.gg/invite/Frj3KDPBpq"
+      }
+    },
+    {
       "name": "CHBIG",
       "symbol": "CHBIG",
       "logoURI": "https://github.com/Chbig/chbig-crypto/blob/c0a38352b1f2a8dc4f1525b937bd1ff066a8502b/c.png?raw=true",
@@ -84111,6 +84127,21 @@
       "chainId": 101,
       "extensions": {
         "website": "https://shakudo.io/"
+      }
+    },
+    {
+      "name": "Byte Buddies WL",
+      "symbol": "ByteWL",
+      "logoURI": "https://media.discordapp.net/attachments/949172481690861598/949597987414351912/WL_token_logo.png",
+      "decimals": 0,
+      "address": "EMp3TqZHTgPJBMLa54qT6p8hNjimYscCEc8HPmQZJi35",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bytebuddiesnft"
       }
     },
     {
@@ -117206,6 +117237,17 @@
       "decimals": 0,
       "address": "derekokMW1a3MLm6guMBKaWUFQLSMJ3C5MoEkZZeBrt",
       "chainId": 101
+    },
+    {
+      "name": "divWallet",
+      "symbol": "DVW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/divWEfz76RDbL5kre8AsbaQtMFH8W38o8kTK5BBFNmP/logo.png",
+      "decimals": 10,
+      "address": "divWEfz76RDbL5kre8AsbaQtMFH8W38o8kTK5BBFNmP",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "My Low Carbon",
