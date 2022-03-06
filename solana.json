@@ -20493,6 +20493,26 @@
       ]
     },
     {
+      "name": "Fleux",
+      "symbol": "FLEUX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/57MRgnqY9U2HeHoJNF63Z6f8GAgzBjyB9rNecqK9G3sV/logo.png",
+      "decimals": 9,
+      "address": "57MRgnqY9U2HeHoJNF63Z6f8GAgzBjyB9rNecqK9G3sV",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "stake-pool-token",
+        "NFTs",
+        "DeFi"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/fleuxlabs",
+        "discord": "https://discord.gg/RTSEFBVqZB",
+        "instagram": "https://www.instagram.com/fleuxlabs/"
+      }
+    },
+    {
       "name": "Mercurial LP Token (USDC-USDT-UST)",
       "symbol": "USDC-USDT-UST",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/57h4LEnBooHrKbacYWGCFghmrTzYPVn8PwZkzTzRLvHa/logo.svg",
@@ -88127,6 +88147,19 @@
       "decimals": 0,
       "address": "Evup5hpQjUYYCwjVKeMsoyBztq11hgBb75rK4ZXWpvvL",
       "chainId": 101
+    },
+    {
+      "name": "TaterCoin DKP",
+      "symbol": "TDKP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EvvR84wMJVjsoNTAU9tdxNGhm7peGYXGdJSLCE3pwegR/logo.png",
+      "decimals": 4,
+      "address": "EvvR84wMJVjsoNTAU9tdxNGhm7peGYXGdJSLCE3pwegR",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token"
+      ]
     },
     {
       "name": "Coffee Coin",
