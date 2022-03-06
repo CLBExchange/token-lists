@@ -58451,6 +58451,14 @@
       }
     },
     {
+      "name": "Guitar",
+      "symbol": "GTR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AhRP4bxXcycEChFe8z4exKUoGSvgHukXripPhbH2e5Qe/logo.png",
+      "decimals": 4,
+      "address": "AhRP4bxXcycEChFe8z4exKUoGSvgHukXripPhbH2e5Qe",
+      "chainId": 101
+    },
+    {
       "name": "Voice",
       "symbol": "VOIC",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/voic-logo.png",
@@ -62285,6 +62293,14 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "Blackjack",
+      "symbol": "JACK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BFK8DKyraJdJCStwtFK3JAhC4N2q6UgfDKzKoeNskQYT/logo.png",
+      "decimals": 4,
+      "address": "BFK8DKyraJdJCStwtFK3JAhC4N2q6UgfDKzKoeNskQYT",
+      "chainId": 101
     },
     {
       "name": "PokeDollar",
@@ -117487,6 +117503,14 @@
       "extensions": {
         "website": "https://btcnftcoin.com/"
       }
+    },
+    {
+      "name": "Cookies",
+      "symbol": "COOKIES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/eTgYW2UEke2tyj6PTWZF2L6LMHztbB4ZMc8NGY7HVWf/logo.png",
+      "decimals": 4,
+      "address": "eTgYW2UEke2tyj6PTWZF2L6LMHztbB4ZMc8NGY7HVWf",
+      "chainId": 101
     },
     {
       "name": "Playground Epoch Droplet",
