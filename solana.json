@@ -36737,6 +36737,17 @@
       ]
     },
     {
+      "name": "Crypto Brain",
+      "symbol": "CBRC",
+      "logoURI": "https://raw.githubusercontent.com/bizottodbt/crypto-brain-token/main/logo.png",
+      "decimals": 0,
+      "address": "7gPNQ28N9p1BZnLc49ipj4wQRRSMtuuqSMy3aNzJ6Pr",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Uniswap sETH LP (Wormhole v1)",
       "symbol": "wUnisETHETH_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gersKTtU65ERNBNTZKjYgKf7HypR7PDMprcuhQJChaq/logo.png",
@@ -112317,6 +112328,22 @@
       ]
     },
     {
+      "name": "ProLeague",
+      "symbol": "PLG",
+      "logoURI": "https://sybvdlumjgmthsovg2jw7n5u54keits532jcbuopkc4dyowpgu.arweave.net/lgNRroxJmTPJ1Ta-Tb7e07xRETl3ekiDRz1C4PDrPNc",
+      "decimals": 9,
+      "address": "PLGoBo4XyjrfCR76WRcdT4G7bFtjGEtCdhViTWk9HA9",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://proleague.gg/",
+        "twitter": "https://twitter.com/proleaguegg",
+        "description": "ProLeague is a web3 social blockchain gaming/esports platform fostering the growth of the next generation of Esport professionals by offering an engaging platform that uses blockchain, NFTs, and our unique cryptocurrency to reward and incentivize competitive play."
+      }
+    },
+    {
       "name": "Saber apUSDT-USDT LP",
       "symbol": "apUSDT-USDT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj/icon.png",
@@ -115594,6 +115621,14 @@
         "whitelist-token",
         "NFT"
       ]
+    },
+    {
+      "name": "Le Bel Anus Token",
+      "symbol": "LBA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLAyTCh9AqPFYPNiYpHYo8nAPMqgbV4MTduLcg5kHdh/logo.png",
+      "decimals": 0,
+      "address": "WLAyTCh9AqPFYPNiYpHYo8nAPMqgbV4MTduLcg5kHdh",
+      "chainId": 101
     },
     {
       "name": "TTT WLB",
