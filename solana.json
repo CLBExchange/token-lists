@@ -10949,6 +10949,21 @@
       ]
     },
     {
+      "name": "Planet WL",
+      "symbol": "PWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3azR7QE61RFnGw1PDrnCNAABFGR54xskLEuCEuyTvtT6/logo.png",
+      "decimals": 9,
+      "address": "3azR7QE61RFnGw1PDrnCNAABFGR54xskLEuCEuyTvtT6",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://planet-mint.vercel.app/",
+        "description": "Planet WL Token"
+      }
+    },
+    {
       "name": "MindMining",
       "symbol": "MIND",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3b2G8Fe8vawLMfRHvKh1cxtxuRWQyeRknr7xVzPVTcYn/logo.svg",
@@ -96841,6 +96856,21 @@
       "decimals": 5,
       "address": "G7uwQLyFLpeKWZePU3q5eCMuQYcu3tMoGZvu3JHdksyW",
       "chainId": 101
+    },
+    {
+      "name": "Kingdom Coin",
+      "symbol": "KDMC",
+      "logoURI": "https://raw.githubusercontent.com/ecduzit/kdmc/main/kdmclogo16.png",
+      "decimals": 6,
+      "address": "G7yoaGtYGKUWq18cKUX3bpt6Gpr5fpZLVhMXctW77VE8",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.kingdomconnectionglobal.com/"
+      }
     },
     {
       "name": "High Society WL Mint Pass",
