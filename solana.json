@@ -5160,6 +5160,25 @@
       ]
     },
     {
+      "name": "Fab Punk Index",
+      "symbol": "FPUNK",
+      "logoURI": "https://www.arweave.net/-6iToYivBOpCvcDdFMN1MHLFLlQHKolBIm2dtQvyLbE?ext=png",
+      "decimals": 2,
+      "address": "2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J",
+      "chainId": 101,
+      "tags": [
+        "bridgesplit-fraction",
+        "fab-punks",
+        "fraction-index",
+        "fnft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bridgesplit",
+        "discord": "https://discord.gg/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J"
+      }
+    },
+    {
       "name": "Standard (Wormhole v1)",
       "symbol": "wxMARK_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2oDxYGgTBmST4rc3yn1YtcSEck7ReDZ8wHWLqZAuNWXH/logo.png",
@@ -50854,6 +50873,17 @@
       "decimals": 0,
       "address": "9idUGSpZkFtqxYTrSd3YsgcaVxVwfSTrDSQ411nckbvb",
       "chainId": 101
+    },
+    {
+      "name": "SUNSHINE",
+      "symbol": "RAYS",
+      "logoURI": "https://raw.githubusercontent.com/Mastervc/Crypto-/main/87-878487_cute-sunshine-clipart-19-cute-sun-clip-art.png",
+      "decimals": 0,
+      "address": "9ihuaebHjvKwpWHXcnQoYjvxA4qHX1fy2SuYyCZ7Rokh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "SMG Coin",
@@ -103894,6 +103924,17 @@
         "nft-token",
         "community-token",
         "play-2-earn"
+      ]
+    },
+    {
+      "name": "Megan Coin",
+      "symbol": "MEG",
+      "logoURI": "https://raw.githubusercontent.com/joshtasman/cSolana/main/meg_logo.jpg",
+      "decimals": 9,
+      "address": "H8iLU94PvXEBk3fAFKveJ8RgNxPejYQetYipWPNs6WXk",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
