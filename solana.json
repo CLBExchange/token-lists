@@ -3285,6 +3285,17 @@
       }
     },
     {
+      "name": "TruSwap",
+      "symbol": "TRS",
+      "logoURI": "https://github.com/Msaqib0786/crypto/blob/main/logo.png",
+      "decimals": 0,
+      "address": "2TocBpcDms9xWB9oGBo1Pek3bZDhbBtFRNUkSYbQ9N5P",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Hendrix Token",
       "symbol": "HENDX",
       "logoURI": "https://github.com/thejoshuahendrix/hennyscript/blob/main/IMG_20180803_100044.jpg?raw=true",
@@ -23386,6 +23397,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Metal Orb",
+      "symbol": "MORB",
+      "logoURI": "https://raw.githubusercontent.com/M-Jawad-Ch/MetalOrbs/Projects/icon.png",
+      "decimals": 9,
+      "address": "5ZExppytfT5qnHnc4MMMwVaeaBtbAUavuUK6EU3jyPBo",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-coin",
+        "NFTs"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Fdarklord5",
+        "discord": "https://discord.gg/sm6Ts6bF"
+      }
     },
     {
       "name": "OMG Network (Wormhole v1)",
@@ -87213,6 +87241,20 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Pingo",
+      "symbol": "PING",
+      "logoURI": "https://raw.githubusercontent.com/zigacmer/crypto/main/finalni%201000x1000.png",
+      "decimals": 0,
+      "address": "EnmQX2aeyagdjv5EBsCAKnUwyV1iqmkEPWhqbnNzXJHU",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "stake-pool-token"
       ]
     },
     {
