@@ -61101,6 +61101,21 @@
       }
     },
     {
+      "name": "umang mc coin",
+      "symbol": "UMGMC",
+      "logoURI": "https://raw.githubusercontent.com/hxyro/logo/main/UMG.png",
+      "decimals": 6,
+      "address": "B4GtD1qaV1vKANHqkAekb2EPx82qQbLqyDM7qkCKPsjC",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hxyro0"
+      }
+    },
+    {
       "name": "Jetcoin",
       "symbol": "JETC",
       "logoURI": "https://user-images.githubusercontent.com/25322469/152279588-8f92996a-2b48-4b75-9354-099a056879dd.png",
