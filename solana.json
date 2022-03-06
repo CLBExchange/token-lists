@@ -16680,6 +16680,21 @@
       }
     },
     {
+      "name": "Silpa",
+      "symbol": "SLPT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4WpMh3kj2uQzUBmLxR6zwwGeWdHAdeGGBdRfeqA8qM3v/logo.png",
+      "decimals": 9,
+      "address": "4WpMh3kj2uQzUBmLxR6zwwGeWdHAdeGGBdRfeqA8qM3v",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "NFT"
+      ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/Silpa-Platform"
+      }
+    },
+    {
       "name": "CoupleToken",
       "symbol": "CoTo",
       "logoURI": "https://raw.githubusercontent.com/Agent-3301/crypto/main/logo.png",
@@ -24605,6 +24620,20 @@
         "fun-token",
         "meme-token"
       ]
+    },
+    {
+      "name": "LDT Legendary Sensei Mint Token",
+      "symbol": "LDTLS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5mpHNiNrf5wWJoQNzUGrVe9DE4VpnGyCXzzMaNAx7SHy/logo.png",
+      "decimals": 0,
+      "address": "5mpHNiNrf5wWJoQNzUGrVe9DE4VpnGyCXzzMaNAx7SHy",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://livingdeadteds.com"
+      }
     },
     {
       "name": "Good Boy Pablo",
@@ -79528,6 +79557,23 @@
       }
     },
     {
+      "name": "AgriKoin",
+      "symbol": "AGK",
+      "logoURI": "https://raw.githubusercontent.com/umarbrowser/agrikoin/main/logo.png",
+      "decimals": 9,
+      "address": "DfEAzEifrhMHw9pLiW2echTE4XvVEFkXavqLKRuApc9t",
+      "chainId": 101,
+      "tags": [
+        "farming",
+        "nft",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://agrikoin.com/",
+        "description": "Agrikoin Currency Token"
+      }
+    },
+    {
       "name": "lfx2m",
       "symbol": "LFX2M",
       "logoURI": "https://raw.githubusercontent.com/lfx2m/crypto/main/lfx2m.png",
@@ -95111,6 +95157,20 @@
       ]
     },
     {
+      "name": "Greene Coin",
+      "symbol": "GRN",
+      "logoURI": "https://raw.githubusercontent.com/Brucemostert/Coin/main/logo.png",
+      "decimals": 6,
+      "address": "FsXYfMuqaFZNJdBunHQzVKLCQHjCE4KWDtDm8iE388Zq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://www.greenepets.com"
+      }
+    },
+    {
       "name": "GOLF Coin",
       "symbol": "GOLF",
       "logoURI": "https://raw.githubusercontent.com/mcobbilo/crypto/main/golfer.png?",
@@ -106045,6 +106105,17 @@
       "decimals": 9,
       "address": "HXiCWdAouMTC1rngKWTPWUpRftPut9fZtbWcGyazKmqq",
       "chainId": 101
+    },
+    {
+      "name": "Underworldpics",
+      "symbol": "UWP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HXkMCeVEAkC8QBDJJpy8d8HEeUp2K6EVcLaKyU48cymN/logo.png",
+      "decimals": 9,
+      "address": "HXkMCeVEAkC8QBDJJpy8d8HEeUp2K6EVcLaKyU48cymN",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://underworldpics.io/"
+      }
     },
     {
       "name": "Slime Token",
