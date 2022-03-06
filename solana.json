@@ -16770,6 +16770,22 @@
       }
     },
     {
+      "name": "Kitsune Kingdom Token",
+      "symbol": "GREEDY",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/kitsune/main/kitsune.png",
+      "decimals": 6,
+      "address": "4Y5fZd9ouaNY7mDFsrmNkuJxfDQLvLZUY8MeRnxuWSdT",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/kitsunekngdm"
+      }
+    },
+    {
       "name": "HOWL",
       "symbol": "HOWL",
       "logoURI": "https://arweave.net/9WBYgIcpJNldRxozBXSmZ7Mm-Wt8ug2y0A6TXy2XZd4?ext=png",
@@ -18084,6 +18100,14 @@
         "coingeckoId": "rio-defi",
         "address": "0xaf9f549774ecEDbD0966C52f250aCc548D3F36E5"
       }
+    },
+    {
+      "name": "Cocaine",
+      "symbol": "COKE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4kSiw6xdLYKjaKiQM4rQ6AkqqbFBcatzh7AAyMXwZqp9/logo.png",
+      "decimals": 4,
+      "address": "4kSiw6xdLYKjaKiQM4rQ6AkqqbFBcatzh7AAyMXwZqp9",
+      "chainId": 101
     },
     {
       "name": "Uber",
@@ -48144,6 +48168,22 @@
       ]
     },
     {
+      "name": "Solot Token",
+      "symbol": "SOLOT",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/solot/main/solo.png",
+      "decimals": 6,
+      "address": "9Ln4ifMMDATtQB4HHSt1iBbfKUh4mcepcXpNuiKC29nt",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/solotmachinehd"
+      }
+    },
+    {
       "name": "Aqualibre Project",
       "symbol": "AQLA",
       "logoURI": "https://raw.githubusercontent.com/Aqualibre/AQLAlogo/main/AQLA.png",
@@ -51180,6 +51220,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "FLY",
+      "symbol": "$FLY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9oCf3dx1PoSP1tnhNS6LBQXzixU1vkzNHvFwY1oFCD8M/logo.png",
+      "decimals": 9,
+      "address": "9oCf3dx1PoSP1tnhNS6LBQXzixU1vkzNHvFwY1oFCD8M",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/flyguys888"
+      }
     },
     {
       "name": "FancyPants",
@@ -67889,6 +67944,17 @@
       }
     },
     {
+      "name": "Beyond The Harmony",
+      "symbol": "BTH",
+      "logoURI": "https://raw.githubusercontent.com/jonathanlippe/solanatoken/main/bthlogo.png",
+      "decimals": 0,
+      "address": "C6drMh42qtqW8at6HmyXM6p45GrRNgMCYpWTFoxx5BEC",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "MateoKoin",
       "symbol": "MATK",
       "logoURI": "https://raw.githubusercontent.com/mateosat3/crypto/main/cat-cute.png",
@@ -77197,6 +77263,20 @@
       ]
     },
     {
+      "name": "Honey Chain",
+      "symbol": "HONEY",
+      "logoURI": "https://raw.githubusercontent.com/HoneyChain/Assets/main/HoneyLogo.jpg",
+      "decimals": 9,
+      "address": "DLmSkzTJ6TBfRoFbeVLkUwcakn2XFBuv7XNiFWKXdCjL",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/thehoneychain"
+      }
+    },
+    {
       "name": "Solapoly Token",
       "symbol": "SLPY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DLvxinqHRjdJAXW3WJdvbGC5WgBr1v6RCXquLANM7DcV/logo.png",
@@ -82836,6 +82916,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "SolCountries Token",
+      "symbol": "SOLC",
+      "logoURI": "https://raw.githubusercontent.com/onuraladi/solc/main/solct.png",
+      "decimals": 6,
+      "address": "EARYFkgahvveTJsm64kbWWREDLYHpETwZypo3RTJZWyQ",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SolCountries"
+      }
     },
     {
       "name": "RowdyRex Token",
@@ -114530,6 +114626,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Shin",
+      "symbol": "SHIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TopZ8khSHQiApXA1nEZncHtjCxxexSP7RxSNnRUqxQJ/logo.png",
+      "decimals": 0,
+      "address": "TopZ8khSHQiApXA1nEZncHtjCxxexSP7RxSNnRUqxQJ",
+      "chainId": 101
     },
     {
       "name": "Cool TokenNFT",
