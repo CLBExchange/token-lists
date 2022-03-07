@@ -73330,6 +73330,17 @@
       }
     },
     {
+      "name": "KSherwoodOps Coin",
+      "symbol": "KSOC",
+      "logoURI": "https://raw.githubusercontent.com/KSherwoodOps/KSherwoodOps_Coin/main/ksherwood_logo_01_v03_coin.png",
+      "decimals": 0,
+      "address": "CjgFeULq2ZJCnH9XpTaR8eEcSVxfuVqCk7nBgxdDVmpe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Wizard",
       "symbol": "WZRD",
       "logoURI": "https://raw.githubusercontent.com/WZ4RD/crypto/main/logo.png",
@@ -98499,6 +98510,22 @@
       }
     },
     {
+      "name": "Glitched Gorilla WL Token 2",
+      "symbol": "GGWL2",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGWL1v6aRnjRFAxi7j2ArQBDRxb1maZz4XGqMsxkdYbt/GGToken.png",
+      "decimals": 0,
+      "address": "GGWL2pjJKrUcH47a23DLGXUUoLT8HJVhdcjVhfi2p1tT",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://milehighmultiverse.io",
+        "twitter": "https://twitter.com/MH_Multiverse",
+        "discord": "https://discord.gg/WtpzxsBTGF"
+      }
+    },
+    {
       "name": "OGPill",
       "symbol": "$OGPILL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLhpayHdNqcMKjuRCq9eEWPMV9LFN7gTqFAHSdU4Sxn/logo.png",
@@ -103253,6 +103280,17 @@
       "extensions": {
         "website": "https://orca.so"
       }
+    },
+    {
+      "name": "Faith Heroic Token",
+      "symbol": "FHG",
+      "logoURI": "https://raw.githubusercontent.com/adademonn/image/main/index.png",
+      "decimals": 9,
+      "address": "GxuwbQeuVFzkjjYA2j6hvihLyE8tYZbE3zYFjciZquXB",
+      "chainId": 101,
+      "tags": [
+        "fhg-token"
+      ]
     },
     {
       "name": "President",
