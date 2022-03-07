@@ -21847,27 +21847,6 @@
       "chainId": 101
     },
     {
-      "name": "Lilypad Token",
-      "symbol": "$LILY",
-      "logoURI": "https://raw.githubusercontent.com/FrogPartyNFT/Lilypad/main/logo.png",
-      "decimals": 18,
-      "address": "5Knf3n9JT6cmSwXLPavQbvMHwSib2p4iEa1dWvnrFYBx",
-      "chainId": 101,
-      "tags": [
-        "game",
-        "coin",
-        "game-coin",
-        "game-currency",
-        "game-token",
-        "videogame",
-        "frogparty",
-        "frog"
-      ],
-      "extensions": {
-        "website": "https://frog.party/"
-      }
-    },
-    {
       "name": "The Open Network",
       "symbol": "TON",
       "logoURI": "https://raw.githubusercontent.com/unimintco/token-logos/main/TON/logo.png",
@@ -28092,6 +28071,27 @@
         "assetContract": "https://etherscan.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
         "coingeckoId": "frax-share",
         "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+      }
+    },
+    {
+      "name": "Lilypad Token",
+      "symbol": "$LILY",
+      "logoURI": "https://raw.githubusercontent.com/FrogPartyNFT/Lilypad/main/logo.png",
+      "decimals": 18,
+      "address": "6LaJKhZts2cJJPdo9v7XR4kHiLk9ERh16VLKjBUS8DxD",
+      "chainId": 101,
+      "tags": [
+        "game",
+        "coin",
+        "game-coin",
+        "game-currency",
+        "game-token",
+        "videogame",
+        "frogparty",
+        "frog"
+      ],
+      "extensions": {
+        "website": "https://frog.party/"
       }
     },
     {
