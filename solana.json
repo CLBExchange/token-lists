@@ -52592,6 +52592,17 @@
       }
     },
     {
+      "name": "ViewPoint",
+      "symbol": "VPT",
+      "logoURI": "https://raw.githubusercontent.com/TheViewPoint/crypto/main/ViewPointLOGO.png",
+      "decimals": 9,
+      "address": "9vzSi7RDSgk6aTm8Fp6xDU5HgBvmHVGFqd1YjFhzuuPd",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Pickle Law Firm Coin",
       "symbol": "PKLWFM",
       "logoURI": "https://raw.githubusercontent.com/SpyicyDev/crypto/main/logo.png",
