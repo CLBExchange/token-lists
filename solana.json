@@ -47102,6 +47102,22 @@
       }
     },
     {
+      "name": "SRP ",
+      "symbol": "SCORPIONS",
+      "logoURI": "https://raw.githubusercontent.com/Dherie/logo/main/logo.png",
+      "decimals": 1,
+      "address": "97uDv3zZqJtT46HnzMaEyFzhzfUPTdhe2i2D1298jtb2",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Scorpionseu"
+      }
+    },
+    {
       "name": "Pfizer",
       "symbol": "PFE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97v2oXMQ2MMAkgUnoQk3rNhrZCRThorYhvz1poAe9stk/logo.svg",
@@ -109101,6 +109117,21 @@
         "serumV3Usdc": "CBb5zXwNRB73WVjs2m21P5prcEZa6SWmej74Vzxh8dRm",
         "coingeckoId": "hxro",
         "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3"
+      }
+    },
+    {
+      "name": "Heatmob",
+      "symbol": "HEMOB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hxk1ns5V8Lq41wzLjvq8pvNEhGh3FcCTWbawbj5SL4jj/logo.png",
+      "decimals": 0,
+      "address": "Hxk1ns5V8Lq41wzLjvq8pvNEhGh3FcCTWbawbj5SL4jj",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://heatmob.net"
       }
     },
     {
