@@ -56990,6 +56990,20 @@
       }
     },
     {
+      "name": "BLAK Coin",
+      "symbol": "BLAK",
+      "logoURI": "https://raw.githubusercontent.com/blakcoin/logo/main/image1.png",
+      "decimals": 9,
+      "address": "AVB4JJMg8dG4igf5cpx5wvCak5XqqE359PzbZo4B9yKz",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/theblakcoin"
+      }
+    },
+    {
       "name": "Saber aaWBTC-renBTC LP",
       "symbol": "aaWBTC-renBTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39/icon.png",
@@ -79415,6 +79429,22 @@
         "twitter": "https://twitter.com/lofts_club",
         "discord": "https://discord.gg/theloftbusinessclub",
         "instagram": "https://www.instagram.com/the_lofts_business_club/"
+      }
+    },
+    {
+      "name": "Neutrino",
+      "symbol": "MATR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dc8mEshVhb6e4dxi1yWm2gBDxUDVfYBKrYMGR1hz8Ku7/logo.png",
+      "decimals": 9,
+      "address": "Dc8mEshVhb6e4dxi1yWm2gBDxUDVfYBKrYMGR1hz8Ku7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.matr.builders",
+        "twitter": "https://twitter.com/matrbuilders",
+        "discord": "https://discord.gg/WcBbCJPNYr"
       }
     },
     {
