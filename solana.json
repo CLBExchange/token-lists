@@ -58589,6 +58589,27 @@
       }
     },
     {
+      "name": "Balloonsville Droplet",
+      "symbol": "BV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgBQSKgZPJPmsMz8qkHbyZdEU4JrRpoNHYh2kxE5TcD1/logo.png",
+      "decimals": 8,
+      "address": "AgBQSKgZPJPmsMz8qkHbyZdEU4JrRpoNHYh2kxE5TcD1",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "solvent-droplet"
+      ],
+      "extensions": {
+        "website": "https://solvent.xyz",
+        "twitter": "https://twitter.com/solventprotocol",
+        "github": "https://github.com/solventprotocol",
+        "medium": "https://medium.com/@solventprotocol",
+        "discord": "https://discord.gg/thK8BCtQbM",
+        "serumV3Usdc": "Ab34jcFjieoZcEhfXMqYEQTViJBpQ8FZKMiLhiSei3fb",
+        "telegram": "https://t.me/solventprotocol"
+      }
+    },
+    {
       "name": "VR One",
       "symbol": "VR1",
       "logoURI": "https://raw.githubusercontent.com/AzureVein/VR_One-Token/main/logo.png",
@@ -68127,6 +68148,17 @@
       "extensions": {
         "website": "https://www.bongocoin.org"
       }
+    },
+    {
+      "name": "Hall Family Token",
+      "symbol": "HFT",
+      "logoURI": "https://github.com/Toastiam/hft/blob/main/HFT.png",
+      "decimals": 2,
+      "address": "C3z52NDqHYt1W33Mve25e3rRE9itoZeSjQgPxgXwFotH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "CLTSM Social Token",
@@ -79516,6 +79548,22 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "Echocore Genesis Access",
+      "symbol": "ECOGA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DcUhmQsxyGKnqaKzn5b8K3QB2LRN2uqzxLeqgbtuC4ry/logo.png",
+      "decimals": 0,
+      "address": "DcUhmQsxyGKnqaKzn5b8K3QB2LRN2uqzxLeqgbtuC4ry",
+      "chainId": 101,
+      "tags": [
+        "NFT",
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://echocore.io",
+        "twitter": "https://twitter.com/echocore_io"
+      }
     },
     {
       "name": "Yukan Neko Whitelist Token",
@@ -101836,6 +101884,27 @@
       "extensions": {
         "website": "https://mikekrow.com/",
         "twitter": "https://twitter.com/space_asylum"
+      }
+    },
+    {
+      "name": "Genopets Droplet",
+      "symbol": "GENO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GknXZXR3Y84wgmDUxtsoR9FBHEZovqXFuDK2jczi1ydz/logo.png",
+      "decimals": 8,
+      "address": "GknXZXR3Y84wgmDUxtsoR9FBHEZovqXFuDK2jczi1ydz",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "solvent-droplet"
+      ],
+      "extensions": {
+        "website": "https://solvent.xyz",
+        "twitter": "https://twitter.com/solventprotocol",
+        "github": "https://github.com/solventprotocol",
+        "medium": "https://medium.com/@solventprotocol",
+        "discord": "https://discord.gg/thK8BCtQbM",
+        "serumV3Usdc": "ByzXoChAQL8dJnecpM6T7wX7iKrcMuX9CZPWE69MP26S",
+        "telegram": "https://t.me/solventprotocol"
       }
     },
     {
@@ -125604,6 +125673,14 @@
         "github": "https://github.com/fabric-foundation/",
         "medium": "https://xfabric.medium.com/"
       }
+    },
+    {
+      "name": "Mou9",
+      "symbol": "MOU9",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FMkEN7WnMou9PejHf72N4Pveh7A83iR4PfruwD9BAm2v/logo.png",
+      "decimals": 9,
+      "address": "FMkEN7WnMou9PejHf72N4Pveh7A83iR4PfruwD9BAm2v",
+      "chainId": 103
     },
     {
       "name": "Inferno",
