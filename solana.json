@@ -42342,6 +42342,14 @@
       ]
     },
     {
+      "name": "Faith",
+      "symbol": "FAITH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8RSyhCxFKYVnr6PGTgKC9o86AjbQjdmLRZjYJjhdTdYH/logo.png",
+      "decimals": 3,
+      "address": "8RSyhCxFKYVnr6PGTgKC9o86AjbQjdmLRZjYJjhdTdYH",
+      "chainId": 101
+    },
+    {
       "name": "DebroyCoin",
       "symbol": "DBRY",
       "logoURI": "https://raw.githubusercontent.com/rkdebroy/crypto/main/logo.png",
@@ -96082,6 +96090,21 @@
       "chainId": 101
     },
     {
+      "name": "Belgian Company BV",
+      "symbol": "AANDELEN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Fw57g8sgRnKBu3wDcGu9wYge17EDPaQdTdMvbRYuXYXr/Blockstone.png",
+      "decimals": 0,
+      "address": "Fw57g8sgRnKBu3wDcGu9wYge17EDPaQdTdMvbRYuXYXr",
+      "chainId": 101,
+      "tags": [
+        "Example-company",
+        "Amsterdam-Lawyers"
+      ],
+      "extensions": {
+        "website": "https://amsterdam-lawyers.nl/belgian-company-bv/"
+      }
+    },
+    {
       "name": "Wrapped USDT (Allbridge from Avalanche)",
       "symbol": "aaUSDT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
@@ -110718,6 +110741,20 @@
         "general-token",
         "game-token"
       ]
+    },
+    {
+      "name": "solUST",
+      "symbol": "solUST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/solust.svg",
+      "decimals": 6,
+      "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
     },
     {
       "name": "Fraktionalized SMB 1086",
