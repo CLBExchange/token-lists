@@ -99851,6 +99851,27 @@
       ]
     },
     {
+      "name": "Aurory Droplet",
+      "symbol": "AUR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUtWHTy9N5Av4LTB5PJPn4ZTfxCB2tGiK7DJpS7y8F8S/logo.png",
+      "decimals": 8,
+      "address": "GUtWHTy9N5Av4LTB5PJPn4ZTfxCB2tGiK7DJpS7y8F8S",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "solvent-droplet"
+      ],
+      "extensions": {
+        "website": "https://solvent.xyz",
+        "twitter": "https://twitter.com/solventprotocol",
+        "github": "https://github.com/solventprotocol",
+        "medium": "https://medium.com/@solventprotocol",
+        "discord": "https://discord.gg/thK8BCtQbM",
+        "serumV3Usdc": "J2N8vwNTAbL5UBgAkL4fw2HwRQ5K1DqxMpxxENjyPGX4",
+        "telegram": "https://t.me/solventprotocol"
+      }
+    },
+    {
       "name": "CRCNTKN",
       "symbol": "CorsairCoin",
       "logoURI": "https://terrestrial.cards/CorsairCoinToken.png",
@@ -121955,6 +121976,20 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/y2poavXfuAHWRizzK52vegqzzkHUo5CzooxFzDDX6vp/logo.svg",
       "decimals": 6,
       "address": "y2poavXfuAHWRizzK52vegqzzkHUo5CzooxFzDDX6vp",
+      "chainId": 101,
+      "tags": [
+        "yield-token"
+      ],
+      "extensions": {
+        "website": "https://bunnyducky.com/"
+      }
+    },
+    {
+      "name": "Yield Saber LP Token (apUSDC-USDC)",
+      "symbol": "y-apUSDC-USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/yAC4RaXvFZpNhnXZVgiiYj4cgC1G5SbgX5jzdaEXgyA/logo.svg",
+      "decimals": 6,
+      "address": "yAC4RaXvFZpNhnXZVgiiYj4cgC1G5SbgX5jzdaEXgyA",
       "chainId": 101,
       "tags": [
         "yield-token"
