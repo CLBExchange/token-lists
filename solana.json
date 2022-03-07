@@ -78606,6 +78606,17 @@
       ]
     },
     {
+      "name": "CargoCoin",
+      "symbol": "CARGO",
+      "logoURI": "https://raw.githubusercontent.com/CargoBlitz/cargocrypto/main/images.png",
+      "decimals": 0,
+      "address": "DSGD5HFS57ThL6sE9rHk8zgnNiRrWsDkiLsuMTHaRyv5",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium Legacy LP Token V3 (RAY-SRM)",
       "symbol": "RAY-SRM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DSX5E21RE9FB9hM8Nh8xcXQfPK6SzRaJiywemHBSsfup/logo.png",
