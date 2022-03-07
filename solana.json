@@ -16565,6 +16565,17 @@
       ]
     },
     {
+      "name": "Anditon",
+      "symbol": "ANDI",
+      "logoURI": "https://raw.githubusercontent.com/Anditon/crypto/main/solanacoin.png",
+      "decimals": 0,
+      "address": "4UnuMZTAUf7Xn1VLg93AfvkLTVk8v5YCvRvRanwHL3QF",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Black Cat Token",
       "symbol": "BCTK",
       "logoURI": "https://raw.githubusercontent.com/LordKlaus/mytoken/main/logo.png",
@@ -44607,6 +44618,18 @@
       ],
       "extensions": {
         "website": "https://www.BobaNFTea.com"
+      }
+    },
+    {
+      "name": "DinoLabs Token",
+      "symbol": "$DINOLABS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8jwFgR1QUNxjHmyhmpuDXmsyq3T2gSCqPkLntVar5ZwB/logo.jpg",
+      "decimals": 0,
+      "address": "8jwFgR1QUNxjHmyhmpuDXmsyq3T2gSCqPkLntVar5ZwB",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/DinoLabsNFT",
+        "discord": "https://discord.gg/dinolabs"
       }
     },
     {
@@ -89717,6 +89740,17 @@
       ]
     },
     {
+      "name": "Village Building Site Tokens",
+      "symbol": "VLGKEY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F7hd3fj1nFrSDmDrYkANSFkFagnfYSjHUG2i2NxE3Jaz/logo.png",
+      "decimals": 0,
+      "address": "F7hd3fj1nFrSDmDrYkANSFkFagnfYSjHUG2i2NxE3Jaz",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Samo INU",
       "symbol": "SINU",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F7mgxaYF1gg1hBtaVzENSG6ey3pn6J1mXhBRmHxDzBNg/logo.png",
@@ -92029,6 +92063,27 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Playground Waves Droplet",
+      "symbol": "PLWAV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FQkm6bACFuJpGDmnkvYoq2Luhcc65oam2dg1tXfnKWAY/logo.png",
+      "decimals": 8,
+      "address": "FQkm6bACFuJpGDmnkvYoq2Luhcc65oam2dg1tXfnKWAY",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "solvent-droplet"
+      ],
+      "extensions": {
+        "website": "https://solvent.xyz",
+        "twitter": "https://twitter.com/solventprotocol",
+        "github": "https://github.com/solventprotocol",
+        "medium": "https://medium.com/@solventprotocol",
+        "discord": "https://discord.gg/thK8BCtQbM",
+        "serumV3Usdc": "Ccgq4UV9sFtXp9yMGXwJRcJz9UsgQFEjF3Fmui2Z6Xhm",
+        "telegram": "https://t.me/solventprotocol"
+      }
     },
     {
       "name": "Kelsey Coin",
@@ -100987,6 +101042,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Gator Squad WL",
+      "symbol": "GAS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GatoRJrXZPeRFBoCwirUHGTGVkMXNvsLLx6TUhMAD14T/logo.png",
+      "decimals": 9,
+      "address": "GatoRJrXZPeRFBoCwirUHGTGVkMXNvsLLx6TUhMAD14T",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/GatorSquadNFT"
+      }
     },
     {
       "name": "FTT (Wormhole v1)",
