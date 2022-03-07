@@ -50181,6 +50181,23 @@
       }
     },
     {
+      "name": "Hassanat",
+      "symbol": "HITKN",
+      "logoURI": "https://raw.githubusercontent.com/MohamedITKN/Hassanat/main/logo.png",
+      "decimals": 6,
+      "address": "9aRLE1rSJJmtALJXBQX8iH63sJ5hyEhy2G28NH1SKFjk",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hassanat_itkn",
+        "discord": "https://discord.gg/qEfCZuJHsu",
+        "description": "Hassanat ($HITKN) is the token of Islam, utility token for Muslims who can open the gates of paradise by doing good deeds."
+      }
+    },
+    {
       "name": "Lyfe Coin",
       "symbol": "LYFE",
       "logoURI": "https://raw.githubusercontent.com/letto4135/solCrypto/main/cr.png",
@@ -63412,6 +63429,32 @@
         "twitter": "https://twitter.com/Blobbolution",
         "discord": "https://discord.gg/2zx2EHTXBM"
       }
+    },
+    {
+      "name": "Official Blocksmith Labs WL Token",
+      "symbol": "BLS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BLoCKVzvv9jRSm6rLQhXNauQ3p34asRWocJyWdrkkWUF/logo.png",
+      "decimals": 9,
+      "address": "BLoCKVzvv9jRSm6rLQhXNauQ3p34asRWocJyWdrkkWUF",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://mercury.blocksmithlabs.io/",
+        "twitter": "https://twitter.com/BlocksmithLabs"
+      }
+    },
+    {
+      "name": "CHUMM Token",
+      "symbol": "CHUMM",
+      "logoURI": "https://raw.githubusercontent.com/btempel05/assets/main/chum.png",
+      "decimals": 6,
+      "address": "BLrzBnx4qYLK8A93NdYHFq8Ucye9sySRhNjn1NuMa9tR",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Convex Token (Wormhole)",
