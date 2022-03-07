@@ -11480,6 +11480,17 @@
       }
     },
     {
+      "name": "Pieces of 8",
+      "symbol": "piece8",
+      "logoURI": "https://github.com/liu-ren/crypto/blob/main/pieceof8.png",
+      "decimals": 0,
+      "address": "3fG4VCyMDBwz8zRz6V2J55hAiwCqt86JLoYJSNfqpeVg",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "RET Everywhere",
       "symbol": "RET",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3fGm36NQqHNWz7pNtwaBa6q2a4NAnGGh4n6WHjLtfgHZ/logo.png",
@@ -26233,6 +26244,17 @@
         "instagram": "https://instagram.com/solidex_finance",
         "telegram": "https://t.me/solidexfinance"
       }
+    },
+    {
+      "name": "Sol Ye Dropout Coin",
+      "symbol": "YE",
+      "logoURI": "https://raw.githubusercontent.com/Fotsbeats/ye/main/logo.png",
+      "decimals": 3,
+      "address": "62onfgZVfLYquXBG2CtfNcNsB2iczSLDb9QLHusNC1xh",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "SCAM TOKEN PLEASE IGNORE",
@@ -67841,6 +67863,17 @@
       }
     },
     {
+      "name": "Priority Waste Crypto Coin",
+      "symbol": "PWCC",
+      "logoURI": "https://raw.githubusercontent.com/gagar/prioritycoin/main/prioritycoin.png",
+      "decimals": 0,
+      "address": "C1h9o2ojnKNTwvmgCTVuyvYRMRbDRn9FuTzaMVKkAo54",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Justtravelcoin",
       "symbol": "JTC",
       "logoURI": "https://raw.githubusercontent.com/BestGitUser1/crypto/main/bessereslogo.png",
@@ -83610,6 +83643,14 @@
       "extensions": {
         "twitter": "https://twitter.com/ClaToken"
       }
+    },
+    {
+      "name": "Gold",
+      "symbol": "GOLD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EE2BWEPx1ZznRkZ5CUnWLcwZwiYW16K6VqoawTfYMgbq/logo.jpg",
+      "decimals": 4,
+      "address": "EE2BWEPx1ZznRkZ5CUnWLcwZwiYW16K6VqoawTfYMgbq",
+      "chainId": 101
     },
     {
       "name": "JerseyCityCoin",
