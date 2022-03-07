@@ -81139,6 +81139,18 @@
       }
     },
     {
+      "name": "Duit Digital",
+      "symbol": "DUIT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DonHdDmzsx9wWtnettbw2MxC5zhcHBX4DsPwFPZvDSnu/duit520x520.png",
+      "decimals": 4,
+      "address": "DonHdDmzsx9wWtnettbw2MxC5zhcHBX4DsPwFPZvDSnu",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "NFT"
+      ]
+    },
+    {
       "name": "DOODOO BANK",
       "symbol": "D00D00",
       "logoURI": "https://cdn.jsdelivr.net/gh/guru1animo/doodoo/doodoo_trans.png",
@@ -98389,6 +98401,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Gangsta Gators",
+      "symbol": "GGAT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GGATzpTfEwkq8BDotzBFTUSeKu36XRtsFhncd83UDwEu/logo.png",
+      "decimals": 9,
+      "address": "GGATzpTfEwkq8BDotzBFTUSeKu36XRtsFhncd83UDwEu",
+      "chainId": 101,
+      "tags": [
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.gangstagators.com/"
+      }
     },
     {
       "name": "Jotonama",
