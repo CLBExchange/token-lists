@@ -477,6 +477,14 @@
       ]
     },
     {
+      "name": "Platinum",
+      "symbol": "PLT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/1Kt8V3zUr9yxHtaoBvfxMNBkiopSDTZ2d5GZpAMdsJN/logo.jpg",
+      "decimals": 4,
+      "address": "1Kt8V3zUr9yxHtaoBvfxMNBkiopSDTZ2d5GZpAMdsJN",
+      "chainId": 101
+    },
+    {
       "name": "Andrelana",
       "symbol": "AYQC",
       "logoURI": "https://raw.githubusercontent.com/andreyaniv/cryptolana/main/crypto.png",
@@ -19963,6 +19971,14 @@
       }
     },
     {
+      "name": "Roulette",
+      "symbol": "ROU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/52FoYpdjoZRVvgSZvSWegxpYjBVCaoxZ9AzWAtZ3BN7N/logo.jpg",
+      "decimals": 4,
+      "address": "52FoYpdjoZRVvgSZvSWegxpYjBVCaoxZ9AzWAtZ3BN7N",
+      "chainId": 101
+    },
+    {
       "name": "NGN Coin",
       "symbol": "NGNC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/52GzcLDMfBveMRnWXKX7U3Pa5Lf7QLkWWvsJRDjWDBSk/logo.png",
@@ -31146,6 +31162,17 @@
         "website": "https://orca.so",
         "twitter": "https://twitter.com/orca_so"
       }
+    },
+    {
+      "name": "Evan Coin",
+      "symbol": "EVAN",
+      "logoURI": "https://github.com/kaprebox/crypto/blob/main/evancoin.png",
+      "decimals": 0,
+      "address": "6onZgUwKaw1xhiMa3oDAF2ZW5kfwDUqggxWxLEUEeiPx",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Baer Coin",
@@ -55417,6 +55444,22 @@
       }
     },
     {
+      "name": "UFO 505",
+      "symbol": "505",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALNdAqpmo7jTPFmF888abDzcSoKFnsgdFaJabGNgrZ9S/logo.png",
+      "decimals": 6,
+      "address": "ALNdAqpmo7jTPFmF888abDzcSoKFnsgdFaJabGNgrZ9S",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/invalienspecies",
+        "discord": "https://discord.gg/VEVJJTjxKD",
+        "instagram": "https://instagram.com/invalienspecies"
+      }
+    },
+    {
       "name": "Saber aSOL-SOL LP",
       "symbol": "aSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV/icon.png",
@@ -59986,6 +60029,20 @@
       "chainId": 101
     },
     {
+      "name": "Astrals WL Pass",
+      "symbol": "AST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Astramzi5GnmM6h657PgtEPXMi43qTXSfZfJrPb1Ytb3/logo.png",
+      "decimals": 9,
+      "address": "Astramzi5GnmM6h657PgtEPXMi43qTXSfZfJrPb1Ytb3",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/astrals_nft"
+      }
+    },
+    {
       "name": "BRAWNDO",
       "symbol": "BRWNDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/At5j3zhbEj8mfFsSy1MPbjVhrX2uNmRMPEDZiyFcETNX/logo.png",
@@ -61110,6 +61167,14 @@
         "coingeckoId": "tether",
         "address": "0xc7198437980c041c805a1edcba50c1ce5db95118"
       }
+    },
+    {
+      "name": "Apple",
+      "symbol": "APL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B3DMB7GaKSfm8PiMFTfUtrr9jaxPSMmkpUtBuu8EQXqr/logo.jpg",
+      "decimals": 4,
+      "address": "B3DMB7GaKSfm8PiMFTfUtrr9jaxPSMmkpUtBuu8EQXqr",
+      "chainId": 101
     },
     {
       "name": "PARTI",
@@ -75219,6 +75284,14 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D1iisc5oAARTFonV2mQ3p7SEV7NdCVkKRgG4v5eF2k8k/logo.png",
       "decimals": 9,
       "address": "D1iisc5oAARTFonV2mQ3p7SEV7NdCVkKRgG4v5eF2k8k",
+      "chainId": 101
+    },
+    {
+      "name": "SOL Bitcoin",
+      "symbol": "SOLBTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D1pgyotequejHAJaUeRouj9UiMn3waqSt1kUUtXCBDWa/logo.jpg",
+      "decimals": 4,
+      "address": "D1pgyotequejHAJaUeRouj9UiMn3waqSt1kUUtXCBDWa",
       "chainId": 101
     },
     {
@@ -99522,6 +99595,14 @@
       ]
     },
     {
+      "name": "Heroin",
+      "symbol": "HER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GUZBixfPh8ksp3oHme778CdXtnETfNZizSFWhfWnaTqA/logo.jpg",
+      "decimals": 4,
+      "address": "GUZBixfPh8ksp3oHme778CdXtnETfNZizSFWhfWnaTqA",
+      "chainId": 101
+    },
+    {
       "name": "Gemstone",
       "symbol": "GEM",
       "logoURI": "https://user-images.githubusercontent.com/23665754/150893304-f9391d19-a332-45d6-be74-fdab73cbd422.png",
@@ -99676,6 +99757,14 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "Vinay Coin",
+      "symbol": "VINAY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVST2hmmp1xexQcF9nEUQoYvwhqfaYQNrjR36aNeB1MY/logo.jpg",
+      "decimals": 4,
+      "address": "GVST2hmmp1xexQcF9nEUQoYvwhqfaYQNrjR36aNeB1MY",
+      "chainId": 101
     },
     {
       "name": "Lazy X",
@@ -114930,6 +115019,17 @@
       ]
     },
     {
+      "name": "NinjaApe",
+      "symbol": "NA",
+      "logoURI": "https://raw.githubusercontent.com/itachi201/logo/main/logo.png",
+      "decimals": 0,
+      "address": "ToEY2bUgDzbMfABvuUQ41AvinTQeb6qwJZkfXCLVKGS",
+      "chainId": 101,
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
       "name": "'Plan B' Token",
       "symbol": "PBT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ToQaYfKWvHtHpmPsCo4awxavoEQJjguBZzGiZBM2vYT/logo.png",
@@ -120640,6 +120740,20 @@
         "imageUrl": "https://www.arweave.net/fDxzEtzfu9IjFDh0ID-rOGaGw__F6-OD2ADoa23sayo?ext=gif",
         "description": "Sensing a disturbance in the timeline, the tournament organizers send Poh back in time to the beginning of the tournament. He is tasked with finding the origin of the disturbance and restoring the original timeline. Special:'Out of Order'",
         "animationUrl": "https://vww4cphi4lv3ldd4dtidi4njkbilvngmvuaofo3rv2oa3ozepeea.arweave.net/ra3BPOji67WMfBzQNHGpUFC6tMytAOK7ca6cDbskeQg?ext=glb"
+      }
+    },
+    {
+      "name": "SSS Token",
+      "symbol": "SSST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ssSTgHfmnnVjHiLK69gFMc3kBF5VYwqkcospoTv9uSj/logo.png",
+      "decimals": 9,
+      "address": "ssSTgHfmnnVjHiLK69gFMc3kBF5VYwqkcospoTv9uSj",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://solanasecretsociety.xyz/",
+        "twitter": "https://twitter.com/sssnfts",
+        "discord": "https://discord.gg/SxDPXK5v45",
+        "description": "At Solana Secret Sociaty we build secretly to release Amazingly trying to create an extremely positive use case for the whole NFT industry!"
       }
     },
     {
