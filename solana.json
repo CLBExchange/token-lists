@@ -3633,6 +3633,17 @@
       }
     },
     {
+      "name": "Socks Token",
+      "symbol": "SOCK",
+      "logoURI": "https://raw.githubusercontent.com/dashgotsocks/crypto/main/logo.png?token=GHSAT0AAAAAABSJXBBV6U6P3BOSIIJV3GYCYRQ7AVA",
+      "decimals": 0,
+      "address": "2Wto5r1vzhhgXvRsYWW4PkpS68JW6NURGCDtVBGCVAKc",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Carecas Coin",
       "symbol": "HAIR",
       "logoURI": "https://raw.githubusercontent.com/nbcompras/crypto/main/carecas.png",
@@ -33933,6 +33944,17 @@
       "logoURI": "https://raw.githubusercontent.com/duncmcclunc/crypto/main/logo.png",
       "decimals": 0,
       "address": "7CKmxmZcgzKjfDZPvKo7WxWRKQv3NfiK7utzyZUrtMHR",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Quimby",
+      "symbol": "QMBY",
+      "logoURI": "https://raw.githubusercontent.com/rorymcpedal/cryptocoin/main/logo.PNG",
+      "decimals": 0,
+      "address": "7CSuSUufuNSaV6vqmNnftJgPWT23RFQjgoJfWqFPAB3U",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -104294,6 +104316,17 @@
       "logoURI": "https://raw.githubusercontent.com/ilov-eu/assets/main/arno-002.png",
       "decimals": 3,
       "address": "H2cTiHHi6cTfrwAudLPVqF1jipbHhNzFcyoUg5yNRKFY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Pearl Token",
+      "symbol": "PEARL",
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/pearl/main/Pearls.png",
+      "decimals": 0,
+      "address": "H2mUUthn7jzr1rShRYcsvbidQD3UFfyQ6vMGceUDn5Ew",
       "chainId": 101,
       "tags": [
         "social-token"
