@@ -89034,6 +89034,17 @@
       ]
     },
     {
+      "name": "AMAZ",
+      "symbol": "AMZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EyWco8dE87bp9KfTYHayvcrZ2Zi92bbRGs28ZfUGEb7N/logo.png",
+      "decimals": 9,
+      "address": "EyWco8dE87bp9KfTYHayvcrZ2Zi92bbRGs28ZfUGEb7N",
+      "chainId": 101,
+      "tags": [
+        "AMAZ"
+      ]
+    },
+    {
       "name": "Uscado the relationship balancer coin",
       "symbol": "USCA",
       "logoURI": "https://raw.githubusercontent.com/danielxnilsson/cryptodxn/main/uscados.png",
@@ -123689,6 +123700,14 @@
       "extensions": {
         "website": "https://dev.ratio.finance/"
       }
+    },
+    {
+      "name": "Ivan Solana",
+      "symbol": "ICSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2jrVcfazHUiyKTmKQaEyfbEq1ZDga4v1pUHCWkiXCErA/logo.png",
+      "decimals": 6,
+      "address": "2jrVcfazHUiyKTmKQaEyfbEq1ZDga4v1pUHCWkiXCErA",
+      "chainId": 103
     },
     {
       "name": "SOL stake pool",
