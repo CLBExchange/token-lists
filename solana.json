@@ -9325,6 +9325,24 @@
       }
     },
     {
+      "name": "PoSB-WindToken",
+      "symbol": "PoSBWind",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3MfUyK8FbwbEhPsGqi9pJirKLgQevH27AvH2mhbUGxtj/logo.png",
+      "decimals": 0,
+      "address": "3MfUyK8FbwbEhPsGqi9pJirKLgQevH27AvH2mhbUGxtj",
+      "chainId": 101,
+      "tags": [
+        "posb-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://www.piratesofsolbay.com/",
+        "twitter": "https://twitter.com/PiratesOfSolBay",
+        "discord": "https://discord.gg/wEXT6vFKBM",
+        "description": "Pirates of Sol Bay Crew Token"
+      }
+    },
+    {
       "name": "Bucks",
       "symbol": "BUCK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3MsjG23kP91Z9MJ4KccuofnpJogdGZQ2cuaGoWR62pRZ/logo.png",
@@ -121613,6 +121631,17 @@
         "website": "https://sosol.app/",
         "twitter": "https://twitter.com/sosol_app"
       }
+    },
+    {
+      "name": "KNIVES",
+      "symbol": "KNIVES",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/sotka91WnAeWUbmyBgGbHjhYFML1AX1Nk3xYdvQTMth/logo.png",
+      "decimals": 9,
+      "address": "sotka91WnAeWUbmyBgGbHjhYFML1AX1Nk3xYdvQTMth",
+      "chainId": 101,
+      "tags": [
+        "KNIVES"
+      ]
     },
     {
       "name": "Souls",
