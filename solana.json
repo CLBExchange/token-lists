@@ -9280,6 +9280,14 @@
       ]
     },
     {
+      "name": "TRIPPY token",
+      "symbol": "TRIPPY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/d3ebe4df93d7ee04dd3b132579181a5fef90631e/assets/mainnet/3MNjcDDJSmvNqvwWZ2RqSo8dA863jGrDNohvCCMkodZJ/logo.png",
+      "decimals": 9,
+      "address": "3MNjcDDJSmvNqvwWZ2RqSo8dA863jGrDNohvCCMkodZJ",
+      "chainId": 101
+    },
+    {
       "name": "Uniswap (Wormhole v1)",
       "symbol": "wUNI_v1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3MVa4e32PaKmPxYUQ6n8vFkWtCma68Ld7e7fTktWDueQ/logo.png",
@@ -90006,6 +90014,14 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "name": "Petenic Token",
+      "symbol": "PTNC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F9WYDeS9kAjFoXo5raGGpzTE8z7Xnyc9GbsQKuM3986p/logo.png",
+      "decimals": 9,
+      "address": "F9WYDeS9kAjFoXo5raGGpzTE8z7Xnyc9GbsQKuM3986p",
+      "chainId": 101
     },
     {
       "name": "MindKind",
