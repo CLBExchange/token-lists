@@ -5860,6 +5860,14 @@
       }
     },
     {
+      "name": "SXA Token",
+      "symbol": "SXA",
+      "logoURI": "https://raw.githubusercontent.com/ArthurPaivaT/token-list/main/assets/mainnet/2thvTG87oytuwp6Egp1jqMAKTyQ5B1aWk46pLsa7Zo2P/logo.png",
+      "decimals": 9,
+      "address": "2thvTG87oytuwp6Egp1jqMAKTyQ5B1aWk46pLsa7Zo2P",
+      "chainId": 101
+    },
+    {
       "name": "Polo Token",
       "symbol": "POLO",
       "logoURI": "https://raw.githubusercontent.com/poloW-NA/crypto/main/logo.png",
@@ -65996,6 +66004,21 @@
       }
     },
     {
+      "name": "Tojiba Ijot",
+      "symbol": "IJOT",
+      "logoURI": "https://raw.githubusercontent.com/tojibaceo/tojibaceo/main/ijot2.png",
+      "decimals": 4,
+      "address": "BhWivnU5MNnTtawhKeZ77ytUF4CxjAYszp2Ypafyshmu",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/tojibaceo"
+      }
+    },
+    {
       "name": "Bangla Coin",
       "symbol": "BDC",
       "logoURI": "https://raw.githubusercontent.com/shuvoGit50/Bangla-Coin-BDC-/main/logo.png",
@@ -104226,6 +104249,20 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Punk Bear Bando WL",
+      "symbol": "PBBwl",
+      "logoURI": "https://github.com/h3ll0x/pbbwlpic/blob/main/wltoken.png",
+      "decimals": 0,
+      "address": "H53UQZCGQnji5QgjJtVNZXBTgxPqNfv9DHjBFT9WC4yE",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "wl-token",
+        "whitelist",
+        "pbb"
       ]
     },
     {
