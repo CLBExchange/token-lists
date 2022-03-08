@@ -39472,8 +39472,8 @@
       ]
     },
     {
-      "name": "SolBunny",
-      "symbol": "BUNNY",
+      "name": "nom",
+      "symbol": "NOM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zhbkbKpGaUsJW7AD4yyAfGGoy53Xx2H3Ai5BKcwGKHw/logo.png",
       "decimals": 0,
       "address": "7zhbkbKpGaUsJW7AD4yyAfGGoy53Xx2H3Ai5BKcwGKHw",
@@ -39485,8 +39485,8 @@
         "Gamefi"
       ],
       "extensions": {
-        "website": "https://solbunny.io",
-        "twitter": "https://twitter.com/SolanaBunny",
+        "website": "https://www.nomdao.com",
+        "twitter": "https://twitter.com/TheNomDAO",
         "discord": "https://discord.gg/h7CZnKCb"
       }
     },
@@ -101580,6 +101580,17 @@
       }
     },
     {
+      "name": "Wrench",
+      "symbol": "WRNH",
+      "logoURI": "https://raw.githubusercontent.com/chiefsoft/wrench/main/wrench_token.png",
+      "decimals": 9,
+      "address": "GcYico8V5ycBi9VM2z1VQ2abvCSp6JggRDkmMEqKTUHe",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Comedy",
       "symbol": "COM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GcjjhxjtK8t8DMqf9Zm1CZ48d5SohHm2k2aFfsTZ5ssp/logo.png",
@@ -116945,6 +116956,28 @@
       }
     },
     {
+      "name": "Solana Hills Whitelist-1 Token",
+      "symbol": "SHWL1",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WL12AGjU2zs5myyrUzBmSDF5cMG9xMAcZ8kMYnre2ns/logo.png",
+      "decimals": 0,
+      "address": "WL12AGjU2zs5myyrUzBmSDF5cMG9xMAcZ8kMYnre2ns",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Solana Hills Whitelist-2 Token",
+      "symbol": "SHWL2",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WL2jnbxfHqQ6SoHrfA4QXEx9vw8gNyJwSTfgtvvuoKD/logo.png",
+      "decimals": 0,
+      "address": "WL2jnbxfHqQ6SoHrfA4QXEx9vw8gNyJwSTfgtvvuoKD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "TMDC Whitelist Token (TMDCWL)",
       "symbol": "TMDCWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLT8odEsvbXvdmZ7be6vfXpXgYL8BNR83wiuT5nLz9E/logo.png",
@@ -120666,6 +120699,17 @@
       ]
     },
     {
+      "name": "Solana Hills OG Token",
+      "symbol": "SHOG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ogtp2SQvRn5vs4YfgQ8BQ5h2rbfjPZzux4r99TZ62yy/logo.png",
+      "decimals": 0,
+      "address": "ogtp2SQvRn5vs4YfgQ8BQ5h2rbfjPZzux4r99TZ62yy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Omikron",
       "symbol": "OMI",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/omiQMAY55K67aVCVQw9xhjV6swuXVbdTPTvQsWHRcun/logo.png",
@@ -120883,6 +120927,18 @@
         "Fun-Token",
         "MEW"
       ]
+    },
+    {
+      "name": "Bongheads White List Token",
+      "symbol": "BHWL",
+      "logoURI": "https://raw.githubusercontent.com/Kumia115/nft-landing-page/main/images/x-icon/android-chrome-512x512.png",
+      "decimals": 0,
+      "address": "pS7Mv2v67fM6L8HvLMptynCEKA9yoEJWFZduQquz9Zh",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://bongheads.io/",
+        "twitter": "https://twitter.com/BongHeadsNFT"
+      }
     },
     {
       "name": "Orb of Divinity",
