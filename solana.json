@@ -5286,6 +5286,17 @@
       ]
     },
     {
+      "name": "FBT Litecoin",
+      "symbol": "FBTL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ooXiXagYELm9MrFwWT6r5wGPRejmcnbGAD3k8qHCM4X/logo.png",
+      "decimals": 9,
+      "address": "2ooXiXagYELm9MrFwWT6r5wGPRejmcnbGAD3k8qHCM4X",
+      "chainId": 101,
+      "tags": [
+        "IoT-token"
+      ]
+    },
+    {
       "name": "Social Chaining Coin",
       "symbol": "SCI",
       "logoURI": "https://raw.githubusercontent.com/robertseghedi/robertseghedi/main/logo.png",
@@ -47875,6 +47886,14 @@
         "NFT",
         "stablecoin"
       ]
+    },
+    {
+      "name": "Bluffcoin",
+      "symbol": "BLUFF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9CzmA137fzLtdyfaBY63Sa85uY8ZvBiX3MrAJypzsDGR/logo.png",
+      "decimals": 6,
+      "address": "9CzmA137fzLtdyfaBY63Sa85uY8ZvBiX3MrAJypzsDGR",
+      "chainId": 101
     },
     {
       "name": "SuprC",
@@ -108105,6 +108124,14 @@
       ]
     },
     {
+      "name": "Petenic",
+      "symbol": "PTNC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HgY1nxnPHxrdFMSgVeBtYjw6K31X5VhNsLDuecPD3qwK/logo.png",
+      "decimals": 9,
+      "address": "HgY1nxnPHxrdFMSgVeBtYjw6K31X5VhNsLDuecPD3qwK",
+      "chainId": 101
+    },
+    {
       "name": "Solana King Empire",
       "symbol": "SKE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hgvs5aM4SXy4YHsZZXUBcnvNXFmop6XCzAFGnkamQdRq/logo.png",
@@ -114013,6 +114040,18 @@
         "coingeckoId": "the-4th-pillar",
         "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0"
       }
+    },
+    {
+      "name": "Keroverse WL Token",
+      "symbol": "KVWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RKwwb3SLUnipcDJaXsaVJPn8dzrcyNNdUwpAUDcRZAT/logo.png",
+      "decimals": 0,
+      "address": "RKwwb3SLUnipcDJaXsaVJPn8dzrcyNNdUwpAUDcRZAT",
+      "chainId": 101,
+      "tags": [
+        "wl-token",
+        "whitelist"
+      ]
     },
     {
       "name": "Rollbit Coin",
