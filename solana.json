@@ -13224,6 +13224,21 @@
       ]
     },
     {
+      "name": "Kaat Riche te Brasschaat",
+      "symbol": "AANDELHOUDER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3uytqzAsQnTVZxDEz9u7yvgidvQCteHzWsoVUVFps1XR/Kaat.png",
+      "decimals": 0,
+      "address": "3uytqzAsQnTVZxDEz9u7yvgidvQCteHzWsoVUVFps1XR",
+      "chainId": 101,
+      "tags": [
+        "aandelen",
+        "aandeelhouders"
+      ],
+      "extensions": {
+        "website": "https://amsterdam-lawyers.nl/belgian-company-bv/"
+      }
+    },
+    {
       "name": "Aave Token (Wormhole)",
       "symbol": "AAVE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg/logo.png",
@@ -92729,6 +92744,17 @@
       ]
     },
     {
+      "name": "Digital Nirvana",
+      "symbol": "DN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FT84xCFrgRbP39Yo49BiDWRii8ytb1f3rHZtQiDkC7sH/logo.png",
+      "decimals": 2,
+      "address": "FT84xCFrgRbP39Yo49BiDWRii8ytb1f3rHZtQiDkC7sH",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "POLYPLAY",
       "symbol": "PLAY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/assets/FTD9EisrsMt5TW5wSTMqyXLh2o7xTb6KNuTiXgHhw8Q8/logo.png",
@@ -124220,6 +124246,17 @@
       "extensions": {
         "website": "https://raydium.io/"
       }
+    },
+    {
+      "name": "YFINANCIAL token",
+      "symbol": "YFINANCIAL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4v3o1iGc7kSuiCHJsmkqkEfP2pq7rAS9Dx4qR6vw1fke/logo.png",
+      "decimals": 9,
+      "address": "4v3o1iGc7kSuiCHJsmkqkEfP2pq7rAS9Dx4qR6vw1fke",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "USD Coin",
