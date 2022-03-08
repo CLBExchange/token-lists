@@ -12206,6 +12206,17 @@
       }
     },
     {
+      "name": "Commander Dante",
+      "symbol": "CMDRD",
+      "logoURI": "https://raw.githubusercontent.com/kraihn/commander-dante/main/logo.png",
+      "decimals": 0,
+      "address": "3mDpFyUquEgoDGJBgAG4b5U8ZsUXEUgSuw1VBBzMaQNs",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "SANTOSH Token",
       "symbol": "SANT",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3mRzsmdRhaaGMUJX8fJSdanx8xJ2Q6RjEHd4aHi1b92X/logo.png",
@@ -29637,6 +29648,22 @@
         "serumV3Usdc": "8yQzsbraXJFoPG5PdX73B8EVYFuPR9aC2axAqWearGKu",
         "imageUrl": "https://storage.googleapis.com/nft-assets/ReBirth/poster-8/ahr-visits-earth.jpg",
         "description": "Humankind is visited by Ahr, a mysterious being of pure light. But not all is as it seems... For through the power of illusion, we are tricked into forming a space-based religion, plundering the planet and launching ourselves towards the stars, permanently leaving the Earth."
+      }
+    },
+    {
+      "name": "Bazou Coin",
+      "symbol": "BAZOU",
+      "logoURI": "https://raw.githubusercontent.com/quoije/bazou_coin/main/logo.png",
+      "decimals": 0,
+      "address": "6bFz8REykQeYh1JKAdPEUCTCEUfEw32i9a3bzvtacRhy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://ljdp.ca",
+        "description": "Bazou Coin ($BAZOU) is the official token for the French-Canadian podcast Le journal d'un podcast.",
+        "facebook": "https://www.facebook.com/ljdpodcast"
       }
     },
     {
@@ -77170,6 +77197,18 @@
       }
     },
     {
+      "name": "Golden Tiger Token",
+      "symbol": "GTWL",
+      "logoURI": "https://raw.githubusercontent.com/AnthonyRamses/crypto/main/wl_token.png",
+      "decimals": 0,
+      "address": "DF3EtJzAxySb8WHsD8PFPxZsvzNb3ickn159CB7D21Tw",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Doge Very Rocket",
       "symbol": "$DOGEVR",
       "logoURI": "https://m.media-amazon.com/images/I/41TMEvEbCGS._AC_UL320_.jpg",
@@ -91435,6 +91474,20 @@
         "website": "https://tulip.garden",
         "twitter": "https://twitter.com/TulipProtocol",
         "waterfallbot": "https://bit.ly/TULIPwaterfall"
+      }
+    },
+    {
+      "name": "OddKey",
+      "symbol": "ODKY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FJvkpSpR4y73Hd6yNDvd11ie3kBkHAtNCv922gcYYM3w/logo.png",
+      "decimals": 0,
+      "address": "FJvkpSpR4y73Hd6yNDvd11ie3kBkHAtNCv922gcYYM3w",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://oddkey.com"
       }
     },
     {
