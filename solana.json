@@ -67082,6 +67082,20 @@
       ]
     },
     {
+      "name": "MintUS Whitelist Token",
+      "symbol": "MINTUS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BpaoPZUKR3gP4SMVJja3itp3LRAxTMwovZmKBbtzWdyB/logo.png",
+      "decimals": 0,
+      "address": "BpaoPZUKR3gP4SMVJja3itp3LRAxTMwovZmKBbtzWdyB",
+      "chainId": 101,
+      "tags": [
+        "wl-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/onlymintus"
+      }
+    },
+    {
       "name": "Fondue Sigi",
       "symbol": "FASI",
       "logoURI": "https://raw.githubusercontent.com/adriansigrist/crypto/main/logo.png",
@@ -67736,6 +67750,21 @@
       ],
       "extensions": {
         "website": "https://genezys.io"
+      }
+    },
+    {
+      "name": "Brave Token",
+      "symbol": "BE",
+      "logoURI": "https://raw.githubusercontent.com/audreydeyniera/aset/main/logo.jpeg",
+      "decimals": 9,
+      "address": "BueMgcdgzFRKdUMLgKX3DTR8s7BxpHrYm7R1L8LPF9oa",
+      "chainId": 101,
+      "tags": [
+        "staking"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BraveApeDerug",
+        "discord": "https://discord.gg/2xmTnvb5"
       }
     },
     {
@@ -123503,7 +123532,7 @@
     {
       "name": "Djib",
       "symbol": "DJIB",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7tyjWFuQR2n751LQbb9rvKaDiGQMd4ce3XAVd8K62gwA/logo.png",
       "decimals": 9,
       "address": "7tyjWFuQR2n751LQbb9rvKaDiGQMd4ce3XAVd8K62gwA",
       "chainId": 102,
@@ -123515,7 +123544,7 @@
         "twitter": "https://twitter.com/Djibchain",
         "github": "https://github.com/Djib-io",
         "discord": "https://discord.gg/PpZgKJkKpb",
-        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7tyjWFuQR2n751LQbb9rvKaDiGQMd4ce3XAVd8K62gwA/logo.png",
         "description": "Universal Data Storage Parachain",
         "telegram": "https://t.me/DjibTech"
       }
@@ -125510,6 +125539,21 @@
       }
     },
     {
+      "name": "OddKey (devnet)",
+      "symbol": "ODKYDEV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AecwgXCfcCZYa15BXGjnpg5jaAWXneCbWEXJmotf4Q5Q/logo.png",
+      "decimals": 0,
+      "address": "AecwgXCfcCZYa15BXGjnpg5jaAWXneCbWEXJmotf4Q5Q",
+      "chainId": 103,
+      "tags": [
+        "utility-token",
+        "devnet"
+      ],
+      "extensions": {
+        "website": "https://oddkey.com"
+      }
+    },
+    {
       "name": "VR One",
       "symbol": "VR1",
       "logoURI": "https://raw.githubusercontent.com/AzureVein/VR_One-Token/main/logo.png",
@@ -125555,7 +125599,7 @@
     {
       "name": "Djib",
       "symbol": "DJIB",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B4fAv9ru7oHX2HuQzTq8XDkwas3xwnokYa4kgzEQEpcm/logo.png",
       "decimals": 9,
       "address": "B4fAv9ru7oHX2HuQzTq8XDkwas3xwnokYa4kgzEQEpcm",
       "chainId": 103,
@@ -125567,7 +125611,7 @@
         "twitter": "https://twitter.com/Djibchain",
         "github": "https://github.com/Djib-io",
         "discord": "https://discord.gg/PpZgKJkKpb",
-        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3Hi27r9kUtSmiPYtpRJNYCCGTGosnqC5Dhz812TrjpaY/logo.png",
+        "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B4fAv9ru7oHX2HuQzTq8XDkwas3xwnokYa4kgzEQEpcm/logo.png",
         "description": "Universal Data Storage Parachain",
         "telegram": "https://t.me/DjibTech"
       }
