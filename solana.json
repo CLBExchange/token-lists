@@ -18037,6 +18037,17 @@
       ]
     },
     {
+      "name": "L5",
+      "symbol": "L5",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4i8cpfhjcxQ3kt8sBhr9YvsaE5crmYGscBqYdKmw2EuL/logo.png",
+      "decimals": 9,
+      "address": "4i8cpfhjcxQ3kt8sBhr9YvsaE5crmYGscBqYdKmw2EuL",
+      "chainId": 101,
+      "tags": [
+        "L5"
+      ]
+    },
+    {
       "name": "Gallery Token",
       "symbol": "BOHEM",
       "logoURI": "https://www.arweave.net/5abqgGa3kuMhCdQ09OOtmw7EzQbk-Fsa_tBt000JAg8?ext=gif",
