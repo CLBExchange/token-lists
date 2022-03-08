@@ -86900,6 +86900,17 @@
       ]
     },
     {
+      "name": "People Of Every Society",
+      "symbol": "POES",
+      "logoURI": "https://raw.githubusercontent.com/jody-wicomb/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "EenMwVUMnqhQjrSBcccCgMXJQVQDQZ3rVFd53hv8gExY",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Naseriax",
       "symbol": "NSX",
       "logoURI": "https://raw.githubusercontent.com/naseriax/token-repo/main/logo.png",
@@ -124775,6 +124786,17 @@
       "decimals": 9,
       "address": "8aN9XWUhD3Q7qY4p4uR1GrNbL8H3fF9tssk9VdvXD1Vp",
       "chainId": 103
+    },
+    {
+      "name": "YBUTCHERS token",
+      "symbol": "YBUTCHERS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8m96fMrqk5ZZ4UnaA8YBfU6wLPdzmzFRdYsGTdpJS8EF/logo.png",
+      "decimals": 9,
+      "address": "8m96fMrqk5ZZ4UnaA8YBfU6wLPdzmzFRdYsGTdpJS8EF",
+      "chainId": 103,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Scorpion Fit Token",
