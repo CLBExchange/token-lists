@@ -33169,6 +33169,22 @@
       ]
     },
     {
+      "name": "Solana Mine",
+      "symbol": "SMINE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75r7zg51bz7ESrQ9KuDLn3KGX7NKSZgB9UfKdfopHR6m/logo.png",
+      "decimals": 9,
+      "address": "75r7zg51bz7ESrQ9KuDLn3KGX7NKSZgB9UfKdfopHR6m",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://solanamine.io",
+        "twitter": "https://twitter.com/solanamine",
+        "discord": "https://discord.gg/eV9nycnFr8"
+      }
+    },
+    {
       "name": "Moon Bag",
       "symbol": "MBAG",
       "logoURI": "https://raw.githubusercontent.com/officialmoonbag/logo22/main/logo22.png",
@@ -35283,6 +35299,20 @@
       "decimals": 0,
       "address": "7Sg4VVktQo6kt6ePjeUcmiWEKptkW3U4WZVYv5L4HKbn",
       "chainId": 101
+    },
+    {
+      "name": "Service Exchange Token",
+      "symbol": "SET",
+      "logoURI": "https://raw.githubusercontent.com/Toastiam/set/cd2479187f23e8ccc1b1f9c8a1f21b54d562aef9/logo.jpg",
+      "decimals": 2,
+      "address": "7SuFYqL2hZYutNJkZxA3s6W2MvvfyYQw5ntxU9v6969R",
+      "chainId": 101,
+      "tags": [
+        "community-exchange",
+        "local",
+        "community",
+        "traiding-services"
+      ]
     },
     {
       "name": "Crypto Pop Collectibles MAGI",
@@ -113283,6 +113313,24 @@
       }
     },
     {
+      "name": "Pen Frens: WL Mint Token",
+      "symbol": "WLPENFRENS",
+      "logoURI": "https://raw.githubusercontent.com/penfrens/token-list/main/assets/mainnet/PFjQE5mYPTCCDuHz8buxFppyQoL8q32wfTmZbBF5BWL/logo.png",
+      "decimals": 0,
+      "address": "PFjQE5mYPTCCDuHz8buxFppyQoL8q32wfTmZbBF5BWL",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "wl-token",
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://penfrens.io/",
+        "twitter": "https://twitter.com/pen_frens",
+        "discord": "https://discord.gg/Dd4tDYG5aj"
+      }
+    },
+    {
       "name": "pre-IDO HONEY",
       "symbol": "pHONEY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PHnyhLEnsD9SiP9tk9kHHKiCxCTPFnymzPspDqAicMe/logo.svg",
@@ -117248,6 +117296,23 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/direwolfsol"
+      }
+    },
+    {
+      "name": "World of Solana Mint",
+      "symbol": "WOSMINT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoSgyFWVmmEdvfY9Bp5Zrhqu6uas7mUjkiZpEUoBeQH/logo.png",
+      "decimals": 0,
+      "address": "WoSgyFWVmmEdvfY9Bp5Zrhqu6uas7mUjkiZpEUoBeQH",
+      "chainId": 101,
+      "tags": [
+        "wl-token",
+        "whitelist"
+      ],
+      "extensions": {
+        "website": "https://www.worldofsolana.io/",
+        "twitter": "https://twitter.com/worldofsolana",
+        "discord": "https://discord.gg/worldofsolana"
       }
     },
     {
