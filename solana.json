@@ -75467,6 +75467,17 @@
       ]
     },
     {
+      "name": "Heavy Early Bitcoin",
+      "symbol": "HEBTC",
+      "logoURI": "https://raw.githubusercontent.com/CryptoShree/HEBTC/main/HEBTC.png",
+      "decimals": 0,
+      "address": "CyqsrrQXAK6u2VNfRJxN6eL8GUuULZhHMKrDrNmtwuuS",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (COPE-USDC)",
       "symbol": "COPE-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cz1kUvHw98imKkrqqu95GQB9h1frY8RikxPojMwWKGXf/logo.png",
