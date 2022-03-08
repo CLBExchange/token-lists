@@ -79331,6 +79331,23 @@
       ]
     },
     {
+      "name": "MetaLaughs",
+      "symbol": "FUNNY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DVWBLVL9DqMSkgb8WfuWW23dfe88h4hRK1r7hpmvhNuE/logo.png",
+      "decimals": 6,
+      "address": "DVWBLVL9DqMSkgb8WfuWW23dfe88h4hRK1r7hpmvhNuE",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/metalaughs",
+        "instagram": "http://instagram.com/metalaughs_io",
+        "telegram": "https://t.me/metalaughs"
+      }
+    },
+    {
       "name": "ChumpChange",
       "symbol": "CHGE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DVWbqNnW9btNcYJassHT8a9eon6Mhi7YbaZEdgBDNie7/logo.png",
@@ -88426,6 +88443,17 @@
       "extensions": {
         "website": "https://www.radonvalue.com/"
       }
+    },
+    {
+      "name": "Solana Monkey University Token",
+      "symbol": "SMU",
+      "logoURI": "https://raw.githubusercontent.com/Tagzie/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "Eqekt4QF8zy9X6MZn5JUa6YYAz5MMgo7ZV5ZyX7YtjJW",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "HaleTown Coin",
@@ -97552,6 +97580,21 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/tradewithmarco"
+      }
+    },
+    {
+      "name": "Solgats WL Token",
+      "symbol": "SOLGAT",
+      "logoURI": "https://solgats.io/images/solgats.png",
+      "decimals": 0,
+      "address": "G4ASTCiHKeM2JNbefruTbwPTQ8z7SnmPUVC1xAUcaS7a",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solgats.io",
+        "twitter": "https://twitter.com/solgats"
       }
     },
     {
@@ -116212,6 +116255,17 @@
       "chainId": 101
     },
     {
+      "name": "SKILL",
+      "symbol": "SKILL",
+      "logoURI": "https://raw.githubusercontent.com/NinjaApe/image/main/logo.png",
+      "decimals": 9,
+      "address": "ToBNsrnbNuDzowzt1y3zLUMEndMTFqTFngM22mojHX3",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Solana Express WL",
       "symbol": "SE",
       "logoURI": "https://raw.githubusercontent.com/krikkkk/setokenlogo/main/rsz_1logo.png",
@@ -117901,6 +117955,17 @@
         "vault": "https://fraktion.art/vault/6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U",
         "vaultPubkey": "6ibb1MyYeTujF66GgbiQExSXSHMk3fV75iPF2vrr274U"
       }
+    },
+    {
+      "name": "RegCoin",
+      "symbol": "REG",
+      "logoURI": "https://github.com/Reg1337/RegCoin/raw/main/ae1eeb837b7640bea60f6f213718ac99.png",
+      "decimals": 0,
+      "address": "YFmGQB86pWYmNo1VN2kK2enMf47tQiBiXakU4MgikRh",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Orca LP Token (FTT/SOL)",
