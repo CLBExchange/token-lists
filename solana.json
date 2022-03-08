@@ -34687,6 +34687,26 @@
       ]
     },
     {
+      "name": "Cristomoneda",
+      "symbol": "CRISTO",
+      "logoURI": "https://raw.githubusercontent.com/cristomoneda/cristomoneda.png/main/cristomonedalogo.png",
+      "decimals": 0,
+      "address": "7KxC287omw6QrKQfKNUQs2kmgrTtakVcKriUAHpkur9m",
+      "chainId": 101,
+      "tags": [
+        "community-token",
+        "wl-token",
+        "utility-token",
+        "christian",
+        "church",
+        "jesus",
+        "christ",
+        "cristo",
+        "cristomoneda",
+        "iglesia"
+      ]
+    },
+    {
       "name": "Prison Worlds",
       "symbol": "PWD",
       "logoURI": "https://raw.githubusercontent.com/prisonworlds/brands/main/token.png",
@@ -57150,6 +57170,21 @@
       ]
     },
     {
+      "name": "Dirk Willems te Antwerpen",
+      "symbol": "AANDEELHOUDER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUXXw8iRvSb57upRB74xVrUiPWpfoxzKgRs9j2fEzsVC/dirk.png",
+      "decimals": 0,
+      "address": "AUXXw8iRvSb57upRB74xVrUiPWpfoxzKgRs9j2fEzsVC",
+      "chainId": 101,
+      "tags": [
+        "aandelen",
+        "aandeelhouders"
+      ],
+      "extensions": {
+        "website": "https://amsterdam-lawyers.nl/belgian-company-bv/"
+      }
+    },
+    {
       "name": "Orca Aquafarm Token (RAY/SOL)",
       "symbol": "RAY/SOL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb/logo.svg",
@@ -71323,6 +71358,17 @@
       }
     },
     {
+      "name": "Agave Zwolf",
+      "symbol": "AGVZ",
+      "logoURI": "https://raw.githubusercontent.com/GrupoZwolf/cryptozw/main/logo.png",
+      "decimals": 9,
+      "address": "CRSzWoeyfR8sJxB2d6LLEre92Uc59TCPX2gZidp4t3eE",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Crowny token",
       "symbol": "CRWNY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CRWNYkqdgvhGGae9CKfNka58j6QQkaD5bLhKXvUYqnc1/logo.png",
@@ -77519,6 +77565,21 @@
       "tags": [
         "utility-token"
       ]
+    },
+    {
+      "name": "Ann Willems te Antwerpen",
+      "symbol": "AANDEELHOUDER",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DH6NkYYTuLWUu5gj1Q4JdgNV6Nu6Sji9VWgrMMPP6gy7/ann.png",
+      "decimals": 0,
+      "address": "DH6NkYYTuLWUu5gj1Q4JdgNV6Nu6Sji9VWgrMMPP6gy7",
+      "chainId": 101,
+      "tags": [
+        "aandelen",
+        "aandeelhouders"
+      ],
+      "extensions": {
+        "website": "https://amsterdam-lawyers.nl/belgian-company-bv/"
+      }
     },
     {
       "name": "Ouroboros",
@@ -107031,6 +107092,26 @@
       }
     },
     {
+      "name": "VisionGame",
+      "symbol": "VISION",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HVkFqcMHevVPb4XKrf4XowjEaVVsBoqJ2U1EG59Dfk5j/logo.png",
+      "decimals": 9,
+      "address": "HVkFqcMHevVPb4XKrf4XowjEaVVsBoqJ2U1EG59Dfk5j",
+      "chainId": 101,
+      "tags": [
+        "game-publishing"
+      ],
+      "extensions": {
+        "website": "https://visiongame.io/",
+        "twitter": "https://twitter.com/visiongame_",
+        "medium": "https://medium.com/@visiongame",
+        "description": "Ultimate Gaming Experience Amplified by Blockchain",
+        "solanium": "https://www.solanium.io/project/visiongame/",
+        "telegram": "https://t.me/visiongame_official",
+        "telegramAnnouncements": "https://t.me/visiongame_ann"
+      }
+    },
+    {
       "name": "KE4EST COIN",
       "symbol": "EST",
       "logoURI": "https://raw.githubusercontent.com/ke4est/cypto/main/altcoinlogo.png",
@@ -112589,6 +112670,19 @@
       "extensions": {
         "twitter": "https://twitter.com/KKQanTT"
       }
+    },
+    {
+      "name": "The Monkey Design Club",
+      "symbol": "TMDC",
+      "logoURI": "https://raw.githubusercontent.com/namu42/ImageRepo/main/MCL9utLXFvUMdWLou4jk13BBgTu2XRGM983eZ24RsTP/logo.png",
+      "decimals": 5,
+      "address": "MCDsTXbZe87sWezWJ3B8Sw63PUjq3BXzRmY7zptoYr2",
+      "chainId": 101,
+      "tags": [
+        "TMDC",
+        "THEMONKEYDESIGNCLUB",
+        "metaverse"
+      ]
     },
     {
       "name": "Monkey Crown",
