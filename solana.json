@@ -75744,20 +75744,6 @@
       "chainId": 101
     },
     {
-      "name": "VIDI",
-      "symbol": "VIDI",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D23yXWLERq732DGAC2YArjBhWdmqg6VBcrhemDjrX8QP/logo.png",
-      "decimals": 6,
-      "address": "D23yXWLERq732DGAC2YArjBhWdmqg6VBcrhemDjrX8QP",
-      "chainId": 101,
-      "extensions": {
-        "website": "https://vidi.art/",
-        "twitter": "https://twitter.com/Vidi_Art",
-        "medium": "https://medium.com/@vidiart",
-        "discord": "http://discord.gg/vidiart"
-      }
-    },
-    {
       "name": "Pioly Coin",
       "symbol": "PIOLY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D2DWXG6oDhywmYeFXQy3pCkLp7RKiwuoSZgjhNSqx14N/logo.png",
@@ -84891,6 +84877,20 @@
       "extensions": {
         "serumV3Usdc": "8BBtLkoaEyavREriwGUudzAcihTH9SJLAPBbgb7QZe9y",
         "coingeckoId": "3x-long-midcap-index-token"
+      }
+    },
+    {
+      "name": "VIDI",
+      "symbol": "VIDI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ELADrKrvyv7mtQ5DbCvPDGogn4fcApH3jDeTy2qpfhsA/logo.png",
+      "decimals": 6,
+      "address": "ELADrKrvyv7mtQ5DbCvPDGogn4fcApH3jDeTy2qpfhsA",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://vidi.art/",
+        "twitter": "https://twitter.com/Vidi_Art",
+        "medium": "https://medium.com/@vidiart",
+        "discord": "http://discord.gg/vidiart"
       }
     },
     {
