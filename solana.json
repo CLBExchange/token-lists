@@ -8442,6 +8442,17 @@
       }
     },
     {
+      "name": "ZIMBABWE DOLLAR TOKEN",
+      "symbol": "ZWD",
+      "logoURI": "https://raw.githubusercontent.com/opals99/ZWD-SOL/main/logo.png",
+      "decimals": 2,
+      "address": "3FRE6YQXnEZKbsKBUW4EkvsqkVpoQDs4W2gEUsQRxfDp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "HLTH",
       "symbol": "HLTH",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3FRQnT5djQMATCg6TNXBhi2bBkbTyGdywsLmLa8BbEKz/logo.png",
@@ -64633,6 +64644,17 @@
       }
     },
     {
+      "name": "Ojciec Coin",
+      "symbol": "OJC",
+      "logoURI": "https://raw.githubusercontent.com/lineekk/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "BVCwkyqS5Xu1taHLtZVEBmw4NEfkxcYe2ZEJH41DZD7c",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Jab Coin",
       "symbol": "JABS",
       "logoURI": "https://raw.githubusercontent.com/adiquet/crypto/main/logo.png",
@@ -81348,6 +81370,21 @@
         "website": "https://beachdays.io/",
         "twitter": "https://twitter.com/beachdaysio",
         "discord": "https://discord.gg/VAybaUNMsD"
+      }
+    },
+    {
+      "name": "Mustache Token",
+      "symbol": "STACHE",
+      "logoURI": "https://raw.githubusercontent.com/Rajyyan/mustache/main/stachelogo.png",
+      "decimals": 0,
+      "address": "DmqnqcT2fqzzWup6o4CyTiErCBzsrV9M19zxZyeFYo6Z",
+      "chainId": 101,
+      "tags": [
+        "value-token",
+        "collectible-token"
+      ],
+      "extensions": {
+        "website": "http://mustachetoken.space"
       }
     },
     {
@@ -117559,6 +117596,14 @@
       "extensions": {
         "website": "https://app.saber.so/#/pools/wheth"
       }
+    },
+    {
+      "name": "Hidden Shinobi WL Token",
+      "symbol": "HSHN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WhiLmuEcmdAfhvJ1zhitX4z96Zb1EGUBkKbTWYrrUd6/logo.png",
+      "decimals": 0,
+      "address": "WhiLmuEcmdAfhvJ1zhitX4z96Zb1EGUBkKbTWYrrUd6",
+      "chainId": 101
     },
     {
       "name": "HorniIDAO WL Token",
