@@ -14479,6 +14479,17 @@
       ]
     },
     {
+      "name": "Longan Token",
+      "symbol": "LONGAN",
+      "logoURI": "https://raw.githubusercontent.com/fungtoken/Longan/main/Longan.png",
+      "decimals": 0,
+      "address": "488DGeMxRHmofoEtfrPE6geMT7EzwP9HMn76cDq5ZKwt",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Yakuza Wars",
       "symbol": "$Yakuza",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D77wfRvxzFgdAHd1C1gE5JuwuSq4QLSTxc3huB52WBXH/logo.png",
@@ -65128,6 +65139,17 @@
       "tags": [
         "utility-token",
         "travel-token"
+      ]
+    },
+    {
+      "name": "73Prime",
+      "symbol": "73PM",
+      "logoURI": "https://raw.githubusercontent.com/ahplummer/73primelogo/main/73Prime-yellow-simple-256.png",
+      "decimals": 0,
+      "address": "BYtxPHFNdcTk9HZChrRtwWN73PKMW3RKdpeC2pZfhkrq",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
