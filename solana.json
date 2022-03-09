@@ -24061,6 +24061,20 @@
       }
     },
     {
+      "name": "Marsh",
+      "symbol": "$MARSH",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5diZKwPDsfcqCs8kYEU4AM1cCufZRTK7b77djF5LmXyo/logo.png",
+      "decimals": 9,
+      "address": "5diZKwPDsfcqCs8kYEU4AM1cCufZRTK7b77djF5LmXyo",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.marshiesnft.com/"
+      }
+    },
+    {
       "name": "Solution",
       "symbol": "SLTN",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/sltn-logo.png",
@@ -56939,6 +56953,17 @@
         "coingeckoId": "rari-governance-token",
         "address": "0xd291e7a03283640fdc51b121ac401383a46cc623"
       }
+    },
+    {
+      "name": "Cineoncerts NFT 1",
+      "symbol": "CINE1",
+      "logoURI": "https://raw.githubusercontent.com/cineconcerts/NFT_Token_1/main/Cine_Solana_Token_Logo.png",
+      "decimals": 0,
+      "address": "ASoKEceyYDNRvhZmdoELBZKNc4VhKwsSHkx9v3yR1gTD",
+      "chainId": 101,
+      "tags": [
+        "cineconcerts"
+      ]
     },
     {
       "name": "aSOL Aggregate Solana Stake Pool",
@@ -121236,6 +121261,17 @@
         "website": "https://catalysts.world/",
         "twitter": "https://twitter.com/CatalystsNFT",
         "discord": "https://discord.gg/catalysts"
+      }
+    },
+    {
+      "name": "PIZZA",
+      "symbol": "PIZZA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pizZaxdr2KyMtdgWBXGU32Ti88H3bCr98z6gQZx8VYY/logo.png",
+      "decimals": 12,
+      "address": "pizZaxdr2KyMtdgWBXGU32Ti88H3bCr98z6gQZx8VYY",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/TurtleZ_sol"
       }
     },
     {
