@@ -82459,6 +82459,14 @@
       ]
     },
     {
+      "name": "HouseOfCards",
+      "symbol": "HOC",
+      "logoURI": "https://i.ibb.co/rHrVgdT/logo.png",
+      "decimals": 6,
+      "address": "DsTJzQaef6hX7STtZy6ThQhej3XNPMcLKHpPVUENYa35",
+      "chainId": 101
+    },
+    {
       "name": "Galaxy Essential",
       "symbol": "GXE",
       "logoURI": "https://raw.githubusercontent.com/DarleyGo/token-list/main/assets/mainnet/DsVPH4mAppxKrmdzcizGfPtLYEBAkQGK4eUch32wgaHY/icon.png",
@@ -82646,6 +82654,14 @@
         "twitter": "https://twitter.com/liqnft",
         "discord": "https://discord.gg/PYZWRHgVwM"
       }
+    },
+    {
+      "name": "PACA",
+      "symbol": "PACA",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/Dudp8epBnyrqqj3ZV8qjhyxtnjUAhRGLB9qCtJqFV9EV/logo.png?raw=true",
+      "decimals": 9,
+      "address": "Dudp8epBnyrqqj3ZV8qjhyxtnjUAhRGLB9qCtJqFV9EV",
+      "chainId": 101
     },
     {
       "name": "Crap",
