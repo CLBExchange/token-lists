@@ -41085,6 +41085,17 @@
       }
     },
     {
+      "name": "RESOURCE PROTOCOL",
+      "symbol": "RSC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8Ci2uQFhWvPuEupoBpmh7EJG8eTepDYrfoPgu7MKCddi/logo.png",
+      "decimals": 8,
+      "address": "8Ci2uQFhWvPuEupoBpmh7EJG8eTepDYrfoPgu7MKCddi",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Blocked EuroSol",
       "symbol": "GUARANTEE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8CjTkVDkbAJi5KjAyEh6La2XJ9QyRJr3umRh5LzpBHse/gold.png",
@@ -72098,6 +72109,17 @@
       ]
     },
     {
+      "name": "Doogles Token",
+      "symbol": "DOOG",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CVUeU96k6Lc2z4Qe3R6n4xkhcxmZKFHxmU4HzoTN3cF/logo.png",
+      "decimals": 9,
+      "address": "CVUeU96k6Lc2z4Qe3R6n4xkhcxmZKFHxmU4HzoTN3cF",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Call Coin",
       "symbol": "CCNN",
       "logoURI": "https://raw.githubusercontent.com/towardsuffering/Call-Coin/main/Prototype_A_Call_Coin.png",
@@ -82361,6 +82383,18 @@
       "extensions": {
         "website": "https://darleygo.io"
       }
+    },
+    {
+      "name": "Lazy Crazy Ducks Token",
+      "symbol": "LCD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DscTwD3ozNrW6xhbwxqBMur36vvUkLTmDrJBdaCJvaTW/logo.png",
+      "decimals": 0,
+      "address": "DscTwD3ozNrW6xhbwxqBMur36vvUkLTmDrJBdaCJvaTW",
+      "chainId": 101,
+      "tags": [
+        "Whitelist-token",
+        "LCD"
+      ]
     },
     {
       "name": "Game",
