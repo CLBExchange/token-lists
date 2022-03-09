@@ -28412,6 +28412,17 @@
       ]
     },
     {
+      "name": "OriginX",
+      "symbol": "OxH",
+      "logoURI": "https://raw.githubusercontent.com/OriginXHeroes/Token/main/assets/%24OriginX.png",
+      "decimals": 9,
+      "address": "6MXoebdRr4qZmeCdzEc5Dtk8XmX3mBUrzgtEYwCKqxzk",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Synthetic LUNA",
       "symbol": "xLUNA",
       "logoURI": "https://www.synthetify.io/icons/xluna.svg",
@@ -51550,6 +51561,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "CYPHERZ THAUM TOKEN",
+      "symbol": "THAUM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9jyC8HjUBUgEWvZ6XUNbtUtiMthDVJkfhgp9aUatfWq3/logo.png",
+      "decimals": 6,
+      "address": "9jyC8HjUBUgEWvZ6XUNbtUtiMthDVJkfhgp9aUatfWq3",
+      "chainId": 101,
+      "tags": [
+        "DeFi",
+        "NFT",
+        "community-token",
+        "Metaverse"
+      ],
+      "extensions": {
+        "website": "https://CypherzNFT.io",
+        "twitter": "https://twitter.com/CypherzNFT",
+        "description": "Thaum is the in-game and DeFi token of the Cypherz NFT Pryzmverse. Check our Medium Page for Tokenomics"
+      }
     },
     {
       "name": "universe",
@@ -91364,6 +91394,17 @@
       ]
     },
     {
+      "name": "bubi",
+      "symbol": "BUBI",
+      "logoURI": "https://raw.githubusercontent.com/X-xhesild/crypto/main/BUBI.png",
+      "decimals": 0,
+      "address": "FC4p7fFtfCSYfx6zvCnmnLtKF1Kmfsn5qvHwk9LXxSV8",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Whalethen",
       "symbol": "WLTHN",
       "logoURI": "https://raw.githubusercontent.com/jimji1005/whalethen/main/logo.png",
@@ -110740,6 +110781,21 @@
       ],
       "extensions": {
         "website": "https://heatmob.net"
+      }
+    },
+    {
+      "name": "BTXSOL",
+      "symbol": "BTXS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxocLoGoaaz2V4nS8gpV93us2PbPkNRcTpDrmruk1Fxd/logo.png",
+      "decimals": 8,
+      "address": "HxocLoGoaaz2V4nS8gpV93us2PbPkNRcTpDrmruk1Fxd",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://sol.btx.world/"
       }
     },
     {
