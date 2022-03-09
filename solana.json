@@ -16398,6 +16398,17 @@
       ]
     },
     {
+      "name": "Linek",
+      "symbol": "LINEK",
+      "logoURI": "https://raw.githubusercontent.com/lineekk/crypto/main/Linek/logo.png",
+      "decimals": 0,
+      "address": "4RyUEWXJemmMpoWpr9xjYuzMLDbcM6DuLkojibFaufDy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "FANALYST",
       "symbol": "FANS",
       "logoURI": "https://arweave.net/yF5NB2MLwBge5pzgF9KPW6b7a6n9RznhQ-LKAJOpAaw",
@@ -24859,6 +24870,20 @@
       }
     },
     {
+      "name": "Dreams of SolCandy Token",
+      "symbol": "DoSC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5kANAUeHsoambmdV317Nhs8puVxfukyChr9j9TZ8ZeQq/logo.png",
+      "decimals": 9,
+      "address": "5kANAUeHsoambmdV317Nhs8puVxfukyChr9j9TZ8ZeQq",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://dreamsofsolcandy.com/"
+      }
+    },
+    {
       "name": "David n Seth 312",
       "symbol": "DSGG",
       "logoURI": "https://raw.githubusercontent.com/cgtamburro/davnseth312/main/logo.png",
@@ -29013,6 +29038,20 @@
       ],
       "extensions": {
         "discord": "https://discord.gg/QBTpckzaTx"
+      }
+    },
+    {
+      "name": "Shapz Compute Power",
+      "symbol": "shCP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6TSyg6kXgz2rtSbZQcnhoGV3VqNsRBbSVxWrg5cwkSw7/logo.png",
+      "decimals": 9,
+      "address": "6TSyg6kXgz2rtSbZQcnhoGV3VqNsRBbSVxWrg5cwkSw7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://shapz.org"
       }
     },
     {
@@ -63154,6 +63193,17 @@
       }
     },
     {
+      "name": "Hikicoin",
+      "symbol": "HIKI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEuhuvH3FQYCoMqBHknyXpSjcMYN3fzZbZtf11KyWKqy/logo.jpg",
+      "decimals": 0,
+      "address": "BEuhuvH3FQYCoMqBHknyXpSjcMYN3fzZbZtf11KyWKqy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Pook",
       "symbol": "POOK",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BEya3zocofJYvAN8oSsoNgxkXQN9HwL1ShU4tdHjRsqL/logo.png",
@@ -91557,6 +91607,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "EVRY (Binance chain)",
+      "symbol": "bEVRY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FDo4TPENcKdHtWMV56PSEjJmFfWUSRotLgW1EbPHreCB/evry.png",
+      "decimals": 18,
+      "address": "FDo4TPENcKdHtWMV56PSEjJmFfWUSRotLgW1EbPHreCB",
+      "chainId": 101,
+      "tags": [
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://evrynet.io/",
+        "twitter": "https://twitter.com/EvryNetwork"
+      }
     },
     {
       "name": "MHAC MILEZ",
@@ -125934,6 +125999,14 @@
       "extensions": {
         "website": "https://dev.ratio.finance/"
       }
+    },
+    {
+      "name": "Repti TT",
+      "symbol": "RTDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9S1wCdvYgrCus7jXyLxaZP3ovSJrYDvocAEhPq8WgxXC/Repti_icon.png",
+      "decimals": 0,
+      "address": "9S1wCdvYgrCus7jXyLxaZP3ovSJrYDvocAEhPq8WgxXC",
+      "chainId": 103
     },
     {
       "name": "BLOCKOVATE TEST PROJECT",
