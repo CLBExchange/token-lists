@@ -3028,7 +3028,7 @@
       }
     },
     {
-      "name": "CryptoStrapsWL",
+      "name": "INVALID - CryptoStrapsWL",
       "symbol": "GUNWL",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Pyc8DkCgPohR1o3ExMx84fLxU8ti1eQnySUwJMh5E6d/logo.png",
       "decimals": 0,
@@ -7420,21 +7420,6 @@
       "tags": [
         "social-token"
       ]
-    },
-    {
-      "name": "24x7 /dev",
-      "symbol": "24x7",
-      "logoURI": "https://raw.githubusercontent.com/24x7-Development/crypto/main/800.png",
-      "decimals": 6,
-      "address": "37iajCoaDpmduwmFCQ25AFpC6WjfTjyMVVkwWGb7Q1oZ",
-      "chainId": 101,
-      "tags": [
-        "utility-token",
-        "community-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/9yUjFtcFqP"
-      }
     },
     {
       "name": "Dogelon Mars",
@@ -26535,7 +26520,7 @@
       "chainId": 101
     },
     {
-      "name": "ART",
+      "name": "Aiko ART",
       "symbol": "ART",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/63cL4hHbkRStqMvhAudXkPsydRASp3yr7iPQemqmAcD2/logo.png",
       "decimals": 6,
@@ -34603,6 +34588,23 @@
       }
     },
     {
+      "name": "Aiko",
+      "symbol": "AIKO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7J2cEFFhMCsdUBWssnYfUG5z6zYJYCUaTNPTxH3k9aVY/logo.png",
+      "decimals": 9,
+      "address": "7J2cEFFhMCsdUBWssnYfUG5z6zYJYCUaTNPTxH3k9aVY",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://aiko.io/",
+        "twitter": "https://twitter.com/aikonft",
+        "discord": "https://discord.com/invite/Y72V9wn3Yw",
+        "reddit": "https://www.reddit.com/r/AikoNFT/"
+      }
+    },
+    {
       "name": "XLO Coin",
       "symbol": "XLO",
       "logoURI": "https://raw.githubusercontent.com/Link125/crypto/main/logo.png",
@@ -36024,6 +36026,22 @@
       }
     },
     {
+      "name": "24x7 /dev",
+      "symbol": "24x7",
+      "logoURI": "https://raw.githubusercontent.com/24x7-Development/crypto/main/yt.png",
+      "decimals": 6,
+      "address": "7WaSkvYLkqnsqzzsQC58J4w9tMusGNUHHHaUgGXsfMkK",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/9yUjFtcFqP"
+      }
+    },
+    {
       "name": "CHEEBA INU",
       "symbol": "CHB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7WxzZAPQGeky9eAdgZr2jgznSHcNLaHfZpd9pHpPsfWp/logo.svg",
@@ -36227,24 +36245,6 @@
         "social-token",
         "Utility-token"
       ]
-    },
-    {
-      "name": "Aiko",
-      "symbol": "Aiko",
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7YBn43cTvko7mfZ9YV1iyAUfHNuMp6aAy4rX7wehXcbU/logo.png",
-      "decimals": 0,
-      "address": "7YBn43cTvko7mfZ9YV1iyAUfHNuMp6aAy4rX7wehXcbU",
-      "chainId": 101,
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "website": "https://aiko.io/",
-        "twitter": "https://twitter.com/aikonft",
-        "medium": "https://aikonft.medium.com/",
-        "discord": "https://discord.com/invite/Y72V9wn3Yw",
-        "reddit": "https://www.reddit.com/r/AikoNFT/"
-      }
     },
     {
       "name": "Orca Aquafarm Token (SOCN/USDC)",
@@ -55811,6 +55811,17 @@
       "chainId": 101,
       "tags": [
         "multimedia-token"
+      ]
+    },
+    {
+      "name": "Pasame Shares",
+      "symbol": "PSM",
+      "logoURI": "https://raw.githubusercontent.com/jdaniel96/PasameSharesLogo/main/LogoPasame.png",
+      "decimals": 0,
+      "address": "AJPR96dTbGBH8jxzX85Ux9D1HyNe9NfNhKABm9t7gG6Z",
+      "chainId": 101,
+      "tags": [
+        "Pasame-shares"
       ]
     },
     {
@@ -110360,17 +110371,6 @@
       }
     },
     {
-      "name": "Pasame Shares",
-      "symbol": "PSM",
-      "logoURI": "https://raw.githubusercontent.com/jdaniel96/PasameSharesLogo/main/LogoPasame.png",
-      "decimals": 0,
-      "address": "HuHUDtLEiUuwd5g8QDWwKwbDzFyW6TE8BG8ZWUvKs52h",
-      "chainId": 101,
-      "tags": [
-        "Pasame-shares"
-      ]
-    },
-    {
       "name": "DREAM TOKEN",
       "symbol": "DREAM",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HuMShjViKhcfihmHkgvctcFAyeyxAk8hK5K58zWpuRKf/logo.png",
@@ -110784,7 +110784,7 @@
     {
       "name": "Iraqi Dinar Token",
       "symbol": "IQD",
-      "logoURI": "https://github.com/opals99/IQD-SOL-Token/blob/main/output-onlinepngtools.png",
+      "logoURI": "https://raw.githubusercontent.com/opals99/IQD-SOL-Token/main/logo.png",
       "decimals": 2,
       "address": "HyuZntYTzeE3jtYozsLcyj84iZJgqxsmnMCGhQRAoTdc",
       "chainId": 101,
