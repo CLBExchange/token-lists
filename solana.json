@@ -4258,7 +4258,7 @@
     {
       "name": "Millenial",
       "symbol": "MCH",
-      "logoURI": "https://raw.githubusercontent.com/AnthonyRamses/crypto/d432b2d5e96e360a6a79e11d2eaa8ebe8b7c3dfa/milleniallogo.svg",
+      "logoURI": "https://raw.githubusercontent.com/AnthonyRamses/crypto/main/logo_millenial.png",
       "decimals": 0,
       "address": "2coPnLrai1teeZeZdcHwafjkD7hC6tyJavMWy23d7fbg",
       "chainId": 101,
@@ -4268,7 +4268,7 @@
       ],
       "extensions": {
         "website": "https://millenialclubhouse.com/",
-        "twitter": "https://twitter.com/MillenialClubH"
+        "twitter": "https://twitter.com/MillenialTigers"
       }
     },
     {
