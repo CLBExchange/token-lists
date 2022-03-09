@@ -10288,6 +10288,18 @@
       ]
     },
     {
+      "name": "Francisco Jose Zangerolame",
+      "symbol": "FJZ",
+      "logoURI": "https://raw.githubusercontent.com/fzangerolame/crypto/main/zangerolame.png",
+      "decimals": 9,
+      "address": "3UXCdNbWBvSt5GfrZPXBFmFJYeX26wJQWBKMd3J5jVR8",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://zangerolame.com/",
+        "twitter": "https://twitter.com/FjzUsa"
+      }
+    },
+    {
       "name": "PARTNER COIN",
       "symbol": "PTR",
       "logoURI": "https://user-images.githubusercontent.com/10572843/146142464-373cc98d-d147-4e68-84fc-f5e80bb67de6.png",
@@ -63529,6 +63541,21 @@
       "chainId": 101
     },
     {
+      "name": "NFTokers Treasury",
+      "symbol": "TBILL",
+      "logoURI": "https://raw.githubusercontent.com/MoonCandy69/crypto3/main/logo3.png",
+      "decimals": 9,
+      "address": "BJJohVbGmLbM8EEzT1CH7N6fg2AjEAAgb5qrRnNYdD1j",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/nftokers"
+      }
+    },
+    {
       "name": "HELLC0IN",
       "symbol": "H3LL",
       "logoURI": "https://raw.githubusercontent.com/rangersmyth74/hellfire/main/logo.png",
@@ -88558,6 +88585,23 @@
       "extensions": {
         "website": "https://www.bulldogbillionaires.club/",
         "twitter": "https://twitter.com/bbsolana"
+      }
+    },
+    {
+      "name": "Emorb",
+      "symbol": "EMORB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EmoRBYmLPDTUYyrpm5LTMfRgjJYz7LUFM685PH6jLTUE/logo.png",
+      "decimals": 9,
+      "address": "EmoRBYmLPDTUYyrpm5LTMfRgjJYz7LUFM685PH6jLTUE",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://www.emorb.io/",
+        "twitter": "https://twitter.com/EmorbNFT",
+        "discord": "https://discord.gg/emorb"
       }
     },
     {
