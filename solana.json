@@ -17304,6 +17304,18 @@
       ]
     },
     {
+      "name": "DaMater",
+      "symbol": "DaMTR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ajycEvJN5BScuECdaDsYuqS88XPShDmxCToZBrZT2hY/logo.png",
+      "decimals": 9,
+      "address": "4ajycEvJN5BScuECdaDsYuqS88XPShDmxCToZBrZT2hY",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://damater.web.app/",
+        "twitter": "https://twitter.com/DaMaterLuminus"
+      }
+    },
+    {
       "name": "Eyes on Gaming Coin",
       "symbol": "EOGC",
       "logoURI": "https://raw.githubusercontent.com/karldermarx/eogtoken/main/logo.jpg",
@@ -64201,6 +64213,18 @@
       }
     },
     {
+      "name": "Luminus",
+      "symbol": "LMNS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRTsHXpCdVr8uaMBE5D9SsCS1d5o98ZSnT2Z9EaGryrM/logo.png",
+      "decimals": 9,
+      "address": "BRTsHXpCdVr8uaMBE5D9SsCS1d5o98ZSnT2Z9EaGryrM",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://damater.web.app/",
+        "twitter": "https://twitter.com/DaMaterLuminus"
+      }
+    },
+    {
       "name": "Mandanapu",
       "symbol": "MANDA",
       "logoURI": "https://raw.githubusercontent.com/Akhandaaa/Snowman/main/Logo.PNG",
@@ -81483,6 +81507,17 @@
         "twitter": "https://twitter.com/YakuzaRaptorz",
         "discord": "http://discord.gg/gyQ76h29TE"
       }
+    },
+    {
+      "name": "HIME",
+      "symbol": "$HIME",
+      "logoURI": "https://api.fgraph.io/storage/images/logos/himeiconv2.png",
+      "decimals": 9,
+      "address": "Dm99YNXbJXzf2tDkNQMNwKY19Jop3C6fXQawLHBFbHi2",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
     },
     {
       "name": "Volunteer Hours Token",
@@ -119831,6 +119866,17 @@
         "serumV3Usdc": "B8L7mjHL3xm6iYo8n7r7SigvFYqg6pwQdJdeGSuPQTfD",
         "telegram": "https://t.me/solventprotocol"
       }
+    },
+    {
+      "name": "RA Fitness Science",
+      "symbol": "RAFS",
+      "logoURI": "https://github.com/GTLB13/RA-TOKEN/blob/main/RA.png?raw=true",
+      "decimals": 0,
+      "address": "guYHCq2ZhdXNrDodWoiyCrJYm7yjLTXxETWbGiG32VU",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Orca Guppy Collectible",
