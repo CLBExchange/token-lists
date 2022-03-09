@@ -27392,6 +27392,14 @@
       }
     },
     {
+      "name": "xHXD Token",
+      "symbol": "xHXD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CgrvodLPX2pfHGj4FDVLWgUAxGFSXJTDgZvfFBifD8p/logo.png",
+      "decimals": 2,
+      "address": "6CgrvodLPX2pfHGj4FDVLWgUAxGFSXJTDgZvfFBifD8p",
+      "chainId": 101
+    },
+    {
       "name": "JPY Coin(Wormhole)",
       "symbol": "JPYC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5trVBqv1LvHxiSPMsHtEZuf8iN82wbpDcR5Zaw7sWC3s/logo.png",
