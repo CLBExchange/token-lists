@@ -23746,6 +23746,18 @@
       ]
     },
     {
+      "name": "Double D Token",
+      "symbol": "DDToken",
+      "logoURI": "https://raw.githubusercontent.com/tcryptocoins/spltoken/main/dd-token-v4.svg",
+      "decimals": 0,
+      "address": "5aS5Uuo5dt8Dut7FZfpaPhUjoih14GiEs1P4yhYGqA69",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Rickoin",
       "symbol": "RICOIN",
       "logoURI": "https://raw.githubusercontent.com/RickyvdBerg/riccoin/main/logo.png",
@@ -39163,6 +39175,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "BENZ Token",
+      "symbol": "BENZ",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmR5FQVrGg7ySX3BXxPsMzPrBR2j2RWnDKVavReKbKV79W",
+      "decimals": 0,
+      "address": "7xBLAJQ9TDnBXZ6cEcLiq7XtwneiCU5b94b569ryBEqP",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
@@ -66302,6 +66325,17 @@
       }
     },
     {
+      "name": "BABY",
+      "symbol": "BABY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BiBNvJTnA4HZraqfex7mqLzkac5Nv9RuZY73PHnitfgD/logo.png",
+      "decimals": 0,
+      "address": "BiBNvJTnA4HZraqfex7mqLzkac5Nv9RuZY73PHnitfgD",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Dwayne Coin",
       "symbol": "DOINT",
       "logoURI": "https://raw.githubusercontent.com/TheDankness/crimpto/main/doint.png",
@@ -71680,6 +71714,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Bull Token",
+      "symbol": "BULL",
+      "logoURI": "https://raw.githubusercontent.com/h3ll0x/bullimage/main/bulltoken.png",
+      "decimals": 3,
+      "address": "CSj94sJsnWf9TGKkV7gD2SqVr9y38SqaYmi7qekAyKai",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
       ]
     },
     {
@@ -81992,6 +82037,33 @@
       ]
     },
     {
+      "name": "Drippies WL Token",
+      "symbol": "DRIP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DriP77HQDnSyT478K4wrYTjKFdvbaCyQnEKpAkq87GtR/logo.png",
+      "decimals": 0,
+      "address": "DriP77HQDnSyT478K4wrYTjKFdvbaCyQnEKpAkq87GtR",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.drippies.space",
+        "twitter": "https://twitter.com/drippieverse"
+      }
+    },
+    {
+      "name": "Drippies SOL TOKEN",
+      "symbol": "DRP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DriPBT5PbN2vuYXQgz1jbar5Pi2adzo2d447UrV8fvTc/logo.png",
+      "decimals": 9,
+      "address": "DriPBT5PbN2vuYXQgz1jbar5Pi2adzo2d447UrV8fvTc",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token",
+        "NFT"
+      ]
+    },
+    {
       "name": "Drogo",
       "symbol": "DRG",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DrogoV6nuMsCGfhqcVMCVxGZASajgXoxN7ytUcRCQgQs/logo.png",
@@ -82229,6 +82301,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "TSS COIN",
+      "symbol": "TSS",
+      "logoURI": "https://raw.githubusercontent.com/CoachAlpha/TSS-COIN/main/tss_coin.png",
+      "decimals": 0,
+      "address": "DuLnzJo4emVer2j9Gjy8ce5w6ASzWUeSbCYemvEg8cJZ",
+      "chainId": 101,
+      "tags": [
+        "minecraft",
+        "tss",
+        "server"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/HtksU8ukZD"
+      }
     },
     {
       "name": "Sweet",
