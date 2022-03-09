@@ -38838,6 +38838,17 @@
       ]
     },
     {
+      "name": "Twersa",
+      "symbol": "WERSA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7u2AsUouSsgvWgJrzYej9iu8sABgYgJseEuFp6228TLk/logo.png",
+      "decimals": 9,
+      "address": "7u2AsUouSsgvWgJrzYej9iu8sABgYgJseEuFp6228TLk",
+      "chainId": 101,
+      "tags": [
+        "Twersa"
+      ]
+    },
+    {
       "name": "JaydoCoin",
       "symbol": "JKA",
       "logoURI": "https://raw.githubusercontent.com/Muzz1409/MainLogo/main/Logo.png",
@@ -49008,6 +49019,17 @@
         "assetContract": "https://etherscan.io/address/0x4da27a545c0c5B758a6BA100e3a049001de870f5",
         "address": "0x4da27a545c0c5B758a6BA100e3a049001de870f5"
       }
+    },
+    {
+      "name": "MI11ENNIUM",
+      "symbol": "M11N",
+      "logoURI": "https://raw.githubusercontent.com/wiseblue32/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "9NGd8kUraGJPGEpN2Tk61JuU7oJ4h2ererDuw7WDHcTP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Jam",
@@ -69555,6 +69577,21 @@
       }
     },
     {
+      "name": "Official Cats On Crack WL Token",
+      "symbol": "CAT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CAtsAzbpAf4sFt5Qh5kguJqb1UJavWENnHmkCv8T9hvU/logo.png",
+      "decimals": 9,
+      "address": "CAtsAzbpAf4sFt5Qh5kguJqb1UJavWENnHmkCv8T9hvU",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://www.catsoncrack.xyz/",
+        "twitter": "https://twitter.com/catsoncrack_2"
+      }
+    },
+    {
       "name": "BajtyCoin",
       "symbol": "BJTC",
       "logoURI": "https://raw.githubusercontent.com/Bajty/BajtyCoin/main/logo.png",
@@ -78223,6 +78260,17 @@
       }
     },
     {
+      "name": "Avago",
+      "symbol": "AVAG",
+      "logoURI": "https://raw.githubusercontent.com/tecfay/token/main/logo.png",
+      "decimals": 4,
+      "address": "DKHzgFWPRoGqzsbnk6bmaVw8t32tujJsqCMiMJ5PpmR4",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "KinnyCoin",
       "symbol": "KINY",
       "logoURI": "https://raw.githubusercontent.com/kinnycoin/kinnycoin/main/logo.jpg",
@@ -79756,6 +79804,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Banana Token",
+      "symbol": "$BA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DZMFqjobcvXyaaggDt1MxiLZyhqki67NuZRfiMJwczNq/logo.png",
+      "decimals": 0,
+      "address": "DZMFqjobcvXyaaggDt1MxiLZyhqki67NuZRfiMJwczNq",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
       ]
     },
     {
