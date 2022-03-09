@@ -67492,6 +67492,17 @@
       }
     },
     {
+      "name": "TestCoin",
+      "symbol": "TSTCN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BqgeGmnGN8oRfLmZVFStUnX9KpVjYiaPFm6TcVZUowWy/logo.png",
+      "decimals": 9,
+      "address": "BqgeGmnGN8oRfLmZVFStUnX9KpVjYiaPFm6TcVZUowWy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Raydium LP Token V4 (LINK-USDC)",
       "symbol": "LINK-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BqjoYjqKrXtfBKXeaWeAT5sYCy7wsAYf3XjgDWsHSBRs/logo.png",
@@ -77661,6 +77672,14 @@
         "utility-token",
         "community-token"
       ]
+    },
+    {
+      "name": "F6 Token",
+      "symbol": "F6T",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DF4LAwfNPMdX5a9mBAFxA1amBZKJ9HtTQPQqDCDcvvMg/logo.png",
+      "decimals": 9,
+      "address": "DF4LAwfNPMdX5a9mBAFxA1amBZKJ9HtTQPQqDCDcvvMg",
+      "chainId": 101
     },
     {
       "name": "Doge Very Rocket",
@@ -107234,6 +107253,14 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRyyRN2GY4yxrxCx5bekuEEKvFqztr42eVRY5UdkYWGf/logo.png",
       "decimals": 0,
       "address": "HRyyRN2GY4yxrxCx5bekuEEKvFqztr42eVRY5UdkYWGf",
+      "chainId": 101
+    },
+    {
+      "name": "WWOLF Token",
+      "symbol": "WWOLF",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/HS2DanDUPKEnkzXDywtQKAqWKbWte3ahvwMhcfBJjGai/logo.png?raw=true",
+      "decimals": 9,
+      "address": "HS2DanDUPKEnkzXDywtQKAqWKbWte3ahvwMhcfBJjGai",
       "chainId": 101
     },
     {
