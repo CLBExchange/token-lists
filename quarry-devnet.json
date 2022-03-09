@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-09T18:10:22.336Z",
+  "timestamp": "2022-03-09T19:08:05.028Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -39516,6 +39516,13 @@
       "symbol": "S8oQA",
       "decimals": 6,
       "address": "S8oQASQMagFAgnybjuUSfXBLCPVEeGxevFKQFkQC5d3",
+      "chainId": 104
+    },
+    {
+      "name": "Token SLNA",
+      "symbol": "SLNAA",
+      "decimals": 6,
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
       "chainId": 104
     },
     {
