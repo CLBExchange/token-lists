@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-09T15:08:52.725Z",
+  "timestamp": "2022-03-09T16:11:20.033Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -7486,6 +7486,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 39Dz",
+      "symbol": "39Dzd",
+      "decimals": 2,
+      "address": "39DzdKbxRrFtS5jHVfSc9Fk6dWi9c3kz9wWNjSjhwoM5",
+      "chainId": 104
+    },
+    {
       "name": "Token 3Aay",
       "symbol": "3AayR",
       "decimals": 9,
@@ -7973,6 +7980,13 @@
       "symbol": "HXYeg",
       "decimals": 6,
       "address": "HXYegsp9dA5D7KeTm4bxkMdDGGy4R5TyErX1mw2gVNr2",
+      "chainId": 104
+    },
+    {
+      "name": "Token HpPm",
+      "symbol": "HpPmF",
+      "decimals": 9,
+      "address": "HpPmFoCeTQQA8sFwFKmDsamHxsqpV38MT57XKRjqS85E",
       "chainId": 104
     },
     {
