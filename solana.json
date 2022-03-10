@@ -44839,6 +44839,22 @@
       }
     },
     {
+      "name": "Lords of SOL Gold",
+      "symbol": "GOLD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8gVsZAWiJg7aRvFTKrBMXDW2XVpUMrpjAUyobTRK1fwD/logo.png",
+      "decimals": 6,
+      "address": "8gVsZAWiJg7aRvFTKrBMXDW2XVpUMrpjAUyobTRK1fwD",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://lordsofsol.io",
+        "twitter": "https://twitter.com/LordsofSOL",
+        "discord": "https://discord.gg/6sjHkM8nTT"
+      }
+    },
+    {
       "name": "Pornlana",
       "symbol": "PORN",
       "logoURI": "https://raw.githubusercontent.com/Agaveis/pornlana/main/logo.png",
@@ -77514,6 +77530,22 @@
       ]
     },
     {
+      "name": "Monkeh Moneh",
+      "symbol": "DAHS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAHStbBEHcp7ooofA1TV3oayoRGM9i1v6TJSnoa2ZAWh/logo.svg",
+      "decimals": 2,
+      "address": "DAHStbBEHcp7ooofA1TV3oayoRGM9i1v6TJSnoa2ZAWh",
+      "chainId": 101,
+      "tags": [
+        "nft-token"
+      ],
+      "extensions": {
+        "website": "https://www.dahsnft.com/",
+        "twitter": "https://twitter.com/DAHSNFT",
+        "discord": "https://discord.gg/DAHS"
+      }
+    },
+    {
       "name": "Danerob Puppy Redeem Token",
       "symbol": "DANE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DANE1SmS2ahPkFNER6tfTPGLcJKK67z8zVjMj4PKoS79/logo.png",
@@ -84995,6 +85027,17 @@
       "logoURI": "https://raw.githubusercontent.com/LouisDeSimone/BlueDuck/main/blueDuck.png",
       "decimals": 0,
       "address": "EC5XTvPE8YV3rkpdRTLP7ATDURaLj9GLJ1mbGCQnVHYW",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "Kamaaina Coin",
+      "symbol": "KAMA",
+      "logoURI": "https://raw.githubusercontent.com/webmasterhawaii/kamacoin/main/logo.png",
+      "decimals": 0,
+      "address": "ECA5eN5A7tgynkcvapWHgBvfR28Ma1JtcPFLQzA6Z7yr",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -118623,6 +118666,21 @@
       "extensions": {
         "twitter": "https://twitter.com/brainyapegang",
         "discord": "https://discord.gg/ptA8qAp7Gf"
+      }
+    },
+    {
+      "name": "Female HODL Whitelist Token",
+      "symbol": "SHFW",
+      "logoURI": "https://raw.githubusercontent.com/solanahodlwhales/whitelist/main/FemaleWhiteList.png",
+      "decimals": 0,
+      "address": "WLhJmBK713bYZUpe9Hvx6CdCDMFRLLGDTJtaME7ywfP",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://solanahodlwhales.io",
+        "twitter": "https://twitter.com/SolanaWhalesNFT"
       }
     },
     {
