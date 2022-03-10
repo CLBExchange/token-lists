@@ -94859,6 +94859,24 @@
       ]
     },
     {
+      "name": "Rescue DAO Coin",
+      "symbol": "RESCUE",
+      "logoURI": "https://raw.githubusercontent.com/sinnocent26/crypto/main/logo.png",
+      "decimals": 9,
+      "address": "Fc1DRrjQFNJ4Ym5GaC4B6dUvVPRGzdgffEWYmc2PktRv",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://rescuedao.com/",
+        "twitter": "https://twitter.com/Rescue_DAO",
+        "discord": "https://discord.gg/UpRKQpTQ",
+        "description": "A decentralized coin created to fund local solidarity projects all over the world."
+      }
+    },
+    {
       "name": "Second Foundation Graphics Token",
       "symbol": "SFGT",
       "logoURI": "https://raw.githubusercontent.com/SegFun01/crypto/main/logo.png",
@@ -99728,6 +99746,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "CREEPY SOULS",
+      "symbol": "CREEPY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/cd9e50d252cc84da29ecc459b547e32083e84134/assets/mainnet/GFzwhDUKNoQPLAwP3p5xChw9GDnwZ5ZNMhjbWKw9KB7p/logo.png",
+      "decimals": 0,
+      "address": "GFzwhDUKNoQPLAwP3p5xChw9GDnwZ5ZNMhjbWKw9KB7p",
+      "chainId": 101,
+      "tags": [
+        "stake-token"
       ]
     },
     {
