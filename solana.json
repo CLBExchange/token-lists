@@ -118662,6 +118662,18 @@
       }
     },
     {
+      "name": "Lazy Crazy Ducks Whitelist Token",
+      "symbol": "LCD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WitD7ka2noYdpqxdiUx9NHCpQLE7NVqroLVejThrSFw/logo.png",
+      "decimals": 0,
+      "address": "WitD7ka2noYdpqxdiUx9NHCpQLE7NVqroLVejThrSFw",
+      "chainId": 101,
+      "tags": [
+        "Whitelist-token",
+        "LCD"
+      ]
+    },
+    {
       "name": "DireWolf",
       "symbol": "DIRE",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WoLFWyFspu68aHQeKRbgYPma6H16cHPXErJK8o3sczb/Direlogo.png",
