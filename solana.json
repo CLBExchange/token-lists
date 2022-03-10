@@ -19245,6 +19245,21 @@
       }
     },
     {
+      "name": "Staked Yawww",
+      "symbol": "sYAW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4qn6FjsBPpVrGcPmvTgfwpCEQv7VxEAZX6WqmekWt5S7/syaw.png",
+      "decimals": 6,
+      "address": "4qn6FjsBPpVrGcPmvTgfwpCEQv7VxEAZX6WqmekWt5S7",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.yawww.io",
+        "twitter": "https://twitter.com/YawwwNFT"
+      }
+    },
+    {
       "name": "Fenix Coin",
       "symbol": "A1C",
       "logoURI": "https://raw.githubusercontent.com/Jacobb0319/cryptologo/main/A1CLogo.png",
@@ -31546,6 +31561,22 @@
       "extensions": {
         "website": "https://www.benft.solutions",
         "twitter": "https://twitter.com/benft"
+      }
+    },
+    {
+      "name": "EVRY (Ethereum)",
+      "symbol": "eEVRY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6oYoyFahkKxyvjsdt8JtRr4AQHvvwHEJthwqxQjei2gi/evry.png",
+      "decimals": 18,
+      "address": "6oYoyFahkKxyvjsdt8JtRr4AQHvvwHEJthwqxQjei2gi",
+      "chainId": 101,
+      "tags": [
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://evrynet.io/",
+        "twitter": "https://twitter.com/EvryNetwork",
+        "coingeckoId": "evrynet"
       }
     },
     {
