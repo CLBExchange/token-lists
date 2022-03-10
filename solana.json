@@ -23499,6 +23499,17 @@
       ]
     },
     {
+      "name": "Kids Crypto Currency",
+      "symbol": "KCC",
+      "logoURI": "https://raw.githubusercontent.com/Toastiam/crypto/main/KCC/logo.png",
+      "decimals": 2,
+      "address": "5XTEN4ZQJ5BpLLz7ismC7PbDyugpXqcUsZcMHtTs3aW2",
+      "chainId": 101,
+      "tags": [
+        "allowance-token"
+      ]
+    },
+    {
       "name": "CE-5 GALACTIC COIN",
       "symbol": "CE5C",
       "logoURI": "https://raw.githubusercontent.com/StarLord36/Crypto/main/logo.png",
