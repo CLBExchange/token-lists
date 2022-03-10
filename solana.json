@@ -35680,6 +35680,24 @@
       }
     },
     {
+      "name": "ALL",
+      "symbol": "$ALL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7ScYHk4VDgSRnQngAUtQk4Eyf7fGat8P4wXq6e2dkzLj/logo.png",
+      "decimals": 9,
+      "address": "7ScYHk4VDgSRnQngAUtQk4Eyf7fGat8P4wXq6e2dkzLj",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "nft",
+        "commodity-token"
+      ],
+      "extensions": {
+        "website": "https://www.allblue.dev/",
+        "twitter": "https://twitter.com/stonedapecrew",
+        "discord": "https://discord.gg/stonedapecrew"
+      }
+    },
+    {
       "name": "RealServer_Ro",
       "symbol": "RSHS",
       "logoURI": "https://raw.githubusercontent.com/Z33uSsss/crypto/main/logo%20real%20server-factura.png",
@@ -46313,6 +46331,23 @@
         "website": "https://pip.monster",
         "twitter": "https://twitter.com/itspipana",
         "serumV3Usdc": "EHCty8rwVcE1T8Ccd6Emrd1oB2yNeMXz6kcgmE1Qa6sG"
+      }
+    },
+    {
+      "name": "SOL Game Coin",
+      "symbol": "GAMECOIN",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8tc8SFPUjJcuwZC3JPZMvTCnad9gsCZE94y2EE6i7gjk/logo.png",
+      "decimals": 0,
+      "address": "8tc8SFPUjJcuwZC3JPZMvTCnad9gsCZE94y2EE6i7gjk",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "game-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://solana-playground.com/",
+        "twitter": "https://twitter.com/solplayground"
       }
     },
     {
@@ -125039,6 +125074,23 @@
         "instagram": "https://www.instagram.com/fyfy.official",
         "linkedin": "https://www.linkedin.com/company/fyfy",
         "whitepaper": "https://fyfy-labs-ltd.gitbook.io/fyfy-documentation/"
+      }
+    },
+    {
+      "name": "UNIVERSAL REPVBLIK",
+      "symbol": "UREP",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2GF7CMzttUbpEsPYReVHgMgbSPMdARGjhCWb9UcwcbU3/logo.png",
+      "decimals": 9,
+      "address": "2GF7CMzttUbpEsPYReVHgMgbSPMdARGjhCWb9UcwcbU3",
+      "chainId": 103,
+      "tags": [
+        "utility-token",
+        "investment-token",
+        "stake-token"
+      ],
+      "extensions": {
+        "website": "https://www.universalrepvblik.com/",
+        "instagram": "https://www.instagram.com/universalrepvblik/"
       }
     },
     {
