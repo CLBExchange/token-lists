@@ -59010,6 +59010,19 @@
       ]
     },
     {
+      "name": "Humble Coin",
+      "symbol": "HMBL",
+      "logoURI": "https://raw.githubusercontent.com/humblelabs/token-list/main/assets/mainnet/Ad7QdUa5H38LgRWmnJxsFqpixGGKd1jQRdoc1ZUconhK/logo.png",
+      "decimals": 0,
+      "address": "Ad7QdUa5H38LgRWmnJxsFqpixGGKd1jQRdoc1ZUconhK",
+      "chainId": 101,
+      "tags": [
+        "investment-token",
+        "stake-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Paella Token",
       "symbol": "PAELLA",
       "logoURI": "https://raw.githubusercontent.com/ESR20/Crypto/main/logo.png",
@@ -82076,6 +82089,24 @@
       "chainId": 101,
       "extensions": {
         "website": "https://www.savagestotsys.com"
+      }
+    },
+    {
+      "name": "Banana Wallet Token",
+      "symbol": "BNW",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dmkq1LGAQKgaEogemxaWxHcNCLj9mUfkjkHoVLTCw7WN/logo.png",
+      "decimals": 0,
+      "address": "Dmkq1LGAQKgaEogemxaWxHcNCLj9mUfkjkHoVLTCw7WN",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://bananawallet.io",
+        "twitter": "https://twitter.com/banana_wallet",
+        "discord": "https://discord.gg/MsvhksRh"
       }
     },
     {
@@ -110927,6 +110958,22 @@
       ]
     },
     {
+      "name": "Scrap City",
+      "symbol": "SC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hv55zwSKWfGBBY8bHMJ1fRxAbHHzuVGirJrpRKABV4mV/logo.png",
+      "decimals": 0,
+      "address": "Hv55zwSKWfGBBY8bHMJ1fRxAbHHzuVGirJrpRKABV4mV",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "website": "https://scrapcity.io/",
+        "twitter": "https://twitter.com/ScrapCityTNW",
+        "discord": "https://discord.gg/knzdu7Pt24"
+      }
+    },
+    {
       "name": "Dhanush P Sukruth",
       "symbol": "DPS",
       "logoURI": "https://raw.githubusercontent.com/dsukruth/dps_token/main/logo.png",
@@ -121478,6 +121525,19 @@
       "extensions": {
         "telegram": "https://t.me/memes4js"
       }
+    },
+    {
+      "name": "BM",
+      "symbol": "BM",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/m6XGr58ATHSS7BvThRCDkqnsAeXLhpammhCrDo1amxq/logo.png",
+      "decimals": 9,
+      "address": "m6XGr58ATHSS7BvThRCDkqnsAeXLhpammhCrDo1amxq",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "community-token",
+        "exchange-token"
+      ]
     },
     {
       "name": "Meme Cake",
