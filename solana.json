@@ -10845,6 +10845,20 @@
       ]
     },
     {
+      "name": "BTXSOL MIRROR 1",
+      "symbol": "$BTXS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3ZDLvGwEaGtpkPZEXmjJrPwahMYuAcs3YHdhTWEWbyo2/logo.png",
+      "decimals": 8,
+      "address": "3ZDLvGwEaGtpkPZEXmjJrPwahMYuAcs3YHdhTWEWbyo2",
+      "chainId": 101,
+      "tags": [
+        "mirror-token"
+      ],
+      "extensions": {
+        "website": "https://sol.btx.world/"
+      }
+    },
+    {
       "name": "Simple Online Accountability Token ",
       "symbol": "SOAT",
       "logoURI": "https://raw.githubusercontent.com/White-Lycan/FIRM/main/download.png",
@@ -17758,6 +17772,24 @@
         "twitter": "https://twitter.com/phillytoken",
         "discord": "https://discord.gg/ptYZPtxZf4",
         "description": "The world's 1st cheesesteak-based currency, brought to you by the City of Brotherly Love (Philly!!!)."
+      }
+    },
+    {
+      "name": "Cotorra Coin",
+      "symbol": "CORA",
+      "logoURI": "https://lacotorraradio.s3.us-east-2.amazonaws.com/CotorraCoin.png",
+      "decimals": 9,
+      "address": "4eW4TtBfyCs6AwfN4ZRKSjL8eGaukr9VoBaLBzphxJLK",
+      "chainId": 101,
+      "tags": [
+        "social-media",
+        "multimedia-token",
+        "multiverse-token"
+      ],
+      "extensions": {
+        "website": "https://lacotorraradio.com/",
+        "twitter": "https://twitter.com/cotorraradio1",
+        "discord": "https://discord.gg/WqmXQ8bq7n"
       }
     },
     {
@@ -33131,6 +33163,20 @@
       ]
     },
     {
+      "name": "BTXSOL MIRROR 2",
+      "symbol": "BTXSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/73dCbT3M8UiTd1PQwunTxc2UWnMeLLWmNT3KkbvHyLGP/logo.png",
+      "decimals": 8,
+      "address": "73dCbT3M8UiTd1PQwunTxc2UWnMeLLWmNT3KkbvHyLGP",
+      "chainId": 101,
+      "tags": [
+        "mirror-token"
+      ],
+      "extensions": {
+        "website": "https://sol.btx.world/"
+      }
+    },
+    {
       "name": "Pip",
       "symbol": "PIP",
       "logoURI": "https://raw.githubusercontent.com/knoxharper/pep/main/noun-seed-418863.png",
@@ -41314,6 +41360,18 @@
       ]
     },
     {
+      "name": "BawkBucks",
+      "symbol": "BAWK",
+      "logoURI": "https://raw.githubusercontent.com/Player172/BawkBucks/main/bawkbuckslogo.png",
+      "decimals": 0,
+      "address": "8DSstVvEPDg3uwsPCXrFkdxJQARhaN5GoXeMCAX8AiK5",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "DUST",
       "symbol": "DUST",
       "logoURI": "https://raw.githubusercontent.com/codingbeast/testapp/master/logo.png",
@@ -46246,6 +46304,17 @@
       "extensions": {
         "description": "Five Heads Monster Coin"
       }
+    },
+    {
+      "name": "CS Stake Token",
+      "symbol": "CSST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8uD8yx7pXCvX1J1AmdN7jLZh7rAGUE4zNtwT7UtY4rvm/logo.jpg",
+      "decimals": 0,
+      "address": "8uD8yx7pXCvX1J1AmdN7jLZh7rAGUE4zNtwT7UtY4rvm",
+      "chainId": 101,
+      "tags": [
+        "stake-token"
+      ]
     },
     {
       "name": "Tiny Check",
