@@ -67465,6 +67465,20 @@
       "chainId": 101
     },
     {
+      "name": "Official Hidden Boyz TOKEN",
+      "symbol": "BOYZ",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BoyzuwdnAfPRHE4hZEeKVYLMWUVjkucu55FgmZ59Y41W/logo.png",
+      "decimals": 9,
+      "address": "BoyzuwdnAfPRHE4hZEeKVYLMWUVjkucu55FgmZ59Y41W",
+      "chainId": 101,
+      "tags": [
+        "whitelist-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/hiddenboyznft"
+      }
+    },
+    {
       "name": "SOLPANDS",
       "symbol": "SOLPANDS",
       "logoURI": "https://i.ibb.co/m07n4vn/photo-2021-10-30-00-38-55.jpg",
@@ -111717,6 +111731,17 @@
       "tags": [
         "social-token",
         "community-token"
+      ]
+    },
+    {
+      "name": "BeanBucks",
+      "symbol": "BEAN",
+      "logoURI": "https://raw.githubusercontent.com/thatpokemontrainer/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "J5QR7ewBbtGnzmSjL2ARcZ2fEg5TjmEV2653qFtMQ9qe",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
