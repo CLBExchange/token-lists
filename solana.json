@@ -25695,6 +25695,18 @@
       }
     },
     {
+      "name": "MLC Whitelist",
+      "symbol": "MLCWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5sDTUwgsRDdycAHyWPEaXv4nSkjnLjSvJNhuLTnBmegM/logo.png",
+      "decimals": 0,
+      "address": "5sDTUwgsRDdycAHyWPEaXv4nSkjnLjSvJNhuLTnBmegM",
+      "chainId": 101,
+      "tags": [
+        "social-token",
+        "community-token"
+      ]
+    },
+    {
       "name": "Bamboo",
       "symbol": "BMBO",
       "logoURI": "https://raw.githubusercontent.com/rishkumaria/bamboo/main/bamboo.png",
@@ -78423,6 +78435,17 @@
       ]
     },
     {
+      "name": "Coinflip Kingz WL",
+      "symbol": "CKWL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DHN2f5fexiVmUpiunxjszQakHyQohAjJC4CX3GQkRqwz/logo.png",
+      "decimals": 0,
+      "address": "DHN2f5fexiVmUpiunxjszQakHyQohAjJC4CX3GQkRqwz",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ]
+    },
+    {
       "name": "Demons on Holiday Whitelist Token",
       "symbol": "DOHWL",
       "logoURI": "https://raw.githubusercontent.com/DNKENNFT/logo/main/logo.png",
@@ -116979,6 +117002,14 @@
         "twitter": "https://twitter.com/irsnft",
         "discord": "https://discord.gg/IRS"
       }
+    },
+    {
+      "name": "Stoney Whitelist Token",
+      "symbol": "stnywl",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/StnYdE8KD26pJHRqMNHY6m6Fy6DZAiw4MEB3G5ydkvQ/logo.png",
+      "decimals": 0,
+      "address": "StnYdE8KD26pJHRqMNHY6m6Fy6DZAiw4MEB3G5ydkvQ",
+      "chainId": 101
     },
     {
       "name": "SuperBonds Token",
