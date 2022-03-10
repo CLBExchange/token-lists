@@ -13654,6 +13654,20 @@
       }
     },
     {
+      "name": "Cineconcerts VIP 1",
+      "symbol": "CINEVIP1",
+      "logoURI": "https://raw.githubusercontent.com/cineconcerts/cine_NFT_tokens/main/logo.png",
+      "decimals": 0,
+      "address": "3y9CzNkzS51JzUTMKQCZaRvksNH9qXUc24Pgx35BJ8K5",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://cineconcerts.com"
+      }
+    },
+    {
       "name": "Fro",
       "symbol": "FRO",
       "logoURI": "https://www.frolicx0.de/public/assets/pngs/logo.png",
@@ -105302,6 +105316,17 @@
         "discord": "https://discord.gg/Wn6UYeQQGv",
         "telegram": "https://t.me/shibalana"
       }
+    },
+    {
+      "name": "Orions Wick Coin",
+      "symbol": "OWC",
+      "logoURI": "https://raw.githubusercontent.com/Avoices/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "H4FamHEaSg27xhxsDEtTbg9zp2EcanwgzECiD9ChnKbP",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "JP Token",
