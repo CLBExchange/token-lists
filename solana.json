@@ -21264,6 +21264,22 @@
       }
     },
     {
+      "name": "ASTRALS GLXY",
+      "symbol": "GLXY",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BY9wMqpvmTJrzUHt9BAmaQwave833DyHZh33rCXFEQ2/logo.png",
+      "decimals": 9,
+      "address": "5BY9wMqpvmTJrzUHt9BAmaQwave833DyHZh33rCXFEQ2",
+      "chainId": 101,
+      "tags": [
+        "NFT-token"
+      ],
+      "extensions": {
+        "website": "https://astrals.io",
+        "twitter": "https://twitter.com/Astrals_NFT",
+        "discord": "https://discord.com/invite/astralsnft"
+      }
+    },
+    {
       "name": "Solana Angels",
       "symbol": "ANGELS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5C9gnZEjaDVpaQjJcRSf54pJv3g1JVACo32jBRvNxpm4/logo.png",
@@ -78055,6 +78071,17 @@
       }
     },
     {
+      "name": "Trilactic Coin",
+      "symbol": "TRLC",
+      "logoURI": "https://raw.githubusercontent.com/TheyCallMeAlpha/token-logo/main/tokenlogo.png.png",
+      "decimals": 0,
+      "address": "DFRRxGLsdBNeLBpUmD1iLWbYjvi5kJp7ya8XgzNZoXJK",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "zBTC (ACUMEN)",
       "symbol": "zBTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DFTZmEopSWrj6YcsmQAAxypN7cHM3mnruEisJPQFJbs7/logo.png",
@@ -98927,6 +98954,17 @@
       "chainId": 101,
       "tags": [
         "social-token"
+      ]
+    },
+    {
+      "name": "Azalea Coin",
+      "symbol": "AZC",
+      "logoURI": "https://raw.githubusercontent.com/Azalea-Ray/AZC/main/azc_logo.png",
+      "decimals": 0,
+      "address": "GA9qsjRTgLHdu1xdMKZm274qLgbYYEe3PqfjMvPqw2c4",
+      "chainId": 101,
+      "tags": [
+        "invest-token"
       ]
     },
     {
