@@ -85181,6 +85181,17 @@
       ]
     },
     {
+      "name": "CraftyPoop",
+      "symbol": "DUCKPOOP",
+      "logoURI": "https://raw.githubusercontent.com/crtyencz/CraftyPoop/main/CraftyPoop.png",
+      "decimals": 9,
+      "address": "EEQFpa3sKwt7QD6MiqjoknrpHGE2qH6iPtiLmchzXdhL",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
       "name": "Cube WL Token",
       "symbol": "LNFTxMOON1",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EEcTHtygK1agDKMKrXgaznbjUNPM67KvnmsqKmPkCTvn/logo.png",
@@ -93769,6 +93780,22 @@
       ]
     },
     {
+      "name": "Skyscraper",
+      "symbol": "SSCR",
+      "logoURI": "https://raw.githubusercontent.com/NarrativeDev/token/main/LOGO.png",
+      "decimals": 0,
+      "address": "FT2jC2W3kNxY1xDArtBzhPyAygFrB6HE8YH9Jbxdgpsy",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://skyscrapernft.io/",
+        "twitter": "https://twitter.com/Skyscraper_NFT",
+        "discord": "https://discord.gg/Fv4EAtwj8N"
+      }
+    },
+    {
       "name": "You rock coin",
       "symbol": "URKK",
       "logoURI": "https://raw.githubusercontent.com/lilypad219/crypto-2/main/logo.png",
@@ -94200,6 +94227,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "name": "GreenLTEST",
+      "symbol": "GLT",
+      "logoURI": "https://github.com/gintarastamosiunas/Assets/blob/main/gliht_logo.svg",
+      "decimals": 9,
+      "address": "FW7Ubg7FU36kB4tmK651ZKqu98gwyYuyM6bDXKLun77y",
+      "chainId": 101,
+      "tags": [
+        "DeFi"
+      ],
+      "extensions": {
+        "website": "https://glight.network/",
+        "twitter": "https://twitter.com/glight_network"
+      }
     },
     {
       "name": "Vesta",
