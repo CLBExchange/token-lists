@@ -78014,6 +78014,17 @@
       }
     },
     {
+      "name": "DEFINIS",
+      "symbol": "HKDD",
+      "logoURI": "https://raw.githubusercontent.com/Definis-HKDD/Smart-Contract-/main/logo.png",
+      "decimals": 18,
+      "address": "DCg5GuAyxRwtM2VcSAJbgHesi1XqSqV1FAtV6T3VatcR",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
       "name": "Doodled SMB",
       "symbol": "DSMB",
       "logoURI": "https://raw.githubusercontent.com/doodledsmb/doodled-smb/master/img/doodled-smb-pfp.png",
