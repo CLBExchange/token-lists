@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-11T16:11:48.887Z",
+  "timestamp": "2022-03-11T17:11:48Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -6138,6 +6138,17 @@
       }
     },
     {
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "decimals": 6,
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
+    },
+    {
       "name": "Saber BTC-renBTC LP",
       "symbol": "BTC-renBTC",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
@@ -8022,13 +8033,6 @@
       "symbol": "M5oC1",
       "decimals": 2,
       "address": "M5oC1oqq4pj6Tas26waDUBCH3jVmF48utRDY5cAmJfV",
-      "chainId": 104
-    },
-    {
-      "name": "Token SLNA",
-      "symbol": "SLNAA",
-      "decimals": 6,
-      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
       "chainId": 104
     },
     {
