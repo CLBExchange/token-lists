@@ -13130,6 +13130,18 @@
       }
     },
     {
+      "name": "SOLSALON WL Token",
+      "symbol": "SOLSALON$",
+      "logoURI": "https://imagedelivery.net/aAmca-Po70V1nH4n9cT-uA/14122e8d-2a88-4d4e-e7c7-4d2039a3bd00/public",
+      "decimals": 0,
+      "address": "3sVenj4Dr2V37n3C1PfsEcsd3NXdQeCdvkJCpvTJ7W5b",
+      "chainId": 101,
+      "extensions": {
+        "twitter": "https://twitter.com/NftsSalon",
+        "discord": "https://discord.gg/uH9NBxbW"
+      }
+    },
+    {
       "name": "Play",
       "symbol": "PLA",
       "logoURI": "https://raw.githubusercontent.com/FullMoonMiningCo/logos/main/pla-logo.png",
@@ -38176,6 +38188,23 @@
       }
     },
     {
+      "name": "Seven Deadly Sins VIP Token",
+      "symbol": "SDSV",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mQ7A7YPzRfkQnTwgwCMJknQ38EBBuppf1UEHYhBXMYB/logo.png",
+      "decimals": 0,
+      "address": "7mQ7A7YPzRfkQnTwgwCMJknQ38EBBuppf1UEHYhBXMYB",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://sevendeadlysins.io/",
+        "twitter": "https://twitter.com/SevenDeadly5ins",
+        "discord": "https://discord.gg/XMKu9QEEHW",
+        "description": "Use this coin to Mint a Sin NFT for a 50% discount on March 23rd, 2022"
+      }
+    },
+    {
       "name": "Booty Farm",
       "symbol": "BOOTY",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7mT2XbK3iqQrhzDFoy87r61ewkrDWYLHrm94iMiTf8xJ/booty-logo.png",
@@ -57293,6 +57322,24 @@
       "decimals": 0,
       "address": "AS86ZXVsSrVVh9ZJ4WFJmq1teSvayFfG7qzfc5e8UxvM",
       "chainId": 101
+    },
+    {
+      "name": "APSU Token",
+      "symbol": "APSU",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASBUxbkq4nKj8iExKyLVrHzDTZQpSBuaH8kiX3AYEQNj/logo.png",
+      "decimals": 9,
+      "address": "ASBUxbkq4nKj8iExKyLVrHzDTZQpSBuaH8kiX3AYEQNj",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://apsu.io/",
+        "twitter": "https://twitter.com/AnuApsu",
+        "description": "Apsu Token",
+        "telegram": "https://t.me/apsutoken"
+      }
     },
     {
       "name": "Kaboshon Points",
@@ -84000,6 +84047,17 @@
       ]
     },
     {
+      "name": "AVE FENIX",
+      "symbol": "AVFX",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E3Lt4wqQhkz3iQ2VFa8bWhzAgiz6hfARJYFfMkLgmd8g/logo.jpg",
+      "decimals": 0,
+      "address": "E3Lt4wqQhkz3iQ2VFa8bWhzAgiz6hfARJYFfMkLgmd8g",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://avefenixtools.wixsite.com/cryptotools"
+      }
+    },
+    {
       "name": "Cyber Ape",
       "symbol": "APE",
       "logoURI": "https://raw.githubusercontent.com/CyberApeAge/PFPs/main/Cyber%20Ape%20Concept%2043.png",
@@ -91081,6 +91139,14 @@
       ]
     },
     {
+      "name": "HOLLOW Token",
+      "symbol": "HOLLOW",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/F6jdxXGBzrYxK9GtLNorhDL4ku7JgqXSpB26r5WWHNZw/logo.png?raw=true",
+      "decimals": 9,
+      "address": "F6jdxXGBzrYxK9GtLNorhDL4ku7JgqXSpB26r5WWHNZw",
+      "chainId": 101
+    },
+    {
       "name": "BLACKHOLE",
       "symbol": "DARKNESS",
       "logoURI": "https://arweave.net/ig2baWinYJXYT2sD6oi5QDL-mxd11xB3giJwInT7mIg",
@@ -92799,6 +92865,17 @@
       "logoURI": "https://raw.githubusercontent.com/josejaram/JaramCoin/main/JJLogo.png",
       "decimals": 0,
       "address": "FKL9NfHNDHLYpFjE8WhPyg9XDDcUtaweDCnJTLmb4TQy",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "name": "JetWanker Coin",
+      "symbol": "JWC",
+      "logoURI": "https://raw.githubusercontent.com/Cawdroch/crypto/main/logo.png",
+      "decimals": 0,
+      "address": "FKMH3U5uJK8s3zm66ij4urtLGUhX27WSpBLXdbeKgEqg",
       "chainId": 101,
       "tags": [
         "social-token"
@@ -99617,6 +99694,14 @@
         "twitter": "https://twitter.com/SolanaCatCartel",
         "discord": "http://discord.gg/catcartel"
       }
+    },
+    {
+      "name": "Club",
+      "symbol": "Club",
+      "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/GDTVxsG41afjiJngZgFYHJkrG4PkTB9pVx7NuVsm2RcX/logo.png?raw=true",
+      "decimals": 9,
+      "address": "GDTVxsG41afjiJngZgFYHJkrG4PkTB9pVx7NuVsm2RcX",
+      "chainId": 101
     },
     {
       "name": "BRG Milk Token",
@@ -110076,6 +110161,17 @@
         "website": "https://breezybunnies.com/",
         "twitter": "https://twitter.com/Breezybunniess"
       }
+    },
+    {
+      "name": "Star Koin",
+      "symbol": "STAK",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HkahsdMz8okct7oQLXSVEdbax6MxexhDYqVBDtk1mKfp/starkoin.png",
+      "decimals": 0,
+      "address": "HkahsdMz8okct7oQLXSVEdbax6MxexhDYqVBDtk1mKfp",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Dempau Coin",
@@ -126680,6 +126776,19 @@
       "decimals": 0,
       "address": "9XPDVRQ3vfeccyvj6xh2uS5meuRKTXPueWcqGKgjo6pK",
       "chainId": 103
+    },
+    {
+      "name": "UNIVERSAL REPVBLIK TESTNET",
+      "symbol": "UREP_TESTNET",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9b9F4MaqdawKWmzrGC8HdSdiCZA6Pq4kecdFL9gJiYL2/logo.png",
+      "decimals": 9,
+      "address": "9b9F4MaqdawKWmzrGC8HdSdiCZA6Pq4kecdFL9gJiYL2",
+      "chainId": 103,
+      "tags": [
+        "social-token",
+        "stake-pool-token",
+        "investment-token"
+      ]
     },
     {
       "name": "Simon Shchedrin (9bZJ)",
