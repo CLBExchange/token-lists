@@ -33600,6 +33600,20 @@
       }
     },
     {
+      "name": "Meterra",
+      "symbol": "METR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/75rBrSHUpyWNM48bx8SeU8GPHDYJ8sZyXB4AKZBs6vTi/logo.png",
+      "decimals": 9,
+      "address": "75rBrSHUpyWNM48bx8SeU8GPHDYJ8sZyXB4AKZBs6vTi",
+      "chainId": 101,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/meterra-coin"
+      }
+    },
+    {
       "name": "Moon Bag",
       "symbol": "MBAG",
       "logoURI": "https://raw.githubusercontent.com/officialmoonbag/logo22/main/logo22.png",
@@ -68809,6 +68823,14 @@
         "internet",
         "www"
       ]
+    },
+    {
+      "name": "Cryptocurrency",
+      "symbol": "CRYPTO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BxjGvx9Fkk3agp2vqzGzTXhPG7cwmqj6VoUqGhiDFgZK/logo.png",
+      "decimals": 4,
+      "address": "BxjGvx9Fkk3agp2vqzGzTXhPG7cwmqj6VoUqGhiDFgZK",
+      "chainId": 101
     },
     {
       "name": "SolMiner Bronze",
@@ -125381,6 +125403,14 @@
       "extensions": {
         "website": "https://www.solana.com/"
       }
+    },
+    {
+      "name": "Ivan Testnet Solana",
+      "symbol": "IVSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gnqk5SFJjBUt976hSe69LVGYUtvMpGuJvYHHtPkmKJpt/logo.png",
+      "decimals": 6,
+      "address": "Gnqk5SFJjBUt976hSe69LVGYUtvMpGuJvYHHtPkmKJpt",
+      "chainId": 102
     },
     {
       "name": "BiG Coin Test",
