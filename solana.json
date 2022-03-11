@@ -19699,6 +19699,25 @@
       ]
     },
     {
+      "name": "Playground Waves Floor Index",
+      "symbol": "WAVES",
+      "logoURI": "https://i.imgur.com/TMyD8MN.jpg",
+      "decimals": 2,
+      "address": "4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4",
+      "chainId": 101,
+      "tags": [
+        "bridgesplit-fraction",
+        "playground-waves",
+        "fraction-index",
+        "fnft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bridgesplit",
+        "discord": "https://discord.gg/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/4uRn7vxRPWYP4HuAa4UNXwEPLRL8oQ71YByMhr6yBnL4"
+      }
+    },
+    {
       "name": "BTCSEA Trademark SEABTC",
       "symbol": "SEABTC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4uUzZtoVvpdbq4yKSTcEZbu3LxohNhnoYBBksfFtqUcu/logo.png",
@@ -41602,6 +41621,17 @@
       "extensions": {
         "website": "https://Heatfeet401.com/"
       }
+    },
+    {
+      "name": "DaisyChain",
+      "symbol": "DAISY",
+      "logoURI": "https://raw.githubusercontent.com/davidjr103/crypto/main/Logo.png",
+      "decimals": 0,
+      "address": "8E4QTUFyNGEdXnktB67o9XTkPN7viDVUDNH9JKyGHnpb",
+      "chainId": 101,
+      "tags": [
+        "social-token"
+      ]
     },
     {
       "name": "Apple Fruit",
@@ -112390,6 +112420,17 @@
       "chainId": 101,
       "tags": [
         "Social"
+      ]
+    },
+    {
+      "name": "SwedCoin",
+      "symbol": "SWC",
+      "logoURI": "https://raw.githubusercontent.com/phonitekosova/crypto/main/Swedcoin.png",
+      "decimals": 0,
+      "address": "J7dR9dQZDAmhfkTBfaywqA92sqbvBjtcwdP6bCMZys5G",
+      "chainId": 101,
+      "tags": [
+        "social-token"
       ]
     },
     {
