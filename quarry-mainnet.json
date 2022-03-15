@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-15T21:07:28.595Z",
+  "timestamp": "2022-03-15T22:09:39.332Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -8012,6 +8012,13 @@
       "symbol": "FLYT4",
       "decimals": 6,
       "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
+      "chainId": 104
+    },
+    {
+      "name": "Token FScy",
+      "symbol": "FScyQ",
+      "decimals": 2,
+      "address": "FScyQqHKiVUcgGqVpx4jhBqxdrG1VYrSsBwWePk9YfTf",
       "chainId": 104
     },
     {
