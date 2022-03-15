@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-15T11:07:39.374Z",
+  "timestamp": "2022-03-15T12:13:42.474Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -1478,6 +1478,27 @@
       }
     },
     {
+      "name": "Port Finance Lido Staked SOL (Replica)",
+      "symbol": "qrpstSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY/pstSOL.svg",
+      "decimals": 9,
+      "address": "8XM68kWAuna73c4JnEFKCAiwzfpUpWMF35FxWGTRVFqD",
+      "chainId": 101,
+      "tags": [
+        "port",
+        "lending",
+        "collateral-tokens",
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "website": "https://port.finance",
+        "underlyingTokens": [
+          "ESzkdUN8jvJxMqBjWADUomRxHn2ECxLFeeEvrcteLMnY"
+        ],
+        "source": "quarry-merge-mine-replica"
+      }
+    },
+    {
       "name": "Wrapped USDC (Allbridge from BSC)",
       "symbol": "abUSDC",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
@@ -2737,6 +2758,25 @@
         "source": "allbridge",
         "currency": "FTT",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Swim Hexapool LP",
+      "symbol": "swimUSD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BJUH9GJLaMSLV1E7B3SQLCy9eCfyr6zsrwGcpS2MkqR1/logo.svg",
+      "decimals": 8,
+      "address": "BJUH9GJLaMSLV1E7B3SQLCy9eCfyr6zsrwGcpS2MkqR1",
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://swim.io/",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "medium": "https://medium.com/@swimprotocol",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
       }
     },
     {
