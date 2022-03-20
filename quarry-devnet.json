@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-20T20:08:58.305Z",
+  "timestamp": "2022-03-20T21:07:29.800Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -723,6 +723,13 @@
       "symbol": "23yoZ",
       "decimals": 6,
       "address": "23yoZDvMLd5wVBu25ikjKhwXZ3iA7EVkkMsdx3qQkSKa",
+      "chainId": 104
+    },
+    {
+      "name": "Token 24W6",
+      "symbol": "24W6t",
+      "decimals": 6,
+      "address": "24W6t5WHJGS4YScNA14S1B7HnQW1BvCQmMRVxJgGQHsU",
       "chainId": 104
     },
     {
@@ -17402,6 +17409,13 @@
       "chainId": 104
     },
     {
+      "name": "Token 98eh",
+      "symbol": "98ehK",
+      "decimals": 8,
+      "address": "98ehK5ZenkbErzNQc9Acx9CyPxvn8SXwuvthZKrHHZFU",
+      "chainId": 104
+    },
+    {
       "name": "Token 98fq",
       "symbol": "98fqv",
       "decimals": 6,
@@ -21144,6 +21158,13 @@
       "symbol": "Aietg",
       "decimals": 6,
       "address": "AietgKe5jQoQdzSGivmpgZJQZCMxQ5ggeunuvJ4ZPYnL",
+      "chainId": 104
+    },
+    {
+      "name": "Token Aj7U",
+      "symbol": "Aj7Uf",
+      "decimals": 6,
+      "address": "Aj7Uf3DkbiDqYV38ojmB5UJ7vv4gpFhq2KkxMb4upTEv",
       "chainId": 104
     },
     {
@@ -29551,6 +29572,13 @@
       "symbol": "E2hvQ",
       "decimals": 6,
       "address": "E2hvQVGogPFax5sTFGx6KYYAoQCsU45XXSWLYiCq7EDP",
+      "chainId": 104
+    },
+    {
+      "name": "Token E2qM",
+      "symbol": "E2qM1",
+      "decimals": 8,
+      "address": "E2qM1kS5GYRXawc5BhftwvheAwb4jNHmBxaNPHfVd6tj",
       "chainId": 104
     },
     {
