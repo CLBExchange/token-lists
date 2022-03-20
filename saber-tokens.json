@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-02-18T18:02:18.111Z",
+  "timestamp": "2022-03-20T06:12:50.660Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -347,7 +347,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/stsol_msol",
+        "website": "https://app.saber.so/#/pools/7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
         "underlyingTokens": [
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
@@ -1614,7 +1614,7 @@
       "chainId": 101,
       "tags": [],
       "extensions": {
-        "coingeckoId": "avalanche",
+        "coingeckoId": "avalanche-2",
         "source": "allbridge",
         "sourceUrl": "https://app.allbridge.io/bridge"
       }
@@ -2782,7 +2782,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/scn_msol",
+        "website": "https://app.saber.so/#/pools/Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
@@ -3392,15 +3392,16 @@
     {
       "name": "solUST",
       "symbol": "solUST",
-      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/solust.svg",
       "decimals": 6,
       "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "chainId": 101,
       "tags": [
+        "stablecoin",
         "saber-mkt-usd"
       ],
       "extensions": {
-        "website": "https://soluna.money",
+        "website": "https://soluna.money/",
         "twitter": "https://twitter.com/solunaDAO",
         "medium": "https://medium.com/solunadao",
         "coingeckoId": "terrausd",
