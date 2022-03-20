@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-20T10:09:09.469Z",
+  "timestamp": "2022-03-20T11:08:48.050Z",
   "tokens": [
     {
       "name": "USD Coin (Saber Devnet)",
@@ -31464,6 +31464,13 @@
       "symbol": "EwWZc",
       "decimals": 6,
       "address": "EwWZccmd5Vyt38WVix5B8t3boCziwVV2Hc1ifjWuGJQ2",
+      "chainId": 104
+    },
+    {
+      "name": "Token EwYk",
+      "symbol": "EwYkw",
+      "decimals": 6,
+      "address": "EwYkwC73ughoBhoVp5LYvqwaiBF7NQ87htCavGcufhMr",
       "chainId": 104
     },
     {
