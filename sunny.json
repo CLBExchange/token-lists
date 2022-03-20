@@ -5,9 +5,9 @@
   "timestamp": "2022-02-21T02:16:25.684Z",
   "tokens": [
     {
-      "name": "tapSunSBR",
-      "symbol": "tapSunSBR",
-      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/tapsunsbr.svg",
+      "name": "Bacon SBR (sunSBR Token of Appreciation)",
+      "symbol": "baconSBR",
+      "logoURI": "https://cdn.jsdelivr.net/gh/SunnyAggregator/sunny-token-list@master/icons/baconsbr.svg",
       "decimals": 6,
       "address": "BaconSBRjNckjeQCi6E2Ndg8wSmAwPgmfmZnF6ZmyFhz",
       "chainId": 101,
