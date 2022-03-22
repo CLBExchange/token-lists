@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-22T01:37:03.010Z",
+  "timestamp": "2022-03-22T02:22:24.504Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -16715,11 +16715,20 @@
       "chainId": 103
     },
     {
-      "name": "Token 91kV",
-      "symbol": "91kVK",
+      "name": "Token 2jmz (IOU)",
+      "symbol": "iou2jmzZ",
       "decimals": 6,
       "address": "91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX",
-      "chainId": 103
+      "chainId": 103,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"
+        ],
+        "source": "quarry-iou"
+      }
     },
     {
       "name": "Token 91ww",
@@ -28701,11 +28710,20 @@
       "chainId": 103
     },
     {
-      "name": "Token DkMN",
-      "symbol": "DkMNc",
+      "name": "Token 5YwU (IOU)",
+      "symbol": "iou5YwUk",
       "decimals": 9,
       "address": "DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7",
-      "chainId": 103
+      "chainId": 103,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"
+        ],
+        "source": "quarry-iou"
+      }
     },
     {
       "name": "Token DkS7",
@@ -33765,11 +33783,20 @@
       "chainId": 103
     },
     {
-      "name": "Token FxEo",
-      "symbol": "FxEop",
+      "name": "Token G2Ft (IOU)",
+      "symbol": "iouG2Ftt",
       "decimals": 6,
       "address": "FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG",
-      "chainId": 103
+      "chainId": 103,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3"
+        ],
+        "source": "quarry-iou"
+      }
     },
     {
       "name": "Token FxFf",
@@ -39635,11 +39662,20 @@
       "chainId": 103
     },
     {
-      "name": "Token SWim",
-      "symbol": "SWimC",
+      "name": "Token swim (IOU)",
+      "symbol": "iouswimn",
       "decimals": 6,
       "address": "SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ",
-      "chainId": 103
+      "chainId": 103,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+        ],
+        "source": "quarry-iou"
+      }
     },
     {
       "name": "Token SaQG",
