@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-22T00:34:35.749Z",
+  "timestamp": "2022-03-22T01:19:45.482Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -403,6 +403,31 @@
       }
     },
     {
+      "name": "Lido DAO Token (Wormhole) (IOU)",
+      "symbol": "iouLDO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+      "decimals": 8,
+      "address": "3S6ytBWbnLaJr16waKk7GsSfSdnSDWSpXt7VXjnWd3xM",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "ethereum",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://lido.fi/",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "assetContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "twitter": "https://twitter.com/LidoFinance",
+        "coingeckoId": "lido-dao",
+        "underlyingTokens": [
+          "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
+        ],
+        "source": "quarry-iou",
+        "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+      }
+    },
+    {
       "name": "Sunny Saber USDCet-USDC LP",
       "symbol": "sun-USDCet-USDC",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM/icon.png",
@@ -519,6 +544,29 @@
         "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Pole Aggregator Governance Token (IOU)",
+      "symbol": "iouPOLE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+      "decimals": 6,
+      "address": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp",
+      "chainId": 101,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://pole.finance",
+        "twitter": "https://twitter.com/Pole_Finance",
+        "github": "https://github.com/pole-finance",
+        "medium": "https://medium.com/pole-aggregator",
+        "discord": "https://discord.gg/RASngHfHhS",
+        "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+        "underlyingTokens": [
+          "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+        ],
+        "source": "quarry-iou"
       }
     },
     {
@@ -1785,6 +1833,29 @@
       }
     },
     {
+      "name": "Frax Share (Wormhole) (IOU)",
+      "symbol": "iouFXS",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
+      "decimals": 8,
+      "address": "9SbDFHpA5MLXTDhwRgdFXBdLV2ywnXTXFv1gsTq5JZfi",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "assetContract": "https://etherscan.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "coingeckoId": "frax-share",
+        "underlyingTokens": [
+          "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
+        ],
+        "source": "quarry-iou",
+        "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+      }
+    },
+    {
       "name": "Sunny Saber stSOL-SOL LP",
       "symbol": "sun-stSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP/icon.png",
@@ -2705,6 +2776,55 @@
       }
     },
     {
+      "name": "Port Finance Token (IOU)",
+      "symbol": "iouPORT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+      "decimals": 6,
+      "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
+      "chainId": 101,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://port.finance/",
+        "twitter": "https://twitter.com/port_finance",
+        "github": "https://github.com/port-finance/",
+        "medium": "https://medium.com/port-finance",
+        "discord": "https://discord.gg/nAMXAYhTb2",
+        "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+        "coingeckoId": "port-finance",
+        "underlyingTokens": [
+          "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+        ],
+        "source": "quarry-iou",
+        "telegram": "https://t.me/port_finance",
+        "waterfallbot": "https://bit.ly/PORTwaterfall"
+      }
+    },
+    {
+      "name": "Jungle DeFi (IOU)",
+      "symbol": "iouJFI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs/logo.png",
+      "decimals": 9,
+      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
+      "chainId": 101,
+      "tags": [
+        "governance-token",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://jungledefi.io/",
+        "twitter": "https://twitter.com/JungleDeFi",
+        "medium": "https://medium.com/@JungleDeFi",
+        "discord": "https://discord.gg/2DWjx5NywE",
+        "description": "The Jungle Finance governance token.",
+        "underlyingTokens": [
+          "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs"
+        ],
+        "source": "quarry-iou"
+      }
+    },
+    {
       "name": "Sunny Saber HBTC-renBTC LP",
       "symbol": "sun-HBTC-renBTC",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD/icon.png",
@@ -2815,6 +2935,30 @@
         "discord": "https://discord.gg/wGrxQ7GAgP",
         "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
         "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
+      "name": "Sentre (IOU)",
+      "symbol": "iouSNTR",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+      "decimals": 9,
+      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://sentre.io",
+        "twitter": "https://twitter.com/SentreProtocol",
+        "medium": "https://sentre.medium.com",
+        "discord": "https://discord.gg/FyHJgQ7W",
+        "coingeckoId": "sentre",
+        "underlyingTokens": [
+          "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+        ],
+        "source": "quarry-iou",
+        "telegram": "https://t.me/Sentre"
       }
     },
     {
@@ -3418,6 +3562,29 @@
       }
     },
     {
+      "name": "Marinade (IOU)",
+      "symbol": "iouMNDE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+      "decimals": 9,
+      "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+      "chainId": 101,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://marinade.finance",
+        "twitter": "https://twitter.com/MarinadeFinance",
+        "github": "https://github.com/marinade-finance",
+        "medium": "https://medium.com/marinade-finance",
+        "discord": "https://discord.gg/mGqZA5pjRN",
+        "coingeckoId": "marinade",
+        "underlyingTokens": [
+          "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+        ],
+        "source": "quarry-iou"
+      }
+    },
+    {
       "name": "Saros ABR-CASH Saros LP",
       "symbol": "ABR-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s/icon.png",
@@ -3999,6 +4166,31 @@
       }
     },
     {
+      "name": "Lido DAO Token (Wormhole) (IOU)",
+      "symbol": "iouLDO",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+      "decimals": 8,
+      "address": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "ethereum",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://lido.fi/",
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "assetContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "twitter": "https://twitter.com/LidoFinance",
+        "coingeckoId": "lido-dao",
+        "underlyingTokens": [
+          "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
+        ],
+        "source": "quarry-iou",
+        "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+      }
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
@@ -4453,6 +4645,31 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Hubble Protocol Token (IOU)",
+      "symbol": "iouHBB",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
+      "decimals": 6,
+      "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
+      "chainId": 101,
+      "tags": [
+        "stake-pool-token",
+        "utility-token",
+        "community-token",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://hubbleprotocol.io/",
+        "twitter": "https://twitter.com/hubbleprotocol",
+        "discord": "https://discord.gg/d44A8WvK",
+        "coingeckoId": "hubble",
+        "underlyingTokens": [
+          "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6"
+        ],
+        "source": "quarry-iou",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/"
       }
     },
     {
@@ -5874,6 +6091,33 @@
       }
     },
     {
+      "name": "LUNA (Wormhole) (IOU)",
+      "symbol": "iouLUNA",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+      "decimals": 6,
+      "address": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "wormhole",
+        "saber-mkt-luna",
+        "wormhole-v2",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "bridgeContract": "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf",
+        "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE",
+        "coingeckoId": "terra-luna",
+        "underlyingTokens": [
+          "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
+        ],
+        "source": "quarry-iou",
+        "address": "uluna",
+        "currency": "LUNA",
+        "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
       "name": "Saber Wrapped LUNA (Wormhole) (9 decimals)",
       "symbol": "sLUNA-9",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB/icon.png",
@@ -5959,6 +6203,29 @@
           "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Marinade (IOU)",
+      "symbol": "iouMNDE",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+      "decimals": 9,
+      "address": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP",
+      "chainId": 101,
+      "tags": [
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://marinade.finance",
+        "twitter": "https://twitter.com/MarinadeFinance",
+        "github": "https://github.com/marinade-finance",
+        "medium": "https://medium.com/marinade-finance",
+        "discord": "https://discord.gg/mGqZA5pjRN",
+        "coingeckoId": "marinade",
+        "underlyingTokens": [
+          "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+        ],
+        "source": "quarry-iou"
       }
     },
     {
@@ -7382,6 +7649,30 @@
       }
     },
     {
+      "name": "Swim Protocol Token (IOU)",
+      "symbol": "iouSWIM",
+      "logoURI": "https://raw.githubusercontent.com/swim-io/token-list/main/assets/mainnet/swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb/logo.svg",
+      "decimals": 6,
+      "address": "sWimjs5PUmQqTy1Z1SV4FawmMSDG9URFePPch6dFLkP",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "quarry-iou"
+      ],
+      "extensions": {
+        "website": "https://swim.io/",
+        "twitter": "https://twitter.com/SwimProtocol",
+        "medium": "https://medium.com/@swimprotocol",
+        "discord": "https://discord.gg/wGrxQ7GAgP",
+        "underlyingTokens": [
+          "swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"
+        ],
+        "source": "quarry-iou",
+        "telegram": "https://t.me/joinchat/Mnc1WjrKcq8yYTM1",
+        "whitepaper": "https://swim.io/whitepaper.pdf"
+      }
+    },
+    {
       "name": "Saber JSOL-SOL LP",
       "symbol": "JSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png",
@@ -7679,13 +7970,6 @@
       "chainId": 104
     },
     {
-      "name": "Token 3S6y",
-      "symbol": "3S6yt",
-      "decimals": 8,
-      "address": "3S6ytBWbnLaJr16waKk7GsSfSdnSDWSpXt7VXjnWd3xM",
-      "chainId": 104
-    },
-    {
       "name": "Token 3Waq",
       "symbol": "3WaqT",
       "decimals": 2,
@@ -7697,13 +7981,6 @@
       "symbol": "476v1",
       "decimals": 2,
       "address": "476v1uEm8PUYLh72781zMnJVg7u3H6MiURcKrRd3SqJF",
-      "chainId": 104
-    },
-    {
-      "name": "Token 4Bc2",
-      "symbol": "4Bc2x",
-      "decimals": 6,
-      "address": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp",
       "chainId": 104
     },
     {
@@ -7861,13 +8138,6 @@
       "chainId": 104
     },
     {
-      "name": "Token 9SbD",
-      "symbol": "9SbDF",
-      "decimals": 8,
-      "address": "9SbDFHpA5MLXTDhwRgdFXBdLV2ywnXTXFv1gsTq5JZfi",
-      "chainId": 104
-    },
-    {
       "name": "Token 9gf2",
       "symbol": "9gf2J",
       "decimals": 6,
@@ -7917,20 +8187,6 @@
       "chainId": 104
     },
     {
-      "name": "Token Apoj",
-      "symbol": "ApojE",
-      "decimals": 6,
-      "address": "ApojEPvkcNRQxPqLQa5stMDTyzvwaaHWgegkRQ2gv8xH",
-      "chainId": 104
-    },
-    {
-      "name": "Token Aqwe",
-      "symbol": "Aqwef",
-      "decimals": 9,
-      "address": "AqwefBiH7UTmxbzCNkYPNPU1RbPvPPsF4zBSwoqF15L4",
-      "chainId": 104
-    },
-    {
       "name": "Token ArWN",
       "symbol": "ArWNL",
       "decimals": 2,
@@ -7949,13 +8205,6 @@
       "symbol": "B8jik",
       "decimals": 2,
       "address": "B8jikFH2URYdHjUCeKYHTWVMnL9tT4VS4DSEDYgEnTpT",
-      "chainId": 104
-    },
-    {
-      "name": "Token BMzy",
-      "symbol": "BMzyr",
-      "decimals": 9,
-      "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
       "chainId": 104
     },
     {
@@ -7991,13 +8240,6 @@
       "symbol": "CGczF",
       "decimals": 6,
       "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
-      "chainId": 104
-    },
-    {
-      "name": "Token CNxb",
-      "symbol": "CNxb8",
-      "decimals": 9,
-      "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
       "chainId": 104
     },
     {
@@ -8064,13 +8306,6 @@
       "chainId": 104
     },
     {
-      "name": "Token E7de",
-      "symbol": "E7deL",
-      "decimals": 8,
-      "address": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC",
-      "chainId": 104
-    },
-    {
       "name": "Token E93F",
       "symbol": "E93F4",
       "decimals": 6,
@@ -8103,13 +8338,6 @@
       "symbol": "FCUpJ",
       "decimals": 6,
       "address": "FCUpJvENak32mM9PQPxKKUejR4X8GLs2mhmdLva2hEuJ",
-      "chainId": 104
-    },
-    {
-      "name": "Token FLYT",
-      "symbol": "FLYT4",
-      "decimals": 6,
-      "address": "FLYT4FSd5mb9pUtXoPmmbNr6RpdCyVwJAwnojsCrZpRx",
       "chainId": 104
     },
     {
@@ -8197,20 +8425,6 @@
       "chainId": 104
     },
     {
-      "name": "Token LUN9",
-      "symbol": "LUN9j",
-      "decimals": 6,
-      "address": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5",
-      "chainId": 104
-    },
-    {
-      "name": "Token M1KJ",
-      "symbol": "M1KJc",
-      "decimals": 9,
-      "address": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP",
-      "chainId": 104
-    },
-    {
       "name": "Token M5oC",
       "symbol": "M5oC1",
       "decimals": 2,
@@ -8250,13 +8464,6 @@
       "symbol": "affHF",
       "decimals": 6,
       "address": "affHFjSgvsqLYkqBseKwEt2qwhmtj7f36mWFGVmefYD",
-      "chainId": 104
-    },
-    {
-      "name": "Token sWim",
-      "symbol": "sWimj",
-      "decimals": 6,
-      "address": "sWimjs5PUmQqTy1Z1SV4FawmMSDG9URFePPch6dFLkP",
       "chainId": 104
     }
   ]
