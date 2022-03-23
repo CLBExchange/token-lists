@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-23T02:25:47.858Z",
+  "timestamp": "2022-03-23T03:22:58.469Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -4156,6 +4156,13 @@
       "symbol": "3hoKJ",
       "decimals": 6,
       "address": "3hoKJ614FpaYBWMRCgFGcFYqPQnoHDRtAMqA7B9RqzKh",
+      "chainId": 103
+    },
+    {
+      "name": "Token 3i8H",
+      "symbol": "3i8Hi",
+      "decimals": 8,
+      "address": "3i8HiG2T8uU174p56Se3RcCqQsukomLLtr2hwfGy9wTa",
       "chainId": 103
     },
     {
@@ -13453,6 +13460,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 7dPt",
+      "symbol": "7dPtc",
+      "decimals": 8,
+      "address": "7dPtcMtfTG3gYymrJdE6GxnoPruCh6LCSriZVicCaXQQ",
+      "chainId": 103
+    },
+    {
       "name": "Token 7dVW",
       "symbol": "7dVWL",
       "decimals": 6,
@@ -19479,6 +19493,13 @@
       "symbol": "A58hb",
       "decimals": 6,
       "address": "A58hbeABKiKXNnnDjGjiyQr8MaFXKGf3cMAuc6ZqWTU1",
+      "chainId": 103
+    },
+    {
+      "name": "Token A5Gf",
+      "symbol": "A5Gf7",
+      "decimals": 6,
+      "address": "A5Gf7wLa5dKHafUq7ZJGxb6MYudEVihSYM6M2yCx6Xbi",
       "chainId": 103
     },
     {
@@ -37108,6 +37129,13 @@
       "symbol": "HP5yY",
       "decimals": 6,
       "address": "HP5yYSiEjANYWL2DLaSfQtapC3LS7ATdTaztoHcVQhmW",
+      "chainId": 103
+    },
+    {
+      "name": "Token HPTH",
+      "symbol": "HPTHi",
+      "decimals": 6,
+      "address": "HPTHiDxqUcwv14aGpz4Z35ytcYpxipyh3QmMU9qaEAwj",
       "chainId": 103
     },
     {
