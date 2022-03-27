@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-27T09:09:40.024Z",
+  "timestamp": "2022-03-27T10:10:51.114Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -18348,6 +18348,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 9Xzb",
+      "symbol": "9XzbH",
+      "decimals": 6,
+      "address": "9XzbHQfcFjXQP8ugS5SUDbi23P7A3qECZRc4ZomFy7eF",
+      "chainId": 103
+    },
+    {
       "name": "Token 9YLD",
       "symbol": "9YLDr",
       "decimals": 6,
@@ -20599,6 +20606,13 @@
       "symbol": "AaYTS",
       "decimals": 6,
       "address": "AaYTSwpRhwc6x3oReZsmztP2Mp6vt8g6o5zbBThb38HA",
+      "chainId": 103
+    },
+    {
+      "name": "Token Aabu",
+      "symbol": "AabuK",
+      "decimals": 6,
+      "address": "AabuKXcWxFRzmrBuvsN83Z5F8uWfX5zFaVxCJL4uLDXX",
       "chainId": 103
     },
     {
@@ -27137,6 +27151,13 @@
       "chainId": 103
     },
     {
+      "name": "Token D9ET",
+      "symbol": "D9ETk",
+      "decimals": 6,
+      "address": "D9ETkqQi7Enu8E2XsVXhkTLqUsEpoJBZrvD4RBCqApxS",
+      "chainId": 103
+    },
+    {
       "name": "Token D9LQ",
       "symbol": "D9LQ1",
       "decimals": 6,
@@ -28870,6 +28891,13 @@
       "symbol": "Doff4",
       "decimals": 6,
       "address": "Doff4Yx4TkoUNKpPvVnPhJAKYWQyB22kw8fMXETUscq4",
+      "chainId": 103
+    },
+    {
+      "name": "Token DorF",
+      "symbol": "DorFY",
+      "decimals": 6,
+      "address": "DorFYdrGY4C46zgiH2ZekBGBybjWSRyHfxZJQ17CBuc6",
       "chainId": 103
     },
     {
@@ -30808,6 +30836,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Eg88",
+      "symbol": "Eg88K",
+      "decimals": 6,
+      "address": "Eg88KLRsKhj2vNyfaSuDoas9jvvwCXzRterZ66uqynSU",
+      "chainId": 103
+    },
+    {
       "name": "Token Ega6",
       "symbol": "Ega65",
       "decimals": 6,
@@ -32296,6 +32331,13 @@
       "symbol": "FLPy8",
       "decimals": 6,
       "address": "FLPy8xNdrNojBfgjgEqEyp7YGs3WHLGa9bKJTKXPazaD",
+      "chainId": 103
+    },
+    {
+      "name": "Token FLdk",
+      "symbol": "FLdk5",
+      "decimals": 6,
+      "address": "FLdk5UDBAhs9uYAYX2Xoowo983sQbE4fNL54KBL3TtqY",
       "chainId": 103
     },
     {
@@ -37013,6 +37055,13 @@
       "chainId": 103
     },
     {
+      "name": "Token HKGL",
+      "symbol": "HKGLn",
+      "decimals": 6,
+      "address": "HKGLnKFBWzcALsdHbUtMCcV1RLV3TsA9k1EDZie4CQBx",
+      "chainId": 103
+    },
+    {
       "name": "Token HKNm",
       "symbol": "HKNm2",
       "decimals": 6,
@@ -40489,6 +40538,13 @@
       "symbol": "newYH",
       "decimals": 6,
       "address": "newYHbmTAzZuycnHqLXVuBHSkahzxyNuCY95xd3dWWj",
+      "chainId": 103
+    },
+    {
+      "name": "Token nhS7",
+      "symbol": "nhS7M",
+      "decimals": 6,
+      "address": "nhS7M1FZJXt1vXQLaxZNr8JY3cRxyFLy6ChZJeTUgwD",
       "chainId": 103
     },
     {
