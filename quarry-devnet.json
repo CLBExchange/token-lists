@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-27T14:09:09.034Z",
+  "timestamp": "2022-03-27T15:09:36.071Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -19335,6 +19335,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 9ywV",
+      "symbol": "9ywVz",
+      "decimals": 6,
+      "address": "9ywVzQK45iji3VggyB6Lt6Xb9man6eCaWok2BerFmv8P",
+      "chainId": 103
+    },
+    {
       "name": "Token 9z1H",
       "symbol": "9z1HD",
       "decimals": 6,
@@ -19493,6 +19500,13 @@
       "symbol": "A4BfU",
       "decimals": 6,
       "address": "A4BfU8MxosMNT14xLLDxMWzQxyyK8hiKiFAD7ig8vfKe",
+      "chainId": 103
+    },
+    {
+      "name": "Token A4E2",
+      "symbol": "A4E2X",
+      "decimals": 6,
+      "address": "A4E2XwXpZsHNAG9RqMy54yhikr2GgQiHXpUba28JLWQs",
       "chainId": 103
     },
     {
@@ -34142,6 +34156,13 @@
       "chainId": 103
     },
     {
+      "name": "Token G3vP",
+      "symbol": "G3vPC",
+      "decimals": 6,
+      "address": "G3vPC6yeLyZhEhM1mFfEvCEzm5kcLbsNJ6wbTF6PSoH6",
+      "chainId": 103
+    },
+    {
       "name": "Token G3zF",
       "symbol": "G3zFB",
       "decimals": 6,
@@ -34461,6 +34482,13 @@
       "symbol": "GAhWh",
       "decimals": 6,
       "address": "GAhWhJGuQx5jcoksjuXCUGDsJXG5GmMDowTmXYMcRXaP",
+      "chainId": 103
+    },
+    {
+      "name": "Token GAkb",
+      "symbol": "GAkbH",
+      "decimals": 6,
+      "address": "GAkbHcNwnkxJdCSEHxk2Yi9YjY4cuAYGQYmEwKfMpNcv",
       "chainId": 103
     },
     {
