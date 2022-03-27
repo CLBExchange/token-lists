@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-27T08:11:12.672Z",
+  "timestamp": "2022-03-27T09:09:40.024Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -8958,6 +8958,13 @@
       "symbol": "5nfnY",
       "decimals": 6,
       "address": "5nfnYJn7Ndra8pJXqKKa3XRn7ZstdaMEUBv71oxomwHR",
+      "chainId": 103
+    },
+    {
+      "name": "Token 5nhM",
+      "symbol": "5nhMA",
+      "decimals": 6,
+      "address": "5nhMAMwqBBa5uMRt1cx2CT8n5xHDVvucNwr56y4F5cYp",
       "chainId": 103
     },
     {
