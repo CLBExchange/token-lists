@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-28T09:11:41.862Z",
+  "timestamp": "2022-03-28T10:11:06.691Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -7218,6 +7218,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 53Vo",
+      "symbol": "53VoG",
+      "decimals": 6,
+      "address": "53VoGgZ6Lcas1bN4wvMXu3a9212cwsHv2P6qkMeo4KDU",
+      "chainId": 103
+    },
+    {
       "name": "Token 53Vx",
       "symbol": "53VxV",
       "decimals": 6,
@@ -10253,6 +10260,13 @@
       "symbol": "6FqKz",
       "decimals": 6,
       "address": "6FqKzsBhsNvrf35z5VQ5dvsqQWNHFxXfDwN779o4m6h5",
+      "chainId": 103
+    },
+    {
+      "name": "Token 6G1S",
+      "symbol": "6G1SB",
+      "decimals": 6,
+      "address": "6G1SBw5kJ2fo7qjw6Bdp51CbheoKc1iGFtKJEtKfQfZ1",
       "chainId": 103
     },
     {
@@ -21106,6 +21120,13 @@
       "chainId": 103
     },
     {
+      "name": "Token AkBr",
+      "symbol": "AkBrJ",
+      "decimals": 6,
+      "address": "AkBrJAp7xpWbwoNqb71jZXnBmSw6hfh9eg1QxqUmuYLb",
+      "chainId": 103
+    },
+    {
       "name": "Token AkMv",
       "symbol": "AkMve",
       "decimals": 6,
@@ -23687,6 +23708,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BnRG",
+      "symbol": "BnRGv",
+      "decimals": 6,
+      "address": "BnRGvG8piKbYZLKAWzXqhdhW4F4jMYeo7Crr2gb1ptvC",
+      "chainId": 103
+    },
+    {
       "name": "Token BniW",
       "symbol": "BniW5",
       "decimals": 6,
@@ -25730,6 +25758,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Caej",
+      "symbol": "Caejv",
+      "decimals": 6,
+      "address": "CaejvFqpwfTxjRQAQDpR2Lyur1gsRf8JKL2MxDmKbRYD",
+      "chainId": 103
+    },
+    {
       "name": "Token Cai9",
       "symbol": "Cai9a",
       "decimals": 6,
@@ -27699,6 +27734,13 @@
       "symbol": "DKuAt",
       "decimals": 6,
       "address": "DKuAtkWPyY8gzYGFCSXcrgsBgLjnJ5neoQh1Y6k8Pisq",
+      "chainId": 103
+    },
+    {
+      "name": "Token DLME",
+      "symbol": "DLMEu",
+      "decimals": 6,
+      "address": "DLMEuWVyyBrAT43qCYN1w2MMAVk4S6bpYAJmT6oHrwUj",
       "chainId": 103
     },
     {
@@ -31683,6 +31725,13 @@
       "chainId": 103
     },
     {
+      "name": "Token EyQi",
+      "symbol": "EyQiG",
+      "decimals": 6,
+      "address": "EyQiGhqHzmd3n9dwcLkSceMiMzCC5q1Jd9T8qxLNaSEk",
+      "chainId": 103
+    },
+    {
       "name": "Token EyWd",
       "symbol": "EyWdo",
       "decimals": 6,
@@ -31701,6 +31750,13 @@
       "symbol": "EyeUE",
       "decimals": 6,
       "address": "EyeUEmqzqkVgsk8cjZsxZa4MeZtEcnah7MrzWUmD6Bkk",
+      "chainId": 103
+    },
+    {
+      "name": "Token EzV8",
+      "symbol": "EzV8k",
+      "decimals": 6,
+      "address": "EzV8k8K5yFwnAaXMKwJ7CcJia4pMEf62bFsdMG1CKBVP",
       "chainId": 103
     },
     {
@@ -36548,6 +36604,13 @@
       "symbol": "H59YY",
       "decimals": 6,
       "address": "H59YY4eH6w9FhLDA3R5vpvxR1WTN1y7dAEuWYNAvumpw",
+      "chainId": 103
+    },
+    {
+      "name": "Token H5Pm",
+      "symbol": "H5PmR",
+      "decimals": 6,
+      "address": "H5PmRPb78yZpVGsq8MNCbisjksvVSzNzkh9t8haiKt25",
       "chainId": 103
     },
     {
