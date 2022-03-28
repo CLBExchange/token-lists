@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-28T12:15:37.727Z",
+  "timestamp": "2022-03-28T13:20:35.594Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -5913,6 +5913,13 @@
       "symbol": "4SHaQ",
       "decimals": 6,
       "address": "4SHaQ7nxHvHLNW5qUj8xwciqbDqeshq4nDMoUcQCSVZS",
+      "chainId": 103
+    },
+    {
+      "name": "Token 4SMT",
+      "symbol": "4SMTh",
+      "decimals": 6,
+      "address": "4SMThH61ejgHdDMCUiTEQEfcRbnFwqSsXtpeLayQCqT9",
       "chainId": 103
     },
     {
@@ -15711,6 +15718,13 @@
       "symbol": "8W3Te",
       "decimals": 6,
       "address": "8W3TeEaBhZJPQsDVzd24zocJEuZdbviXRyjDb6PPM72N",
+      "chainId": 103
+    },
+    {
+      "name": "Token 8W3u",
+      "symbol": "8W3ud",
+      "decimals": 6,
+      "address": "8W3udrLdH2w25LUfM4n5MNb5CVhus25aG3v7LYLTRpWy",
       "chainId": 103
     },
     {
@@ -26420,6 +26434,13 @@
       "symbol": "Ck39f",
       "decimals": 6,
       "address": "Ck39fvZBsV8hKRMVwQCVy9mwq69BgYfXgaXsU98gfkzQ",
+      "chainId": 103
+    },
+    {
+      "name": "Token Ck5i",
+      "symbol": "Ck5im",
+      "decimals": 6,
+      "address": "Ck5imAHYYyULXVhhEwW81LnTSjZRyKfgHSZTpajKguQQ",
       "chainId": 103
     },
     {
