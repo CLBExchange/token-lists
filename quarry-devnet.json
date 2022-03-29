@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-29T10:11:16.804Z",
+  "timestamp": "2022-03-29T11:25:42.783Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -13012,6 +13012,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 7P3r",
+      "symbol": "7P3rm",
+      "decimals": 6,
+      "address": "7P3rmBVsapyZaHbZwfiShnD733AHJtfmbNbiDb7czxKv",
+      "chainId": 103
+    },
+    {
       "name": "Token 7PFh",
       "symbol": "7PFhT",
       "decimals": 6,
@@ -19220,6 +19227,13 @@
       "symbol": "9qLLW",
       "decimals": 6,
       "address": "9qLLWVxQFWuY6rusTVz5kAr9bie1mye4eo3c7deh45KG",
+      "chainId": 103
+    },
+    {
+      "name": "Token 9qPd",
+      "symbol": "9qPds",
+      "decimals": 6,
+      "address": "9qPdsEmhd1p3uHePXpHPDStKsBjFYF8fmySZS8LuM2Xt",
       "chainId": 103
     },
     {
@@ -26098,6 +26112,13 @@
       "symbol": "CcsDN",
       "decimals": 6,
       "address": "CcsDNazvErMGeRQRWkUbKJyXrgPUaxyfCWxH8foHxUGX",
+      "chainId": 103
+    },
+    {
+      "name": "Token Cd9y",
+      "symbol": "Cd9y5",
+      "decimals": 6,
+      "address": "Cd9y5vSXpiKP7faW7EpDvLKT8fnXaLytyHhmP3crPKXU",
       "chainId": 103
     },
     {
