@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-30T14:09:51.491Z",
+  "timestamp": "2022-03-30T15:10:42.399Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -3095,6 +3095,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 3H8F",
+      "symbol": "3H8FX",
+      "decimals": 6,
+      "address": "3H8FXnbdiCRcSfYFbCrW5VwfKC95249MqLDRv353boNG",
+      "chainId": 103
+    },
+    {
       "name": "Token 3HBo",
       "symbol": "3HBoD",
       "decimals": 6,
@@ -4296,6 +4303,13 @@
       "symbol": "3kLPv",
       "decimals": 6,
       "address": "3kLPvctvXXD5bEZ2RKyAs7hcM7whu8w456ypAYVsx2Rr",
+      "chainId": 103
+    },
+    {
+      "name": "Token 3kX8",
+      "symbol": "3kX8K",
+      "decimals": 6,
+      "address": "3kX8KRxWSerJ19hChF9i84vF3fyVoC6VBSQKFEyWC64R",
       "chainId": 103
     },
     {
@@ -10596,6 +10610,13 @@
       "symbol": "6MzKA",
       "decimals": 6,
       "address": "6MzKAggm7X3ffqgKmZDt1bNqUWKh8j5dYdNWQdaobtzr",
+      "chainId": 103
+    },
+    {
+      "name": "Token 6N5j",
+      "symbol": "6N5j5",
+      "decimals": 6,
+      "address": "6N5j5rarvRG4VEzpNjfZuKFLJX7xts41vQ7dknKv1x31",
       "chainId": 103
     },
     {
@@ -22714,6 +22735,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BK8n",
+      "symbol": "BK8ni",
+      "decimals": 6,
+      "address": "BK8ninnC72NkgL1g9BRrrhoULbDJLw9cXAuTRaXUnDze",
+      "chainId": 103
+    },
+    {
       "name": "Token BKDA",
       "symbol": "BKDAk",
       "decimals": 6,
@@ -27622,6 +27650,13 @@
       "symbol": "DCDav",
       "decimals": 6,
       "address": "DCDavLAqWuvBkL9FNKGKqhdWJZtsGXPcUNzpEvEtPpT",
+      "chainId": 103
+    },
+    {
+      "name": "Token DCEL",
+      "symbol": "DCELq",
+      "decimals": 6,
+      "address": "DCELqVXfm9w6PCWsXikR7ZQqMEgzSAFggq6vYCaAtaaG",
       "chainId": 103
     },
     {
@@ -34151,6 +34186,13 @@
       "symbol": "FuVbD",
       "decimals": 6,
       "address": "FuVbDBucrBZb18RXjCQLHJTZFfiYwVRoPstK9Dnf46pA",
+      "chainId": 103
+    },
+    {
+      "name": "Token Fug1",
+      "symbol": "Fug1b",
+      "decimals": 6,
+      "address": "Fug1bPHZPxfXnimG2EmArG9FFHQtB6U4u5SPJ14rhWKi",
       "chainId": 103
     },
     {
