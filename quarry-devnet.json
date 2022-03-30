@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-30T07:10:55.701Z",
+  "timestamp": "2022-03-30T08:13:47.952Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -16953,6 +16953,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 91iQ",
+      "symbol": "91iQJ",
+      "decimals": 6,
+      "address": "91iQJhV3w9zCtsehAgPLaqKBwxC392ngpkntq5RQMZJS",
+      "chainId": 103
+    },
+    {
       "name": "Token 2jmz (IOU)",
       "symbol": "iou2jmzZ",
       "decimals": 6,
@@ -26262,6 +26269,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Cgu7",
+      "symbol": "Cgu7h",
+      "decimals": 6,
+      "address": "Cgu7hZL68R7TJCmJAZ4Sr1vwq4Cv7XQJZNgm2Ly7yo8x",
+      "chainId": 103
+    },
+    {
       "name": "Token Cgxr",
       "symbol": "Cgxrn",
       "decimals": 6,
@@ -32919,6 +32933,13 @@
       "symbol": "FQkaB",
       "decimals": 6,
       "address": "FQkaBPYPNNoW2ysphvC5syE5GS5AwBP4DGDBRh73pCHd",
+      "chainId": 103
+    },
+    {
+      "name": "Token FQqQ",
+      "symbol": "FQqQs",
+      "decimals": 6,
+      "address": "FQqQs48NuHnPfw2RnKgkiSvEKE6eTTzsbD2euEjKiNTt",
       "chainId": 103
     },
     {
