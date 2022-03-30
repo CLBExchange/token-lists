@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-30T20:10:39.183Z",
+  "timestamp": "2022-03-30T22:10:03.586Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -27519,6 +27519,13 @@
       "symbol": "D8rne",
       "decimals": 6,
       "address": "D8rney6H2PUckKDoTCiLyNEzwdkZDSrHCqeRAf4Cnnca",
+      "chainId": 103
+    },
+    {
+      "name": "Token D9Da",
+      "symbol": "D9DaG",
+      "decimals": 9,
+      "address": "D9DaGmpuzqzYnr4qxXP7EZCu9h1RE47eu3XnayB1e9oZ",
       "chainId": 103
     },
     {
