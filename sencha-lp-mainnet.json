@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-03-29T01:11:36.327Z",
+  "timestamp": "2022-03-30T01:12:42.695Z",
   "tokens": [
     {
       "name": "Sencha RAY-USDC LP",
@@ -380,6 +380,26 @@
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha UST-FRAX LP",
+      "symbol": "sUST-FRAX",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/4ZNwQfRtp1JiqZtMnJPrYxayamZRGJooC4H7XWL58gWT/icon.png",
+      "decimals": 8,
+      "address": "4ZNwQfRtp1JiqZtMnJPrYxayamZRGJooC4H7XWL58gWT",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between UST (Wormhole) and Frax (Wormhole)",
+        "underlyingTokens": [
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+          "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
         ],
         "source": "sencha"
       }
