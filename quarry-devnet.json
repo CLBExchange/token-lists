@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-03-31T03:23:53.635Z",
+  "timestamp": "2022-03-31T04:12:03.183Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -25737,6 +25737,13 @@
       "chainId": 103
     },
     {
+      "name": "Token CVUZ",
+      "symbol": "CVUZu",
+      "decimals": 6,
+      "address": "CVUZu64UMavt72jHmGiK5Zv4c1jxV25LXHb37daCUmJA",
+      "chainId": 103
+    },
+    {
       "name": "Token CVmJ",
       "symbol": "CVmJq",
       "decimals": 6,
@@ -30749,6 +30756,13 @@
       "symbol": "EQ5Ly",
       "decimals": 6,
       "address": "EQ5LyEiSQMWUKcZvniXod8R7VNHwWsVCL4rkGMKtSJkR",
+      "chainId": 103
+    },
+    {
+      "name": "Token EQC5",
+      "symbol": "EQC5E",
+      "decimals": 6,
+      "address": "EQC5EM2Z3LdsmyWwbFSZpy9PFnGYniF14zRdR9akHf8p",
       "chainId": 103
     },
     {
@@ -37213,6 +37227,13 @@
       "symbol": "HBDbV",
       "decimals": 6,
       "address": "HBDbVrUGAajJhDdWp3UHdV9n3f88qSTVzLAWbzkrhsp3",
+      "chainId": 103
+    },
+    {
+      "name": "Token HBEu",
+      "symbol": "HBEuj",
+      "decimals": 6,
+      "address": "HBEujW3ZHRBMwEAezhi1Zp7z2GFZ1mY2FPaeiqgnpwyS",
       "chainId": 103
     },
     {
