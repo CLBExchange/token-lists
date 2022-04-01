@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-01T02:50:21.579Z",
+  "timestamp": "2022-04-01T04:13:32.699Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -665,7 +665,7 @@
         "twitter": "https://twitter.com/SenchaDEX",
         "medium": "https://medium.com/senchadex",
         "discord": "https://discord.gg/aF9USSwG33",
-        "description": "Sencha LP token between Cashio Dollar and LUNA (Wormhole)",
+        "description": "Sencha LP token between Cashio Dollar and LUNA (Portal)",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
