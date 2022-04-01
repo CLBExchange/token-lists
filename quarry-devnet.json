@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-01T07:13:11.672Z",
+  "timestamp": "2022-04-01T08:15:30.419Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -33514,6 +33514,13 @@
       "symbol": "FdhFR",
       "decimals": 6,
       "address": "FdhFRvJTVJ2yCNVZs6v1tAV2N19x6RnJsAY6YzbRSzAa",
+      "chainId": 103
+    },
+    {
+      "name": "Token Fdho",
+      "symbol": "Fdhoi",
+      "decimals": 6,
+      "address": "Fdhoi7Fv2YDGiZNScZ6kadmQMycm7TiFoNE9TmhXpq5d",
       "chainId": 103
     },
     {
