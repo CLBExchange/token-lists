@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-05T06:13:08.233Z",
+  "timestamp": "2022-04-05T07:11:54.703Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -38851,6 +38851,13 @@
       "symbol": "HmyJV",
       "decimals": 6,
       "address": "HmyJVCTbimcmxPDN5opeyQxme66fcJZ2DVGgt1teYRko",
+      "chainId": 103
+    },
+    {
+      "name": "Token Hmz5",
+      "symbol": "Hmz5F",
+      "decimals": 6,
+      "address": "Hmz5F6vx193vtKZvHfc6JmF18eg33AiffyrPHENFBfEF",
       "chainId": 103
     },
     {
