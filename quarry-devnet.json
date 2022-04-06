@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-06T04:11:43.738Z",
+  "timestamp": "2022-04-06T05:10:03.678Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -7421,6 +7421,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 55qd",
+      "symbol": "55qdC",
+      "decimals": 6,
+      "address": "55qdC9fjV8LrdirB4eaxpK2iE7nmeLNJ9gV8PvpFCuGY",
+      "chainId": 103
+    },
+    {
       "name": "Token 56CG",
       "symbol": "56CGj",
       "decimals": 6,
@@ -10396,6 +10403,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 6GRH",
+      "symbol": "6GRHw",
+      "decimals": 6,
+      "address": "6GRHwwArHUrotbo5yYKUiBoyLeGzDzExobgBVomv6w6",
+      "chainId": 103
+    },
+    {
       "name": "Token 6GZB",
       "symbol": "6GZBp",
       "decimals": 6,
@@ -11576,6 +11590,13 @@
       "symbol": "6oDfb",
       "decimals": 6,
       "address": "6oDfbdFNuFTNE5DUncJgkFk2f5m74rBiWnXBaumHygqn",
+      "chainId": 103
+    },
+    {
+      "name": "Token 6oLk",
+      "symbol": "6oLkC",
+      "decimals": 6,
+      "address": "6oLkCd8LeUD8fayQTZkcnn6yoEQtqV35JaRVEbNpRPSx",
       "chainId": 103
     },
     {
@@ -22476,6 +22497,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BBKz",
+      "symbol": "BBKza",
+      "decimals": 6,
+      "address": "BBKzaBadXYMW5PACX54Avn7jcqNw5NPbwFaNKXqsKJpA",
+      "chainId": 103
+    },
+    {
       "name": "Token BBVK",
       "symbol": "BBVKV",
       "decimals": 6,
@@ -28759,6 +28787,13 @@
       "chainId": 103
     },
     {
+      "name": "Token DayG",
+      "symbol": "DayG3",
+      "decimals": 6,
+      "address": "DayG3rYYUSwYiBSFhFSiW6Tmy3qqELBAiFj1RiH5bmwn",
+      "chainId": 103
+    },
+    {
       "name": "Token Db5r",
       "symbol": "Db5ro",
       "decimals": 6,
@@ -33006,6 +33041,13 @@
       "chainId": 103
     },
     {
+      "name": "Token FPeJ",
+      "symbol": "FPeJK",
+      "decimals": 6,
+      "address": "FPeJKQwK6FTPUo5W1aQAF8FwqCPhKWg3a3txs77CqLS",
+      "chainId": 103
+    },
+    {
       "name": "Token FPhA",
       "symbol": "FPhAr",
       "decimals": 6,
@@ -33612,6 +33654,13 @@
       "symbol": "FdwNK",
       "decimals": 6,
       "address": "FdwNKyjt7GTFrd6aJ5uFQjBwwv2WmVgnrh7yjb2y8YU2",
+      "chainId": 103
+    },
+    {
+      "name": "Token Fe2p",
+      "symbol": "Fe2pV",
+      "decimals": 6,
+      "address": "Fe2pVZZMK4eWcWrbYtNGft2WXxnXy93VArg4nEGqrazY",
       "chainId": 103
     },
     {
@@ -36268,6 +36317,13 @@
       "symbol": "GnJdi",
       "decimals": 6,
       "address": "GnJdi2HGNw9mhJtDWTc5YPZr4bf7uDJ21qohDBx7tPdp",
+      "chainId": 103
+    },
+    {
+      "name": "Token Gnmy",
+      "symbol": "Gnmya",
+      "decimals": 6,
+      "address": "Gnmya4GgtuaNSAiwP48Eubwbskfh5biT58msdmbxcQfT",
       "chainId": 103
     },
     {
@@ -40331,6 +40387,13 @@
       "symbol": "QycnY",
       "decimals": 6,
       "address": "QycnYVKQrau6Jn5PDBbeZzHrcWN5WB4v6WMcekZEwh2",
+      "chainId": 103
+    },
+    {
+      "name": "Token RAYw",
+      "symbol": "RAYww",
+      "decimals": 6,
+      "address": "RAYww2hfJy2JTmw3quH9stn42Ko9gFufiQx3EMTyeuV",
       "chainId": 103
     },
     {
