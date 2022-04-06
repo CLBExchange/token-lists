@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-06T05:10:03.678Z",
+  "timestamp": "2022-04-06T07:11:00.089Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -6350,6 +6350,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 4aov",
+      "symbol": "4aovp",
+      "decimals": 6,
+      "address": "4aovp7CsXNfZa7wvThz5ddERY5s7nDp6211tJf5Z3wFi",
+      "chainId": 103
+    },
+    {
       "name": "Token 4apM",
       "symbol": "4apMN",
       "decimals": 6,
@@ -6949,6 +6956,13 @@
       "symbol": "4t7HE",
       "decimals": 6,
       "address": "4t7HExyUZoC9z38S2fDs11HDQjVjrp2F5NThXHMfXTea",
+      "chainId": 103
+    },
+    {
+      "name": "Token 4tKa",
+      "symbol": "4tKaP",
+      "decimals": 6,
+      "address": "4tKaPBLx1ZV4oLWD3sj995T8UY3Be611TAk995J98Rcr",
       "chainId": 103
     },
     {
@@ -14076,6 +14090,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 7mbX",
+      "symbol": "7mbXs",
+      "decimals": 6,
+      "address": "7mbXsgju6HP2U9CE8nw7h31f3c5ShsKV4pbhpUc6yvdK",
+      "chainId": 103
+    },
+    {
       "name": "Token 7mbw",
       "symbol": "7mbwd",
       "decimals": 6,
@@ -20903,6 +20924,13 @@
       "chainId": 103
     },
     {
+      "name": "Token AZfQ",
+      "symbol": "AZfQ1",
+      "decimals": 6,
+      "address": "AZfQ1Cr759dr8M2i57nBZ8CsSqZyV5vEdPusCZZKBazd",
+      "chainId": 103
+    },
+    {
       "name": "Token AZij",
       "symbol": "AZij4",
       "decimals": 6,
@@ -27214,6 +27242,13 @@
       "chainId": 103
     },
     {
+      "name": "Token CzcS",
+      "symbol": "CzcSa",
+      "decimals": 6,
+      "address": "CzcSauefrJjAdMNVjSBSAidbow3q16RrxNjnjASuc1Ds",
+      "chainId": 103
+    },
+    {
       "name": "Token Czjb",
       "symbol": "CzjbM",
       "decimals": 6,
@@ -28476,6 +28511,13 @@
       "symbol": "DTa3w",
       "decimals": 6,
       "address": "DTa3wG6E6FDeA9noPhNaX1ctyLiaCof8xcQhXGE3fLSF",
+      "chainId": 103
+    },
+    {
+      "name": "Token DTaw",
+      "symbol": "DTawK",
+      "decimals": 6,
+      "address": "DTawK6vAnKdov5aTRJqTA5JdEQb9LyMpfLrUggs9iosi",
       "chainId": 103
     },
     {
