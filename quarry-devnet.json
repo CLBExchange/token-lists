@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-08T22:10:30.124Z",
+  "timestamp": "2022-04-08T23:10:20.742Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -145,6 +145,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 12oQ",
+      "symbol": "12oQm",
+      "decimals": 6,
+      "address": "12oQm6EX2yMCQgt4sdno8iEyBaHmMvvH9kJGoM8VaeYX",
+      "chainId": 103
+    },
+    {
       "name": "Token 12vM",
       "symbol": "12vM4",
       "decimals": 6,
@@ -156,6 +163,13 @@
       "symbol": "134gB",
       "decimals": 6,
       "address": "134gBZ86zxBqUm7JJ3saq4yxAw8NN2v5i8sXP5gh3zyU",
+      "chainId": 103
+    },
+    {
+      "name": "Token 13He",
+      "symbol": "13Heb",
+      "decimals": 6,
+      "address": "13HebtM25rmaVW2qiw9XpHdffjkFtorUfX38fMfN4Dud",
       "chainId": 103
     },
     {
@@ -569,6 +583,13 @@
       "symbol": "29B7d",
       "decimals": 6,
       "address": "29B7dXtriMcJoddaphLt4YZF7eRAzpJz8CjiV7EbqNpQ",
+      "chainId": 103
+    },
+    {
+      "name": "Token 29JP",
+      "symbol": "29JPn",
+      "decimals": 6,
+      "address": "29JPnwp9g6BVZN8gX2ZTjRHBkjDuAnoWWFxuByeJSD2F",
       "chainId": 103
     },
     {
@@ -3323,6 +3344,13 @@
       "symbol": "3Kndo",
       "decimals": 6,
       "address": "3KndoLRhAhKQg3RXZeopE367ZwG1T4frXutUSrzCpseD",
+      "chainId": 103
+    },
+    {
+      "name": "Token 3KrJ",
+      "symbol": "3KrJ7",
+      "decimals": 6,
+      "address": "3KrJ7QobUKaVvaZvbgxekbAPfgm1Svp7iyFiha58yo8E",
       "chainId": 103
     },
     {
@@ -10760,6 +10788,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 6MkX",
+      "symbol": "6MkX9",
+      "decimals": 6,
+      "address": "6MkX9RLq5UpE3MCGQSFcgnd4nRHE2pPaxs6XkfBQgcNy",
+      "chainId": 103
+    },
+    {
       "name": "Token 6Mki",
       "symbol": "6Mki1",
       "decimals": 6,
@@ -12598,6 +12633,13 @@
       "symbol": "79mCa",
       "decimals": 6,
       "address": "79mCaRMjk7BWfDTeq8AfcyTCYZ5hxQWczitBPpD9zdVC",
+      "chainId": 103
+    },
+    {
+      "name": "Token 79oM",
+      "symbol": "79oMY",
+      "decimals": 6,
+      "address": "79oMYTnCud6sDuDoS6WD98Q1iAvWVfuzEnvGW9DDLHJM",
       "chainId": 103
     },
     {
@@ -17344,6 +17386,13 @@
       "symbol": "93bvu",
       "decimals": 6,
       "address": "93bvuh678yArbvXbjS8ToU3PocWMMozsZSaiGCWB14KX",
+      "chainId": 103
+    },
+    {
+      "name": "Token 93d5",
+      "symbol": "93d5X",
+      "decimals": 6,
+      "address": "93d5XYDqGVB2jYNLdxmLmGDLHAiGYX11tuboW8PRzmxa",
       "chainId": 103
     },
     {
@@ -29592,6 +29641,13 @@
       "chainId": 103
     },
     {
+      "name": "Token DkHy",
+      "symbol": "DkHyA",
+      "decimals": 6,
+      "address": "DkHyARfxaBGGMG5na6UDrwLyccPrgziUzmqXHdujGNoR",
+      "chainId": 103
+    },
+    {
       "name": "Token DkM1",
       "symbol": "DkM1w",
       "decimals": 6,
@@ -30632,6 +30688,13 @@
       "symbol": "E8qvP",
       "decimals": 6,
       "address": "E8qvPXjFUJChuf8qub3cou8EFfotmMPqaVsuhNBEbPtf",
+      "chainId": 103
+    },
+    {
+      "name": "Token E9CE",
+      "symbol": "E9CEQ",
+      "decimals": 6,
+      "address": "E9CEQdFpGttGbxCRjN5nWQNCwHkj5wAHe5rQ5dzptZAc",
       "chainId": 103
     },
     {
@@ -34354,6 +34417,13 @@
       "symbol": "FnHA1",
       "decimals": 6,
       "address": "FnHA1GbWfBHqZPPUSwhXuYwoL8h5Uks6vD6FmQdFehP3",
+      "chainId": 103
+    },
+    {
+      "name": "Token FnJd",
+      "symbol": "FnJd9",
+      "decimals": 6,
+      "address": "FnJd9BzsWyRexdbTYtgHTrEochkTNC4xzqabBmGgsBxt",
       "chainId": 103
     },
     {
