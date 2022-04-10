@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-10T22:11:09.766Z",
+  "timestamp": "2022-04-10T23:09:56.944Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -14293,6 +14293,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 7mm7",
+      "symbol": "7mm77",
+      "decimals": 6,
+      "address": "7mm77AzRqj89r2PhUsMKXGh8G48bM8Gr1KQbH5fz7Q4M",
+      "chainId": 103
+    },
+    {
       "name": "Token 7mnj",
       "symbol": "7mnj3",
       "decimals": 6,
@@ -16054,6 +16061,13 @@
       "symbol": "8Wq9e",
       "decimals": 6,
       "address": "8Wq9ege86emsnNCz7Huq12mAv6p8t1UMMBRs6Dk8FJDr",
+      "chainId": 103
+    },
+    {
+      "name": "Token 8WtF",
+      "symbol": "8WtFU",
+      "decimals": 6,
+      "address": "8WtFURWDt9Jn4Buo2UFkSWX8D2MYFj9yBN7ZqhTUGnJJ",
       "chainId": 103
     },
     {
@@ -37892,6 +37906,13 @@
       "symbol": "HBV71",
       "decimals": 6,
       "address": "HBV71tVunK8P2p6u6AYLcXPTraVNiY1qQ7jxvR5v4YmF",
+      "chainId": 103
+    },
+    {
+      "name": "Token HBnV",
+      "symbol": "HBnVK",
+      "decimals": 6,
+      "address": "HBnVKUwauBJJPVgi4EUPJTkHiuemqVJQSXvCq1m2NiVk",
       "chainId": 103
     },
     {
