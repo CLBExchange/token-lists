@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-10T11:09:27.194Z",
+  "timestamp": "2022-04-10T12:15:04.936Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -7341,6 +7341,13 @@
       "symbol": "4zx4B",
       "decimals": 6,
       "address": "4zx4Bx1Ho7Q5SLLRJytJaap9cyWB511EbAYhaDh9tLcb",
+      "chainId": 103
+    },
+    {
+      "name": "Token 4zxD",
+      "symbol": "4zxDH",
+      "decimals": 6,
+      "address": "4zxDHVJMtp43LFW6Nwvvhy7rqecBneKZPScnUtRYDbZw",
       "chainId": 103
     },
     {
@@ -24658,6 +24665,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BuqA",
+      "symbol": "BuqAF",
+      "decimals": 6,
+      "address": "BuqAF3J3gxbpzZZ6kvML3by4wZJectTuyntpuXeTi4rH",
+      "chainId": 103
+    },
+    {
       "name": "Token BvC9",
       "symbol": "BvC9d",
       "decimals": 6,
@@ -26322,6 +26336,13 @@
       "symbol": "CZLdq",
       "decimals": 6,
       "address": "CZLdqWyvzFu4DEFVgSgKoQSEwuQ1WEXUTEVcRvAHQNdT",
+      "chainId": 103
+    },
+    {
+      "name": "Token CZLq",
+      "symbol": "CZLqi",
+      "decimals": 6,
+      "address": "CZLqidiaMHJoeWzZH34HDTAmLN1nsXneMNZ3v5tfnG5w",
       "chainId": 103
     },
     {
