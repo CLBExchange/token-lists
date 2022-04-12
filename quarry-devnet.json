@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-12T02:31:11.916Z",
+  "timestamp": "2022-04-12T04:11:31.275Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -4408,6 +4408,13 @@
       "symbol": "3iPJr",
       "decimals": 6,
       "address": "3iPJrzb1uMrwoUkgn5Tng7n8rhzanGQ6b3zUkRyY1w9V",
+      "chainId": 103
+    },
+    {
+      "name": "Token 3iPS",
+      "symbol": "3iPSD",
+      "decimals": 6,
+      "address": "3iPSDEShtaJYMoG6QUN7hWAS51YH39pGfhj6G5YhxGm9",
       "chainId": 103
     },
     {
@@ -13649,6 +13656,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 7UvF",
+      "symbol": "7UvFr",
+      "decimals": 6,
+      "address": "7UvFrKQqmCksMQft2xKMEXVTQeW4GWzrDaRarrYvbhoj",
+      "chainId": 103
+    },
+    {
       "name": "Token 7V1E",
       "symbol": "7V1EM",
       "decimals": 6,
@@ -20613,6 +20627,13 @@
       "symbol": "ADSrV",
       "decimals": 6,
       "address": "ADSrVcJZ8QebsnPjcNtM8XiXhrVACdQTyLW1iSqM4imo",
+      "chainId": 103
+    },
+    {
+      "name": "Token ADa6",
+      "symbol": "ADa6E",
+      "decimals": 6,
+      "address": "ADa6ED9PDa6iZLvTgGziW8GqtZBMNq494zwBJJbLNYLZ",
       "chainId": 103
     },
     {
@@ -32397,6 +32418,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Ep4g",
+      "symbol": "Ep4gg",
+      "decimals": 6,
+      "address": "Ep4ggUuXdJZhjJsJAT7sBmxP7ke3XNaLCuocuxpLx6g7",
+      "chainId": 103
+    },
+    {
       "name": "Token EpAM",
       "symbol": "EpAMY",
       "decimals": 6,
@@ -35106,6 +35134,13 @@
       "chainId": 103
     },
     {
+      "name": "Token FuzA",
+      "symbol": "FuzAs",
+      "decimals": 6,
+      "address": "FuzAszQAPStcstfr8a24aLmjuR9sSyf7LqQqHxEh4k3t",
+      "chainId": 103
+    },
+    {
       "name": "Token Fv6Z",
       "symbol": "Fv6ZM",
       "decimals": 6,
@@ -36912,6 +36947,13 @@
       "symbol": "Ghw3M",
       "decimals": 6,
       "address": "Ghw3MgiiJCjpchEM9MbNixkzBQAEwFaJqzECydQdW1Mk",
+      "chainId": 103
+    },
+    {
+      "name": "Token Gi8o",
+      "symbol": "Gi8oH",
+      "decimals": 6,
+      "address": "Gi8oHuNQFBinzUDAeDxKhczDcaKJwQmWwaTjNaJi4DqC",
       "chainId": 103
     },
     {
@@ -42029,6 +42071,13 @@
       "symbol": "jqp6f",
       "decimals": 6,
       "address": "jqp6fi1TWuyNKrnvu9MN96evswKM5DbksoUr8d7PMoB",
+      "chainId": 103
+    },
+    {
+      "name": "Token k4xz",
+      "symbol": "k4xzb",
+      "decimals": 6,
+      "address": "k4xzbqbewqQYxU8BnpEMyp1ZAaST8G7cFz6uvZsiqAv",
       "chainId": 103
     },
     {
