@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-16T06:12:09.812Z",
+  "timestamp": "2022-04-16T07:10:38.131Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -28777,6 +28777,13 @@
       "symbol": "DLMEu",
       "decimals": 6,
       "address": "DLMEuWVyyBrAT43qCYN1w2MMAVk4S6bpYAJmT6oHrwUj",
+      "chainId": 103
+    },
+    {
+      "name": "Token DLVC",
+      "symbol": "DLVCh",
+      "decimals": 6,
+      "address": "DLVChm47mLgpUwqMsZkzwtjKyLcjj3qGMDrjJQDgKeKo",
       "chainId": 103
     },
     {
