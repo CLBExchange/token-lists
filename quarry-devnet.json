@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-17T17:12:44.823Z",
+  "timestamp": "2022-04-17T18:11:26.619Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -1530,6 +1530,13 @@
       "symbol": "2W4cc",
       "decimals": 6,
       "address": "2W4ccZh5Er2JDjxKNT2ZZBExTVfiRVBQPWsfpRz4QZgU",
+      "chainId": 103
+    },
+    {
+      "name": "Token 2WPG",
+      "symbol": "2WPGe",
+      "decimals": 6,
+      "address": "2WPGeEa8a4mND4aLfQTKEDGyB4QqEVabcoYYHYnYcD8q",
       "chainId": 103
     },
     {
@@ -42512,6 +42519,13 @@
       "symbol": "tXK9H",
       "decimals": 6,
       "address": "tXK9H4Z3SoApc2C1XkirW3BuY1AuAqqYYBakdJVcD4N",
+      "chainId": 103
+    },
+    {
+      "name": "Token test",
+      "symbol": "testj",
+      "decimals": 6,
+      "address": "testj1EgCumoptkoBvayypQWrsMgGmaum92ZTyrBkKd",
       "chainId": 103
     },
     {
