@@ -23,7 +23,7 @@
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     }
   },
-  "timestamp": "2022-04-20T21:03:16.799Z",
+  "timestamp": "2022-04-20T21:32:11.137Z",
   "tokens": [
     {
       "name": "Saber USDC-USDT LP",
@@ -66,7 +66,7 @@
     {
       "name": "USD Coin (Saber Devnet)",
       "symbol": "USDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8.png",
       "decimals": 6,
       "address": "2tWC4JAdL4AxEFJySziYJfsAnW2MHKRo98vbAPiRDSk8",
       "chainId": 103,
@@ -267,7 +267,7 @@
     {
       "name": "USDT (Saber Devnet)",
       "symbol": "USDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/103/EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS.svg",
       "decimals": 6,
       "address": "EJwZgeZrdC8TXTQbQBoL6bfuAnFUUy1PVCMB4DYPzVaS",
       "chainId": 103,
