@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-20T17:40:32.703Z",
+  "timestamp": "2022-04-20T21:03:14.806Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -3652,6 +3652,42 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Saber NIRV-UST LP",
+      "symbol": "NIRV-UST",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/#/pools/nirv_ust",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "NIRV",
+      "symbol": "NIRV",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa.png",
+      "decimals": 6,
+      "address": "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+      "chainId": 101,
+      "tags": [
+        "currency",
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://nirvana.finance/",
+        "twitter": "https://twitter.com/nirvana_fi",
+        "currency": "USD"
       }
     },
     {
