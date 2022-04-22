@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-22T08:11:22.138Z",
+  "timestamp": "2022-04-22T09:12:05.386Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -3910,6 +3910,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token CNYP",
+      "symbol": "CNYPH",
+      "decimals": 6,
+      "address": "CNYPHKwAs5m3JRgXtazsW1TU9msbMDt64StmeJgDdsb4",
+      "chainId": 101
     },
     {
       "name": "Marinade (IOU)",
