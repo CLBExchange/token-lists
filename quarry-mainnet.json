@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-27T07:08:45.533Z",
+  "timestamp": "2022-04-27T08:11:32.734Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -6396,6 +6396,25 @@
           "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv"
         ],
         "source": "quarry-merge-mine-replica"
+      }
+    },
+    {
+      "name": "Space Falcon",
+      "symbol": "FCON",
+      "logoURI": "https://raw.githubusercontent.com/spacefalcon-io/crypto/main/logo.svg",
+      "decimals": 4,
+      "address": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj",
+      "chainId": 101,
+      "tags": [
+        "game-token",
+        "utility-token",
+        "trading-token"
+      ],
+      "extensions": {
+        "website": "https://spacefalcon.io/",
+        "twitter": "https://twitter.com/SpaceFalconIO",
+        "coingeckoId": "spacefalcon",
+        "telegram": "https://t.me/spacefalconIO"
       }
     },
     {
