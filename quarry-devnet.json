@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-28T20:11:03.045Z",
+  "timestamp": "2022-04-28T21:09:21.220Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -21824,6 +21824,13 @@
       "symbol": "AhusV",
       "decimals": 6,
       "address": "AhusVf7pPzhbExWWpXxCNMN6TUwQfdjpUdcpVRjvT32z",
+      "chainId": 103
+    },
+    {
+      "name": "Token Ai19",
+      "symbol": "Ai19H",
+      "decimals": 6,
+      "address": "Ai19HM1nJf9AjXxyUF6DPg9E5hzU8dGos1uQLA71QsyQ",
       "chainId": 103
     },
     {
