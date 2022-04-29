@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-28T23:08:55.014Z",
+  "timestamp": "2022-04-29T00:42:16.688Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -5620,6 +5620,13 @@
         "currency": "FTT",
         "sourceUrl": "https://app.synthetify.io/staking"
       }
+    },
+    {
+      "name": "Token Frui",
+      "symbol": "Fruit",
+      "decimals": 6,
+      "address": "FruitYn7tet6XNHKD5ZT9zj95P1FBRC1imq1nLoPaiou",
+      "chainId": 101
     },
     {
       "name": "Wrapped USDT (Allbridge from Avalanche)",
