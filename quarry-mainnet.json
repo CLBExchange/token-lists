@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-29T19:07:23.263Z",
+  "timestamp": "2022-04-29T21:08:44.396Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -1167,6 +1167,27 @@
         "source": "synthetify",
         "currency": "LUNA",
         "sourceUrl": "https://app.synthetify.io/staking"
+      }
+    },
+    {
+      "name": "Friktion mSOL (Volt 01 Call)",
+      "symbol": "fcmSOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt/logo.png",
+      "decimals": 9,
+      "address": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt",
+      "chainId": 101,
+      "tags": [
+        "friktion",
+        "friktion-share",
+        "volt-01",
+        "volt-01-call"
+      ],
+      "extensions": {
+        "website": "https://friktion.fi",
+        "twitter": "https://twitter.com/friktion_labs",
+        "github": "https://github.com/Friktion-Labs",
+        "medium": "https://friktionlabs.medium.com/",
+        "discord": "https://discord.com/invite/eSkK9X67Qj"
       }
     },
     {
