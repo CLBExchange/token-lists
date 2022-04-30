@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-29T23:09:04.603Z",
+  "timestamp": "2022-04-30T00:43:24.720Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -277,7 +277,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdc_usdt",
+        "website": "https://app.saber.so/pools/usdc_usdt",
         "underlyingTokens": [
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -2496,7 +2496,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aeusdc",
+        "website": "https://app.saber.so/pools/aeusdc",
         "underlyingTokens": [
           "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2516,7 +2516,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aeeth",
+        "website": "https://app.saber.so/pools/aeeth",
         "underlyingTokens": [
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma",
           "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE"
@@ -2594,7 +2594,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/asol",
+        "website": "https://app.saber.so/pools/asol",
         "underlyingTokens": [
           "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
           "So11111111111111111111111111111111111111112"
@@ -2614,7 +2614,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/afusdc",
+        "website": "https://app.saber.so/pools/afusdc",
         "underlyingTokens": [
           "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2634,7 +2634,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/atust_cash",
+        "website": "https://app.saber.so/pools/atust_cash",
         "underlyingTokens": [
           "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -2654,7 +2654,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/fei_ust",
+        "website": "https://app.saber.so/pools/fei_ust",
         "underlyingTokens": [
           "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
           "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
@@ -2674,7 +2674,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/afeth",
+        "website": "https://app.saber.so/pools/afeth",
         "underlyingTokens": [
           "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -2694,7 +2694,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/abusdc",
+        "website": "https://app.saber.so/pools/abusdc",
         "underlyingTokens": [
           "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2714,7 +2714,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/abusdt",
+        "website": "https://app.saber.so/pools/abusdt",
         "underlyingTokens": [
           "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -2734,7 +2734,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/fei_cash",
+        "website": "https://app.saber.so/pools/fei_cash",
         "underlyingTokens": [
           "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -2754,7 +2754,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/abbtcb",
+        "website": "https://app.saber.so/pools/abbtcb",
         "underlyingTokens": [
           "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -2774,7 +2774,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/mim_cash",
+        "website": "https://app.saber.so/pools/mim_cash",
         "underlyingTokens": [
           "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -2794,7 +2794,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/mim_ust",
+        "website": "https://app.saber.so/pools/mim_ust",
         "underlyingTokens": [
           "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
           "UST98bfV6EASdTFQrRwCBczpehdMFwYCUdLT5tEbhpW"
@@ -2814,7 +2814,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/abeth",
+        "website": "https://app.saber.so/pools/abeth",
         "underlyingTokens": [
           "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -2834,7 +2834,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/afbtc",
+        "website": "https://app.saber.so/pools/afbtc",
         "underlyingTokens": [
           "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -2854,7 +2854,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/afdai",
+        "website": "https://app.saber.so/pools/afdai",
         "underlyingTokens": [
           "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2874,7 +2874,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/apusdc",
+        "website": "https://app.saber.so/pools/apusdc",
         "underlyingTokens": [
           "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -2935,7 +2935,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aawbtc",
+        "website": "https://app.saber.so/pools/aawbtc",
         "underlyingTokens": [
           "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -2955,7 +2955,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aausdc",
+        "website": "https://app.saber.so/pools/aausdc",
         "underlyingTokens": [
           "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2975,7 +2975,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aadai",
+        "website": "https://app.saber.so/pools/aadai",
         "underlyingTokens": [
           "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -2995,7 +2995,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aausdt",
+        "website": "https://app.saber.so/pools/aausdt",
         "underlyingTokens": [
           "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -3316,7 +3316,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ibbtc_ren",
+        "website": "https://app.saber.so/pools/ibbtc_ren",
         "underlyingTokens": [
           "66CgfJQoZkpkrEgC1z4vFJcSFc4V6T5HqbjSSNuqcNJz",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -3343,7 +3343,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/webusd",
+        "website": "https://app.saber.so/pools/webusd",
         "underlyingTokens": [
           "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -3383,7 +3383,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/busd",
+        "website": "https://app.saber.so/pools/busd",
         "underlyingTokens": [
           "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -3403,7 +3403,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/abbusd",
+        "website": "https://app.saber.so/pools/abbusd",
         "underlyingTokens": [
           "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -3872,7 +3872,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/pai_cash",
+        "website": "https://app.saber.so/pools/pai_cash",
         "underlyingTokens": [
           "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -3891,7 +3891,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/cash",
+        "website": "https://app.saber.so/pools/cash",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -3911,7 +3911,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/acusd_cash",
+        "website": "https://app.saber.so/pools/acusd_cash",
         "underlyingTokens": [
           "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "C9xqJe3gMTUDKidZsZ6jJ7tL9zSLimDUKVpgUbLZnNbi"
@@ -3931,7 +3931,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ust_cash",
+        "website": "https://app.saber.so/pools/ust_cash",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -4165,7 +4165,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wdai",
+        "website": "https://app.saber.so/pools/wdai",
         "underlyingTokens": [
           "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -4398,7 +4398,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/dai",
+        "website": "https://app.saber.so/pools/dai",
         "underlyingTokens": [
           "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -4688,7 +4688,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/everstake_sol",
+        "website": "https://app.saber.so/pools/everstake_sol",
         "underlyingTokens": [
           "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
           "So11111111111111111111111111111111111111112"
@@ -5229,7 +5229,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/frax",
+        "website": "https://app.saber.so/pools/frax",
         "underlyingTokens": [
           "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -5249,7 +5249,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wfrax",
+        "website": "https://app.saber.so/pools/wfrax",
         "underlyingTokens": [
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -5381,7 +5381,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ftt",
+        "website": "https://app.saber.so/pools/ftt",
         "underlyingTokens": [
           "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
           "FTT9rBBrYwcHam4qLvkzzzhrsihYMbZ3k6wJbdoahxAt"
@@ -5401,7 +5401,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wftt",
+        "website": "https://app.saber.so/pools/wftt",
         "underlyingTokens": [
           "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
           "FTT9GrHBVHvDeUTgLU8FxVJouGqg9uiWGmmjETdm32Sx"
@@ -5736,7 +5736,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/acusdc",
+        "website": "https://app.saber.so/pools/acusdc",
         "underlyingTokens": [
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui"
@@ -6038,7 +6038,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/hbtc",
+        "website": "https://app.saber.so/pools/hbtc",
         "underlyingTokens": [
           "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -6058,7 +6058,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ahusdt",
+        "website": "https://app.saber.so/pools/ahusdt",
         "underlyingTokens": [
           "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -6078,7 +6078,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ahwbtc",
+        "website": "https://app.saber.so/pools/ahwbtc",
         "underlyingTokens": [
           "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
           "FACTQhZBfRzC7A76antnpAoZtiwYmUfdAN8wz7e8rxC5"
@@ -6156,7 +6156,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdh",
+        "website": "https://app.saber.so/pools/usdh",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -6176,7 +6176,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdh_cash",
+        "website": "https://app.saber.so/pools/usdh_cash",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -6196,7 +6196,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/husd",
+        "website": "https://app.saber.so/pools/husd",
         "underlyingTokens": [
           "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -6216,7 +6216,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/whusd",
+        "website": "https://app.saber.so/pools/whusd",
         "underlyingTokens": [
           "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -6235,7 +6235,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdh_ust",
+        "website": "https://app.saber.so/pools/usdh_ust",
         "underlyingTokens": [
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
@@ -6643,7 +6643,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/atust_wust",
+        "website": "https://app.saber.so/pools/atust_wust",
         "underlyingTokens": [
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
@@ -6701,7 +6701,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wluna",
+        "website": "https://app.saber.so/pools/wluna",
         "underlyingTokens": [
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
@@ -6776,7 +6776,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xluna",
+        "website": "https://app.saber.so/pools/xluna",
         "underlyingTokens": [
           "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
@@ -6796,7 +6796,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/luna",
+        "website": "https://app.saber.so/pools/luna",
         "underlyingTokens": [
           "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
           "KUANeD8EQvwpT1W7QZDtDqctLEh2FfSTy5pThE9CogT"
@@ -6816,7 +6816,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/bilira",
+        "website": "https://app.saber.so/pools/bilira",
         "underlyingTokens": [
           "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
           "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
@@ -6866,7 +6866,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/mai",
+        "website": "https://app.saber.so/pools/mai",
         "underlyingTokens": [
           "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -6915,7 +6915,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/nirv_ust",
+        "website": "https://app.saber.so/pools/nirv_ust",
         "underlyingTokens": [
           "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
@@ -6954,7 +6954,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/apusdt",
+        "website": "https://app.saber.so/pools/apusdt",
         "underlyingTokens": [
           "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -6992,7 +6992,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/psol",
+        "website": "https://app.saber.so/pools/psol",
         "underlyingTokens": [
           "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
           "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
@@ -7011,7 +7011,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdc_pai",
+        "website": "https://app.saber.so/pools/usdc_pai",
         "underlyingTokens": [
           "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -7066,7 +7066,7 @@
         "saber-lp-port"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/port_2pool",
+        "website": "https://app.saber.so/pools/port_2pool",
         "underlyingTokens": [
           "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
           "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58"
@@ -7085,7 +7085,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/prtsol",
+        "website": "https://app.saber.so/pools/prtsol",
         "underlyingTokens": [
           "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
           "So11111111111111111111111111111111111111112"
@@ -7204,7 +7204,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/btc",
+        "website": "https://app.saber.so/pools/btc",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "SBTCB6pWqeDo6zGi9WVRMLCsKsN6JiR1RMUqvLtgSRv"
@@ -7224,7 +7224,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/srm",
+        "website": "https://app.saber.so/pools/srm",
         "underlyingTokens": [
           "2jXy799YnEcRXneFo2GEAB6SDRsAa767HpWmktRr1DaP",
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
@@ -7280,7 +7280,7 @@
         "saber-lp-solend"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/solend_sol_msol",
+        "website": "https://app.saber.so/pools/solend_sol_msol",
         "underlyingTokens": [
           "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
           "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h"
@@ -7325,7 +7325,7 @@
         "saber-lp-solend"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/solend_usdc_usdt",
+        "website": "https://app.saber.so/pools/solend_usdc_usdt",
         "underlyingTokens": [
           "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
           "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8"
@@ -7383,7 +7383,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/socean",
+        "website": "https://app.saber.so/pools/socean",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "So11111111111111111111111111111111111111112"
@@ -7402,7 +7402,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/msol_sol",
+        "website": "https://app.saber.so/pools/msol_sol",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
           "So11111111111111111111111111111111111111112"
@@ -7421,7 +7421,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/msol_jsol",
+        "website": "https://app.saber.so/pools/msol_jsol",
         "underlyingTokens": [
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
           "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
@@ -7440,7 +7440,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/scn_jsol",
+        "website": "https://app.saber.so/pools/scn_jsol",
         "underlyingTokens": [
           "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
           "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
@@ -7527,7 +7527,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/weusdc",
+        "website": "https://app.saber.so/pools/weusdc",
         "underlyingTokens": [
           "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -7567,7 +7567,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wusdk",
+        "website": "https://app.saber.so/pools/wusdk",
         "underlyingTokens": [
           "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -7587,7 +7587,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/weusdt",
+        "website": "https://app.saber.so/pools/weusdt",
         "underlyingTokens": [
           "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -7607,7 +7607,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/ust",
+        "website": "https://app.saber.so/pools/ust",
         "underlyingTokens": [
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1",
           "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm"
@@ -7685,7 +7685,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wust",
+        "website": "https://app.saber.so/pools/wust",
         "underlyingTokens": [
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -7704,7 +7704,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/solust",
+        "website": "https://app.saber.so/pools/solust",
         "underlyingTokens": [
           "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
           "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
@@ -7723,7 +7723,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/solust_usdh",
+        "website": "https://app.saber.so/pools/solust_usdh",
         "underlyingTokens": [
           "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
           "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
@@ -7742,7 +7742,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/uxd",
+        "website": "https://app.saber.so/pools/uxd",
         "underlyingTokens": [
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -7762,7 +7762,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/uxd_cash",
+        "website": "https://app.saber.so/pools/uxd_cash",
         "underlyingTokens": [
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
@@ -7782,7 +7782,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wpusdt",
+        "website": "https://app.saber.so/pools/wpusdt",
         "underlyingTokens": [
           "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
@@ -7802,7 +7802,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wsrm",
+        "website": "https://app.saber.so/pools/wsrm",
         "underlyingTokens": [
           "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
           "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
@@ -7822,7 +7822,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wibbtc",
+        "website": "https://app.saber.so/pools/wibbtc",
         "underlyingTokens": [
           "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
@@ -7842,7 +7842,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/whbtc",
+        "website": "https://app.saber.so/pools/whbtc",
         "underlyingTokens": [
           "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5"
@@ -7862,7 +7862,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wbusdt",
+        "website": "https://app.saber.so/pools/wbusdt",
         "underlyingTokens": [
           "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
           "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw"
@@ -7882,7 +7882,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/frax_ust",
+        "website": "https://app.saber.so/pools/frax_ust",
         "underlyingTokens": [
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "UST8SCn7jrqsq51odVLqcmvnC658HkqrKrPL3w2hHQ7"
@@ -7903,7 +7903,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aceur_ageur",
+        "website": "https://app.saber.so/pools/aceur_ageur",
         "underlyingTokens": [
           "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
           "EU9aLffrTckFCs16da6CppHy63fAxMPF9ih1erQTuuRt"
@@ -7923,7 +7923,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wbusd",
+        "website": "https://app.saber.so/pools/wbusd",
         "underlyingTokens": [
           "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -7943,7 +7943,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/sollet_ftt",
+        "website": "https://app.saber.so/pools/sollet_ftt",
         "underlyingTokens": [
           "FTT8cGNp3rfTC6c44uPTuEFLqmsVDhjd2BhH65v2uppr",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
@@ -7963,7 +7963,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wbusdc",
+        "website": "https://app.saber.so/pools/wbusdc",
         "underlyingTokens": [
           "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
@@ -7983,7 +7983,7 @@
         "saber-lp-cashio"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/frax_cash",
+        "website": "https://app.saber.so/pools/frax_cash",
         "underlyingTokens": [
           "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
           "CASHedBw9NfhsLBXq1WNVfueVznx255j8LLTScto3S6s"
@@ -8003,7 +8003,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wpusdc",
+        "website": "https://app.saber.so/pools/wpusdc",
         "underlyingTokens": [
           "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -8023,7 +8023,7 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/wheth",
+        "website": "https://app.saber.so/pools/wheth",
         "underlyingTokens": [
           "SL819j8K9FuFPL84UepVcFkEZqDUUvVzwDmJjCHySYj",
           "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
@@ -8050,7 +8050,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xusd",
+        "website": "https://app.saber.so/pools/xusd",
         "underlyingTokens": [
           "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
@@ -8092,7 +8092,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aedai",
+        "website": "https://app.saber.so/pools/aedai",
         "underlyingTokens": [
           "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -8112,7 +8112,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/aeusdt",
+        "website": "https://app.saber.so/pools/aeusdt",
         "underlyingTokens": [
           "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
           "AEUT5uFm1D575FVCoQd5Yq891FJEqkncZUbBFoFcAhTV"
@@ -8180,7 +8180,7 @@
         "saber-lp-allbridge"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/acusd",
+        "website": "https://app.saber.so/pools/acusd",
         "underlyingTokens": [
           "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -8320,7 +8320,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/monkedao",
+        "website": "https://app.saber.so/pools/monkedao",
         "underlyingTokens": [
           "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
           "So11111111111111111111111111111111111111112"
@@ -8339,7 +8339,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/pbtc",
+        "website": "https://app.saber.so/pools/pbtc",
         "underlyingTokens": [
           "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
           "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun"
@@ -8382,7 +8382,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/jsol",
+        "website": "https://app.saber.so/pools/jsol",
         "underlyingTokens": [
           "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
           "So11111111111111111111111111111111111111112"
@@ -8418,7 +8418,7 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/stsol",
+        "website": "https://app.saber.so/pools/stsol",
         "underlyingTokens": [
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "So11111111111111111111111111111111111111112"
@@ -8487,7 +8487,7 @@
         "saber-lp-wormhole-v1"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/usdk",
+        "website": "https://app.saber.so/pools/usdk",
         "underlyingTokens": [
           "2kycGCD8tJbrjJJqWN2Qz5ysN9iB4Bth3Uic4mSB7uak",
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
@@ -8507,7 +8507,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xbtc",
+        "website": "https://app.saber.so/pools/xbtc",
         "underlyingTokens": [
           "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
           "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
@@ -8527,7 +8527,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xeth",
+        "website": "https://app.saber.so/pools/xeth",
         "underlyingTokens": [
           "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
           "KNVfdSJyq1pRQk9AKKv1g5uyGuk6wpm4WG16Bjuwdma"
@@ -8547,7 +8547,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xftt",
+        "website": "https://app.saber.so/pools/xftt",
         "underlyingTokens": [
           "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
@@ -8567,7 +8567,7 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "website": "https://app.saber.so/#/pools/xsol",
+        "website": "https://app.saber.so/pools/xsol",
         "underlyingTokens": [
           "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
           "So11111111111111111111111111111111111111112"
