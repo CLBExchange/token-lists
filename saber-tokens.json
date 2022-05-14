@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-04-29T23:12:20.148Z",
+  "timestamp": "2022-05-13T23:51:25.930Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -2077,6 +2077,46 @@
       }
     },
     {
+      "name": "Saber calUSD-USDC LP",
+      "symbol": "calUSD-USDC",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/calusd",
+        "underlyingTokens": [
+          "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "calUSD Stablecoin",
+      "symbol": "calUSD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk.png",
+      "decimals": 9,
+      "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://calcifer.fi/",
+        "twitter": "https://twitter.com/CalciferFi",
+        "medium": "https://medium.com/@CalciferFinance",
+        "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "source": "calcifer",
+        "currency": "USD",
+        "sourceUrl": "https://calcifer.fi"
+      }
+    },
+    {
       "name": "Cashio Dollar",
       "symbol": "CASH",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
@@ -3690,6 +3730,63 @@
         "source": "nirvana",
         "currency": "USD",
         "sourceUrl": "https://nirvana.finance"
+      }
+    },
+    {
+      "name": "Saber NIRV-USDC LP",
+      "symbol": "NIRV-USDC",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "NUCe3EWjkyH9MMZZzawaskzMviJHYJcqwXjK6jXaipP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdc",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber NIRV-USDH LP",
+      "symbol": "NIRV-USDH",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "NUH7NPN5AYWMKXuqPsoyYcpDDWcrej6gbahSunEFK1e",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdh",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber NIRV-USDT LP",
+      "symbol": "NIRV-USDT",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "NUTNJRVFqUC61uiCAKP4GqSMjzF6DsC7ygCmaDRwe7Y",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/nirv_usdt",
+        "underlyingTokens": [
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
       }
     },
     {
