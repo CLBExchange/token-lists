@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-16T11:10:45.038Z",
+  "timestamp": "2022-05-16T12:18:35.800Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -21547,6 +21547,13 @@
       "chainId": 103
     },
     {
+      "name": "Token AbJy",
+      "symbol": "AbJyk",
+      "decimals": 9,
+      "address": "AbJykVBsU5F1VSYa5G2azedeuPTbx9FMqw8B6zr14vYE",
+      "chainId": 103
+    },
+    {
       "name": "Token AbKb",
       "symbol": "AbKbU",
       "decimals": 6,
@@ -29911,6 +29918,13 @@
       "symbol": "DiEDq",
       "decimals": 6,
       "address": "DiEDqukSdpq9NPA1ghG9Ld9fA9iYVsRvJ4Qdysd2VikS",
+      "chainId": 103
+    },
+    {
+      "name": "Token DiEM",
+      "symbol": "DiEMV",
+      "decimals": 9,
+      "address": "DiEMVeBuACNsnmHVAyP7AzYCWCsHSWeP78dY2DKVYrBW",
       "chainId": 103
     },
     {
