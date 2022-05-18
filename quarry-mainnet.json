@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-18T19:07:48.594Z",
+  "timestamp": "2022-05-18T20:10:04.581Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -3780,6 +3780,46 @@
       }
     },
     {
+      "name": "Saber calUSD-USDC LP",
+      "symbol": "calUSD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa/icon.png",
+      "decimals": 9,
+      "address": "CALiTYvv4znEoywSifHsTc7yX8VeKqdgnAzqvm47sPxa",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/calusd_susdc-9",
+        "underlyingTokens": [
+          "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "calUSD Stablecoin",
+      "symbol": "calUSD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk.png",
+      "decimals": 9,
+      "address": "CALusHembJf3tQ69BxFbLRUSpGRwKzEnLKWUPhQo5dFk",
+      "chainId": 101,
+      "tags": [
+        "stablecoin",
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "website": "https://calcifer.fi/",
+        "twitter": "https://twitter.com/CalciferFi",
+        "medium": "https://medium.com/@CalciferFinance",
+        "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "source": "calcifer",
+        "currency": "USD",
+        "sourceUrl": "https://calcifer.fi"
+      }
+    },
+    {
       "name": "Cashio Dollar",
       "symbol": "CASH",
       "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
@@ -4573,6 +4613,25 @@
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Katana MSOL Covered Call Vault Share",
+      "symbol": "kcMSOL",
+      "logoURI": "https://raw.githubusercontent.com/Katana-Labs/assets/master/token-list/E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT/logo.png",
+      "decimals": 9,
+      "address": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT",
+      "chainId": 101,
+      "tags": [
+        "Katana",
+        "share-token",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://app.katana.so",
+        "twitter": "https://twitter.com/Katana_HQ",
+        "github": "https://github.com/Katana-Labs",
+        "discord": "https://discord.gg/katana-hq"
       }
     },
     {
