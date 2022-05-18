@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-18T07:09:21.799Z",
+  "timestamp": "2022-05-18T08:13:41.243Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -5442,6 +5442,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token FUXD",
+      "symbol": "FUXDq",
+      "decimals": 6,
+      "address": "FUXDqVLCqCMs3jtftSmHqKFLxpH196j6sQs4Qo3Ps2jR",
+      "chainId": 101
     },
     {
       "name": "Token FVgd",
