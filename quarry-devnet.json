@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-19T06:13:40.747Z",
+  "timestamp": "2022-05-19T07:11:04.883Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -41832,6 +41832,13 @@
       "symbol": "Z196q",
       "decimals": 6,
       "address": "Z196qCqL23okuVqRhC4rT7nNrWMnKv8ortRCSYjycGP",
+      "chainId": 103
+    },
+    {
+      "name": "Token Z3QM",
+      "symbol": "Z3QMP",
+      "decimals": 9,
+      "address": "Z3QMPACRWw3gfmjWzEbWYVbnEaRbqzkf7dBSPCw6LpB",
       "chainId": 103
     },
     {
