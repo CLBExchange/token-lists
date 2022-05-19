@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-19T07:11:04.883Z",
+  "timestamp": "2022-05-19T08:14:00.778Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -6767,6 +6767,13 @@
       "symbol": "4egrM",
       "decimals": 6,
       "address": "4egrM3L8CJ7iFaP2mZQ8MzyRAzczDmeVekff3QaUeJr9",
+      "chainId": 103
+    },
+    {
+      "name": "Token 4ezA",
+      "symbol": "4ezAT",
+      "decimals": 9,
+      "address": "4ezATkNmw3gimxdnAKVAufeP8x8pkjxV5FiSvW61qGq2",
       "chainId": 103
     },
     {
@@ -22959,6 +22966,13 @@
       "chainId": 103
     },
     {
+      "name": "Token B6vp",
+      "symbol": "B6vpg",
+      "decimals": 9,
+      "address": "B6vpg2vUaQzxkda7UcqHyzUhZcG9WmjF4pe7a4BrBjMT",
+      "chainId": 103
+    },
+    {
       "name": "Token B6z8",
       "symbol": "B6z8L",
       "decimals": 6,
@@ -34665,6 +34679,13 @@
       "chainId": 103
     },
     {
+      "name": "Token FfnZ",
+      "symbol": "FfnZQ",
+      "decimals": 9,
+      "address": "FfnZQY4rhH9ADKzzogUULSNDtvp39gZqxytY26GLdAT6",
+      "chainId": 103
+    },
+    {
       "name": "Token FfoS",
       "symbol": "FfoSi",
       "decimals": 6,
@@ -41750,6 +41771,13 @@
       "symbol": "XmWGd",
       "decimals": 6,
       "address": "XmWGdndBGi3GGombQHdH6XjH1xkAjJzATpxe4W3DAKS",
+      "chainId": 103
+    },
+    {
+      "name": "Token XwDP",
+      "symbol": "XwDPN",
+      "decimals": 9,
+      "address": "XwDPN7CArdsCFr2XBoEdBndFKw8bWCDuUX1ZgcAzruL",
       "chainId": 103
     },
     {
