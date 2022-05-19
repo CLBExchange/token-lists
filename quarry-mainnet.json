@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-19T16:29:04.918Z",
+  "timestamp": "2022-05-19T18:20:31.752Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -912,6 +912,13 @@
         ],
         "source": "quarry-merge-mine-replica"
       }
+    },
+    {
+      "name": "Token 5BbE",
+      "symbol": "5BbEG",
+      "decimals": 6,
+      "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
+      "chainId": 101
     },
     {
       "name": "Sunny Saber BTC-renBTC LP",
@@ -2027,6 +2034,13 @@
       "symbol": "96fvs",
       "decimals": 2,
       "address": "96fvspWgCVSaa1sknpJEbsHA9USnabtAag4Zajg7wSzq",
+      "chainId": 101
+    },
+    {
+      "name": "Token 97HZ",
+      "symbol": "97HZY",
+      "decimals": 6,
+      "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
       "chainId": 101
     },
     {
@@ -5501,6 +5515,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token FUXD",
+      "symbol": "FUXDf",
+      "decimals": 6,
+      "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+      "chainId": 101
     },
     {
       "name": "Token FUXD",
