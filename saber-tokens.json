@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-18T19:29:03.169Z",
+  "timestamp": "2022-05-20T17:14:17.002Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -970,6 +970,23 @@
       }
     },
     {
+      "name": "Hedge USD",
+      "symbol": "USH",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+      "decimals": 9,
+      "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://www.hedge.so/",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY"
+      }
+    },
+    {
       "name": "MAI Stablecoin",
       "symbol": "MAI",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
@@ -1734,6 +1751,24 @@
         "source": "allbridge",
         "currency": "ETH",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Synthetic USD (Fabric)",
+      "symbol": "fUSD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "decimals": 8,
+      "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "chainId": 101,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://app.fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/"
       }
     },
     {
@@ -2743,6 +2778,25 @@
         "address": "uluna",
         "currency": "LUNA",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Saber USDC-fUSD LP",
+      "symbol": "USDC-fUSD",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 8,
+      "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/fabric_usd",
+        "underlyingTokens": [
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -4293,6 +4347,25 @@
         "underlyingTokens": [
           "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber USH-USDC LP",
+      "symbol": "USH-USDC",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/ush",
+        "underlyingTokens": [
+          "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
       }
