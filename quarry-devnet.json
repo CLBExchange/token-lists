@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-21T20:11:21.121Z",
+  "timestamp": "2022-05-21T21:09:44.433Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -24945,6 +24945,7 @@
       ],
       "extensions": {
         "website": "https://app.saber.so",
+        "coingeckoId": "wrapped-bitcoin",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
         ],

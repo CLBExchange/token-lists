@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-21T20:09:52.168Z",
+  "timestamp": "2022-05-21T21:08:04.493Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -3785,6 +3785,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
@@ -3867,6 +3868,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
@@ -6723,6 +6725,7 @@
       "extensions": {
         "website": "https://app.saber.so",
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "coingeckoId": "terra-luna",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ],
