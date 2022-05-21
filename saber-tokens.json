@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-20T17:29:14.233Z",
+  "timestamp": "2022-05-21T19:28:26.521Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -255,6 +255,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "solana",
         "source": "solend",
         "currency": "SOL",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -271,6 +272,7 @@
         "saber-mkt-luna"
       ],
       "extensions": {
+        "coingeckoId": "terra-luna",
         "source": "allbridge",
         "currency": "LUNA",
         "sourceUrl": "https://app.allbridge.io/bridge"
@@ -291,6 +293,7 @@
       ],
       "extensions": {
         "website": "https://port.finance",
+        "coingeckoId": "tether",
         "source": "port",
         "currency": "USD",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
@@ -415,6 +418,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "solana",
         "source": "solend",
         "currency": "SOL",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -533,6 +537,7 @@
         "website": "https://jpool.one/",
         "twitter": "https://twitter.com/JPoolSolana",
         "discord": "https://discord.gg/qR4BA9QXVR",
+        "coingeckoId": "solana",
         "source": "jpool",
         "currency": "SOL",
         "sourceUrl": "https://jpool.one/",
@@ -576,6 +581,7 @@
         "website": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance",
         "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
+        "coingeckoId": "solana",
         "source": "lido",
         "currency": "SOL",
         "sourceUrl": "https://solana.lido.fi/"
@@ -616,6 +622,7 @@
         "saber-mkt-eur"
       ],
       "extensions": {
+        "coingeckoId": "celo-euro",
         "source": "allbridge",
         "currency": "EUR",
         "sourceUrl": "https://app.allbridge.io/bridge"
@@ -867,6 +874,7 @@
       "extensions": {
         "website": "https://renproject.io/",
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "coingeckoId": "terra-luna",
         "source": "renbridge",
         "currency": "LUNA",
         "sourceUrl": "https://bridge.renproject.io/mint"
@@ -887,6 +895,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "usd-coin",
         "source": "solend",
         "currency": "USD",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -936,6 +945,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
         "discord": "https://discord.gg/gopartyparrot",
+        "coingeckoId": "solana",
         "source": "parrot",
         "currency": "SOL",
         "sourceUrl": "https://parrot.fi/mint/",
@@ -961,6 +971,7 @@
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
         "assetContract": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
         "github": "https://github.com/bilira-org",
+        "coingeckoId": "bilira",
         "source": "wormhole-v2",
         "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
         "currency": "TRY",
@@ -983,7 +994,11 @@
         "website": "https://www.hedge.so/",
         "twitter": "https://twitter.com/HedgeLabs",
         "discord": "https://discord.gg/hedge",
-        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY"
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY",
+        "coingeckoId": "usd-coin",
+        "source": "hedge",
+        "currency": "USD",
+        "sourceUrl": "https://hedge.so"
       }
     },
     {
@@ -1768,7 +1783,11 @@
         "website": "https://app.fsynth.io/",
         "twitter": "https://twitter.com/official_fabric",
         "github": "https://github.com/fabric-foundation/",
-        "medium": "https://xfabric.medium.com/"
+        "medium": "https://xfabric.medium.com/",
+        "coingeckoId": "usd-coin",
+        "source": "fabric",
+        "currency": "USD",
+        "sourceUrl": "https://fsynth.io"
       }
     },
     {
@@ -1880,6 +1899,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "tether",
         "source": "solend",
         "currency": "USD",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -2103,6 +2123,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
@@ -2146,6 +2167,7 @@
         "twitter": "https://twitter.com/CalciferFi",
         "medium": "https://medium.com/@CalciferFinance",
         "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "coingeckoId": "usd-coin",
         "source": "calcifer",
         "currency": "USD",
         "sourceUrl": "https://calcifer.fi"
@@ -2167,6 +2189,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
         "source": "cashio",
         "currency": "USD",
         "sourceUrl": "https://cashio.app/"
@@ -2190,6 +2213,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
         "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
         "underlyingTokens": [
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
         ],
@@ -2420,6 +2444,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
         "discord": "https://discord.gg/gopartyparrot",
+        "coingeckoId": "ptokens-btc",
         "source": "parrot",
         "currency": "BTC",
         "sourceUrl": "https://parrot.fi/mint/",
@@ -2783,7 +2808,7 @@
     {
       "name": "Saber USDC-fUSD LP",
       "symbol": "USDC-fUSD",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP.png",
       "decimals": 8,
       "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
       "chainId": 101,
@@ -3147,6 +3172,7 @@
       ],
       "extensions": {
         "website": "https://port.finance",
+        "coingeckoId": "usd-coin",
         "source": "port",
         "currency": "USD",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
@@ -3203,6 +3229,7 @@
       "extensions": {
         "website": "https://monkedao.io/",
         "twitter": "https://twitter.com/MonkeDAO",
+        "coingeckoId": "solana",
         "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
         "source": "monkedao",
         "currency": "SOL",
@@ -3479,6 +3506,7 @@
         "website": "https://everstake.one",
         "twitter": "https://twitter.com/everstake_pool",
         "medium": "https://medium.com/everstake",
+        "coingeckoId": "solana",
         "source": "everstake",
         "currency": "SOL",
         "sourceUrl": "https://eversol.one/app"
@@ -3590,6 +3618,7 @@
         "website": "https://app.saber.so",
         "assetContract": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "coingeckoId": "terra-luna",
         "underlyingTokens": [
           "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE"
         ],
@@ -3751,7 +3780,7 @@
     {
       "name": "Saber USN-USDC LP",
       "symbol": "USN-USDC",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot.png",
       "decimals": 9,
       "address": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
       "chainId": 101,
@@ -3800,6 +3829,7 @@
       "extensions": {
         "website": "https://nirvana.finance/",
         "twitter": "https://twitter.com/nirvana_fi",
+        "coingeckoId": "nirvana-nirv",
         "source": "nirvana",
         "currency": "USD",
         "sourceUrl": "https://nirvana.finance"
@@ -3912,7 +3942,8 @@
         "stablecoin"
       ],
       "extensions": {
-        "coingeckoId": "usn"
+        "coingeckoId": "usd-coin",
+        "currency": "USD"
       }
     },
     {
@@ -4339,6 +4370,7 @@
         "website": "https://hubbleprotocol.io/",
         "twitter": "https://twitter.com/hubbleprotocol",
         "discord": "https://discord.gg/d44A8WvK",
+        "coingeckoId": "usdh",
         "source": "hubble",
         "currency": "USD",
         "sourceUrl": "https://app.hubbleprotocol.io/"
@@ -4387,7 +4419,7 @@
     {
       "name": "Saber USH-USDC LP",
       "symbol": "USH-USDC",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi.png",
       "decimals": 9,
       "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
       "chainId": 101,

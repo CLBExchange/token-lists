@@ -23,7 +23,7 @@
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     }
   },
-  "timestamp": "2022-05-20T17:29:17.109Z",
+  "timestamp": "2022-05-21T19:28:28.944Z",
   "tokens": [
     {
       "name": "Saber USDC-USDT LP",
@@ -91,6 +91,7 @@
         "saber-mkt-usd"
       ],
       "extensions": {
+        "coingeckoId": "usd-coin",
         "currency": "USD"
       }
     },
@@ -124,6 +125,7 @@
         "saber-mkt-usd"
       ],
       "extensions": {
+        "coingeckoId": "parrot-usd",
         "currency": "USD"
       }
     },
@@ -198,6 +200,7 @@
       "extensions": {
         "website": "https://app.saber.so",
         "assetContract": "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM",
+        "coingeckoId": "wrapped-bitcoin",
         "underlyingTokens": [
           "Wbt2CgkkD3eVckD5XxWJmT8pTnFTyWrwvGM7bUMLvsM"
         ],
@@ -368,6 +371,7 @@
         "saber-mkt-btc"
       ],
       "extensions": {
+        "coingeckoId": "renbtc",
         "currency": "BTC"
       }
     },
@@ -392,6 +396,7 @@
         "saber-mkt-btc"
       ],
       "extensions": {
+        "coingeckoId": "wrapped-bitcoin",
         "currency": "BTC"
       }
     },
