@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-23T05:48:34.971Z",
+  "timestamp": "2022-05-23T06:13:22.522Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -139,7 +139,7 @@
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
       "symbol": "aeMIM",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj.png",
       "decimals": 9,
       "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
       "chainId": 101,
@@ -163,7 +163,7 @@
     {
       "name": "Wrapped LUNA Token (Wormhole v1)",
       "symbol": "wLUNA_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV.png",
       "decimals": 9,
       "address": "2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV",
       "chainId": 101,
@@ -307,7 +307,7 @@
     {
       "name": "Binance USD (Wormhole from Ethereum)",
       "symbol": "BUSDet",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
       "decimals": 8,
       "address": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
       "chainId": 101,
@@ -405,7 +405,7 @@
     {
       "name": "Solend mSOL",
       "symbol": "cmSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h.png",
       "decimals": 9,
       "address": "3JFC4cB56Er45nWVe29Bhnn5GnwQzSmHVf6eUq9ac91h",
       "chainId": 101,
@@ -417,6 +417,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "solana",
         "source": "solend",
         "currency": "SOL",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -425,7 +426,7 @@
     {
       "name": "Wrapped Luna (Allbridge from Terra)",
       "symbol": "atLUNA",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z.png",
       "decimals": 9,
       "address": "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
       "chainId": 101,
@@ -433,6 +434,7 @@
         "saber-mkt-luna"
       ],
       "extensions": {
+        "coingeckoId": "terra-luna",
         "source": "allbridge",
         "currency": "LUNA",
         "sourceUrl": "https://app.allbridge.io/bridge"
@@ -455,7 +457,7 @@
     {
       "name": "Port Finance USDT",
       "symbol": "pUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
       "decimals": 6,
       "address": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ",
       "chainId": 101,
@@ -467,13 +469,14 @@
       ],
       "extensions": {
         "website": "https://port.finance",
+        "coingeckoId": "tether",
         "source": "port",
         "currency": "USD",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
       }
     },
     {
-      "name": "Lido DAO Token (Wormhole) (IOU)",
+      "name": "Lido DAO Token (Portal) (IOU)",
       "symbol": "iouLDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
       "decimals": 8,
@@ -554,7 +557,7 @@
     {
       "name": "Wrapped BTC (Allbridge from BSC)",
       "symbol": "abBTCB",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu.png",
       "decimals": 9,
       "address": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
       "chainId": 101,
@@ -610,7 +613,7 @@
     {
       "name": "USDK (Wormhole)",
       "symbol": "USDK",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F.png",
       "decimals": 8,
       "address": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
       "chainId": 101,
@@ -914,11 +917,22 @@
       }
     },
     {
-      "name": "Token 5BbE",
-      "symbol": "5BbEG",
+      "name": "2XD",
+      "symbol": "2XD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW/logo.png",
       "decimals": 6,
       "address": "5BbEGUsoqdNxH16ZrDBMzo9J1kFn2fN6TikYxaFSgddW",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://2xd.fi/",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "medium": "https://medium.com/@2XD",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "description": "2XD Token"
+      }
     },
     {
       "name": "Sunny Saber BTC-renBTC LP",
@@ -942,7 +956,7 @@
     {
       "name": "BUSD Token (Wormhole from BSC)",
       "symbol": "BUSDbs",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2.png",
       "decimals": 8,
       "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
       "chainId": 101,
@@ -986,7 +1000,7 @@
     {
       "name": "Tether USD (Wormhole from Polygon)",
       "symbol": "USDTpo",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1.png",
       "decimals": 6,
       "address": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
       "chainId": 101,
@@ -1008,7 +1022,7 @@
     {
       "name": "Solend SOL",
       "symbol": "cSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV.png",
       "decimals": 9,
       "address": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
       "chainId": 101,
@@ -1020,6 +1034,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "solana",
         "source": "solend",
         "currency": "SOL",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -1047,7 +1062,7 @@
     {
       "name": "Socean staked SOL",
       "symbol": "scnSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm.png",
       "decimals": 9,
       "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
       "chainId": 101,
@@ -1147,7 +1162,7 @@
       "chainId": 101
     },
     {
-      "name": "Frax Share (Wormhole)",
+      "name": "Frax Share (Portal)",
       "symbol": "FXS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
       "decimals": 8,
@@ -1167,7 +1182,7 @@
     {
       "name": "Synthetic LUNA",
       "symbol": "xLUNA",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2.svg",
       "decimals": 6,
       "address": "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
       "chainId": 101,
@@ -1297,7 +1312,7 @@
     {
       "name": "Wrapped BUSD (Allbridge from BSC)",
       "symbol": "abBUSD",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF.png",
       "decimals": 9,
       "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
       "chainId": 101,
@@ -1424,7 +1439,7 @@
     {
       "name": "JPOOL Solana Token",
       "symbol": "JSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn.svg",
       "decimals": 9,
       "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
       "chainId": 101,
@@ -1437,6 +1452,7 @@
         "website": "https://jpool.one/",
         "twitter": "https://twitter.com/JPoolSolana",
         "discord": "https://discord.gg/qR4BA9QXVR",
+        "coingeckoId": "solana",
         "source": "jpool",
         "currency": "SOL",
         "sourceUrl": "https://jpool.one/",
@@ -1446,7 +1462,7 @@
     {
       "name": "HUSD (Wormhole)",
       "symbol": "HUSD",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw.png",
       "decimals": 8,
       "address": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
       "chainId": 101,
@@ -1496,7 +1512,7 @@
     {
       "name": "Lido Staked SOL",
       "symbol": "stSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj.png",
       "decimals": 9,
       "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
       "chainId": 101,
@@ -1507,6 +1523,7 @@
         "website": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance",
         "serumV3Usdc": "5F7LGsP1LPtaRV7vVKgxwNYX4Vf22xvuzyXjyar7jJqp",
+        "coingeckoId": "solana",
         "source": "lido",
         "currency": "SOL",
         "sourceUrl": "https://solana.lido.fi/"
@@ -1515,7 +1532,7 @@
     {
       "name": "Huobi BTC (Wormhole)",
       "symbol": "HBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8.png",
       "decimals": 8,
       "address": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8",
       "chainId": 101,
@@ -1538,7 +1555,7 @@
     {
       "name": "Wrapped CEUR (Allbridge from Celo)",
       "symbol": "acEUR",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv.png",
       "decimals": 9,
       "address": "7g166TuBmnoHKvS2PEkZx6kREZtbfjUxCHGWjCqoDXZv",
       "chainId": 101,
@@ -1547,6 +1564,7 @@
         "saber-mkt-eur"
       ],
       "extensions": {
+        "coingeckoId": "celo-euro",
         "source": "allbridge",
         "currency": "EUR",
         "sourceUrl": "https://app.allbridge.io/bridge"
@@ -1575,7 +1593,7 @@
     {
       "name": "UXD Stablecoin",
       "symbol": "UXD",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT.png",
       "decimals": 6,
       "address": "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
       "chainId": 101,
@@ -1597,7 +1615,7 @@
     {
       "name": "Ether (Wormhole)",
       "symbol": "ETH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.png",
       "decimals": 8,
       "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
       "chainId": 101,
@@ -1650,7 +1668,7 @@
     {
       "name": "Synthetic USD",
       "symbol": "xUSD",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y.svg",
       "decimals": 6,
       "address": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
       "chainId": 101,
@@ -1755,7 +1773,7 @@
     {
       "name": "Frax (Wormhole v1)",
       "symbol": "wFRAX_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU.png",
       "decimals": 9,
       "address": "8L8pDf3jutdpdr4m3np68CL9ZroLActrqwxi6s9Ah5xU",
       "chainId": 101,
@@ -1825,7 +1843,7 @@
     {
       "name": "Wrapped USDC (Allbridge from BSC)",
       "symbol": "abUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69.png",
       "decimals": 9,
       "address": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
       "chainId": 101,
@@ -1843,7 +1861,7 @@
     {
       "name": "Wrapped USDC (Allbridge from Avalanche)",
       "symbol": "aaUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr.png",
       "decimals": 9,
       "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
       "chainId": 101,
@@ -1861,7 +1879,7 @@
     {
       "name": "Synthetic ETH",
       "symbol": "xETH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK.svg",
       "decimals": 9,
       "address": "8bqjz8DeSuim1sEAsQatjJN4zseyxSPdhHQcuuhL8PCK",
       "chainId": 101,
@@ -1880,7 +1898,7 @@
     {
       "name": "Port Finance SOL",
       "symbol": "pSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg.svg",
       "decimals": 9,
       "address": "8ezDtNNhX91t1NbSLe8xV2PcCEfoQjEm2qDVGjt3rjhg",
       "chainId": 101,
@@ -1941,7 +1959,7 @@
     {
       "name": "HBTC (Wormhole v1)",
       "symbol": "wHBTC_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref.png",
       "decimals": 9,
       "address": "8pBc4v9GAwCBNWPB5XKA93APexMGAS4qMr37vNke9Ref",
       "chainId": 101,
@@ -1964,7 +1982,7 @@
     {
       "name": "Tether USD (Wormhole from BSC)",
       "symbol": "USDTbs",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv.png",
       "decimals": 8,
       "address": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
       "chainId": 101,
@@ -1987,7 +2005,7 @@
     {
       "name": "renLUNA",
       "symbol": "renLUNA",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE.png",
       "decimals": 6,
       "address": "8wv2KAykQstNAj2oW6AHANGBiFKVFhvMiyyzzjhkmGvE",
       "chainId": 101,
@@ -1997,6 +2015,7 @@
       "extensions": {
         "website": "https://renproject.io/",
         "serumV3Usdc": "CxDhLbbM9uAA2AXfSPar5qmyfmC69NLj3vgJXYAsSVBT",
+        "coingeckoId": "terra-luna",
         "source": "renbridge",
         "currency": "LUNA",
         "sourceUrl": "https://bridge.renproject.io/mint"
@@ -2037,11 +2056,22 @@
       "chainId": 101
     },
     {
-      "name": "Token 97HZ",
-      "symbol": "97HZY",
+      "name": "2XD-USDC LP",
+      "symbol": "2XD-USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA/logo.png",
       "decimals": 6,
       "address": "97HZYZt1APW4HhA1MZxUnnwyhXaYqtpFUVwCKT9xrsHA",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://2xd.fi/",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "medium": "https://medium.com/@2XD",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "description": "2XD-USDC LP Token"
+      }
     },
     {
       "name": "Token 9812",
@@ -2053,7 +2083,7 @@
     {
       "name": "Solend USDC",
       "symbol": "cUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk.png",
       "decimals": 6,
       "address": "993dVFL2uXWYeoXuEBFXR4BijeXdTv4s6BzsCjJZuwqk",
       "chainId": 101,
@@ -2065,6 +2095,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "usd-coin",
         "source": "solend",
         "currency": "USD",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -2080,7 +2111,7 @@
     {
       "name": "pSOL (Parrot SOL)",
       "symbol": "pSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX.svg",
       "decimals": 9,
       "address": "9EaLkQrbjmbbuZG9Wdpo8qfNUEjHATJFSycEmw6f1rGX",
       "chainId": 101,
@@ -2093,6 +2124,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
         "discord": "https://discord.gg/gopartyparrot",
+        "coingeckoId": "solana",
         "source": "parrot",
         "currency": "SOL",
         "sourceUrl": "https://parrot.fi/mint/",
@@ -2102,7 +2134,7 @@
     {
       "name": "BiLira (Wormhole)",
       "symbol": "TRYB",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj.png",
       "decimals": 6,
       "address": "9QBTKuSCDaJjtxYnYcVzoiKENMdJ5DRei5ZUCEeWyZnj",
       "chainId": 101,
@@ -2118,6 +2150,7 @@
         "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
         "assetContract": "https://etherscan.io/token/0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
         "github": "https://github.com/bilira-org",
+        "coingeckoId": "bilira",
         "source": "wormhole-v2",
         "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
         "currency": "TRY",
@@ -2127,7 +2160,7 @@
       }
     },
     {
-      "name": "Frax Share (Wormhole) (IOU)",
+      "name": "Frax Share (Portal) (IOU)",
       "symbol": "iouFXS",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
       "decimals": 8,
@@ -2198,7 +2231,7 @@
     {
       "name": "MAI Stablecoin",
       "symbol": "MAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7.png",
       "decimals": 9,
       "address": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
       "chainId": 101,
@@ -2322,7 +2355,7 @@
     {
       "name": "UST (Wormhole)",
       "symbol": "UST",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i.png",
       "decimals": 6,
       "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
       "chainId": 101,
@@ -2346,7 +2379,7 @@
     {
       "name": "Wrapped DAI (Allbridge from Ethereum)",
       "symbol": "aeDAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs.png",
       "decimals": 9,
       "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
       "chainId": 101,
@@ -2444,7 +2477,7 @@
     {
       "name": "BiLira",
       "symbol": "TRYB",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf.png",
       "decimals": 6,
       "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
       "chainId": 101,
@@ -2468,7 +2501,7 @@
     {
       "name": "Wrapped UST (Allbridge from Terra)",
       "symbol": "atUST",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ.png",
       "decimals": 6,
       "address": "A96PoNcxa9LMxcF9HhKAfA1p3M1dGbubPMWf19gHAkgJ",
       "chainId": 101,
@@ -2486,7 +2519,7 @@
     {
       "name": "USD Coin (Wormhole from Ethereum)",
       "symbol": "USDCet",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM.png",
       "decimals": 6,
       "address": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
       "chainId": 101,
@@ -2577,7 +2610,7 @@
     {
       "name": "Binance USD (Wormhole v1)",
       "symbol": "wBUSD_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX.png",
       "decimals": 9,
       "address": "AJ1W9A9N9dEMdVyoDiam2rV44gnBm2csrPDP7xqcapgX",
       "chainId": 101,
@@ -2906,7 +2939,7 @@
     {
       "name": "aSOL Aggregate Solana Stake Pool",
       "symbol": "aSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond.svg",
       "decimals": 9,
       "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
       "chainId": 101,
@@ -3047,7 +3080,7 @@
     {
       "name": "Wrapped ETH (Allbridge from Ethereum)",
       "symbol": "aeWETH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE.png",
       "decimals": 9,
       "address": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
       "chainId": 101,
@@ -3211,7 +3244,7 @@
     {
       "name": "Wrapped FEI (Allbridge from Ethereum)",
       "symbol": "aeFEI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2.png",
       "decimals": 9,
       "address": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
       "chainId": 101,
@@ -3268,7 +3301,7 @@
     {
       "name": "Wrapped FTT (Allbridge from Ethereum)",
       "symbol": "aeFTT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf.png",
       "decimals": 9,
       "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
       "chainId": 101,
@@ -3375,7 +3408,7 @@
     {
       "name": "Solend USDT",
       "symbol": "cUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8.png",
       "decimals": 6,
       "address": "BTsbZDV7aCMRJ3VNy9ygV4Q2UeEo9GpR8D6VvmMZzNr8",
       "chainId": 101,
@@ -3387,6 +3420,7 @@
       ],
       "extensions": {
         "website": "https://solend.fi",
+        "coingeckoId": "tether",
         "source": "solend",
         "currency": "USD",
         "sourceUrl": "https://solend.fi/dashboard"
@@ -3455,7 +3489,7 @@
     {
       "name": "Synthetic SOL",
       "symbol": "xSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
       "decimals": 9,
       "address": "BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov",
       "chainId": 101,
@@ -3474,7 +3508,7 @@
     {
       "name": "prtSOL (Parrot Staked SOL)",
       "symbol": "prtSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3.svg",
       "decimals": 9,
       "address": "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3",
       "chainId": 101,
@@ -3496,7 +3530,7 @@
     {
       "name": "Wrapped ETH (Allbridge from Fantom)",
       "symbol": "afETH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT.png",
       "decimals": 9,
       "address": "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
       "chainId": 101,
@@ -3513,7 +3547,7 @@
     {
       "name": "Wrapped USDT (Allbridge from Ethereum)",
       "symbol": "aeUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn.svg",
       "decimals": 9,
       "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
       "chainId": 101,
@@ -3531,7 +3565,7 @@
     {
       "name": "Wrapped BTC (Allbridge from HECO)",
       "symbol": "ahBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
       "decimals": 9,
       "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
       "chainId": 101,
@@ -3641,7 +3675,7 @@
     {
       "name": "HUSD Stablecoin (Wormhole v1)",
       "symbol": "wHUSD_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX.png",
       "decimals": 8,
       "address": "BybpSTBoZHsmKnfxYG47GDhVPKrnEKX31CScShbrzUhX",
       "chainId": 101,
@@ -3829,6 +3863,7 @@
         "twitter": "https://twitter.com/CalciferFi",
         "medium": "https://medium.com/@CalciferFinance",
         "discord": "https://discord.com/invite/Me2zTTdQpu",
+        "coingeckoId": "usd-coin",
         "source": "calcifer",
         "currency": "USD",
         "sourceUrl": "https://calcifer.fi"
@@ -3837,18 +3872,23 @@
     {
       "name": "Cashio Dollar",
       "symbol": "CASH",
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cash.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT.png",
       "decimals": 6,
       "address": "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT",
       "chainId": 101,
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ],
       "extensions": {
         "website": "https://cashio.app",
         "twitter": "https://twitter.com/CashioApp",
         "medium": "https://medium.com/@cashioapp",
-        "discord": "https://discord.com/invite/GmkRRKJkuh"
+        "discord": "https://discord.com/invite/GmkRRKJkuh",
+        "coingeckoId": "cashio-dollar",
+        "source": "cashio",
+        "currency": "USD",
+        "sourceUrl": "https://cashio.app/"
       }
     },
     {
@@ -3900,7 +3940,7 @@
     {
       "name": "renBTC",
       "symbol": "renBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
       "decimals": 8,
       "address": "CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5",
       "chainId": 101,
@@ -3917,11 +3957,18 @@
       }
     },
     {
-      "name": "Token CGcz",
-      "symbol": "CGczF",
+      "name": "Staked solUST",
+      "symbol": "yiSolUST",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9/icon.svg",
       "decimals": 6,
       "address": "CGczF9uYdSVXmSr9swMafhF1ktHsi6ygcgTHWL71XNZ9",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://soluna.money/"
+      }
     },
     {
       "name": "Saber PAI-CASH LP",
@@ -4056,7 +4103,7 @@
     {
       "name": "Wrapped UST (Wormhole v1)",
       "symbol": "wUST_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm.png",
       "decimals": 9,
       "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
       "chainId": 101,
@@ -4134,7 +4181,7 @@
     {
       "name": "Cash Cow",
       "symbol": "COW",
-      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
       "decimals": 6,
       "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
       "chainId": 101,
@@ -4267,7 +4314,7 @@
     {
       "name": "Wrapped USDC (Allbridge from Celo)",
       "symbol": "acUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
       "decimals": 9,
       "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
       "chainId": 101,
@@ -4372,7 +4419,7 @@
     {
       "name": "Wrapped USDT (Allbridge from Polygon)",
       "symbol": "apUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ.png",
       "decimals": 6,
       "address": "DNhZkUaxHXYvpxZ7LNnHtss8sQgdAfd1ZYS1fB7LKWUZ",
       "chainId": 101,
@@ -4430,7 +4477,7 @@
     {
       "name": "pBTC (Parrot BTC)",
       "symbol": "pBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun.svg",
       "decimals": 8,
       "address": "DYDWu4hE4MN3aH897xQ3sRTs5EAjJDmQsKLNhbpUiKun",
       "chainId": 101,
@@ -4443,6 +4490,7 @@
         "twitter": "https://twitter.com/gopartyparrot",
         "medium": "https://gopartyparrot.medium.com/",
         "discord": "https://discord.gg/gopartyparrot",
+        "coingeckoId": "ptokens-btc",
         "source": "parrot",
         "currency": "BTC",
         "sourceUrl": "https://parrot.fi/mint/",
@@ -4492,7 +4540,7 @@
     {
       "name": "Wrapped USDC (Allbridge from Ethereum)",
       "symbol": "aeUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
       "decimals": 9,
       "address": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
       "chainId": 101,
@@ -4550,7 +4598,7 @@
     {
       "name": "Tether USD (Wormhole from Ethereum)",
       "symbol": "USDTet",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
       "decimals": 6,
       "address": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
       "chainId": 101,
@@ -4592,7 +4640,7 @@
     {
       "name": "Port Finance mSOL",
       "symbol": "pmSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA.svg",
       "decimals": 6,
       "address": "Dt1Cuau5m5CSmun8hZstjEh9RszxAmejnq7ZaHNcuXfA",
       "chainId": 101,
@@ -4612,7 +4660,7 @@
     {
       "name": "USD Coin (Wormhole from Polygon)",
       "symbol": "USDCpo",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M.png",
       "decimals": 6,
       "address": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
       "chainId": 101,
@@ -4660,7 +4708,7 @@
     {
       "name": "Wrapped USDT (Allbridge from BSC)",
       "symbol": "abUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL.png",
       "decimals": 9,
       "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
       "chainId": 101,
@@ -4696,7 +4744,7 @@
       }
     },
     {
-      "name": "Lido DAO Token (Wormhole) (IOU)",
+      "name": "Lido DAO Token (Portal) (IOU)",
       "symbol": "iouLDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
       "decimals": 8,
@@ -4737,7 +4785,7 @@
     {
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
       "decimals": 6,
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "chainId": 101,
@@ -4828,7 +4876,7 @@
     {
       "name": "PAI (Parrot USD)",
       "symbol": "PAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
       "decimals": 6,
       "address": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
       "chainId": 101,
@@ -4852,7 +4900,7 @@
     {
       "name": "Wrapped DAI (Allbridge from Avalanche)",
       "symbol": "aaDAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi.png",
       "decimals": 9,
       "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
       "chainId": 101,
@@ -4870,7 +4918,7 @@
     {
       "name": "Dai Stablecoin (Wormhole)",
       "symbol": "DAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o.png",
       "decimals": 8,
       "address": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
       "chainId": 101,
@@ -4973,7 +5021,7 @@
     {
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
       "decimals": 6,
       "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "chainId": 101,
@@ -4998,7 +5046,7 @@
     {
       "name": "Wrapped CUSD (Allbridge from Celo)",
       "symbol": "acUSD",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e.png",
       "decimals": 9,
       "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
       "chainId": 101,
@@ -5037,7 +5085,7 @@
     {
       "name": "Wrapped ETH (Allbridge from BSC)",
       "symbol": "abETH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC.png",
       "decimals": 9,
       "address": "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
       "chainId": 101,
@@ -5054,7 +5102,7 @@
     {
       "name": "FTX Token (Wormhole)",
       "symbol": "FTT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv.png",
       "decimals": 8,
       "address": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
       "chainId": 101,
@@ -5086,7 +5134,7 @@
     {
       "name": "LUNA (Wormhole)",
       "symbol": "LUNA",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
       "decimals": 6,
       "address": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
       "chainId": 101,
@@ -5179,7 +5227,7 @@
     {
       "name": "USD Coin (Wormhole from BSC)",
       "symbol": "USDCbs",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA.png",
       "decimals": 8,
       "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
       "chainId": 101,
@@ -5286,7 +5334,7 @@
     {
       "name": "Frax (Wormhole)",
       "symbol": "FRAX",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp.png",
       "decimals": 8,
       "address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
       "chainId": 101,
@@ -5519,11 +5567,19 @@
       }
     },
     {
-      "name": "Token FUXD",
-      "symbol": "FUXDf",
+      "name": "FUXD",
+      "symbol": "FUXD",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf/logo.png",
       "decimals": 6,
       "address": "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
-      "chainId": 101
+      "chainId": 101,
+      "extensions": {
+        "website": "https://2xd.fi/",
+        "twitter": "https://twitter.com/2XDProtocol",
+        "medium": "https://medium.com/@2XD",
+        "discord": "https://discord.gg/prcWsTvTm9",
+        "description": "FUXD Token"
+      }
     },
     {
       "name": "Token FUXD",
@@ -5542,7 +5598,7 @@
     {
       "name": "Dai Stablecoin (Wormhole v1)",
       "symbol": "wDAI_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1.png",
       "decimals": 9,
       "address": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
       "chainId": 101,
@@ -5565,7 +5621,7 @@
     {
       "name": "Wrapped BTC (Allbridge from Avalanche)",
       "symbol": "aaWBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw.png",
       "decimals": 9,
       "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
       "chainId": 101,
@@ -5602,7 +5658,7 @@
     {
       "name": "Wrapped BTC (Allbridge from Fantom)",
       "symbol": "afBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts.png",
       "decimals": 9,
       "address": "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
       "chainId": 101,
@@ -5639,7 +5695,7 @@
     {
       "name": "Port Finance USDC",
       "symbol": "pUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58.svg",
       "decimals": 6,
       "address": "FgSsGV8GByPaMERxeQJPvZRZHf7zCBhrdYtztKorJS58",
       "chainId": 101,
@@ -5651,6 +5707,7 @@
       ],
       "extensions": {
         "website": "https://port.finance",
+        "coingeckoId": "usd-coin",
         "source": "port",
         "currency": "USD",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
@@ -5729,7 +5786,7 @@
     {
       "name": "Synthetic FTT",
       "symbol": "xFTT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9.svg",
       "decimals": 8,
       "address": "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
       "chainId": 101,
@@ -5755,7 +5812,7 @@
     {
       "name": "Wrapped USDT (Allbridge from Avalanche)",
       "symbol": "aaUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj.svg",
       "decimals": 9,
       "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
       "chainId": 101,
@@ -5810,7 +5867,7 @@
     {
       "name": "daoSOL Token",
       "symbol": "daoSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh.png",
       "decimals": 9,
       "address": "GEJpt3Wjmr628FqXxTgxMce1pLntcPV4uFi8ksxMyPQh",
       "chainId": 101,
@@ -5821,6 +5878,7 @@
       "extensions": {
         "website": "https://monkedao.io/",
         "twitter": "https://twitter.com/MonkeDAO",
+        "coingeckoId": "solana",
         "description": "daoSOL is the staking token issued by the MonkeDAO staking pool",
         "source": "monkedao",
         "currency": "SOL",
@@ -5918,7 +5976,7 @@
     {
       "name": "FTT (Wormhole v1)",
       "symbol": "wFTT_v1",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
       "decimals": 9,
       "address": "GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi",
       "chainId": 101,
@@ -5959,7 +6017,7 @@
     {
       "name": "Wrapped USDT (Allbridge from HECO)",
       "symbol": "ahUSDT",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj.png",
       "decimals": 9,
       "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
       "chainId": 101,
@@ -6011,7 +6069,7 @@
     {
       "name": "Wrapped USDC (Allbridge from Fantom)",
       "symbol": "afUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u.png",
       "decimals": 9,
       "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
       "chainId": 101,
@@ -6349,7 +6407,7 @@
     {
       "name": "Synthetic BTC",
       "symbol": "xBTC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D.svg",
       "decimals": 10,
       "address": "HWxpSV3QAGzLQzGAtvhSYAEr7sTQugQygnni1gnUGh1D",
       "chainId": 101,
@@ -6373,7 +6431,7 @@
       "chainId": 101
     },
     {
-      "name": "Lido DAO Token (Wormhole)",
+      "name": "Lido DAO Token (Portal)",
       "symbol": "LDO",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
       "decimals": 8,
@@ -6435,7 +6493,7 @@
     {
       "name": "EverSOL staked SOL (eSOL)",
       "symbol": "eSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM.png",
       "decimals": 9,
       "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
       "chainId": 101,
@@ -6446,6 +6504,7 @@
         "website": "https://everstake.one",
         "twitter": "https://twitter.com/everstake_pool",
         "medium": "https://medium.com/everstake",
+        "coingeckoId": "solana",
         "source": "everstake",
         "currency": "SOL",
         "sourceUrl": "https://eversol.one/app"
@@ -6454,7 +6513,7 @@
     {
       "name": "Wrapped DAI (Allbridge from Fantom)",
       "symbol": "afDAI",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver.png",
       "decimals": 9,
       "address": "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
       "chainId": 101,
@@ -6643,7 +6702,7 @@
     {
       "name": "solUST",
       "symbol": "solUST",
-      "logoURI": "https://registry.saber.so/token-icons/solust.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T.svg",
       "decimals": 6,
       "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
       "chainId": 101,
@@ -6816,7 +6875,7 @@
     {
       "name": "LUNA (Wormhole) (IOU)",
       "symbol": "iouLUNA",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W.png",
       "decimals": 6,
       "address": "LUN9joXyojPTbKf3HwcHw12PKMLrmzEMrUSAinUGKr5",
       "chainId": 101,
@@ -7041,6 +7100,7 @@
       "extensions": {
         "website": "https://nirvana.finance/",
         "twitter": "https://twitter.com/nirvana_fi",
+        "coingeckoId": "nirvana-nirv",
         "source": "nirvana",
         "currency": "USD",
         "sourceUrl": "https://nirvana.finance"
@@ -7397,7 +7457,7 @@
     {
       "name": "Serum",
       "symbol": "SRM",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png",
       "decimals": 6,
       "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
       "chainId": 101,
@@ -7498,7 +7558,7 @@
     {
       "name": "Saber Protocol Token",
       "symbol": "SBR",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
       "decimals": 6,
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "chainId": 101,
@@ -7519,7 +7579,7 @@
     {
       "name": "Wrapped SOL",
       "symbol": "SOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/So11111111111111111111111111111111111111112.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
       "decimals": 9,
       "address": "So11111111111111111111111111111111111111112",
       "chainId": 101,
@@ -7700,7 +7760,7 @@
     {
       "name": "USDH Hubble Stablecoin",
       "symbol": "USDH",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
       "decimals": 6,
       "address": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
       "chainId": 101,
@@ -7712,6 +7772,7 @@
         "website": "https://hubbleprotocol.io/",
         "twitter": "https://twitter.com/hubbleprotocol",
         "discord": "https://discord.gg/d44A8WvK",
+        "coingeckoId": "usdh",
         "source": "hubble",
         "currency": "USD",
         "sourceUrl": "https://app.hubbleprotocol.io/"
@@ -8353,7 +8414,7 @@
     {
       "name": "Wrapped USDC (Allbridge from Polygon)",
       "symbol": "apUSDC",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca.png",
       "decimals": 6,
       "address": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
       "chainId": 101,
@@ -8450,7 +8511,7 @@
     {
       "name": "Marinade staked SOL (mSOL)",
       "symbol": "mSOL",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
       "decimals": 9,
       "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "chainId": 101,
@@ -8741,7 +8802,7 @@
     {
       "name": "Serum (Wormhole from Ethereum)",
       "symbol": "SRMet",
-      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG.png",
       "decimals": 6,
       "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
       "chainId": 101,
