@@ -8,9 +8,9 @@
   "saber-wrapped-devnet",
   "sunny-pool-mainnet",
   "sunny-pool-devnet",
-  "quarry-mainnet",
-  "quarry-devnet",
   "saber-tokens",
   "saber-tokens-devnet",
-  "solana"
+  "solana",
+  "quarry-mainnet",
+  "quarry-devnet"
 ]
