@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-05-28T02:39:40.914Z",
+  "timestamp": "2022-05-28T04:12:34.975Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -5155,11 +5155,24 @@
       }
     },
     {
-      "name": "Token F73X",
-      "symbol": "F73X9",
+      "name": "Sencha USDC-FUXD LP",
+      "symbol": "sUSDC-FUXD",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt/icon.png",
       "decimals": 6,
       "address": "F73X96EcKj52D4UQyR6xdGSMshZc4DfqB95fg8gXqHBt",
-      "chainId": 101
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between USD Coin and FUXD",
+        "underlyingTokens": [
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "FUXDfQ2BgeGbzkd37L1TuSe6gPdeDjQra8FbLezr1Nzf"
+        ],
+        "source": "sencha"
+      }
     },
     {
       "name": "Sunny Saber xFTT-FTT LP",
