@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-01T16:14:23.086Z",
+  "timestamp": "2022-06-01T17:20:37.517Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -11833,6 +11833,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 6j6B",
+      "symbol": "6j6Bv",
+      "decimals": 6,
+      "address": "6j6BvncLqUpPvt23bqQU8MqeyxnbVSny3LBTrQUN57cE",
+      "chainId": 103
+    },
+    {
       "name": "Token 6je8",
       "symbol": "6je8o",
       "decimals": 6,
@@ -13221,6 +13228,13 @@
       "symbol": "7GPUi",
       "decimals": 6,
       "address": "7GPUinzVdqdqk2VQRtVrEnv2RKPLA11UPvqKQe8fYo6J",
+      "chainId": 103
+    },
+    {
+      "name": "Token 7GWt",
+      "symbol": "7GWt2",
+      "decimals": 6,
+      "address": "7GWt2iQT5Lyc9yBPSuUjcrAFzp8ox5CYwCNNmeKm4rxJ",
       "chainId": 103
     },
     {
@@ -25004,6 +25018,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BuDr",
+      "symbol": "BuDre",
+      "decimals": 6,
+      "address": "BuDreXUeePuE6WKj3ph9fYgUExCxfVVVgF8sWGC9DMSF",
+      "chainId": 103
+    },
+    {
       "name": "Token BuEF",
       "symbol": "BuEFz",
       "decimals": 6,
@@ -30808,6 +30829,13 @@
       "chainId": 103
     },
     {
+      "name": "Token E2NL",
+      "symbol": "E2NLp",
+      "decimals": 6,
+      "address": "E2NLp4M7cDLTpstAHcJawYDmekqUXFdBzBZMtnTscbGT",
+      "chainId": 103
+    },
+    {
       "name": "Token E2Nf",
       "symbol": "E2NfA",
       "decimals": 6,
@@ -31805,6 +31833,13 @@
       "chainId": 103
     },
     {
+      "name": "Token ESPE",
+      "symbol": "ESPEH",
+      "decimals": 6,
+      "address": "ESPEH7NXCh3epCneDrcge1a2cAQugqT8vaX5EvkuqKeq",
+      "chainId": 103
+    },
+    {
       "name": "Token ESRt",
       "symbol": "ESRto",
       "decimals": 6,
@@ -32397,6 +32432,13 @@
       "symbol": "Ek9Vs",
       "decimals": 6,
       "address": "Ek9VsZSFSSohuu1iYcFcY3U2TNMnAREKLivKDZKAbMTk",
+      "chainId": 103
+    },
+    {
+      "name": "Token EkBe",
+      "symbol": "EkBez",
+      "decimals": 6,
+      "address": "EkBezcLju1pwKtpt17i2D67G82nuZATKmR5WDeY7x9TL",
       "chainId": 103
     },
     {
@@ -33118,6 +33160,13 @@
       "symbol": "F2QEh",
       "decimals": 6,
       "address": "F2QEhV71WzgsrBq84zs7v3Bry1PC24SgX6GeJcMf3Dcr",
+      "chainId": 103
+    },
+    {
+      "name": "Token F2fP",
+      "symbol": "F2fPo",
+      "decimals": 6,
+      "address": "F2fPonYu84cEjPnAvNmze5CbuysQRbabMcLkU9YbJE93",
       "chainId": 103
     },
     {
@@ -37062,6 +37111,13 @@
       "symbol": "GepnE",
       "decimals": 6,
       "address": "GepnEijpyZ98PqiTZvrAL2CNAZUFfP1THdUeFeMbPcn6",
+      "chainId": 103
+    },
+    {
+      "name": "Token Gf2z",
+      "symbol": "Gf2z1",
+      "decimals": 6,
+      "address": "Gf2z12cmXuZ1MaJTHG5sD2kqFpEMwBsEqqTZxenZFHCo",
       "chainId": 103
     },
     {
