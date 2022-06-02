@@ -107,8 +107,15 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-02T22:08:32.388Z",
+  "timestamp": "2022-06-02T23:11:22.124Z",
   "tokens": [
+    {
+      "name": "Token 236z",
+      "symbol": "236zB",
+      "decimals": 6,
+      "address": "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer",
+      "chainId": 101
+    },
     {
       "name": "Sunny Saber USDCbs-USDC LP",
       "symbol": "sun-USDCbs-USDC",
@@ -2456,6 +2463,13 @@
       }
     },
     {
+      "name": "Token 9yYL",
+      "symbol": "9yYLd",
+      "decimals": 6,
+      "address": "9yYLd34ZBKt9SG6ohojgu4UcCv6YfCzn64SN2nDu9zuc",
+      "chainId": 101
+    },
+    {
       "name": "Sunny Saber aeUSDC-USDC LP",
       "symbol": "sun-aeUSDC-USDC",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56/icon.png",
@@ -4123,6 +4137,25 @@
       }
     },
     {
+      "name": "Serum Surfers Floor Index",
+      "symbol": "SURF",
+      "logoURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/serum_surfers_pfp_1650376607466.gif",
+      "decimals": 2,
+      "address": "CP8CaP7GmSVUo9j3L8dwDKVR6i1kvcCUn1ubGGhc2V2M",
+      "chainId": 101,
+      "tags": [
+        "fraction-index",
+        "bridgesplit-fraction",
+        "serum-surfers",
+        "fnft"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/bridgesplit",
+        "discord": "https://discord.gg/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/CP8CaP7GmSVUo9j3L8dwDKVR6i1kvcCUn1ubGGhc2V2M"
+      }
+    },
+    {
       "name": "Saros ABR-CASH Saros LP",
       "symbol": "ABR-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s/icon.png",
@@ -4957,6 +4990,13 @@
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
       }
+    },
+    {
+      "name": "Token EifS",
+      "symbol": "EifSC",
+      "decimals": 6,
+      "address": "EifSC1As7dk2vsbuZ58CSwRF7uETH4E8a7TLmTzW61WG",
+      "chainId": 101
     },
     {
       "name": "Dai Stablecoin (Wormhole)",
@@ -6006,6 +6046,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token GKrd",
+      "symbol": "GKrdZ",
+      "decimals": 2,
+      "address": "GKrdZWvrvNoe7zGbtMS5NqPFdra6BriHrU1FDvNZ1c2i",
+      "chainId": 101
     },
     {
       "name": "Token GTzZ",
