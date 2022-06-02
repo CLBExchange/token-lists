@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-02T04:45:08.937Z",
+  "timestamp": "2022-06-02T06:12:19.523Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -3256,6 +3256,28 @@
       "chainId": 101
     },
     {
+      "name": "Synthetic USD (Fabric)",
+      "symbol": "fUSD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "decimals": 8,
+      "address": "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee",
+      "chainId": 101,
+      "tags": [
+        "fabric",
+        "synthetics"
+      ],
+      "extensions": {
+        "website": "https://app.fsynth.io/",
+        "twitter": "https://twitter.com/official_fabric",
+        "github": "https://github.com/fabric-foundation/",
+        "medium": "https://xfabric.medium.com/",
+        "coingeckoId": "usd-coin",
+        "source": "fabric",
+        "currency": "USD",
+        "sourceUrl": "https://fsynth.io"
+      }
+    },
+    {
       "name": "Token B8ji",
       "symbol": "B8jik",
       "decimals": 2,
@@ -5211,6 +5233,25 @@
         "underlyingTokens": [
           "Fr3W7NPVvdVbwMcHgA7Gx2wUxP43txdsn3iULJGFbKz9",
           "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber USDC-fUSD LP",
+      "symbol": "USDC-fUSD",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP/icon.png",
+      "decimals": 8,
+      "address": "FABBC7H9BdQKV5v8rZNLHJCnMSRcZbWoR9rF3oR65FcP",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/fabric_usd",
+        "underlyingTokens": [
+          "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy",
+          "B7mXkkZgn7abwz1A3HnKkb18Y6y18WcbeSkh1DuLMkee"
         ],
         "source": "saber"
       }
