@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-02T03:07:26.455Z",
+  "timestamp": "2022-06-02T04:45:08.937Z",
   "tokens": [
     {
       "name": "Sunny Saber USDCbs-USDC LP",
@@ -2207,6 +2207,27 @@
       "decimals": 6,
       "address": "9gf2Jvi4br2RAvJJU9s9Jf6WRn8J9vZg7sX3KCHCTj7x",
       "chainId": 101
+    },
+    {
+      "name": "Hedge USD",
+      "symbol": "USH",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6.png",
+      "decimals": 9,
+      "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://www.hedge.so/",
+        "twitter": "https://twitter.com/HedgeLabs",
+        "discord": "https://discord.gg/hedge",
+        "serumV3Usdc": "6aRwQtvTcHeRTtGxQRhqViwMF1XPEn271CgGEx3YAyEY",
+        "coingeckoId": "usd-coin",
+        "source": "hedge",
+        "currency": "USD",
+        "sourceUrl": "https://hedge.so"
+      }
     },
     {
       "name": "Token 9kCX",
@@ -7088,6 +7109,25 @@
       }
     },
     {
+      "name": "Saber USN-USDC LP",
+      "symbol": "USN-USDC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot/icon.png",
+      "decimals": 9,
+      "address": "NERQa8KLAt2DRAXzo3D2WbKVRkbGENr61gJmHg3Gxot",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/usn",
+        "underlyingTokens": [
+          "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber NIRV-UST LP",
       "symbol": "NIRV-UST",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/NRVAGstoBkjTTuTwJrGv3789B4odyQf7Yj1psfKUkEn/icon.png",
@@ -7239,6 +7279,21 @@
           "BdZPG9xWrG3uFrx2KrUW1jT4tZ9VKPDWknYihzoPRJS3"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "USN (Allbridge from Near)",
+      "symbol": "USN",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY.png",
+      "decimals": 9,
+      "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
+      "chainId": 101,
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "coingeckoId": "usd-coin",
+        "currency": "USD"
       }
     },
     {
@@ -7834,6 +7889,25 @@
         "underlyingTokens": [
           "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber USH-USDC LP",
+      "symbol": "USH-USDC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi/icon.png",
+      "decimals": 9,
+      "address": "USHETMBXzMCpwLabQQe713npSbupyQrsyb2kBw6PRJi",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/ush",
+        "underlyingTokens": [
+          "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
       }
