@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-04T00:41:11.282Z",
+  "timestamp": "2022-06-04T02:40:53.431Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -2223,7 +2223,8 @@
       "address": "9iLH8T7zoWhY7sBmj1WK9ENbWdS1nL8n9wAxaeRitTa6",
       "chainId": 101,
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ],
       "extensions": {
         "website": "https://www.hedge.so/",
@@ -3278,7 +3279,8 @@
       "chainId": 101,
       "tags": [
         "fabric",
-        "synthetics"
+        "synthetics",
+        "saber-mkt-usd"
       ],
       "extensions": {
         "website": "https://app.fsynth.io/",
@@ -7377,7 +7379,8 @@
       "address": "PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY",
       "chainId": 101,
       "tags": [
-        "stablecoin"
+        "stablecoin",
+        "saber-mkt-usd"
       ],
       "extensions": {
         "coingeckoId": "usd-coin",
