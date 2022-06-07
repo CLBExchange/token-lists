@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-07T12:15:51.934Z",
+  "timestamp": "2022-06-07T14:09:48.704Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -135,6 +135,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token 25ZF",
+      "symbol": "25ZFk",
+      "decimals": 6,
+      "address": "25ZFk5JABjXbb28H6CJo9idKtkH1QtoUHxxjuBFZj5tR",
+      "chainId": 101
     },
     {
       "name": "Token 28j8",
@@ -3394,6 +3401,13 @@
       }
     },
     {
+      "name": "Token BJhy",
+      "symbol": "BJhyT",
+      "decimals": 6,
+      "address": "BJhyTLddeVGp1DMSgj9378phAnCJ8wPxPXSYrnasdKMh",
+      "chainId": 101
+    },
+    {
       "name": "Sentre (IOU)",
       "symbol": "iouSNTR",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
@@ -4952,6 +4966,13 @@
       }
     },
     {
+      "name": "Token EVUD",
+      "symbol": "EVUDh",
+      "decimals": 6,
+      "address": "EVUDh6mwmvcUAif2HqFNM7VZaZDn6rMwiHf6D3retnAi",
+      "chainId": 101
+    },
+    {
       "name": "PAI (Parrot USD)",
       "symbol": "PAI",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
@@ -5370,6 +5391,13 @@
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
+    },
+    {
+      "name": "Token FFmn",
+      "symbol": "FFmnw",
+      "decimals": 2,
+      "address": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9",
+      "chainId": 101
     },
     {
       "name": "Sunny Saber wUSDK_V1-USDC LP",
@@ -5931,6 +5959,13 @@
       "symbol": "Fruit",
       "decimals": 6,
       "address": "FruitYn7tet6XNHKD5ZT9zj95P1FBRC1imq1nLoPaiou",
+      "chainId": 101
+    },
+    {
+      "name": "Token FsSo",
+      "symbol": "FsSox",
+      "decimals": 6,
+      "address": "FsSoxG8z5PjQ3BfDqmVkTqzQ22FKyAnWExSDK314UpPd",
       "chainId": 101
     },
     {
@@ -6802,6 +6837,13 @@
         "discord": "https://discord.gg/2DWjx5NywE",
         "description": "The Jungle Finance Raydium LP token."
       }
+    },
+    {
+      "name": "Token J5zF",
+      "symbol": "J5zFG",
+      "decimals": 6,
+      "address": "J5zFGuqu9N3TgfbzxJePm2EvxLaGvgjCscRPZR1Ppw3e",
+      "chainId": 101
     },
     {
       "name": "Token J7ap",
