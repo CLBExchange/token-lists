@@ -1202,6 +1202,27 @@
       }
     },
     {
+      "name": "Saros KIN-POLE Saros LP",
+      "symbol": "KIN-POLE",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/7zaiAW5id1PPFwkg4F1DdauEYwWfQ9edaA949BzAGrDK/icon.png",
+      "decimals": 2,
+      "address": "7zaiAW5id1PPFwkg4F1DdauEYwWfQ9edaA949BzAGrDK",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/BLgzKE2gweZzoKzKVTM1nu1B7QqsMbvTKVsWBVytXguf",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Pole Aggregator Governance",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+        ],
+        "source": "saros",
+        "pool": "BLgzKE2gweZzoKzKVTM1nu1B7QqsMbvTKVsWBVytXguf",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/04RW5rbLVddCp3di"
+      }
+    },
+    {
       "name": "Saros GOD-CASH Saros LP",
       "symbol": "GOD-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/813D4afWKgjHfc65LiPtF1rodNreuJ6ZQH4tMhuFrX2k/icon.png",
@@ -1916,6 +1937,27 @@
       }
     },
     {
+      "name": "Saros KIN-SBR Saros LP",
+      "symbol": "KIN-SBR",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CL2EwDPyRsntgCaZeTktTvgDmXQKPvHrYuy1EBCEYSh5/icon.png",
+      "decimals": 2,
+      "address": "CL2EwDPyRsntgCaZeTktTvgDmXQKPvHrYuy1EBCEYSh5",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/Cx3UEsFHtKcsS3BMN79dQ6YCwFamMD8vWwEjYDpmqHGy",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Saber",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+        ],
+        "source": "saros",
+        "pool": "Cx3UEsFHtKcsS3BMN79dQ6YCwFamMD8vWwEjYDpmqHGy",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/raeXdmMXtSnVowT6"
+      }
+    },
+    {
       "name": "Saros ABR-CASH Saros LP",
       "symbol": "ABR-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s/icon.png",
@@ -2123,6 +2165,27 @@
         "pool": "9LqjZ3z6ci5JFtwRTxRtqWJGwBRkAxzS3G2kGy9Uui1G",
         "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
         "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3"
+      }
+    },
+    {
+      "name": "Saros KIN-PRT Saros LP",
+      "symbol": "KIN-PRT",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/DUQsZyfM8qz72bK4TgRuAVvkWPLBgX3xGTnf3pJGyG5e/icon.png",
+      "decimals": 2,
+      "address": "DUQsZyfM8qz72bK4TgRuAVvkWPLBgX3xGTnf3pJGyG5e",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/AbGfv7oEb92evufh82chGJzzYMu3K2Nxc3bfsoH12Z7F",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Parrot Finance",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "PRT88RkA4Kg5z7pKnezeNH4mafTvtQdfFgpQTGRjz44"
+        ],
+        "source": "saros",
+        "pool": "AbGfv7oEb92evufh82chGJzzYMu3K2Nxc3bfsoH12Z7F",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW"
       }
     },
     {
@@ -2420,6 +2483,27 @@
       }
     },
     {
+      "name": "Saros KIN-CASH Saros LP",
+      "symbol": "KIN-CASH",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/F7yt4x5tbUpVKeoU3stjNsdPkgphob5pHitBpeoTP8mB/icon.png",
+      "decimals": 2,
+      "address": "F7yt4x5tbUpVKeoU3stjNsdPkgphob5pHitBpeoTP8mB",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/HHGFQNXwL81BxfqWDsZKjsnjdTTjeJR6nLq1MNSmQ8iv",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Cashio Dollar",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "saros",
+        "pool": "HHGFQNXwL81BxfqWDsZKjsnjdTTjeJR6nLq1MNSmQ8iv",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
       "name": "Saros USDT-SOL Saros LP",
       "symbol": "USDT-SOL",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/F9FPHUy8dn7XQtjPqdy4tbfEYnPYLmrXTrri2iMMutmL/icon.png",
@@ -2438,6 +2522,27 @@
         "pool": "B5DZZEYf7853h2tMZ18jd96LprKu2tuLiW2fiSTpcXQw",
         "token0Img": "https://coin98.s3.amazonaws.com/JmjG3D38UVDYL44S",
         "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3"
+      }
+    },
+    {
+      "name": "Saros KIN-SAMO Saros LP",
+      "symbol": "KIN-SAMO",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/FDKKiWxxuyh4cYfEf9hHomfj9P2PJYy2s6KwCrioEQJv/icon.png",
+      "decimals": 2,
+      "address": "FDKKiWxxuyh4cYfEf9hHomfj9P2PJYy2s6KwCrioEQJv",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/EpqqSpFEZAASC1ijGxVkZVWAHMEsQ9xhx72sbxuWm5FZ",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Samoyedcoin",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
+        ],
+        "source": "saros",
+        "pool": "EpqqSpFEZAASC1ijGxVkZVWAHMEsQ9xhx72sbxuWm5FZ",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC"
       }
     },
     {
@@ -2777,6 +2882,27 @@
       }
     },
     {
+      "name": "Saros KIN-SUNNY Saros LP",
+      "symbol": "KIN-SUNNY",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Hvsb6c9WyWi4sywketuL6BdVNgTfk1RgGfxwYqoVZScV/icon.png",
+      "decimals": 2,
+      "address": "Hvsb6c9WyWi4sywketuL6BdVNgTfk1RgGfxwYqoVZScV",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/BQvSxSWJUYGr5Gt45hmmSRsuF4NWZNoyRDRjDPmfYH1B",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Sunny Aggregator",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag"
+        ],
+        "source": "saros",
+        "pool": "BQvSxSWJUYGr5Gt45hmmSRsuF4NWZNoyRDRjDPmfYH1B",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/WLQZYxdqLOqqCG1g"
+      }
+    },
+    {
       "name": "Saros COPE-CASH Saros LP",
       "symbol": "COPE-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/HwXQWncukjBwExBsYFofcuf5nLLvgfsg3tRLfpH7fh7G/icon.png",
@@ -2795,6 +2921,27 @@
         "pool": "HWsg2Kuqjo6Ve44yrTSCyvyFY5T5qhs7jwMkkpEsh441",
         "token0Img": "https://coin98.s3.amazonaws.com/7MTt7khSZXHf7nAP",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Saros KIN-SAMO Saros LP",
+      "symbol": "KIN-SAMO",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/J7d6B9efLAeKjDk6pQvJeMiFpzmCsC7QAXf2ZrJcPX2H/icon.png",
+      "decimals": 2,
+      "address": "J7d6B9efLAeKjDk6pQvJeMiFpzmCsC7QAXf2ZrJcPX2H",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/2XN7wkFCxXhXaCCiNBJGvt8Kn4s5h9oQQDtGTBqgAgGD",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Samoyedcoin",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
+        ],
+        "source": "saros",
+        "pool": "2XN7wkFCxXhXaCCiNBJGvt8Kn4s5h9oQQDtGTBqgAgGD",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/hRbFQA7AM7Vr2GlC"
       }
     },
     {
@@ -2900,6 +3047,27 @@
         "pool": "EwJWEnd4vUHTLRtQWGxzkwYpTbQkEbHUDyKVNdEWvNaC",
         "token0Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z",
         "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3"
+      }
+    },
+    {
+      "name": "Saros KIN-CYS Saros LP",
+      "symbol": "KIN-CYS",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/ffhJW5Qm6GvBqmLfydqiZ1RmYndMza4jNdpPW1hd5AY/icon.png",
+      "decimals": 2,
+      "address": "ffhJW5Qm6GvBqmLfydqiZ1RmYndMza4jNdpPW1hd5AY",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/HBEeE9A6RcHFbUuZYYa7MdtFiuLyhyJHJs3AeeBAjCiE",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Cyclos",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "BRLsMczKuaR5w9vSubF4j8HwEGGprVAyyVgS4EX7DKEg"
+        ],
+        "source": "saros",
+        "pool": "HBEeE9A6RcHFbUuZYYa7MdtFiuLyhyJHJs3AeeBAjCiE",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/vYCg6BJRgBCRWV3q"
       }
     },
     {
