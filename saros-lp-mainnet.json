@@ -341,6 +341,27 @@
       }
     },
     {
+      "name": "Saros C98-NIRV Saros LP",
+      "symbol": "C98-NIRV",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3fUmucZ4qpti4LwiNX83qnc9Mv9BaHZkFywBBGp4E4YB/icon.png",
+      "decimals": 2,
+      "address": "3fUmucZ4qpti4LwiNX83qnc9Mv9BaHZkFywBBGp4E4YB",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/GkACXt1rK387A4qmqhYZraSSwKCVYf2MF4QCYrUFuiin",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Coin98 and Nirvana NIRV",
+        "underlyingTokens": [
+          "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+          "NRVwhjBQiUPYtfDT5zRBVJajzFQHaBUNtC7SNVvqRFa"
+        ],
+        "source": "saros",
+        "pool": "GkACXt1rK387A4qmqhYZraSSwKCVYf2MF4QCYrUFuiin",
+        "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
+        "token1Img": "https://coin98.s3.amazonaws.com/dw4CvdxXX8cGFkCe"
+      }
+    },
+    {
       "name": "Saros SLIM-CASH Saros LP",
       "symbol": "SLIM-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/3hcfydrsVDMxQ5ijxSovadgqkv724NscSiKuwJgFwGwQ/icon.png",
@@ -674,6 +695,48 @@
         "pool": "69vrcHBBX2sUJVYUv7iHuACBNVmfRpMSC8MfyTnsjPLG",
         "token0Img": "https://coin98.s3.amazonaws.com/Wsod18Q4luQiYvZW",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Saros KIN-COW Saros LP",
+      "symbol": "KIN-COW",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/4rPcbKZsuDnBYSfohqMZB4UVGRZKnH1bW78moGPYxCYe/icon.png",
+      "decimals": 2,
+      "address": "4rPcbKZsuDnBYSfohqMZB4UVGRZKnH1bW78moGPYxCYe",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/GMmoG9747VE7e1kwuLMdPf6L3ZAKVWgkk1jwFvEWGoRF",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Cash Cow",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP"
+        ],
+        "source": "saros",
+        "pool": "GMmoG9747VE7e1kwuLMdPf6L3ZAKVWgkk1jwFvEWGoRF",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/IQVQO9g6efbuge4Z"
+      }
+    },
+    {
+      "name": "Saros KIN-C98 Saros LP",
+      "symbol": "KIN-C98",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/56q1JhZ9drAvJBApwPPBgBSZSgGjrKPVGU6bGJMtuDNR/icon.png",
+      "decimals": 2,
+      "address": "56q1JhZ9drAvJBApwPPBgBSZSgGjrKPVGU6bGJMtuDNR",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/2qbECyoDBbzBxAuDDX2pmZMxPfbZsv2xByvCJFhLQFjg",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Kin and Coin98",
+        "underlyingTokens": [
+          "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6",
+          "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
+        ],
+        "source": "saros",
+        "pool": "2qbECyoDBbzBxAuDDX2pmZMxPfbZsv2xByvCJFhLQFjg",
+        "token0Img": "https://coin98.s3.amazonaws.com/0v9435EyUsyPvsRC",
+        "token1Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg"
       }
     },
     {
@@ -2270,6 +2333,27 @@
         "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7",
         "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Saros C98-PAI Saros LP",
+      "symbol": "C98-PAI",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Eu1iPJseuTZ2JJW62r6TmuuZ4L8jUXQQ3v37xyP4ARNs/icon.png",
+      "decimals": 2,
+      "address": "Eu1iPJseuTZ2JJW62r6TmuuZ4L8jUXQQ3v37xyP4ARNs",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/53Qq7m3e1UqoaLzgsGdSuuhJcMEP5Z1uNUykywQ2LjYG",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Coin98 and Parrot USD",
+        "underlyingTokens": [
+          "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9",
+          "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS"
+        ],
+        "source": "saros",
+        "pool": "53Qq7m3e1UqoaLzgsGdSuuhJcMEP5Z1uNUykywQ2LjYG",
+        "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
+        "token1Img": "https://coin98.s3.amazonaws.com/Jraql1XVFKX4CmuN"
       }
     },
     {
