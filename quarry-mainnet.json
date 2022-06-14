@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-14T18:11:03.182Z",
+  "timestamp": "2022-06-14T19:09:15.563Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -166,6 +166,13 @@
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
       }
+    },
+    {
+      "name": "Token 2Cve",
+      "symbol": "2Cvey",
+      "decimals": 6,
+      "address": "2Cveyz5N4oy6yMg83n8TMKDe7bKFYneNeC6cHjUadjsv",
+      "chainId": 101
     },
     {
       "name": "Token 2L46",
@@ -712,6 +719,13 @@
       "chainId": 101
     },
     {
+      "name": "Token 4GAh",
+      "symbol": "4GAhn",
+      "decimals": 2,
+      "address": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd",
+      "chainId": 101
+    },
+    {
       "name": "Token 4LA9",
       "symbol": "4LA9j",
       "decimals": 6,
@@ -1081,6 +1095,13 @@
       }
     },
     {
+      "name": "Token 5njD",
+      "symbol": "5njDx",
+      "decimals": 6,
+      "address": "5njDxTmmhTcDsQZBbHfkqnzzYz2ETBZwC2hUWcP9v3dQ",
+      "chainId": 101
+    },
+    {
       "name": "Token 5nzG",
       "symbol": "5nzGV",
       "decimals": 9,
@@ -1109,6 +1130,13 @@
         "currency": "SOL",
         "sourceUrl": "https://www.socean.fi/app"
       }
+    },
+    {
+      "name": "Token 5qYa",
+      "symbol": "5qYaX",
+      "decimals": 6,
+      "address": "5qYaXWck2LMkj46zD85z6hRib4ZJQmYifryfD1a8d25s",
+      "chainId": 101
     },
     {
       "name": "Token 5rWL",
