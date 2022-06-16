@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-16T16:12:10.223Z",
+  "timestamp": "2022-06-16T18:16:40.578Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -4095,6 +4095,13 @@
       }
     },
     {
+      "name": "Token CD48",
+      "symbol": "CD48g",
+      "decimals": 6,
+      "address": "CD48gsMkxp4EH25SEVdwpGxg1aVXSE3ozCBUVnJwTcai",
+      "chainId": 101
+    },
+    {
       "name": "renBTC",
       "symbol": "renBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/CDJWUqTcYTVAKXAVXoQZFes5JUFc7owSeq7eMQcDSbo5.png",
@@ -6364,6 +6371,13 @@
       }
     },
     {
+      "name": "Token GuvT",
+      "symbol": "GuvTU",
+      "decimals": 2,
+      "address": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk",
+      "chainId": 101
+    },
+    {
       "name": "Saros POLE-CASH Saros LP",
       "symbol": "POLE-CASH",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Gwr9C41tv51oAjD1gqzpsLP1sGJ4KRTvQCLtaaWi72YD/icon.png",
@@ -6472,6 +6486,13 @@
         "coingeckoId": "hubble",
         "coinmarketcap": "https://coinmarketcap.com/currencies/hubble-protocol/"
       }
+    },
+    {
+      "name": "Token HBQP",
+      "symbol": "HBQP7",
+      "decimals": 6,
+      "address": "HBQP7KHqA5fJVD1SDVA7EZZbrQ8qfzCUsrtyzBViNLBL",
+      "chainId": 101
     },
     {
       "name": "Saber wHBTC_v1-renBTC LP",
