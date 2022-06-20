@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-20T21:10:14.025Z",
+  "timestamp": "2022-06-20T22:09:37.554Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -41394,6 +41394,13 @@
       "chainId": 103
     },
     {
+      "name": "Token MLac",
+      "symbol": "MLacC",
+      "decimals": 0,
+      "address": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4",
+      "chainId": 103
+    },
+    {
       "name": "Token MNDE",
       "symbol": "MNDEF",
       "decimals": 9,
@@ -41401,10 +41408,38 @@
       "chainId": 103
     },
     {
+      "name": "Token MPoq",
+      "symbol": "MPoqb",
+      "decimals": 0,
+      "address": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno",
+      "chainId": 103
+    },
+    {
+      "name": "Token MRyB",
+      "symbol": "MRyBk",
+      "decimals": 0,
+      "address": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh",
+      "chainId": 103
+    },
+    {
       "name": "Token MTrj",
       "symbol": "MTrjo",
       "decimals": 6,
       "address": "MTrjo9qsmmBp9aWcbp1ZvAK1Phfg6P9Y32fMYFURoRd",
+      "chainId": 103
+    },
+    {
+      "name": "Token MmEf",
+      "symbol": "MmEfx",
+      "decimals": 0,
+      "address": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b",
+      "chainId": 103
+    },
+    {
+      "name": "Token Msyo",
+      "symbol": "Msyod",
+      "decimals": 0,
+      "address": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj",
       "chainId": 103
     },
     {
@@ -42414,10 +42449,24 @@
       "chainId": 103
     },
     {
+      "name": "Token mAPM",
+      "symbol": "mAPMh",
+      "decimals": 0,
+      "address": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H",
+      "chainId": 103
+    },
+    {
       "name": "Token mMjx",
       "symbol": "mMjxt",
       "decimals": 6,
       "address": "mMjxtre5cP2762YE7yr9KdtLKc3wm7nTQT5v6qxkEy8",
+      "chainId": 103
+    },
+    {
+      "name": "Token mSLK",
+      "symbol": "mSLKQ",
+      "decimals": 0,
+      "address": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA",
       "chainId": 103
     },
     {
@@ -42435,10 +42484,24 @@
       "chainId": 103
     },
     {
+      "name": "Token maL1",
+      "symbol": "maL1i",
+      "decimals": 0,
+      "address": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J",
+      "chainId": 103
+    },
+    {
       "name": "Token mnHy",
       "symbol": "mnHyg",
       "decimals": 6,
       "address": "mnHygsE4JwtbWzhgPRWa77Qs1qcQRG1eqwpDYpaRHRZ",
+      "chainId": 103
+    },
+    {
+      "name": "Token moRH",
+      "symbol": "moRHQ",
+      "decimals": 0,
+      "address": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M",
       "chainId": 103
     },
     {
