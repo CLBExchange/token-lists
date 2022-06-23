@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-23T12:17:59.542Z",
+  "timestamp": "2022-06-23T15:12:58.042Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -41394,6 +41394,13 @@
       "chainId": 103
     },
     {
+      "name": "Token MCRZ",
+      "symbol": "MCRZg",
+      "decimals": 0,
+      "address": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K",
+      "chainId": 103
+    },
+    {
       "name": "Token MJc4",
       "symbol": "MJc43",
       "decimals": 6,
@@ -41436,10 +41443,38 @@
       "chainId": 103
     },
     {
+      "name": "Token MaRz",
+      "symbol": "MaRzd",
+      "decimals": 0,
+      "address": "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG",
+      "chainId": 103
+    },
+    {
       "name": "Token MmEf",
       "symbol": "MmEfx",
       "decimals": 0,
       "address": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b",
+      "chainId": 103
+    },
+    {
+      "name": "Token MoRi",
+      "symbol": "MoRiM",
+      "decimals": 0,
+      "address": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA",
+      "chainId": 103
+    },
+    {
+      "name": "Token MorV",
+      "symbol": "MorVR",
+      "decimals": 0,
+      "address": "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ",
+      "chainId": 103
+    },
+    {
+      "name": "Token Morq",
+      "symbol": "MorqJ",
+      "decimals": 0,
+      "address": "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD",
       "chainId": 103
     },
     {
@@ -42509,6 +42544,20 @@
       "symbol": "moRHQ",
       "decimals": 0,
       "address": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M",
+      "chainId": 103
+    },
+    {
+      "name": "Token moRi",
+      "symbol": "moRiv",
+      "decimals": 0,
+      "address": "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES",
+      "chainId": 103
+    },
+    {
+      "name": "Token morF",
+      "symbol": "morFD",
+      "decimals": 0,
+      "address": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z",
       "chainId": 103
     },
     {

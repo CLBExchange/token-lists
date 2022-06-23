@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-23T12:16:28.838Z",
+  "timestamp": "2022-06-23T15:12:56.971Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -7352,6 +7352,13 @@
       }
     },
     {
+      "name": "Token MCRZ",
+      "symbol": "MCRZg",
+      "decimals": 0,
+      "address": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K",
+      "chainId": 101
+    },
+    {
       "name": "Mercurial",
       "symbol": "MER",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K/logo.png",
@@ -7364,6 +7371,13 @@
         "coingeckoId": "mercurial",
         "waterfallbot": "https://bit.ly/MERwaterfall"
       }
+    },
+    {
+      "name": "Token MLac",
+      "symbol": "MLacC",
+      "decimals": 0,
+      "address": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4",
+      "chainId": 101
     },
     {
       "name": "Marinade",
@@ -7380,6 +7394,62 @@
         "discord": "https://discord.gg/mGqZA5pjRN",
         "coingeckoId": "marinade"
       }
+    },
+    {
+      "name": "Token MPoq",
+      "symbol": "MPoqb",
+      "decimals": 0,
+      "address": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno",
+      "chainId": 101
+    },
+    {
+      "name": "Token MRyB",
+      "symbol": "MRyBk",
+      "decimals": 0,
+      "address": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh",
+      "chainId": 101
+    },
+    {
+      "name": "Token MaRz",
+      "symbol": "MaRzd",
+      "decimals": 0,
+      "address": "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG",
+      "chainId": 101
+    },
+    {
+      "name": "Token MmEf",
+      "symbol": "MmEfx",
+      "decimals": 0,
+      "address": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b",
+      "chainId": 101
+    },
+    {
+      "name": "Token MoRi",
+      "symbol": "MoRiM",
+      "decimals": 0,
+      "address": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA",
+      "chainId": 101
+    },
+    {
+      "name": "Token MorV",
+      "symbol": "MorVR",
+      "decimals": 0,
+      "address": "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ",
+      "chainId": 101
+    },
+    {
+      "name": "Token Morq",
+      "symbol": "MorqJ",
+      "decimals": 0,
+      "address": "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD",
+      "chainId": 101
+    },
+    {
+      "name": "Token Msyo",
+      "symbol": "Msyod",
+      "decimals": 0,
+      "address": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj",
+      "chainId": 101
     },
     {
       "name": "Saber USN-USDC LP",
@@ -8877,6 +8947,20 @@
       }
     },
     {
+      "name": "Token mAPM",
+      "symbol": "mAPMh",
+      "decimals": 0,
+      "address": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H",
+      "chainId": 101
+    },
+    {
+      "name": "Token mSLK",
+      "symbol": "mSLKQ",
+      "decimals": 0,
+      "address": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA",
+      "chainId": 101
+    },
+    {
       "name": "Marinade staked SOL (mSOL)",
       "symbol": "mSOL",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
@@ -8901,6 +8985,27 @@
       }
     },
     {
+      "name": "Token maL1",
+      "symbol": "maL1i",
+      "decimals": 0,
+      "address": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J",
+      "chainId": 101
+    },
+    {
+      "name": "Token moRH",
+      "symbol": "moRHQ",
+      "decimals": 0,
+      "address": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M",
+      "chainId": 101
+    },
+    {
+      "name": "Token moRi",
+      "symbol": "moRiv",
+      "decimals": 0,
+      "address": "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES",
+      "chainId": 101
+    },
+    {
       "name": "Saber daoSOL-SOL LP",
       "symbol": "daoSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z/icon.png",
@@ -8918,6 +9023,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token morF",
+      "symbol": "morFD",
+      "decimals": 0,
+      "address": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z",
+      "chainId": 101
     },
     {
       "name": "Saber pBTC-renBTC LP",
