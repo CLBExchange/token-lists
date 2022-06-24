@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-24T18:11:44.041Z",
+  "timestamp": "2022-06-24T20:11:13.637Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -4997,6 +4997,13 @@
         "coingeckoId": "usd-coin",
         "currency": "USD"
       }
+    },
+    {
+      "name": "Token EPoD",
+      "symbol": "EPoDd",
+      "decimals": 9,
+      "address": "EPoDdEcDQ478YNRAiMYMHLs7mEnmo5z9322Q2D5exKFU",
+      "chainId": 101
     },
     {
       "name": "Token ERpp",
