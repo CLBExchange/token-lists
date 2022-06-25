@@ -5,6 +5,27 @@
   "timestamp": "2022-01-20T00:00:00.099Z",
   "tokens": [
     {
+      "name": "Saros $FORGE-SOL Saros LP",
+      "symbol": "$FORGE-SOL",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/14VYsnowHYELAhFtXSad2116uALtivRNUBXBStq2vTEm/icon.png",
+      "decimals": 2,
+      "address": "14VYsnowHYELAhFtXSad2116uALtivRNUBXBStq2vTEm",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/GHQitPkdkhRpqfaetMHouYC61NKJWzzHrPtn8MVNKt4X",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Blocksmith Labs Forge and Solana",
+        "underlyingTokens": [
+          "FoRGERiW7odcCBGU1bztZi16osPBHjxharvDathL5eds",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saros",
+        "pool": "GHQitPkdkhRpqfaetMHouYC61NKJWzzHrPtn8MVNKt4X",
+        "token0Img": "https://coin98.s3.amazonaws.com/6lxznqrPwZP3jQwF",
+        "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3"
+      }
+    },
+    {
       "name": "Saros APT-SUNNY Saros LP",
       "symbol": "APT-SUNNY",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/22oEfKtYzTGKN1UbCX5B2NdtZMkMXY6GWYzdpbGJYpdB/icon.png",
@@ -2984,6 +3005,27 @@
         "pool": "DmQkZMF5qGGK7Yh41BQcjSZrfBw1b6STXUozFzGQkdp7",
         "token0Img": "https://coin98.s3.amazonaws.com/ejvqaZx9h4uCaOdW",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
+      }
+    },
+    {
+      "name": "Saros MILK-SOL Saros LP",
+      "symbol": "MILK-SOL",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/Eoy8UqUVFAZaiH3wjnaVfmjB8hzHWGASVKoF14byAToe/icon.png",
+      "decimals": 2,
+      "address": "Eoy8UqUVFAZaiH3wjnaVfmjB8hzHWGASVKoF14byAToe",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/13QyNueRV4V1P1jz5dtZUoUHUDKWX8c8LZNH4v9Puz69",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Udder Chaos and Solana",
+        "underlyingTokens": [
+          "MLKmUCaj1dpBY881aFsrBwR9RUMoKic8SWT3u1q5Nkj",
+          "So11111111111111111111111111111111111111112"
+        ],
+        "source": "saros",
+        "pool": "13QyNueRV4V1P1jz5dtZUoUHUDKWX8c8LZNH4v9Puz69",
+        "token0Img": "https://coin98.s3.amazonaws.com/j7pDgUhoOFyd5VZI",
+        "token1Img": "https://coin98.s3.amazonaws.com/hUTZN237FzDLlfP3"
       }
     },
     {
