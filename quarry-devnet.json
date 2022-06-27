@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-06-27T22:10:05.935Z",
+  "timestamp": "2022-06-27T23:09:52.905Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -23332,6 +23332,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BEPX",
+      "symbol": "BEPXG",
+      "decimals": 6,
+      "address": "BEPXG3WLWv3socFwhykKtWFj4fX3rJeh9KtVSEttU2cZ",
+      "chainId": 103
+    },
+    {
       "name": "Token BETE",
       "symbol": "BETEH",
       "decimals": 6,
@@ -36432,6 +36439,13 @@
       "symbol": "GLfno",
       "decimals": 6,
       "address": "GLfnoypP4FGa2zvtiNeRevuqYLMtSfsDTBWcNWrjoYUr",
+      "chainId": 103
+    },
+    {
+      "name": "Token GLje",
+      "symbol": "GLjeG",
+      "decimals": 6,
+      "address": "GLjeGppULi9E8Jw7EtQTYqtaVFCqqZdUZDKV8BGyQpBN",
       "chainId": 103
     },
     {
