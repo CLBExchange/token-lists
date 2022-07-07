@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-07-07T12:29:36.296Z",
+  "timestamp": "2022-07-07T13:36:15.329Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -10633,6 +10633,13 @@
       "symbol": "6D1TP",
       "decimals": 6,
       "address": "6D1TP3pQBz24RiYMN55DYVSCG8V76QuLAqrqZMaD15YF",
+      "chainId": 103
+    },
+    {
+      "name": "Token 6D1Z",
+      "symbol": "6D1ZU",
+      "decimals": 7,
+      "address": "6D1ZU9aE22iskCuyeZ9xCzspXoaLgfhW1Pc7fWqw7SkL",
       "chainId": 103
     },
     {
@@ -26909,6 +26916,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Cc56",
+      "symbol": "Cc56E",
+      "decimals": 7,
+      "address": "Cc56EW8CnYCWyWkwG7jmSXSDjrwekdrPgjXdqpvFk21V",
+      "chainId": 103
+    },
+    {
       "name": "Token Cc7w",
       "symbol": "Cc7wn",
       "decimals": 6,
@@ -29756,6 +29770,13 @@
       "chainId": 103
     },
     {
+      "name": "Token Dcsr",
+      "symbol": "DcsrE",
+      "decimals": 7,
+      "address": "DcsrERrQEcD3opeR14ZzuhmeZQ6TreFnfYMtVFy1NJrb",
+      "chainId": 103
+    },
+    {
       "name": "Token DcvS",
       "symbol": "DcvSQ",
       "decimals": 6,
@@ -31335,6 +31356,13 @@
       "symbol": "EC25d",
       "decimals": 6,
       "address": "EC25daJ4zugxxUz3odfcWj4J2h42DTyZzPRhQ74ELGrY",
+      "chainId": 103
+    },
+    {
+      "name": "Token EC7o",
+      "symbol": "EC7o8",
+      "decimals": 7,
+      "address": "EC7o8FssHyDwv5Abs2W3cjjpD7iXza14XVr5jNnKnZrs",
       "chainId": 103
     },
     {
