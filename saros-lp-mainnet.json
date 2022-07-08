@@ -1160,27 +1160,6 @@
       }
     },
     {
-      "name": "Saros ARB-UST Saros LP",
-      "symbol": "ARB-UST",
-      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9/icon.png",
-      "decimals": 2,
-      "address": "5iC9tWrba8oHgr2MTToejTLnz8joD8LFPsUUhCmswxg9",
-      "chainId": 101,
-      "extensions": {
-        "website": "https://saros.finance/pool/HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
-        "twitter": "https://twitter.com/saros_finance",
-        "description": "Saros LP token between ARB Protocol and TerraUSD (Wormhole)",
-        "underlyingTokens": [
-          "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
-          "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i"
-        ],
-        "source": "saros",
-        "pool": "HdpWPPwvhgdMDDR5NNaXgM28cyud3NsXduz2PXYSxpYn",
-        "token0Img": "https://coin98.s3.amazonaws.com/7ndMRDzHVBDp4qgm",
-        "token1Img": "https://coin98.s3.amazonaws.com/djlr6HveG96yRzLF"
-      }
-    },
-    {
       "name": "Saros POLIS-USDC Saros LP",
       "symbol": "POLIS-USDC",
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/5k32hb7LHTKMoaCXEDr6pkjLwz8NAYMrDgWGLu1Yq5CG/icon.png",
@@ -1892,6 +1871,27 @@
         "pool": "FfAeB2BFo1Tb9HxfZwytPbzFKbxb2Br9mLKA1KoWJfBk",
         "token0Img": "https://coin98.s3.amazonaws.com/TVF7VPTqpm6bmDqg",
         "token1Img": "https://coin98.s3.amazonaws.com/liObmGFpvlJxltft"
+      }
+    },
+    {
+      "name": "Saros WETH-USDH Saros LP",
+      "symbol": "WETH-USDH",
+      "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/99BrkRHGiHZ9LtZ2NdkhJDNkfR27TdvoYH29TM2f9GMb/icon.png",
+      "decimals": 2,
+      "address": "99BrkRHGiHZ9LtZ2NdkhJDNkfR27TdvoYH29TM2f9GMb",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://saros.finance/pool/ECiw3uHt4tGrZfaBNJv7fBBozXHDkCL3Tjbji5byeA8i",
+        "twitter": "https://twitter.com/saros_finance",
+        "description": "Saros LP token between Wrapped Ether and USDH",
+        "underlyingTokens": [
+          "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+          "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX"
+        ],
+        "source": "saros",
+        "pool": "ECiw3uHt4tGrZfaBNJv7fBBozXHDkCL3Tjbji5byeA8i",
+        "token0Img": "https://coin98.s3.amazonaws.com/VWCeMHslUZ6bfcsz",
+        "token1Img": "https://coin98.s3.amazonaws.com/nOS5ZjOD4TO3WDOR"
       }
     },
     {
