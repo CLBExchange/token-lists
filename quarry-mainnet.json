@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-07-08T23:09:15.917Z",
+  "timestamp": "2022-07-09T00:40:13.689Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -1168,6 +1168,13 @@
       "symbol": "67LA7",
       "decimals": 6,
       "address": "67LA7NiUJmY1ky5Lt8bzB5P9dxJyi476kyHU9Tm8vduy",
+      "chainId": 101
+    },
+    {
+      "name": "Token 6D1Z",
+      "symbol": "6D1ZU",
+      "decimals": 7,
+      "address": "6D1ZU9aE22iskCuyeZ9xCzspXoaLgfhW1Pc7fWqw7SkL",
       "chainId": 101
     },
     {
@@ -4337,6 +4344,13 @@
       }
     },
     {
+      "name": "Token Cc56",
+      "symbol": "Cc56E",
+      "decimals": 7,
+      "address": "Cc56EW8CnYCWyWkwG7jmSXSDjrwekdrPgjXdqpvFk21V",
+      "chainId": 101
+    },
+    {
       "name": "Token CjJL",
       "symbol": "CjJLg",
       "decimals": 2,
@@ -4750,6 +4764,13 @@
       }
     },
     {
+      "name": "Token Dcsr",
+      "symbol": "DcsrE",
+      "decimals": 7,
+      "address": "DcsrERrQEcD3opeR14ZzuhmeZQ6TreFnfYMtVFy1NJrb",
+      "chainId": 101
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Ethereum)",
       "symbol": "aeUSDC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9.png",
@@ -4985,6 +5006,13 @@
       "symbol": "E93F4",
       "decimals": 6,
       "address": "E93F46hPK4RcgukE8SZtD96VV9N1VFuaqbHe2LWQSGkd",
+      "chainId": 101
+    },
+    {
+      "name": "Token EC7o",
+      "symbol": "EC7o8",
+      "decimals": 7,
+      "address": "EC7o8FssHyDwv5Abs2W3cjjpD7iXza14XVr5jNnKnZrs",
       "chainId": 101
     },
     {
@@ -6126,6 +6154,13 @@
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
       }
+    },
+    {
+      "name": "Token G3yw",
+      "symbol": "G3ywJ",
+      "decimals": 7,
+      "address": "G3ywJe259j51Jqwj29ZQXS9GmkrazyPs2yv8VRp9xfPt",
+      "chainId": 101
     },
     {
       "name": "Token G6PJ",
