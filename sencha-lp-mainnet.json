@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-07-10T01:53:44.643Z",
+  "timestamp": "2022-07-11T01:42:28.612Z",
   "tokens": [
     {
       "name": "Sencha RAY-USDC LP",
@@ -1005,6 +1005,26 @@
       }
     },
     {
+      "name": "Sencha 3Hrc-7ZB6 LP",
+      "symbol": "s3Hrc-7ZB6",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7hhKeJ8LUGcWABJAkVCmDPyrmwbTCYKQnZ79TpgiJb2N/icon.png",
+      "decimals": 9,
+      "address": "7hhKeJ8LUGcWABJAkVCmDPyrmwbTCYKQnZ79TpgiJb2N",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk/7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between 3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk and 7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo",
+        "underlyingTokens": [
+          "3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk",
+          "7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
       "name": "Sencha SUNNY-aSOL LP",
       "symbol": "sSUNNY-aSOL",
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7n8y46aW9ytsQ7yYygMJXv5d9uZNUTAp9z7t5uYoTUxe/icon.png",
@@ -1725,6 +1745,26 @@
       }
     },
     {
+      "name": "Sencha 7ZB6-DxkL LP",
+      "symbol": "s7ZB6-DxkL",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BmMWGf6A2UmEU3tuaYf1ANUpmuh8whUgsuHByPVGbmJn/icon.png",
+      "decimals": 9,
+      "address": "BmMWGf6A2UmEU3tuaYf1ANUpmuh8whUgsuHByPVGbmJn",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo/DxkLL6KnZ8KbXKTjxBFH22gSWjG8odrXZL2T43DTKhuM",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between 7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo and DxkLL6KnZ8KbXKTjxBFH22gSWjG8odrXZL2T43DTKhuM",
+        "underlyingTokens": [
+          "7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo",
+          "DxkLL6KnZ8KbXKTjxBFH22gSWjG8odrXZL2T43DTKhuM"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
       "name": "Sencha SUNNY-CASH LP",
       "symbol": "sSUNNY-CASH",
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BzZRM9HciRcgWNCjF1UdiYnHiNx6YAjuzcinVFL9CKYw/icon.png",
@@ -1760,6 +1800,26 @@
         "underlyingTokens": [
           "4oZyezadeP4KdskT3oDXWFR6Nsado4rGanaH6p6wNR3P",
           "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha 3Hrc-AN4V LP",
+      "symbol": "s3Hrc-AN4V",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/CHU25NqLwqDqv9BfZgLtSwPsmYR6v2i39R7sxtiveGuF/icon.png",
+      "decimals": 9,
+      "address": "CHU25NqLwqDqv9BfZgLtSwPsmYR6v2i39R7sxtiveGuF",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk/AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between 3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk and AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1",
+        "underlyingTokens": [
+          "3Hrczv1J2F6U96Rpw3RQik8VVrKJH2UNVUoKy7VwRvEk",
+          "AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1"
         ],
         "source": "sencha"
       }
@@ -2120,6 +2180,26 @@
         "underlyingTokens": [
           "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x",
           "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha 7ZB6-AN4V LP",
+      "symbol": "s7ZB6-AN4V",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/ENxp7q7XQPiuTFFaAmrzZwRFWRuAzBXVFPjKtGgefKm3/icon.png",
+      "decimals": 9,
+      "address": "ENxp7q7XQPiuTFFaAmrzZwRFWRuAzBXVFPjKtGgefKm3",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo/AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between 7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo and AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1",
+        "underlyingTokens": [
+          "7ZB6inRku4iRPVTfyHZxMebdVka3URCPJBYec86zErwo",
+          "AN4VjGmncbN9rTf1cqBR2bhiLLyGTYFqv7FT9A7EBEz1"
         ],
         "source": "sencha"
       }
