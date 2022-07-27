@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-07-26T01:52:04.423Z",
+  "timestamp": "2022-07-27T01:47:10.614Z",
   "tokens": [
     {
       "name": "Sencha RAY-USDC LP",
@@ -1025,6 +1025,26 @@
       }
     },
     {
+      "name": "Sencha bSOL-stSOL LP",
+      "symbol": "sbSOL-stSOL",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7hjfo6hAUMX7bcE1vsbVzmUawXsBg5QmW98sGjR3WfVp/icon.png",
+      "decimals": 9,
+      "address": "7hjfo6hAUMX7bcE1vsbVzmUawXsBg5QmW98sGjR3WfVp",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between BlazeStake Staked SOL (bSOL) and Lido Staked SOL",
+        "underlyingTokens": [
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+          "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
       "name": "Sencha SUNNY-aSOL LP",
       "symbol": "sSUNNY-aSOL",
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/7n8y46aW9ytsQ7yYygMJXv5d9uZNUTAp9z7t5uYoTUxe/icon.png",
@@ -1140,6 +1160,26 @@
         "underlyingTokens": [
           "5tN42n9vMi6ubp67Uy4NnmM5DMZYN8aS8GeB3bEDHr6E",
           "DubwWZNWiNGMMeeQHPnMATNj77YZPZSAz2WVR5WjLJqz"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha bSOL-USDC LP",
+      "symbol": "sbSOL-USDC",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/8Nsbg3QNpLtfDg46f3hSMh1MpjUc9VE9VQ9QraLWDpFG/icon.png",
+      "decimals": 9,
+      "address": "8Nsbg3QNpLtfDg46f3hSMh1MpjUc9VE9VQ9QraLWDpFG",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between BlazeStake Staked SOL (bSOL) and USD Coin",
+        "underlyingTokens": [
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "source": "sencha"
       }
