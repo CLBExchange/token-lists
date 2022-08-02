@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-02T14:09:12.167Z",
+  "timestamp": "2022-08-02T15:11:18.295Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -3510,6 +3510,13 @@
       "symbol": "BJhyT",
       "decimals": 6,
       "address": "BJhyTLddeVGp1DMSgj9378phAnCJ8wPxPXSYrnasdKMh",
+      "chainId": 101
+    },
+    {
+      "name": "Token BKq1",
+      "symbol": "BKq1H",
+      "decimals": 9,
+      "address": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr",
       "chainId": 101
     },
     {
