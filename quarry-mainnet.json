@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-06T15:08:54.343Z",
+  "timestamp": "2022-08-06T16:13:13.338Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -3748,6 +3748,13 @@
       }
     },
     {
+      "name": "Token Bnv4",
+      "symbol": "Bnv4Q",
+      "decimals": 6,
+      "address": "Bnv4Qn35qqi8bSXynfnsvsVEJ9rdMqHcRwFnXbSvue9h",
+      "chainId": 101
+    },
+    {
       "name": "Wrapped BTC (Allbridge from HECO)",
       "symbol": "ahBTC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH.png",
@@ -4349,6 +4356,13 @@
         "currency": "USD",
         "sourceUrl": "https://v1.wormholebridge.com/#/move"
       }
+    },
+    {
+      "name": "Token Ca9L",
+      "symbol": "Ca9Lx",
+      "decimals": 2,
+      "address": "Ca9LxRYdZ7jK4QAqjLo4iaYmiV8FNdngtSkzM69hzgDX",
+      "chainId": 101
     },
     {
       "name": "Token Cc56",
