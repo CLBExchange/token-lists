@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-09T16:11:45.528Z",
+  "timestamp": "2022-08-09T18:13:11.221Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -148,6 +148,13 @@
       "symbol": "28j8k",
       "decimals": 6,
       "address": "28j8k7pm5aqwsaa3RCGxk7zrNx1HEFSZtEnM8crBsnJL",
+      "chainId": 101
+    },
+    {
+      "name": "Token 299m",
+      "symbol": "299mi",
+      "decimals": 6,
+      "address": "299miw9uSEjpmPvbfeo52GKjM5pccPtQJ6YMVnv3EBHx",
       "chainId": 101
     },
     {
@@ -203,6 +210,20 @@
         "currency": "LUNA",
         "sourceUrl": "https://v1.wormholebridge.com/#/move"
       }
+    },
+    {
+      "name": "Token 2aXw",
+      "symbol": "2aXwL",
+      "decimals": 6,
+      "address": "2aXwLbP7etrTND4T5isN7DDzJmyNkT2PGEB322zWJbHU",
+      "chainId": 101
+    },
+    {
+      "name": "Token 2cvc",
+      "symbol": "2cvcj",
+      "decimals": 6,
+      "address": "2cvcjnbFaD3bCsTB7yizVM5kG9Zo8ySXEhwcTiAbKqYy",
+      "chainId": 101
     },
     {
       "name": "Serum (Wormhole V1)",
@@ -333,6 +354,13 @@
       }
     },
     {
+      "name": "Token 2woF",
+      "symbol": "2woFA",
+      "decimals": 2,
+      "address": "2woFA66NF37H3NFAiDY6yojqyxgtqWCcfkxsZbnSr7Fa",
+      "chainId": 101
+    },
+    {
       "name": "Binance USD (Wormhole from Ethereum)",
       "symbol": "BUSDet",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX.png",
@@ -354,6 +382,13 @@
         "currency": "USD",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
       }
+    },
+    {
+      "name": "Token 35Ts",
+      "symbol": "35TsM",
+      "decimals": 6,
+      "address": "35TsMk4m9wWHMBdqaMaDNKSoaS8X3p4ZB5iqmDtw3NAF",
+      "chainId": 101
     },
     {
       "name": "Token 3942",
@@ -556,6 +591,13 @@
       "chainId": 101
     },
     {
+      "name": "Token 3Xb4",
+      "symbol": "3Xb4P",
+      "decimals": 2,
+      "address": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr",
+      "chainId": 101
+    },
+    {
       "name": "Token 3fGJ",
       "symbol": "3fGJQ",
       "decimals": 6,
@@ -581,6 +623,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token 3kvU",
+      "symbol": "3kvUL",
+      "decimals": 2,
+      "address": "3kvULEvfgP9W6pZv98RsTDGedC5nWxzUDPhLCQwhsdHb",
+      "chainId": 101
     },
     {
       "name": "Wrapped BTC (Allbridge from BSC)",
@@ -1076,6 +1125,13 @@
       }
     },
     {
+      "name": "Token 5kdL",
+      "symbol": "5kdLW",
+      "decimals": 2,
+      "address": "5kdLWbkRvAcYaKfjAsByEbgzmD3YHAXskWDGDZhjoXzp",
+      "chainId": 101
+    },
+    {
       "name": "Sunny Saber pSOL-prtSOL LP",
       "symbol": "sun-pSOL-prtSOL",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD/icon.png",
@@ -1343,6 +1399,13 @@
       "symbol": "6e32i",
       "decimals": 2,
       "address": "6e32iPj4Nu1qoWHtggWxeGW55kNPhhPzdyMz2zsVetSg",
+      "chainId": 101
+    },
+    {
+      "name": "Token 6euj",
+      "symbol": "6euj9",
+      "decimals": 2,
+      "address": "6euj9GabpV65b8thSJUevLS1Hgg7Zqgd1frgXiMCY2pr",
       "chainId": 101
     },
     {
@@ -2452,6 +2515,13 @@
       }
     },
     {
+      "name": "Token 9tGV",
+      "symbol": "9tGVn",
+      "decimals": 6,
+      "address": "9tGVntPSYppviEZCERqNimt9L5m6nsWnqWYQfgXJny1A",
+      "chainId": 101
+    },
+    {
       "name": "Token 9tux",
       "symbol": "9tux5",
       "decimals": 2,
@@ -3333,6 +3403,13 @@
         ],
         "source": "quarry-iou"
       }
+    },
+    {
+      "name": "Token Aqyq",
+      "symbol": "AqyqU",
+      "decimals": 6,
+      "address": "AqyqUdgaLyoiUre4XRkD5gdBL4dBwhXd5KEH5ULT52WH",
+      "chainId": 101
     },
     {
       "name": "Token ArWN",
@@ -4618,6 +4695,13 @@
       }
     },
     {
+      "name": "Token DLQo",
+      "symbol": "DLQoZ",
+      "decimals": 2,
+      "address": "DLQoZ14o43XkT5C57QHTtxATMmty3khY8LpPyiMcsufk",
+      "chainId": 101
+    },
+    {
       "name": "Sunny Saber PAI-USDC LP",
       "symbol": "sun-PAI-USDC",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh/icon.png",
@@ -5034,6 +5118,13 @@
       "symbol": "EC7o8",
       "decimals": 7,
       "address": "EC7o8FssHyDwv5Abs2W3cjjpD7iXza14XVr5jNnKnZrs",
+      "chainId": 101
+    },
+    {
+      "name": "Token EFuM",
+      "symbol": "EFuMZ",
+      "decimals": 6,
+      "address": "EFuMZAzFUJVoEeya984ievdaPqGzTeUhW1BB6FpLvnRU",
       "chainId": 101
     },
     {
@@ -5603,6 +5694,13 @@
       }
     },
     {
+      "name": "Token FL9J",
+      "symbol": "FL9J1",
+      "decimals": 2,
+      "address": "FL9J1ke2bvAMvfFUX2eP7twQmVLaVfBEQbVFCTgqVZJm",
+      "chainId": 101
+    },
+    {
       "name": "Hubble Protocol Token (IOU)",
       "symbol": "iouHBB",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg",
@@ -5754,6 +5852,13 @@
       "symbol": "FScyQ",
       "decimals": 2,
       "address": "FScyQqHKiVUcgGqVpx4jhBqxdrG1VYrSsBwWePk9YfTf",
+      "chainId": 101
+    },
+    {
+      "name": "Token FT4J",
+      "symbol": "FT4JH",
+      "decimals": 6,
+      "address": "FT4JH19wq1WMk9a2nPRGihn8WGP8R4iaYMaDVqgqtoMK",
       "chainId": 101
     },
     {
@@ -6337,6 +6442,13 @@
       }
     },
     {
+      "name": "Token Ga35",
+      "symbol": "Ga35e",
+      "decimals": 2,
+      "address": "Ga35eqW5LktCqrSC7bTywdeeJsZ1tL7bSMz8zzu4RNeH",
+      "chainId": 101
+    },
+    {
       "name": "FTT (Wormhole v1)",
       "symbol": "wFTT_v1",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/GbBWwtYTMPis4VHb8MrBbdibPhn28TSrLB53KvUmb7Gi.png",
@@ -6430,6 +6542,13 @@
       }
     },
     {
+      "name": "Token GqVL",
+      "symbol": "GqVLg",
+      "decimals": 6,
+      "address": "GqVLgPFYXABKof4kMAEqpiUeuLFTYhEf2iY9eP6ph96k",
+      "chainId": 101
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Fantom)",
       "symbol": "afUSDC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u.png",
@@ -6493,6 +6612,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token H4vx",
+      "symbol": "H4vxH",
+      "decimals": 6,
+      "address": "H4vxHAts6emKeJKc6S61M7CZYsZ3uBkHJ8njPUfSKA7t",
+      "chainId": 101
     },
     {
       "name": "Token H5eP",
@@ -7039,6 +7165,13 @@
       }
     },
     {
+      "name": "Token J2dB",
+      "symbol": "J2dB5",
+      "decimals": 6,
+      "address": "J2dB5YPRQC6tvoUVopsHKM8SM2NgtT8ic3hu9uoMXYm2",
+      "chainId": 101
+    },
+    {
       "name": "Jungle DeFi Raydium LP Token",
       "symbol": "JFI-USDC",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J2hGHwbkpj2SVo6Bs4X2Houy7n6oauydhbh9D6HpKBU4/logo.png",
@@ -7089,6 +7222,13 @@
         ],
         "source": "sencha"
       }
+    },
+    {
+      "name": "Token J9fX",
+      "symbol": "J9fXd",
+      "decimals": 6,
+      "address": "J9fXd2hZvKMot9pkyyHLNvzFbFRg9yCvyZj4BDqWTuHj",
+      "chainId": 101
     },
     {
       "name": "solUST",
@@ -9113,6 +9253,13 @@
       "symbol": "morFD",
       "decimals": 0,
       "address": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z",
+      "chainId": 101
+    },
+    {
+      "name": "Token od88",
+      "symbol": "od88q",
+      "decimals": 6,
+      "address": "od88qA4KTFaDARq4pDFN5avZUZ6PuUD8N7DkgZ7x1Cr",
       "chainId": 101
     },
     {
