@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-11T10:10:28.653Z",
+  "timestamp": "2022-08-11T12:19:20.878Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -7634,6 +7634,13 @@
       "chainId": 101
     },
     {
+      "name": "Token MhUH",
+      "symbol": "MhUHt",
+      "decimals": 0,
+      "address": "MhUHtJ7kfrzGkK8UDUz6GgYHKUaqqcTPHsJv5RZ8Pmt",
+      "chainId": 101
+    },
+    {
       "name": "Token MmEf",
       "symbol": "MmEfx",
       "decimals": 0,
@@ -7645,6 +7652,13 @@
       "symbol": "MoRiM",
       "decimals": 0,
       "address": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA",
+      "chainId": 101
+    },
+    {
+      "name": "Token MorH",
+      "symbol": "MorHu",
+      "decimals": 0,
+      "address": "MorHuCj2DZKdV2psHV1M2ezTx9mVBLTEshSQZRvvvXg",
       "chainId": 101
     },
     {
