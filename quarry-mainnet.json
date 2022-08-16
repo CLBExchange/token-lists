@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-16T04:34:26.705Z",
+  "timestamp": "2022-08-16T06:12:43.235Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -1697,6 +1697,13 @@
       }
     },
     {
+      "name": "Token 7hbw",
+      "symbol": "7hbwJ",
+      "decimals": 6,
+      "address": "7hbwJhYccZFfNptuxfD2iVCXu5LRYiekGy5B5UUirmRi",
+      "chainId": 101
+    },
+    {
       "name": "Sunny Saber wSRM_V1-SRM LP",
       "symbol": "sun-wSRMV1-SRM",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw/icon.png",
@@ -1925,6 +1932,13 @@
         "currency": "USD",
         "sourceUrl": "https://v1.wormholebridge.com/#/move"
       }
+    },
+    {
+      "name": "Token 8PKe",
+      "symbol": "8PKef",
+      "decimals": 6,
+      "address": "8PKefQc9zyoRmFaVbQ1TzEAHfYPNhFb81GPuDswHLo2K",
+      "chainId": 101
     },
     {
       "name": "Token 8Pnv",
@@ -3293,6 +3307,13 @@
       }
     },
     {
+      "name": "Token AaLN",
+      "symbol": "AaLNS",
+      "decimals": 6,
+      "address": "AaLNS8aeJnaGxBRTiZZiSzssWLicCjPEATyCQfem2ePL",
+      "chainId": 101
+    },
+    {
       "name": "Sunny Saber scnSOL-SOL LP",
       "symbol": "sun-scnSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq/icon.png",
@@ -3749,6 +3770,13 @@
       }
     },
     {
+      "name": "Token Bcaz",
+      "symbol": "BcazX",
+      "decimals": 2,
+      "address": "BcazXeNsFbMbKxnZKtaoCMmayGKrZfALzH3yj45wP9Dc",
+      "chainId": 101
+    },
+    {
       "name": "Synthetic SOL",
       "symbol": "xSOL",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/BdUJucPJyjkHxLMv6ipKNUhSeY3DWrVtgxAES1iSBAov.svg",
@@ -3869,6 +3897,13 @@
         "token0Img": "https://coin98.s3.amazonaws.com/2pkZW8LDNirEbvnz",
         "token1Img": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT/icon.png"
       }
+    },
+    {
+      "name": "Token Bqfq",
+      "symbol": "Bqfqf",
+      "decimals": 6,
+      "address": "BqfqfnExwmif4evUDJQLpNyzhsaF7kGKWJpEhKMEVC65",
+      "chainId": 101
     },
     {
       "name": "Sunny Saber LUNA-renLUNA LP",
@@ -4636,6 +4671,13 @@
       }
     },
     {
+      "name": "Token DHnd",
+      "symbol": "DHnda",
+      "decimals": 2,
+      "address": "DHndaNRbRwKDo5stps37bwkgNeEJUoh744MGKBk8UkDA",
+      "chainId": 101
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Celo)",
       "symbol": "acUSDC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui.png",
@@ -4934,6 +4976,13 @@
       }
     },
     {
+      "name": "Token DicQ",
+      "symbol": "DicQK",
+      "decimals": 2,
+      "address": "DicQKag7PC7qiHaScutRry5SoriHhQNLjms2y22X5yVK",
+      "chainId": 101
+    },
+    {
       "name": "Tether USD (Wormhole from Ethereum)",
       "symbol": "USDTet",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1.png",
@@ -4994,6 +5043,13 @@
         "currency": "SOL",
         "sourceUrl": "https://mainnet.port.finance/#/markets"
       }
+    },
+    {
+      "name": "Token DzSu",
+      "symbol": "DzSuC",
+      "decimals": 2,
+      "address": "DzSuC4XcvEhuRitth1kDr84eDz425JwfzJHL7thH8xsd",
+      "chainId": 101
     },
     {
       "name": "USD Coin (Wormhole from Polygon)",
@@ -6391,6 +6447,13 @@
       "symbol": "GKrdZ",
       "decimals": 2,
       "address": "GKrdZWvrvNoe7zGbtMS5NqPFdra6BriHrU1FDvNZ1c2i",
+      "chainId": 101
+    },
+    {
+      "name": "Token GS1q",
+      "symbol": "GS1qU",
+      "decimals": 6,
+      "address": "GS1qUZi8czqn6SgdC1sahTcHffLphJRSaAqM21PgYt7T",
       "chainId": 101
     },
     {
