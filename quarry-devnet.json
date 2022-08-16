@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-08-16T19:08:53.578Z",
+  "timestamp": "2022-08-16T20:12:11.999Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -20884,6 +20884,13 @@
       "chainId": 103
     },
     {
+      "name": "Token AGDG",
+      "symbol": "AGDG7",
+      "decimals": 6,
+      "address": "AGDG72yU8BTJpJRjwvA3WnWgqZzpSk2yEdwEkeiD37F4",
+      "chainId": 103
+    },
+    {
       "name": "Token AGUh",
       "symbol": "AGUhg",
       "decimals": 6,
@@ -22958,6 +22965,13 @@
       "symbol": "B5hDW",
       "decimals": 6,
       "address": "B5hDWyboAEGy8JPxDDSy14rQhQ2RCKFxtUUUsxbuiLxF",
+      "chainId": 103
+    },
+    {
+      "name": "Token B5om",
+      "symbol": "B5om4",
+      "decimals": 9,
+      "address": "B5om4F7ydwa47zgiHzPN1F4UsSfiwGrM2mEdmRdiAcj4",
       "chainId": 103
     },
     {
@@ -42233,6 +42247,13 @@
       "symbol": "devJH",
       "decimals": 9,
       "address": "devJHC4Ux6AJJo5MSHTrTeqTixy9oxYeBVh1r1GzPQF",
+      "chainId": 103
+    },
+    {
+      "name": "Token devJ",
+      "symbol": "devJU",
+      "decimals": 9,
+      "address": "devJUefFsRwvU63LD9sXuggr6quNrES7EGn3UUvvXKz",
       "chainId": 103
     },
     {
