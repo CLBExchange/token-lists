@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-09-23T02:05:19.610Z",
+  "timestamp": "2022-09-24T02:00:56.985Z",
   "tokens": [
     {
       "name": "Sencha RAY-USDC LP",
@@ -100,6 +100,26 @@
         "underlyingTokens": [
           "4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
           "CASHVDm2wsJXfhj6VWxb7GiMdoLc17Du7paH4bNr5woT"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha DPAY-USDT LP",
+      "symbol": "sDPAY-USDT",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/2ppE1PaeQdtKJyD8u4jE8LSPqojz3pH7WyBHHpo7p2Yk/icon.png",
+      "decimals": 9,
+      "address": "2ppE1PaeQdtKJyD8u4jE8LSPqojz3pH7WyBHHpo7p2Yk",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/AcZLBqhVjqnd4aoyRQ4fQpsBQnPtwNAFFHEmsedctmUR/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between Daupay and USDT",
+        "underlyingTokens": [
+          "AcZLBqhVjqnd4aoyRQ4fQpsBQnPtwNAFFHEmsedctmUR",
+          "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
         ],
         "source": "sencha"
       }
