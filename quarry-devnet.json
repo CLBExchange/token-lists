@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-09-28T01:00:54.903Z",
+  "timestamp": "2022-09-28T03:43:05.105Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -22461,6 +22461,13 @@
       "symbol": "AsgXw",
       "decimals": 6,
       "address": "AsgXwGWvC2rA5CaNmeWso7npybyMWrNUsHtEous4673x",
+      "chainId": 103
+    },
+    {
+      "name": "Token Ashr",
+      "symbol": "Ashrm",
+      "decimals": 6,
+      "address": "AshrmA6hzZuto1XcJZQ34YZNKuGioQLftMyguoj5APhz",
       "chainId": 103
     },
     {
