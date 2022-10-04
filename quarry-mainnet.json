@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-10-04T14:30:48.376Z",
+  "timestamp": "2022-10-04T16:19:06.430Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -9155,6 +9155,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token bck2",
+      "symbol": "bck2F",
+      "decimals": 0,
+      "address": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny",
+      "chainId": 101
     },
     {
       "name": "Saros DFL-CASH Saros LP",
