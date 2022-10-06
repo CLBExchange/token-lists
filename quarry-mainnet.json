@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-10-05T09:15:37.488Z",
+  "timestamp": "2022-10-06T15:16:25.485Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -9419,6 +9419,13 @@
         "source": "saber",
         "sourceUrl": "https://bridge.renproject.io/mint"
       }
+    },
+    {
+      "name": "Token ra2J",
+      "symbol": "ra2Jj",
+      "decimals": 0,
+      "address": "ra2JjsMnVMQMaJYhbfwyA2pZjUDrtXoaLfmGRYgFyed",
+      "chainId": 101
     },
     {
       "name": "Swim Protocol Token (IOU)",
