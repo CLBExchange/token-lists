@@ -2,7 +2,7 @@
   "name": "Sencha LP Token List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/icon.svg",
   "tags": {},
-  "timestamp": "2022-10-20T02:00:14.425Z",
+  "timestamp": "2022-10-21T01:45:15.884Z",
   "tokens": [
     {
       "name": "Sencha RAY-USDC LP",
@@ -200,6 +200,26 @@
         "underlyingTokens": [
           "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        ],
+        "source": "sencha"
+      }
+    },
+    {
+      "name": "Sencha SBR-UM LP",
+      "symbol": "sSBR-UM",
+      "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/342XmkmQBWBtNzs3hYdHmsBfRAp9HGbXFHUCrbzap3B4/icon.png",
+      "decimals": 6,
+      "address": "342XmkmQBWBtNzs3hYdHmsBfRAp9HGbXFHUCrbzap3B4",
+      "chainId": 101,
+      "extensions": {
+        "website": "https://sencha.so/#/pool/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/DMCUFm2ZAnSU7UgsdVq23gRogMU3MEBjPgQF1gK53rEn",
+        "twitter": "https://twitter.com/SenchaDEX",
+        "medium": "https://medium.com/senchadex",
+        "discord": "https://discord.gg/aF9USSwG33",
+        "description": "Sencha LP token between Saber Protocol Token and UncleMine",
+        "underlyingTokens": [
+          "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+          "DMCUFm2ZAnSU7UgsdVq23gRogMU3MEBjPgQF1gK53rEn"
         ],
         "source": "sencha"
       }
