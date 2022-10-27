@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-10-07T09:16:49.171Z",
+  "timestamp": "2022-10-27T14:23:58.709Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -163,6 +163,13 @@
       "symbol": "134gB",
       "decimals": 6,
       "address": "134gBZ86zxBqUm7JJ3saq4yxAw8NN2v5i8sXP5gh3zyU",
+      "chainId": 103
+    },
+    {
+      "name": "Token 13AF",
+      "symbol": "13AF8",
+      "decimals": 0,
+      "address": "13AF8yC8L7hc5JK28hdR5J5QsW7FbK6JWGoQRPDspJsG",
       "chainId": 103
     },
     {
@@ -5213,6 +5220,13 @@
       "symbol": "42DK1",
       "decimals": 6,
       "address": "42DK1PqzVP2kaU64qeSMiuZuSPgkm4bk8mYU41NAsTTd",
+      "chainId": 103
+    },
+    {
+      "name": "Token 42FX",
+      "symbol": "42FXe",
+      "decimals": 9,
+      "address": "42FXe7HqsSwHHboSDBtQuQv9NvDQnroPYDZAa3G8V9Zd",
       "chainId": 103
     },
     {
@@ -24102,6 +24116,13 @@
       "chainId": 103
     },
     {
+      "name": "Token BZeX",
+      "symbol": "BZeXh",
+      "decimals": 9,
+      "address": "BZeXh1xhKssbbbfJ5GLCT9KTmY9K5JySvJ1bgwWMXssp",
+      "chainId": 103
+    },
+    {
       "name": "Token Ba2C",
       "symbol": "Ba2CB",
       "decimals": 6,
@@ -33247,6 +33268,13 @@
       "chainId": 103
     },
     {
+      "name": "Token F1ac",
+      "symbol": "F1acq",
+      "decimals": 9,
+      "address": "F1acqevxWUjjxZ1QFpM1ZxHpJhAencB5aYqZnN1Tmo2T",
+      "chainId": 103
+    },
+    {
       "name": "Token F1c5",
       "symbol": "F1c5o",
       "decimals": 6,
@@ -40324,6 +40352,13 @@
       "symbol": "HpNe3",
       "decimals": 6,
       "address": "HpNe3whJbHejXpZfUjnGTcC5DVoLW5KJqQhQRyGgnYr9",
+      "chainId": 103
+    },
+    {
+      "name": "Token HpQE",
+      "symbol": "HpQE9",
+      "decimals": 9,
+      "address": "HpQE9mLdyPnuk326xNNeduN3p94jAXWiqNo1h716bSBk",
       "chainId": 103
     },
     {
