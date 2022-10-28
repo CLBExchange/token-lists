@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-10-28T10:11:18.292Z",
+  "timestamp": "2022-10-28T11:09:45.569Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -4135,7 +4135,7 @@
     {
       "name": "Saber CUSD-USDC LP",
       "symbol": "CUSD-USDC",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v/icon.png",
       "decimals": 6,
       "address": "C9U671d1LZPaB8Mdo3ymJ66FB7qmzNXKcuH5raGRsj6v",
       "chainId": 101,
@@ -8546,7 +8546,7 @@
     {
       "name": "Saber USDH-USDCet LP",
       "symbol": "USDH-USDCet",
-      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1/icon.png",
       "decimals": 6,
       "address": "UETZ5ChFqLiARubdzeSuxAN7s52dDKuwF6SUF63SpE1",
       "chainId": 101,
