@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2023-04-17T03:35:49.419Z",
+  "timestamp": "2023-04-17T04:19:35.805Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -4309,6 +4309,23 @@
       }
     },
     {
+      "name": "zSOL",
+      "symbol": "zSOL",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+      "decimals": 9,
+      "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "source": "lpfinance",
+        "currency": "SOL",
+        "sourceUrl": "https://lp.finance"
+      }
+    },
+    {
       "name": "Saber scnSOL-SOL LP",
       "symbol": "scnSOL-SOL",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj.png",
@@ -5326,6 +5343,25 @@
         "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
         "currency": "SRM",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Saber SOL-zSOL LP",
+      "symbol": "SOL-zSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/zsol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA"
+        ],
+        "source": "saber"
       }
     }
   ]
