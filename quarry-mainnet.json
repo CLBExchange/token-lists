@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2023-04-28T08:59:44.056Z",
+  "timestamp": "2023-04-28T09:52:27.626Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -3634,6 +3634,25 @@
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "source": "lifinity"
+      }
+    },
+    {
+      "name": "Saber SOL-bSOL LP",
+      "symbol": "SOL-bSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv/icon.png",
+      "decimals": 9,
+      "address": "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/blazesol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1"
+        ],
+        "source": "saber"
       }
     },
     {
@@ -9212,6 +9231,29 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "BlazeStake Staked SOL (bSOL)",
+      "symbol": "bSOL",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1.png",
+      "decimals": 9,
+      "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "chainId": 101,
+      "tags": [
+        "utility-token",
+        "stake-pool",
+        "stake-pool-token",
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "website": "https://stake.solblaze.org/",
+        "twitter": "https://twitter.com/solblaze_org",
+        "github": "https://github.com/SolBlazeOrg",
+        "coingeckoId": "solana",
+        "source": "blazestake",
+        "currency": "SOL",
+        "sourceUrl": "https://stake.solblaze.org"
       }
     },
     {
