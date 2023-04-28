@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-11-25T17:09:41.501Z",
+  "timestamp": "2023-04-28T08:59:44.056Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -9452,6 +9452,13 @@
       "chainId": 101
     },
     {
+      "name": "Token mrgn",
+      "symbol": "mrgnP",
+      "decimals": 0,
+      "address": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8",
+      "chainId": 101
+    },
+    {
       "name": "Token od88",
       "symbol": "od88q",
       "decimals": 6,
@@ -9477,6 +9484,13 @@
         "source": "saber",
         "sourceUrl": "https://bridge.renproject.io/mint"
       }
+    },
+    {
+      "name": "Token pnxH",
+      "symbol": "pnxHd",
+      "decimals": 0,
+      "address": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC",
+      "chainId": 101
     },
     {
       "name": "Token ra2J",

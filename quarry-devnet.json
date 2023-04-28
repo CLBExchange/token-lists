@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2022-11-25T17:11:11.346Z",
+  "timestamp": "2023-04-28T08:59:45.188Z",
   "tokens": [
     {
       "name": "Token 121b",
@@ -17417,6 +17417,13 @@
       "chainId": 103
     },
     {
+      "name": "Token 8w2K",
+      "symbol": "8w2Kh",
+      "decimals": 9,
+      "address": "8w2Khf7Uz4tmBk4955f9497CcwkrqLHedUH2wuwqUtS9",
+      "chainId": 103
+    },
+    {
       "name": "Token 8w51",
       "symbol": "8w51c",
       "decimals": 6,
@@ -31513,6 +31520,13 @@
       "chainId": 103
     },
     {
+      "name": "Token EDtZ",
+      "symbol": "EDtZs",
+      "decimals": 9,
+      "address": "EDtZsVhnusCP58sUDLUu2YYpXvDkbo1D3Nk8NagArJyp",
+      "chainId": 103
+    },
+    {
       "name": "Token EDv8",
       "symbol": "EDv81",
       "decimals": 6,
@@ -38094,6 +38108,13 @@
       "chainId": 103
     },
     {
+      "name": "Token H13b",
+      "symbol": "H13b6",
+      "decimals": 9,
+      "address": "H13b6VDq9J5nkv324BSqZsdHPF8LUVQyD8fGsE3ZoyXz",
+      "chainId": 103
+    },
+    {
       "name": "Token H16z",
       "symbol": "H16zh",
       "decimals": 6,
@@ -40408,6 +40429,13 @@
       "symbol": "Hqe7X",
       "decimals": 6,
       "address": "Hqe7XdkrQr9E3HzkRbFJ8wnGxicm8nEpyyCj7zjSJ4wg",
+      "chainId": 103
+    },
+    {
+      "name": "Token HrAT",
+      "symbol": "HrATJ",
+      "decimals": 9,
+      "address": "HrATJYitUStT2hqYoo6JtTYV1yY94UEpLDTkQkC6BmCW",
       "chainId": 103
     },
     {
