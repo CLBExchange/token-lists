@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2023-05-01T13:10:11.577Z",
+  "timestamp": "2023-05-19T09:08:03.841Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -8420,6 +8420,23 @@
       }
     },
     {
+      "name": "zSOL",
+      "symbol": "zSOL",
+      "logoURI": "https://raw.githubusercontent.com/LP-Finance-Inc/token-image/main/zSOL.png",
+      "decimals": 9,
+      "address": "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "source": "lpfinance",
+        "currency": "SOL",
+        "sourceUrl": "https://lp.finance"
+      }
+    },
+    {
       "name": "Saber scnSOL-SOL LP",
       "symbol": "scnSOL-SOL",
       "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png",
@@ -9790,6 +9807,25 @@
         "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
         "currency": "SRM",
         "sourceUrl": "https://wormholebridge.com/#/transfer"
+      }
+    },
+    {
+      "name": "Saber SOL-zSOL LP",
+      "symbol": "SOL-zSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W/icon.png",
+      "decimals": 9,
+      "address": "zSo2NgZQ5fv2bQ393CfCo6szdbeAc5RciwFkwBS659W",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/zsol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "So111DzVTTNpDq81EbeyKZMi4SkhU9yekqB8xmMpqzA"
+        ],
+        "source": "saber"
       }
     }
   ]
