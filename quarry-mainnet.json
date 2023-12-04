@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2023-05-19T09:08:03.841Z",
+  "timestamp": "2023-12-04T13:17:46.436Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -351,6 +351,22 @@
           "So11111111111111111111111111111111111111112"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Token 236z (Replica)",
+      "symbol": "qr236zB",
+      "decimals": 6,
+      "address": "2wL27tLE24Vs4DmSNTnF1SPiNin2aVMPuReXesyPQFMR",
+      "chainId": 101,
+      "tags": [
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer"
+        ],
+        "source": "quarry-merge-mine-replica"
       }
     },
     {
@@ -1454,6 +1470,13 @@
       }
     },
     {
+      "name": "Token 6sdr",
+      "symbol": "6sdr6",
+      "decimals": 6,
+      "address": "6sdr6tCfBwMzEbEhrv5oxde3KBBrJftfHQZr7xgP4C56",
+      "chainId": 101
+    },
+    {
       "name": "Token 6wpx",
       "symbol": "6wpxj",
       "decimals": 2,
@@ -2348,6 +2371,23 @@
         ],
         "source": "quarry-iou",
         "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+      }
+    },
+    {
+      "name": "MIDAS Token",
+      "symbol": "MDS",
+      "logoURI": "https://arweave.net/DcmraYTxxarO5sZ1fIKdPIo1f76lRMZB_-q7y1d3Qqw",
+      "decimals": 9,
+      "address": "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-usd"
+      ],
+      "extensions": {
+        "coingeckoId": "midas-token",
+        "source": "midas",
+        "currency": "USD",
+        "sourceUrl": "https://mds.hadeswap.com/"
       }
     },
     {
@@ -7749,6 +7789,25 @@
       "decimals": 0,
       "address": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K",
       "chainId": 101
+    },
+    {
+      "name": "Saber MDS-USDC LP",
+      "symbol": "MDS-USDC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg/icon.png",
+      "decimals": 9,
+      "address": "MDS8YuLqbMS8vsuEevcDNku2BPUTDUyLgfT2nmFvwvg",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/mds",
+        "underlyingTokens": [
+          "9TVjnzpF3X8DHsfVqYWoCGphJxtGYh1PDCFN5QmsHW5t",
+          "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
+        ],
+        "source": "saber"
+      }
     },
     {
       "name": "Mercurial",
