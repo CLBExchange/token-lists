@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-01-31T02:21:38.296Z",
+  "timestamp": "2024-03-25T06:24:00.191Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -8090,6 +8090,13 @@
       }
     },
     {
+      "name": "Token PTS5",
+      "symbol": "PTS5E",
+      "decimals": 6,
+      "address": "PTS5EXvvvhe5cLApf3oYy3XdVqTsDJKeGXvvxYJTYK3",
+      "chainId": 101
+    },
+    {
       "name": "USN (Allbridge from Near)",
       "symbol": "USN",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/PUhuAtMHsKavMTwZsLaDeKy2jb7ciETHJP7rhbKLJGY.png",
@@ -9764,6 +9771,20 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token vSoL",
+      "symbol": "vSoLB",
+      "decimals": 9,
+      "address": "vSoLBtUuQcP8qwV9QmGqPmrGsF8VAUQ5JnYPGsRwoMV",
+      "chainId": 101
+    },
+    {
+      "name": "Token vSoL",
+      "symbol": "vSoLx",
+      "decimals": 9,
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "chainId": 101
     },
     {
       "name": "Saber xBTC-renBTC LP",
