@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-03-25T08:24:08.195Z",
+  "timestamp": "2024-03-26T08:21:57.796Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -4369,6 +4369,22 @@
         "source": "renbridge",
         "currency": "BTC",
         "sourceUrl": "https://bridge.renproject.io/mint"
+      }
+    },
+    {
+      "name": "Token VLPa (Replica)",
+      "symbol": "qrVLPa8",
+      "decimals": 9,
+      "address": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
+      "chainId": 101,
+      "tags": [
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "underlyingTokens": [
+          "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx"
+        ],
+        "source": "quarry-merge-mine-replica"
       }
     },
     {
@@ -8938,6 +8954,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token VLPa",
+      "symbol": "VLPa8",
+      "decimals": 9,
+      "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+      "chainId": 101
     },
     {
       "name": "Saber USDTpo-USDT LP",
