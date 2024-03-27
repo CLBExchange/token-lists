@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-03-26T08:21:57.796Z",
+  "timestamp": "2024-03-27T08:23:56.957Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -8956,11 +8956,23 @@
       }
     },
     {
-      "name": "Token VLPa",
-      "symbol": "VLPa8",
+      "name": "Saber SOL-vSOL LP",
+      "symbol": "SOL-vSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx/icon.png",
       "decimals": 9,
       "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/vsol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "source": "saber"
+      }
     },
     {
       "name": "Saber USDTpo-USDT LP",
@@ -9803,11 +9815,21 @@
       "chainId": 101
     },
     {
-      "name": "Token vSoL",
-      "symbol": "vSoLx",
+      "name": "The Vault",
+      "symbol": "vSOL",
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
       "decimals": 9,
       "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "source": "vault",
+        "currency": "SOL",
+        "sourceUrl": "https://thevault.finance"
+      }
     },
     {
       "name": "Saber xBTC-renBTC LP",
