@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2023-11-30T15:17:06.305Z",
+  "timestamp": "2024-03-27T07:28:38.513Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -4776,6 +4776,25 @@
       }
     },
     {
+      "name": "Saber SOL-vSOL LP",
+      "symbol": "SOL-vSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/vsol",
+        "underlyingTokens": [
+          "So11111111111111111111111111111111111111112",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber USDTpo-USDT LP",
       "symbol": "USDTpo-USDT",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj.png",
@@ -5276,6 +5295,23 @@
           "JEFFSQ3s8T3wKsvp4tnRAsUBW7Cqgnf8ukBZC4C8XBm1"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "The Vault",
+      "symbol": "vSOL",
+      "logoURI": "https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/",
+      "decimals": 9,
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "source": "vault",
+        "currency": "SOL",
+        "sourceUrl": "https://thevault.finance"
       }
     },
     {
