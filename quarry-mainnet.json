@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-04-26T08:23:16.489Z",
+  "timestamp": "2024-06-25T08:26:09.619Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -7396,6 +7396,13 @@
       }
     },
     {
+      "name": "Token HzeN",
+      "symbol": "HzeNN",
+      "decimals": 6,
+      "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+      "chainId": 101
+    },
+    {
       "name": "Token J2dB",
       "symbol": "J2dB5",
       "decimals": 6,
@@ -9806,6 +9813,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token vPtS",
+      "symbol": "vPtS4",
+      "decimals": 6,
+      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+      "chainId": 101
     },
     {
       "name": "Token vSoL",

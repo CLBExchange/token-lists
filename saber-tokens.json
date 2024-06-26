@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-03-27T07:28:38.513Z",
+  "timestamp": "2024-06-09T15:12:26.784Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -118,6 +118,23 @@
         "source": "sollet",
         "currency": "ETH",
         "sourceUrl": "https://www.sollet.io/"
+      }
+    },
+    {
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+      "decimals": 6,
+      "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-eur"
+      ],
+      "extensions": {
+        "coingeckoId": "euroe-stablecoin",
+        "source": "euroe",
+        "currency": "EUR",
+        "sourceUrl": "https://euroe.com/"
       }
     },
     {
@@ -3635,6 +3652,42 @@
         "source": "allbridge",
         "currency": "USD",
         "sourceUrl": "https://app.allbridge.io/bridge"
+      }
+    },
+    {
+      "name": "Saber EUROe-EURC LP",
+      "symbol": "EUROe-EURC",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 6,
+      "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/euroe_eurc",
+        "underlyingTokens": [
+          "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+      "decimals": 6,
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-eur"
+      ],
+      "extensions": {
+        "coingeckoId": "eurc",
+        "source": "eurc",
+        "currency": "EUR",
+        "sourceUrl": "https://www.circle.com/en/eurc/"
       }
     },
     {
