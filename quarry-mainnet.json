@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-06-25T08:26:09.619Z",
+  "timestamp": "2024-06-26T08:25:54.559Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -187,6 +187,23 @@
       "decimals": 6,
       "address": "2L468wtJ9uUYK43zY2DTuXV8omrnCZ5SWXtbjfUbKQji",
       "chainId": 101
+    },
+    {
+      "name": "EUROe Stablecoin",
+      "symbol": "EUROe",
+      "logoURI": "https://dev.euroe.com/persistent/token-icon/png/256x256.png",
+      "decimals": 6,
+      "address": "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-eur"
+      ],
+      "extensions": {
+        "coingeckoId": "euroe-stablecoin",
+        "source": "euroe",
+        "currency": "EUR",
+        "sourceUrl": "https://euroe.com/"
+      }
     },
     {
       "name": "Wrapped LUNA Token (Wormhole v1)",
@@ -7396,11 +7413,40 @@
       }
     },
     {
-      "name": "Token HzeN",
-      "symbol": "HzeNN",
+      "name": "Saber EUROe-EURC LP",
+      "symbol": "EUROe-EURC",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq/icon.png",
       "decimals": 6,
       "address": "HzeNNWXL31ttPE1d7WFCZa6S3CRaHSwRpZ3FxhHsVmAq",
-      "chainId": 101
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/euroe_eurc",
+        "underlyingTokens": [
+          "2VhjJ9WxaGC3EZFwJG9BDUs9KxKCAjQY4vgd1qxgYWVg",
+          "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "logoURI": "https://www.circle.com/hubfs/Brand/EURC/EURC-icon_128x128.png",
+      "decimals": 6,
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-eur"
+      ],
+      "extensions": {
+        "coingeckoId": "eurc",
+        "source": "eurc",
+        "currency": "EUR",
+        "sourceUrl": "https://www.circle.com/en/eurc/"
+      }
     },
     {
       "name": "Token J2dB",
