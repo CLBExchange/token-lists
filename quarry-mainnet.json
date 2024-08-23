@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-08-22T08:26:19.056Z",
+  "timestamp": "2024-08-23T08:27:07.241Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -1232,6 +1232,13 @@
       "symbol": "5rWLS",
       "decimals": 2,
       "address": "5rWLSc6aQcbmdvtsUt5XYtGVM62BkSQndGynYw1UnAK3",
+      "chainId": 101
+    },
+    {
+      "name": "Token 62F5",
+      "symbol": "62F5L",
+      "decimals": 6,
+      "address": "62F5L8MbHzAtoUBv7Xx4D8KKPa1aUEpaCsgA1jL1sqre",
       "chainId": 101
     },
     {
@@ -7025,6 +7032,13 @@
         ],
         "source": "saber"
       }
+    },
+    {
+      "name": "Token HAhq",
+      "symbol": "HAhqv",
+      "decimals": 6,
+      "address": "HAhqvk2kwHUEbnhadyDZ2YE6opP8NjRjfpQvCMPZXxzx",
+      "chainId": 101
     },
     {
       "name": "Hubble Protocol Token",
