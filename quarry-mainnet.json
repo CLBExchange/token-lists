@@ -107,7 +107,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-08-24T08:24:27.785Z",
+  "timestamp": "2024-10-21T08:30:32.696Z",
   "tokens": [
     {
       "name": "Token 236z",
@@ -952,6 +952,25 @@
           "BtX7AfzEJLnU8KQR1AgHrhGH5s2AHUTbfjhUQP8BhPvi"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Saber SOL-bSOL LP (Replica)",
+      "symbol": "qrSOL-bSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv/icon.png",
+      "decimals": 9,
+      "address": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/blazesol",
+        "underlyingTokens": [
+          "BLZsAUk4wRWFtmgYDdrLqarUMAUfNzv2hdTjzJRZ6Uvv"
+        ],
+        "source": "quarry-merge-mine-replica"
       }
     },
     {
@@ -1981,6 +2000,25 @@
         "website": "https://www.unlimitedcope.com/",
         "serumV3Usdc": "6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk",
         "coingeckoId": "cope"
+      }
+    },
+    {
+      "name": "Saber bSOL-vSOL LP (Replica)",
+      "symbol": "qrbSOL-vSOL",
+      "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d/icon.png",
+      "decimals": 9,
+      "address": "8L54gBjS4uZjMLPM6SDZFAhKXoU1CqAsYZ9KEstBsk1Q",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp",
+        "quarry-merge-mine-replica"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/bsol_vsol",
+        "underlyingTokens": [
+          "FndcYng9EuEmjrrp7RhN9xp9EUuEUXioHxzpWZkTKh4d"
+        ],
+        "source": "quarry-merge-mine-replica"
       }
     },
     {
@@ -3718,6 +3756,13 @@
         ],
         "source": "lifinity"
       }
+    },
+    {
+      "name": "Token BLZE",
+      "symbol": "BLZEE",
+      "decimals": 9,
+      "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+      "chainId": 101
     },
     {
       "name": "Saber SOL-bSOL LP",
@@ -9764,6 +9809,13 @@
         "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
         "coingeckoId": "saber"
       }
+    },
+    {
+      "name": "Token ioue",
+      "symbol": "ioues",
+      "decimals": 9,
+      "address": "iouesepCaNg5YoFQMe6AhseyGAkEDUmFKzj96mDHD1K",
+      "chainId": 101
     },
     {
       "name": "Sencha aSOL-CASH LP",

@@ -79,7 +79,7 @@
       "description": "Asset wrapped using sollet bridge"
     }
   },
-  "timestamp": "2024-08-07T09:11:23.188Z",
+  "timestamp": "2024-11-13T15:31:04.887Z",
   "tokens": [
     {
       "name": "Wrapped MIM (Allbridge from Ethereum)",
@@ -296,6 +296,24 @@
       }
     },
     {
+      "name": "Wrapped BTC (Portal)",
+      "symbol": "WBTC",
+      "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh.png",
+      "decimals": 8,
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "chainId": 101,
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+        "assetContract": "https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "coingeckoId": "wrapped-bitcoin",
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+      }
+    },
+    {
       "name": "Port Finance USDT",
       "symbol": "pUSDT",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ.svg",
@@ -371,6 +389,25 @@
         "underlyingTokens": [
           "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
           "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber strongSOL-vSOL LP",
+      "symbol": "strongSOL-vSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "4Fmc7FRAZbCxsebJRvXMrEB47UjG71bTad4uqjiDdcbd",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/strongsol_vsol",
+        "underlyingTokens": [
+          "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         ],
         "source": "saber"
       }
@@ -1786,6 +1823,25 @@
       }
     },
     {
+      "name": "Saber cbBTC-WBTC LP",
+      "symbol": "cbBTC-WBTC",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 8,
+      "address": "AYhn8MrLPMyD1goVmAA5CfxpvGsyEbSJXCUApThVKVxH",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/wbtc_cbbtc",
+        "underlyingTokens": [
+          "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+          "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+        ],
+        "source": "saber"
+      }
+    },
+    {
       "name": "Saber mSOL-SOL LP",
       "symbol": "mSOL-SOL",
       "logoURI": "https://registry.saber.so/token-icons/slp.png",
@@ -2789,6 +2845,25 @@
         "underlyingTokens": [
           "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
           "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "name": "Saber soulSOL-vSOL LP",
+      "symbol": "soulSOL-vSOL",
+      "logoURI": "https://registry.saber.so/token-icons/slp.png",
+      "decimals": 9,
+      "address": "ESZRHbsGC4SUnfid8LPamPZHJx7YgM47x9GotdC4bY9J",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.saber.so/pools/soulsol_vsol",
+        "underlyingTokens": [
+          "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+          "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
         ],
         "source": "saber"
       }
@@ -4709,6 +4784,23 @@
       }
     },
     {
+      "name": "soulSOL",
+      "symbol": "soulSOL",
+      "logoURI": "https://arweave.net/vpzWGiKensrUILB4dX4awTIoBFeLMqjnnZGjEepEq2E",
+      "decimals": 9,
+      "address": "SouL4UuxKaFutpyZGb2weXUPEQCCsmEHSubMJEs7ttH",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "solana",
+        "source": "soulsol",
+        "currency": "SOL",
+        "sourceUrl": "https://soulana.fans/"
+      }
+    },
+    {
       "name": "Saber Wrapped USDT (8 decimals)",
       "symbol": "sUSDT-8",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw.png",
@@ -5411,6 +5503,23 @@
       }
     },
     {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "logoURI": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+      "decimals": 8,
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-btc"
+      ],
+      "extensions": {
+        "coingeckoId": "coinbase-wrapped-btc",
+        "source": "cbbtc",
+        "currency": "BTC",
+        "sourceUrl": "https://www.coinbase.com/cbbtc/"
+      }
+    },
+    {
       "name": "Wrapped USDC (Allbridge from Polygon)",
       "symbol": "apUSDC",
       "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca.png",
@@ -5561,6 +5670,23 @@
           "So11111111111111111111111111111111111111112"
         ],
         "source": "saber"
+      }
+    },
+    {
+      "name": "Stronghold LST",
+      "symbol": "strongSOL",
+      "logoURI": "https://shdw-drive.genesysgo.net/CqCTE2k6ext17JLE7EFk6pXAznS7m1rLJaN9nHxUAwpc/stronghold.png",
+      "decimals": 9,
+      "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
+      "chainId": 101,
+      "tags": [
+        "saber-mkt-sol"
+      ],
+      "extensions": {
+        "coingeckoId": "stronghold-staked-sol",
+        "source": "strongsol",
+        "currency": "SOL",
+        "sourceUrl": "https://thesixnine.one/"
       }
     },
     {
